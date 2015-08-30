@@ -1,0 +1,123 @@
+﻿<![LOG[An existing CI state is changed]LOG]!><time="10:03:26.929+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_d4e15764-9438-44d0-a350-927ec0bd4857:1] AreDetailsUpdated: No]LOG]!><time="10:03:27.186+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:03:27.186+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:03:27.209+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:03:27.210+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_f67f42c5-787a-4499-b3c3-da103e74dc83:2] AreDetailsUpdated: No]LOG]!><time="10:03:27.210+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:03:27.211+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:03:27.233+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:03:27.233+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/RequiredApplication_3f6830a9-979a-4280-a9fb-3ee7d31e93f2:2] AreDetailsUpdated: No]LOG]!><time="10:03:27.234+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:03:27.234+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:03:27.258+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:03:27.259+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/RequiredApplication_6f866d04-c1c5-4922-a6d0-e2c30520154d:2] AreDetailsUpdated: No]LOG]!><time="10:03:27.259+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:03:27.260+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:03:27.390+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:03:27.390+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/RequiredApplication_b433b00b-bc4f-4281-8400-5d1c8cbe30b9:1] AreDetailsUpdated: No]LOG]!><time="10:03:27.391+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:03:27.391+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:03:27.419+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:03:27.421+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:473">
+<![LOG[[Windows/All_x64_Windows_7_Client:1] AreDetailsUpdated: No]LOG]!><time="10:03:27.422+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:03:27.422+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:03:27.437+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:03:27.438+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:473">
+<![LOG[[Windows/All_x64_Windows_Vista:1] AreDetailsUpdated: No]LOG]!><time="10:03:27.438+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:03:27.438+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7716" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:46:26.141+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:46:26.142+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:473">
+<![LOG[[GLOBAL/Platform_Settings:4] AreDetailsUpdated: No]LOG]!><time="10:46:26.142+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:46:26.143+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:46:26.156+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:46:26.156+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/Application_3f6830a9-979a-4280-a9fb-3ee7d31e93f2:2] AreDetailsUpdated: No]LOG]!><time="10:46:26.157+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:46:26.157+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:46:26.233+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:46:26.233+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/Application_6f866d04-c1c5-4922-a6d0-e2c30520154d:2] AreDetailsUpdated: No]LOG]!><time="10:46:26.234+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:46:26.234+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:46:26.261+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:46:26.261+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/Application_b433b00b-bc4f-4281-8400-5d1c8cbe30b9:1] AreDetailsUpdated: No]LOG]!><time="10:46:26.262+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:46:26.262+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:46:26.286+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:46:26.288+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_1bd1387a-5cf4-482a-8b53-c3663f7bab54:2] AreDetailsUpdated: No]LOG]!><time="10:46:26.289+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:46:26.289+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:46:26.310+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:46:26.313+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_d4e15764-9438-44d0-a350-927ec0bd4857:1] AreDetailsUpdated: No]LOG]!><time="10:46:26.313+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:46:26.314+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:46:26.336+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:46:26.338+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_f67f42c5-787a-4499-b3c3-da103e74dc83:2] AreDetailsUpdated: No]LOG]!><time="10:46:26.338+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:46:26.339+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:46:26.360+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:46:26.360+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/RequiredApplication_3f6830a9-979a-4280-a9fb-3ee7d31e93f2:2] AreDetailsUpdated: No]LOG]!><time="10:46:26.362+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:46:26.363+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:46:26.385+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:46:26.387+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/RequiredApplication_6f866d04-c1c5-4922-a6d0-e2c30520154d:2] AreDetailsUpdated: No]LOG]!><time="10:46:26.388+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:46:26.389+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:46:26.410+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:46:26.412+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/RequiredApplication_b433b00b-bc4f-4281-8400-5d1c8cbe30b9:1] AreDetailsUpdated: No]LOG]!><time="10:46:26.413+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:46:26.413+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:46:26.436+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:46:26.437+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:473">
+<![LOG[[Windows/All_x64_Windows_7_Client:1] AreDetailsUpdated: No]LOG]!><time="10:46:26.437+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:46:26.438+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="10:46:26.454+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="10:46:26.454+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:473">
+<![LOG[[Windows/All_x64_Windows_Vista:1] AreDetailsUpdated: No]LOG]!><time="10:46:26.455+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="10:46:26.455+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="9308" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="11:51:26.897+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="11:51:26.900+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:473">
+<![LOG[[GLOBAL/Platform_Settings:4] AreDetailsUpdated: No]LOG]!><time="11:51:26.900+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="11:51:26.900+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="11:51:26.913+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="11:51:26.915+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/Application_3f6830a9-979a-4280-a9fb-3ee7d31e93f2:2] AreDetailsUpdated: No]LOG]!><time="11:51:26.915+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="11:51:26.916+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="11:51:27.018+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="11:51:27.019+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/Application_6f866d04-c1c5-4922-a6d0-e2c30520154d:2] AreDetailsUpdated: No]LOG]!><time="11:51:27.019+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="11:51:27.020+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="11:51:27.047+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="11:51:27.047+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/Application_b433b00b-bc4f-4281-8400-5d1c8cbe30b9:1] AreDetailsUpdated: No]LOG]!><time="11:51:27.048+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="11:51:27.048+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="11:51:27.073+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="11:51:27.073+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_1bd1387a-5cf4-482a-8b53-c3663f7bab54:2] AreDetailsUpdated: No]LOG]!><time="11:51:27.073+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="11:51:27.074+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="11:51:27.101+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="11:51:27.102+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_d4e15764-9438-44d0-a350-927ec0bd4857:1] AreDetailsUpdated: No]LOG]!><time="11:51:27.102+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="11:51:27.102+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="11:51:27.126+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="11:51:27.128+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_f67f42c5-787a-4499-b3c3-da103e74dc83:2] AreDetailsUpdated: No]LOG]!><time="11:51:27.129+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="11:51:27.129+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="11:51:27.153+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="11:51:27.153+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/RequiredApplication_3f6830a9-979a-4280-a9fb-3ee7d31e93f2:2] AreDetailsUpdated: No]LOG]!><time="11:51:27.153+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="11:51:27.154+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="11:51:27.177+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="11:51:27.178+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/RequiredApplication_6f866d04-c1c5-4922-a6d0-e2c30520154d:2] AreDetailsUpdated: No]LOG]!><time="11:51:27.178+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="11:51:27.179+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="11:51:27.201+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="11:51:27.203+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:473">
+<![LOG[[ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/RequiredApplication_b433b00b-bc4f-4281-8400-5d1c8cbe30b9:1] AreDetailsUpdated: No]LOG]!><time="11:51:27.203+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="11:51:27.203+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="11:51:27.228+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="11:51:27.228+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:473">
+<![LOG[[Windows/All_x64_Windows_7_Client:1] AreDetailsUpdated: No]LOG]!><time="11:51:27.228+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="11:51:27.229+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:541">
+<![LOG[____________________________]LOG]!><time="11:51:27.245+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:472">
+<![LOG[An existing CI state is changed]LOG]!><time="11:51:27.246+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:473">
+<![LOG[[Windows/All_x64_Windows_Vista:1] AreDetailsUpdated: No]LOG]!><time="11:51:27.246+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:540">
+<![LOG[____________________________]LOG]!><time="11:51:27.247+300" date="10-14-2013" component="CIStateStore" context="" type="1" thread="7444" file="ccistatetransition.cpp:541">

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3400" systemVersion="13A598" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="CMLogEntry" representedClassName="CMLogEntry" syncable="YES">
+        <attribute name="component" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dateTime" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="file" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lineNumber" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="message" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="thread" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="logFile" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="CMLogFile" inverseName="logEntries" inverseEntity="CMLogFile" syncable="YES"/>
+    </entity>
+    <entity name="CMLogFile" representedClassName="CMLogFile" syncable="YES">
+        <attribute name="dateAdded" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="logEntries" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="CMLogEntry" inverseName="logFile" inverseEntity="CMLogEntry" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CMLogEntry" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="CMLogFile" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>

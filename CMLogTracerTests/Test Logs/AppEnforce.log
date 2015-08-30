@@ -1,0 +1,78 @@
+﻿<![LOG[+++ Starting Install enforcement for App DT "Silent install" ApplicationDeliveryType - ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_d4e15764-9438-44d0-a350-927ec0bd4857, Revision - 1, ContentPath - C:\Windows\ccmcache\1, Execution Context - System]LOG]!><time="09:35:29.153+300" date="10-03-2013" component="AppEnforce" context="" type="1" thread="8576" file="appprovider.cpp:1643">
+<![LOG[    A user is logged on to the system.]LOG]!><time="09:35:29.155+300" date="10-03-2013" component="AppEnforce" context="" type="1" thread="8576" file="appprovider.cpp:2014">
+<![LOG[    Performing detection of app deployment type Silent install(ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_d4e15764-9438-44d0-a350-927ec0bd4857, revision 1) for system.]LOG]!><time="09:35:29.158+300" date="10-03-2013" component="AppEnforce" context="" type="1" thread="8576" file="appprovider.cpp:2079">
+<![LOG[+++ Application not discovered. [AppDT Id: ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_d4e15764-9438-44d0-a350-927ec0bd4857, Revision: 1]]LOG]!><time="09:35:29.190+300" date="10-03-2013" component="AppEnforce" context="" type="1" thread="8576" file="localapphandler.cpp:291">
+<![LOG[    App enforcement environment: 
+	Context: Machine
+	Command line: "INSTALL_VLC.bat"
+	Allow user interaction: No
+	UI mode: 1
+	User token: null
+	Session Id: 4294967295
+	Content path: C:\Windows\ccmcache\1
+	Working directory: ]LOG]!><time="09:35:29.194+300" date="10-03-2013" component="AppEnforce" context="" type="1" thread="8576" file="appcontext.cpp:84">
+<![LOG[    Prepared working directory: C:\Windows\ccmcache\1]LOG]!><time="09:35:29.195+300" date="10-03-2013" component="AppEnforce" context="" type="1" thread="8576" file="appcontext.cpp:188">
+<![LOG[    Prepared command line: "C:\Windows\ccmcache\1\INSTALL_VLC.bat"]LOG]!><time="09:35:29.197+300" date="10-03-2013" component="AppEnforce" context="" type="1" thread="8576" file="appcontext.cpp:337">
+<![LOG[    Executing Command line: "C:\Windows\ccmcache\1\INSTALL_VLC.bat" with system context]LOG]!><time="09:35:29.198+300" date="10-03-2013" component="AppEnforce" context="" type="1" thread="8576" file="appexcnlib.cpp:201">
+<![LOG[    Working directory C:\Windows\ccmcache\1]LOG]!><time="09:35:29.198+300" date="10-03-2013" component="AppEnforce" context="" type="1" thread="8576" file="appexcnlib.cpp:215">
+<![LOG[    Post install behavior is BasedOnExitCode]LOG]!><time="09:35:29.208+300" date="10-03-2013" component="AppEnforce" context="" type="1" thread="8576" file="appcommon.cpp:1093">
+<![LOG[    Waiting for process 8248 to finish.  Timeout = 120 minutes.]LOG]!><time="09:35:29.212+300" date="10-03-2013" component="AppEnforce" context="" type="1" thread="8576" file="appexcnlib.cpp:1951">
+<![LOG[    Process 8248 terminated with exitcode: 0]LOG]!><time="09:37:49.566+300" date="10-03-2013" component="AppEnforce" context="" type="1" thread="8576" file="appexcnlib.cpp:1960">
+<![LOG[    Looking for exit code 0 in exit codes table...]LOG]!><time="09:37:49.566+300" date="10-03-2013" component="AppEnforce" context="" type="1" thread="8576" file="appexcnlib.cpp:505">
+<![LOG[    Matched exit code 0 to a Success entry in exit codes table.]LOG]!><time="09:37:49.566+300" date="10-03-2013" component="AppEnforce" context="" type="1" thread="8576" file="appexcnlib.cpp:584">
+<![LOG[    Performing detection of app deployment type Silent install(ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_d4e15764-9438-44d0-a350-927ec0bd4857, revision 1) for system.]LOG]!><time="09:37:49.574+300" date="10-03-2013" component="AppEnforce" context="" type="1" thread="8576" file="appprovider.cpp:2079">
+<![LOG[+++ Discovered application [AppDT Id: ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_d4e15764-9438-44d0-a350-927ec0bd4857, Revision: 1]]LOG]!><time="09:37:49.610+300" date="10-03-2013" component="AppEnforce" context="" type="1" thread="8576" file="localapphandler.cpp:287">
+<![LOG[++++++ App enforcement completed (140 seconds) for App DT "Silent install" [ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_d4e15764-9438-44d0-a350-927ec0bd4857], Revision: 1, User SID: ] ++++++]LOG]!><time="09:37:49.610+300" date="10-03-2013" component="AppEnforce" context="" type="1" thread="8576" file="appprovider.cpp:2366">
+<![LOG[+++ Starting Install enforcement for App DT "Silent install" ApplicationDeliveryType - ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_1bd1387a-5cf4-482a-8b53-c3663f7bab54, Revision - 2, ContentPath - C:\Windows\ccmcache\2, Execution Context - System]LOG]!><time="04:16:31.837+300" date="10-04-2013" component="AppEnforce" context="" type="1" thread="3120" file="appprovider.cpp:1643">
+<![LOG[    A user is logged on to the system.]LOG]!><time="04:16:31.840+300" date="10-04-2013" component="AppEnforce" context="" type="1" thread="3120" file="appprovider.cpp:2014">
+<![LOG[    Performing detection of app deployment type Silent install(ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_1bd1387a-5cf4-482a-8b53-c3663f7bab54, revision 2) for system.]LOG]!><time="04:16:31.842+300" date="10-04-2013" component="AppEnforce" context="" type="1" thread="3120" file="appprovider.cpp:2079">
+<![LOG[+++ Application not discovered. [AppDT Id: ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_1bd1387a-5cf4-482a-8b53-c3663f7bab54, Revision: 2]]LOG]!><time="04:16:31.850+300" date="10-04-2013" component="AppEnforce" context="" type="1" thread="3120" file="localapphandler.cpp:291">
+<![LOG[    App enforcement environment: 
+	Context: Machine
+	Command line: "INSTALL_ITUNES_64BIT.bat"
+	Allow user interaction: No
+	UI mode: 0
+	User token: null
+	Session Id: 4294967295
+	Content path: C:\Windows\ccmcache\2
+	Working directory: ]LOG]!><time="04:16:31.852+300" date="10-04-2013" component="AppEnforce" context="" type="1" thread="3120" file="appcontext.cpp:84">
+<![LOG[    Prepared working directory: C:\Windows\ccmcache\2]LOG]!><time="04:16:31.853+300" date="10-04-2013" component="AppEnforce" context="" type="1" thread="3120" file="appcontext.cpp:188">
+<![LOG[    Prepared command line: "C:\Windows\ccmcache\2\INSTALL_ITUNES_64BIT.bat"]LOG]!><time="04:16:31.855+300" date="10-04-2013" component="AppEnforce" context="" type="1" thread="3120" file="appcontext.cpp:337">
+<![LOG[    Executing Command line: "C:\Windows\ccmcache\2\INSTALL_ITUNES_64BIT.bat" with system context]LOG]!><time="04:16:31.856+300" date="10-04-2013" component="AppEnforce" context="" type="1" thread="3120" file="appexcnlib.cpp:201">
+<![LOG[    Working directory C:\Windows\ccmcache\2]LOG]!><time="04:16:31.856+300" date="10-04-2013" component="AppEnforce" context="" type="1" thread="3120" file="appexcnlib.cpp:215">
+<![LOG[    Post install behavior is BasedOnExitCode]LOG]!><time="04:16:31.882+300" date="10-04-2013" component="AppEnforce" context="" type="1" thread="3120" file="appcommon.cpp:1093">
+<![LOG[    Waiting for process 5700 to finish.  Timeout = 120 minutes.]LOG]!><time="04:16:31.883+300" date="10-04-2013" component="AppEnforce" context="" type="1" thread="3120" file="appexcnlib.cpp:1951">
+<![LOG[    Process 5700 terminated with exitcode: 0]LOG]!><time="04:19:47.413+300" date="10-04-2013" component="AppEnforce" context="" type="1" thread="3120" file="appexcnlib.cpp:1960">
+<![LOG[    Looking for exit code 0 in exit codes table...]LOG]!><time="04:19:47.413+300" date="10-04-2013" component="AppEnforce" context="" type="1" thread="3120" file="appexcnlib.cpp:505">
+<![LOG[    Matched exit code 0 to a Success entry in exit codes table.]LOG]!><time="04:19:47.413+300" date="10-04-2013" component="AppEnforce" context="" type="1" thread="3120" file="appexcnlib.cpp:584">
+<![LOG[    Performing detection of app deployment type Silent install(ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_1bd1387a-5cf4-482a-8b53-c3663f7bab54, revision 2) for system.]LOG]!><time="04:19:47.420+300" date="10-04-2013" component="AppEnforce" context="" type="1" thread="3120" file="appprovider.cpp:2079">
+<![LOG[+++ Discovered application [AppDT Id: ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_1bd1387a-5cf4-482a-8b53-c3663f7bab54, Revision: 2]]LOG]!><time="04:19:47.438+300" date="10-04-2013" component="AppEnforce" context="" type="1" thread="3120" file="localapphandler.cpp:287">
+<![LOG[++++++ App enforcement completed (195 seconds) for App DT "Silent install" [ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_1bd1387a-5cf4-482a-8b53-c3663f7bab54], Revision: 2, User SID: ] ++++++]LOG]!><time="04:19:47.438+300" date="10-04-2013" component="AppEnforce" context="" type="1" thread="3120" file="appprovider.cpp:2366">
+<![LOG[+++ Starting Install enforcement for App DT "Oracle Calendar - Windows Installer (*.msi file)" ApplicationDeliveryType - ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_f67f42c5-787a-4499-b3c3-da103e74dc83, Revision - 2, ContentPath - C:\Windows\ccmcache\3, Execution Context - System]LOG]!><time="10:54:31.539+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="appprovider.cpp:1643">
+<![LOG[    A user is logged on to the system.]LOG]!><time="10:54:31.540+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="appprovider.cpp:2014">
+<![LOG[    Performing detection of app deployment type Oracle Calendar - Windows Installer (*.msi file)(ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_f67f42c5-787a-4499-b3c3-da103e74dc83, revision 2) for system.]LOG]!><time="10:54:31.542+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="appprovider.cpp:2079">
+<![LOG[+++ Application not discovered. [AppDT Id: ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_f67f42c5-787a-4499-b3c3-da103e74dc83, Revision: 2]]LOG]!><time="10:54:31.551+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="localapphandler.cpp:291">
+<![LOG[    App enforcement environment: 
+	Context: Machine
+	Command line: msiexec /i "Oracle Calendar.msi" /qn /norestart /log "%TEMP%\oracle_calendar.log"
+	Allow user interaction: No
+	UI mode: 0
+	User token: null
+	Session Id: 4294967295
+	Content path: C:\Windows\ccmcache\3
+	Working directory: ]LOG]!><time="10:54:31.553+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="appcontext.cpp:84">
+<![LOG[    Prepared working directory: C:\Windows\ccmcache\3]LOG]!><time="10:54:31.554+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="appcontext.cpp:188">
+<![LOG[Found executable file msiexec with complete path C:\Windows\system32\msiexec.exe]LOG]!><time="10:54:31.557+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="executility.cpp:188">
+<![LOG[    Prepared command line: "C:\Windows\system32\msiexec.exe" /i "Oracle Calendar.msi" /qn /norestart /log "C:\Windows\TEMP\oracle_calendar.log" /qn]LOG]!><time="10:54:31.558+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="appcontext.cpp:337">
+<![LOG[Valid MSI Package path = C:\Windows\ccmcache\3\Oracle Calendar.msi]LOG]!><time="10:54:31.659+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="appcontext.cpp:746">
+<![LOG[    Advertising MSI package [C:\Windows\ccmcache\3\Oracle Calendar.msi] to the system.]LOG]!><time="10:54:31.679+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="appcommon.cpp:125">
+<![LOG[    Executing Command line: "C:\Windows\system32\msiexec.exe" /i "Oracle Calendar.msi" /qn /norestart /log "C:\Windows\TEMP\oracle_calendar.log" /qn with system context]LOG]!><time="10:54:33.273+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="appexcnlib.cpp:201">
+<![LOG[    Working directory C:\Windows\ccmcache\3]LOG]!><time="10:54:33.275+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="appexcnlib.cpp:215">
+<![LOG[    Post install behavior is BasedOnExitCode]LOG]!><time="10:54:33.278+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="appcommon.cpp:1093">
+<![LOG[    Waiting for process 10232 to finish.  Timeout = 120 minutes.]LOG]!><time="10:54:33.280+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="appexcnlib.cpp:1951">
+<![LOG[    Process 10232 terminated with exitcode: 0]LOG]!><time="10:54:38.596+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="appexcnlib.cpp:1960">
+<![LOG[    Looking for exit code 0 in exit codes table...]LOG]!><time="10:54:38.624+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="appexcnlib.cpp:505">
+<![LOG[    Matched exit code 0 to a Success entry in exit codes table.]LOG]!><time="10:54:38.625+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="appexcnlib.cpp:584">
+<![LOG[    Performing detection of app deployment type Oracle Calendar - Windows Installer (*.msi file)(ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_f67f42c5-787a-4499-b3c3-da103e74dc83, revision 2) for system.]LOG]!><time="10:54:38.630+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="appprovider.cpp:2079">
+<![LOG[+++ Discovered application [AppDT Id: ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_f67f42c5-787a-4499-b3c3-da103e74dc83, Revision: 2]]LOG]!><time="10:54:38.637+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="localapphandler.cpp:287">
+<![LOG[++++++ App enforcement completed (7 seconds) for App DT "Oracle Calendar - Windows Installer (*.msi file)" [ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_f67f42c5-787a-4499-b3c3-da103e74dc83], Revision: 2, User SID: ] ++++++]LOG]!><time="10:54:38.637+300" date="10-11-2013" component="AppEnforce" context="" type="1" thread="9884" file="appprovider.cpp:2366">

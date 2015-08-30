@@ -1,0 +1,59 @@
+﻿<![LOG[Power lease [23892] started by 'CIAgent: job initialized' for 120 minutes]LOG]!><time="22:40:25.133+300" date="10-13-2013" component="pwrmgmt" context="" type="1" thread="8468" file="powerstatecli.cpp:254">
+<![LOG[Power lease [23892] canceled by 'CIAgent: job deleted']LOG]!><time="22:40:27.535+300" date="10-13-2013" component="pwrmgmt" context="" type="1" thread="8468" file="powerstatecli.cpp:319">
+<![LOG[Received event UserIdle (12) at 20131014041931.916000+000 UTC]LOG]!><time="23:19:31.916+300" date="10-13-2013" component="pwrmgmt" context="" type="1" thread="8948" file="pwragentendpoint.cpp:256">
+<![LOG[Power lease [24069] started by 'CIAgent: job initialized' for 120 minutes]LOG]!><time="23:34:25.186+300" date="10-13-2013" component="pwrmgmt" context="" type="1" thread="5944" file="powerstatecli.cpp:254">
+<![LOG[Power lease [24069] canceled by 'CIAgent: job deleted']LOG]!><time="23:34:26.606+300" date="10-13-2013" component="pwrmgmt" context="" type="1" thread="5944" file="powerstatecli.cpp:319">
+<![LOG[Summarizing Power Events for Query: SELECT * FROM CCM_PwrMgmtInternalRawEvent WHERE time < "20131014050000.000000+000" (UTC)]LOG]!><time="00:02:00.158+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="6476" file="pwreventsummtask.cpp:1484">
+<![LOG[Power Event Summarization: Restoring last power event states from 20131013050000.000000+000: ]LOG]!><time="00:02:00.167+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="6476" file="pwreventsummtask.cpp:440">
+<![LOG[MonitorOn in state 1]LOG]!><time="00:02:00.168+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="6476" file="pwreventsummtask.cpp:444">
+<![LOG[ComputerOn in state 1]LOG]!><time="00:02:00.168+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="6476" file="pwreventsummtask.cpp:444">
+<![LOG[ComputerActive in state 0]LOG]!><time="00:02:00.169+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="6476" file="pwreventsummtask.cpp:444">
+<![LOG[ComputerSleep in state 0]LOG]!><time="00:02:00.169+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="6476" file="pwreventsummtask.cpp:444">
+<![LOG[ComputerShutdown in state 0]LOG]!><time="00:02:00.169+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="6476" file="pwreventsummtask.cpp:444">
+<![LOG[Power lease [24224] started by 'PolicyAgent' for 120 minutes]LOG]!><time="00:14:05.046+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="8064" file="powerstatecli.cpp:254">
+<![LOG[Power lease [24224] canceled by 'PolicyAgent']LOG]!><time="00:14:08.038+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="8064" file="powerstatecli.cpp:319">
+<![LOG[Received event UserIdle (12) at 20131014051932.222000+000 UTC]LOG]!><time="00:19:32.222+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="5656" file="pwragentendpoint.cpp:256">
+<![LOG[Power lease [24340] started by 'CIAgent: job initialized' for 120 minutes]LOG]!><time="00:45:25.631+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="9636" file="powerstatecli.cpp:254">
+<![LOG[Power lease [24340] canceled by 'CIAgent: job deleted']LOG]!><time="00:45:29.035+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="3140" file="powerstatecli.cpp:319">
+<![LOG[Received event UserIdle (12) at 20131014062432.555000+000 UTC]LOG]!><time="01:24:32.555+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="9864" file="pwragentendpoint.cpp:256">
+<![LOG[Power lease [24507] started by 'CIAgent: job initialized' for 120 minutes]LOG]!><time="01:38:36.043+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="6724" file="powerstatecli.cpp:254">
+<![LOG[Power lease [24507] canceled by 'CIAgent: job deleted']LOG]!><time="01:41:05.159+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="4428" file="powerstatecli.cpp:319">
+<![LOG[Received event UserIdle (12) at 20131014072932.886000+000 UTC]LOG]!><time="02:29:32.886+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="10196" file="pwragentendpoint.cpp:256">
+<![LOG[Received event UserIdle (12) at 20131014082933.191000+000 UTC]LOG]!><time="03:29:33.191+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="7052" file="pwragentendpoint.cpp:256">
+<![LOG[Power lease [24889] started by 'CIAgent: job initialized' for 120 minutes]LOG]!><time="03:33:25.137+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="6708" file="powerstatecli.cpp:254">
+<![LOG[Power lease [24889] canceled by 'CIAgent: job deleted']LOG]!><time="03:33:26.803+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="6708" file="powerstatecli.cpp:319">
+<![LOG[Received event UserIdle (12) at 20131014093433.522000+000 UTC]LOG]!><time="04:34:33.522+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="9156" file="pwragentendpoint.cpp:256">
+<![LOG[Power lease [25168] started by 'CIAgent: job initialized' for 120 minutes]LOG]!><time="04:57:43.299+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="7792" file="powerstatecli.cpp:254">
+<![LOG[Power lease [25168] canceled by 'CIAgent: job deleted']LOG]!><time="04:58:43.450+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="7456" file="powerstatecli.cpp:319">
+<![LOG[CPowerPolicyHandler::Execute]LOG]!><time="05:00:00.023+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="7240" file="pwrpolicyhandler.cpp:296">
+<![LOG[CWakeUpTask::Execute]LOG]!><time="05:00:00.023+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="7792" file="pwrwakeuptask.cpp:114">
+<![LOG[Peak start time is: 2013-10-14 05:00:00.000]LOG]!><time="05:00:00.023+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="7240" file="pwrpolicyhandler.cpp:390">
+<![LOG[Peak end time is: 2013-10-14 18:00:00.000]LOG]!><time="05:00:00.024+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="7240" file="pwrpolicyhandler.cpp:400">
+<![LOG[ Peak Time Period - Apply Peak Time Power Plan]LOG]!><time="05:00:00.024+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="7240" file="pwrpolicyhandler.cpp:411">
+<![LOG[The next wake up time is 2013-10-15 00:47:00.000.]LOG]!><time="05:00:00.024+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="7792" file="pwrwakeuptask.cpp:180">
+<![LOG[Received event UserIdle (12) at 20131014103933.854000+000 UTC]LOG]!><time="05:39:33.854+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="5448" file="pwragentendpoint.cpp:256">
+<![LOG[Power lease [25511] started by 'CIAgent: job initialized' for 120 minutes]LOG]!><time="06:36:25.202+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="9956" file="powerstatecli.cpp:254">
+<![LOG[Power lease [25511] canceled by 'CIAgent: job deleted']LOG]!><time="06:36:26.713+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="9544" file="powerstatecli.cpp:319">
+<![LOG[Received event UserIdle (12) at 20131014114432.086000+000 UTC]LOG]!><time="06:44:32.086+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="8976" file="pwragentendpoint.cpp:256">
+<![LOG[Power lease [25679] started by 'CIAgent: job initialized' for 120 minutes]LOG]!><time="07:25:25.186+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="10044" file="powerstatecli.cpp:254">
+<![LOG[Power lease [25679] canceled by 'CIAgent: job deleted']LOG]!><time="07:25:26.948+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="8368" file="powerstatecli.cpp:319">
+<![LOG[Received event UserIdle (12) at 20131014124932.417000+000 UTC]LOG]!><time="07:49:32.417+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="9628" file="pwragentendpoint.cpp:256">
+<![LOG[Power lease [25846] started by 'CIAgent: job initialized' for 120 minutes]LOG]!><time="08:16:25.137+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="3160" file="powerstatecli.cpp:254">
+<![LOG[Power lease [25846] canceled by 'CIAgent: job deleted']LOG]!><time="08:16:26.506+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="3160" file="powerstatecli.cpp:319">
+<![LOG[Received event UserBusy (13) at 20131014133432.647000+000 UTC]LOG]!><time="08:34:32.647+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="6856" file="pwragentendpoint.cpp:256">
+<![LOG[Received event UserBusy (13) at 20131014143632.968000+000 UTC]LOG]!><time="09:36:32.968+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="10080" file="pwragentendpoint.cpp:256">
+<![LOG[Power lease [26138] started by 'CIAgent: job initialized' for 120 minutes]LOG]!><time="09:39:25.133+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="4380" file="powerstatecli.cpp:254">
+<![LOG[Power lease [26138] canceled by 'CIAgent: job deleted']LOG]!><time="09:39:26.881+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="7748" file="powerstatecli.cpp:319">
+<![LOG[Power lease [26222] started by 'CIAgent: job initialized' for 120 minutes]LOG]!><time="10:03:25.179+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="10036" file="powerstatecli.cpp:254">
+<![LOG[Power lease [26222] canceled by 'CIAgent: job deleted']LOG]!><time="10:03:27.554+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="10036" file="powerstatecli.cpp:319">
+<![LOG[Received event UserIdle (12) at 20131014153533.278000+000 UTC]LOG]!><time="10:35:33.278+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="3404" file="pwragentendpoint.cpp:256">
+<![LOG[Received event UserBusy (13) at 20131014154533.329000+000 UTC]LOG]!><time="10:45:33.329+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="8464" file="pwragentendpoint.cpp:256">
+<![LOG[Power lease [26377] started by 'CIAgent: job initialized' for 120 minutes]LOG]!><time="10:46:25.184+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="6528" file="powerstatecli.cpp:254">
+<![LOG[Power lease [26377] canceled by 'CIAgent: job deleted']LOG]!><time="10:46:26.571+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="9308" file="powerstatecli.cpp:319">
+<![LOG[Received event UserIdle (12) at 20131014155033.355000+000 UTC]LOG]!><time="10:50:33.355+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="9308" file="pwragentendpoint.cpp:256">
+<![LOG[Received event UserBusy (13) at 20131014155533.381000+000 UTC]LOG]!><time="10:55:33.381+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="1984" file="pwragentendpoint.cpp:256">
+<![LOG[Power lease [26601] started by 'CIAgent: job initialized' for 120 minutes]LOG]!><time="11:51:25.180+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="9680" file="powerstatecli.cpp:254">
+<![LOG[Power lease [26601] canceled by 'CIAgent: job deleted']LOG]!><time="11:51:27.362+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="9680" file="powerstatecli.cpp:319">
+<![LOG[Received event UserBusy (13) at 20131014170033.716000+000 UTC]LOG]!><time="12:00:33.716+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="9680" file="pwragentendpoint.cpp:256">
+<![LOG[Power lease [26693] started by 'PolicyAgent' for 120 minutes]LOG]!><time="12:14:06.097+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="1180" file="powerstatecli.cpp:254">
+<![LOG[Power lease [26693] canceled by 'PolicyAgent']LOG]!><time="12:14:07.554+300" date="10-14-2013" component="pwrmgmt" context="" type="1" thread="1180" file="powerstatecli.cpp:319">

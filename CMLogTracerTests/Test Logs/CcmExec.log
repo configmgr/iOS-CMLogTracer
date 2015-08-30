@@ -1,0 +1,723 @@
+﻿<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="08:51:01.609+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6140" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="08:52:45.366+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="4532" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="08:52:45.366+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="4532" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="08:52:45.366+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="4532" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="08:52:45.380+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="4532" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="08:57:31.565+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="3552" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="08:57:31.565+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="3552" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="08:57:31.565+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3552" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="08:57:31.577+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="2988" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="08:57:31.577+300" date="10-09-2013" component="CcmExec" context="" type="3" thread="2988" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="08:57:31.577+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3552" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="10:29:25.183+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="4208" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="10:29:26.245+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="4208" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="10:33:00.109+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="4208" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="10:33:00.110+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="4208" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="10:33:00.110+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="4208" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="10:33:00.122+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="4208" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="10:34:20.484+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="4208" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="10:34:20.484+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="4208" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="10:34:20.484+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="4208" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="10:34:20.494+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3348" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="10:34:20.494+300" date="10-09-2013" component="CcmExec" context="" type="3" thread="3348" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="10:34:20.494+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="4208" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="10:37:13.673+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="4208" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="10:37:13.673+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="4208" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="10:37:13.673+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6284" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="10:37:13.686+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6284" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="10:49:03.100+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6080" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="10:49:03.100+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6080" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="10:49:03.100+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6080" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="10:49:03.113+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6552" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="10:49:03.113+300" date="10-09-2013" component="CcmExec" context="" type="3" thread="6552" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="10:49:03.113+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6080" file="systemtask.cpp:680">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="11:00:39.028+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6196" file="wmisettings.cpp:202">
+<![LOG[[NWSTATE] DISCONNECTED]LOG]!><time="11:08:10.226+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6420" file="networkstatemanager.cpp:333">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="11:08:13.200+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6420" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="11:08:13.200+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6420" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="11:08:13.200+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6652" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="11:08:13.215+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6652" file="systemtask.cpp:680">
+<![LOG[SystemTaskProcessor::QueueEvent(NetworkChangedRaw, 1)]LOG]!><time="11:08:54.402+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="4728" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('NetworkChangedRaw')]LOG]!><time="11:08:54.402+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="7136" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('NetworkChangedRaw')]LOG]!><time="11:08:54.409+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="7136" file="systemtask.cpp:680">
+<![LOG[[NWSTATE] CONNECTED WITH INTERNET ACCESS]LOG]!><time="11:08:56.654+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="7136" file="networkstatemanager.cpp:333">
+<![LOG[OutgoingMessage(Queue='mp_[http]mp_policymanager', ID={5B6896A5-A639-4CF1-97BC-E702326C86FB}): Will be discarded (expired).]LOG]!><time="11:09:54.405+300" date="10-09-2013" component="CcmExec" context="" type="3" thread="3944" file="messagequeueproc_outgoing.cpp:1647">
+<![LOG[Detected #IPs has changed [0] [1]]LOG]!><time="11:09:54.409+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6420" file="ipaddrnotification.cpp:171">
+<![LOG[AD SiteName is Default-First-Site-Name]LOG]!><time="11:09:54.409+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6420" file="ipaddrnotification.cpp:213">
+<![LOG[SystemTaskProcessor::QueueEvent(NetworkChanged, 1)]LOG]!><time="11:09:54.409+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6420" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('NetworkChanged')]LOG]!><time="11:09:54.409+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6652" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'LSNetworkChange'.]LOG]!><time="11:09:54.422+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6420" file="systemtask.cpp:185">
+<![LOG[[NWSTATE] CONNECTED AND DOMAIN AUTHENTICATED]LOG]!><time="11:09:55.333+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="4728" file="networkstatemanager.cpp:333">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="11:10:07.488+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="7008" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="11:10:07.493+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="7008" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="11:10:07.499+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="7008" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="11:10:07.499+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6932" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="11:10:07.576+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="5404" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="11:10:07.576+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6932" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_LocalMP=@ for user 'S-1-5-18'.]LOG]!><time="11:10:07.640+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="5404" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_LocalMP=@ for user 'S-1-5-18'.]LOG]!><time="11:10:07.640+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6932" file="wmisettings.cpp:202">
+<![LOG[Invoking system task 'SrcUpdateNetworkChange'.]LOG]!><time="11:10:07.658+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5896" file="systemtask.cpp:185">
+<![LOG[END ExecuteSystemTasks('NetworkChanged')]LOG]!><time="11:10:07.660+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6652" file="systemtask.cpp:680">
+<![LOG[Notifying endpoint 'SCUpdateMgr' of __InstanceModificationEvent settings change on object SMS_PortalInformation=@ for user 'S-1-5-18'.]LOG]!><time="11:10:07.720+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="5404" file="wmisettings.cpp:202">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="11:10:49.106+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="5672" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="11:10:49.106+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="5672" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="11:10:49.106+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3944" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="11:10:49.115+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5672" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="11:10:49.115+300" date="10-09-2013" component="CcmExec" context="" type="3" thread="5672" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="11:10:49.115+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3944" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="11:16:28.650+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="252" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="11:16:28.650+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="252" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="11:16:28.650+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="7136" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="11:16:28.659+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="7136" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="11:20:13.167+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6896" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="11:20:13.167+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6896" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="11:20:13.167+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="252" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="11:20:13.177+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6896" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="11:20:13.177+300" date="10-09-2013" component="CcmExec" context="" type="3" thread="6896" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="11:20:13.177+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="252" file="systemtask.cpp:680">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="11:27:30.880+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6404" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="11:33:40.132+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6652" file="wmisettings.cpp:202">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="11:37:02.056+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6408" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="11:37:02.056+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6408" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="11:37:02.056+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6408" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="11:37:02.067+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6408" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="11:43:25.178+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6176" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="11:43:26.802+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6176" file="powerstatemanager.cpp:1068">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="11:43:35.077+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6460" file="wmisettings.cpp:202">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="11:47:35.646+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="5016" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="11:47:35.646+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="5016" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="11:47:35.646+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5724" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="11:47:35.658+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5016" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="11:47:35.658+300" date="10-09-2013" component="CcmExec" context="" type="3" thread="5016" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="11:47:35.658+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5724" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="11:47:56.064+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="5724" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="11:47:56.064+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="5724" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="11:47:56.065+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5016" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="11:47:56.072+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5016" file="systemtask.cpp:680">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="12:07:20.666+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6260" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="12:12:18.420+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="5260" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="12:21:21.161+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="4532" file="wmisettings.cpp:202">
+<![LOG[TaskScheduler requested to start Idle task.]LOG]!><time="12:24:25.385+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6620" file="wintaskscheduler.cpp:234">
+<![LOG[*** Keep the system awake]LOG]!><time="12:28:22.979+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5320" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="12:28:33.729+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5320" file="powerstatemanager.cpp:1068">
+<![LOG[Notifying endpoint 'ScanAgent' of __InstanceModificationEvent settings change on object CCM_UpdateSource.UniqueID="{492D1044-253F-41DA-BD27-AFAE975C0A4C}" for user 'S-1-5-18'.]LOG]!><time="12:28:33.761+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6108" file="wmisettings.cpp:202">
+<![LOG[*** Keep the system awake]LOG]!><time="12:28:34.987+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5932" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="12:28:34.992+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5932" file="powerstatemanager.cpp:1068">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="12:30:21.652+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6532" file="wmisettings.cpp:202">
+<![LOG[*** Keep the system awake]LOG]!><time="12:32:25.171+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5104" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="12:32:26.378+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5104" file="powerstatemanager.cpp:1068">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="12:47:07.632+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="4944" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="13:04:18.368+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6568" file="wmisettings.cpp:202">
+<![LOG[TaskScheduler requested to stop Idle task.]LOG]!><time="13:09:33.014+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="4128" file="wintaskscheduler.cpp:266">
+<![LOG[Idle task is stopped]LOG]!><time="13:09:33.014+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3480" file="wintaskscheduler.cpp:185">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="13:09:34.671+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="3480" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="13:09:34.671+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="3480" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="13:09:34.671+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3480" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="13:09:34.684+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6444" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="13:09:34.684+300" date="10-09-2013" component="CcmExec" context="" type="3" thread="6444" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="13:09:34.684+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3480" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="13:10:16.187+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6200" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="13:10:16.187+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6200" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="13:10:16.187+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3480" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="13:10:16.197+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3480" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="13:13:53.296+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="3480" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="13:13:53.296+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="3480" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="13:13:53.296+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3480" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="13:13:53.307+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6200" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="13:13:53.307+300" date="10-09-2013" component="CcmExec" context="" type="3" thread="6200" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="13:13:53.307+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3480" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="13:16:25.165+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="1736" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="13:16:26.299+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="1736" file="powerstatemanager.cpp:1068">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="13:20:17.260+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6436" file="wmisettings.cpp:202">
+<![LOG[*** Keep the system awake]LOG]!><time="13:37:25.176+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3480" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="13:37:26.375+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3480" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="13:38:00.569+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="3480" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="13:38:00.569+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="3480" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="13:38:00.569+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3480" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="13:38:00.578+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3480" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="13:54:13.344+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6296" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="13:54:13.344+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="6296" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="13:54:13.344+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6296" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="13:54:13.357+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="1480" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="13:54:13.357+300" date="10-09-2013" component="CcmExec" context="" type="3" thread="1480" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="13:54:13.357+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6296" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="14:01:33.977+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="4208" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="14:01:33.977+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="4208" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="14:01:33.977+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="4208" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="14:01:33.988+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="4208" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="14:12:04.059+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="5124" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="14:12:04.059+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="5124" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="14:12:04.059+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5124" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="14:12:04.072+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="7064" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="14:12:04.072+300" date="10-09-2013" component="CcmExec" context="" type="3" thread="7064" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="14:12:04.072+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5124" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="14:31:25.139+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="4484" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="14:31:26.459+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="4484" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="15:50:09.945+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="5456" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="15:50:09.946+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="5456" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="15:50:09.946+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="7516" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="15:50:09.956+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="7516" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="15:52:25.138+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5456" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="15:52:26.455+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5456" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="15:53:22.250+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="4648" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="15:53:22.250+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="4648" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="15:53:22.251+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="7264" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="15:53:22.265+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="4648" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="15:53:22.266+300" date="10-09-2013" component="CcmExec" context="" type="3" thread="4648" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="15:53:22.266+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="7264" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="17:00:01.767+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="4616" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="17:00:01.767+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="4616" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="17:00:01.767+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="4616" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="17:00:01.778+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="4616" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="17:35:25.136+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3228" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="17:35:26.249+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="3228" file="powerstatemanager.cpp:1068">
+<![LOG[TaskScheduler requested to start Idle task.]LOG]!><time="17:45:48.697+300" date="10-09-2013" component="CCMEXEC" context="" type="1" thread="7672" file="wintaskscheduler.cpp:234">
+<![LOG[Idle task completed]LOG]!><time="18:45:48.733+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="7408" file="wintaskscheduler.cpp:192">
+<![LOG[*** Keep the system awake]LOG]!><time="19:28:25.474+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5272" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="19:28:28.608+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="5272" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="20:19:25.133+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="7896" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="20:19:26.329+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="7896" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="21:43:25.789+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="8036" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="21:43:27.046+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="8036" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="22:00:00.081+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6012" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="22:00:00.117+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6012" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="23:22:25.155+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6076" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="23:22:26.312+300" date="10-09-2013" component="CcmExec" context="" type="1" thread="6076" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="00:11:35.032+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="2884" file="powerstatemanager.cpp:1057">
+<![LOG[Notifying endpoint 'ScanAgent' of __InstanceModificationEvent settings change on object CCM_UpdateSource.UniqueID="{492D1044-253F-41DA-BD27-AFAE975C0A4C}" for user 'S-1-5-18'.]LOG]!><time="00:13:55.528+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="6180" file="wmisettings.cpp:202">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="00:13:59.508+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="2884" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="01:02:28.863+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="5812" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="01:03:01.268+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="5812" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="02:25:25.184+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="2408" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="02:25:27.225+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="2408" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="02:39:25.283+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="7960" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="02:39:26.407+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="7960" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="04:42:25.213+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8624" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="04:42:26.338+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8624" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="06:14:25.185+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="7980" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="06:14:26.817+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="7980" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="08:10:25.182+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8548" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="08:10:26.392+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8548" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="08:35:26.738+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="352" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="08:35:26.738+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="352" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="08:35:26.739+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="7568" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="08:35:26.751+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="352" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="08:35:26.751+300" date="10-10-2013" component="CcmExec" context="" type="3" thread="352" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="08:35:26.751+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="7568" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="08:51:25.186+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="4160" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="08:51:26.353+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="4160" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="09:20:44.183+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="9016" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="09:20:44.251+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="9016" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="09:20:44.823+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="9016" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="09:20:44.825+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="9016" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="09:20:44.825+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="9016" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="09:20:44.835+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="9016" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="09:21:46.783+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="9016" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="09:21:46.783+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="9016" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="09:21:46.783+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="9016" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="09:21:46.793+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="6484" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="09:21:46.793+300" date="10-10-2013" component="CcmExec" context="" type="3" thread="6484" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="09:21:46.793+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="9016" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="09:24:25.175+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="5952" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="09:24:26.452+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="5952" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="09:28:17.059+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="6480" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="09:28:17.059+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="6480" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="09:28:17.059+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="6480" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="09:28:17.073+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="6480" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="09:38:10.499+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="7288" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="09:38:10.499+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="7288" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="09:38:10.499+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="7288" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="09:38:10.515+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="3968" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="09:38:10.515+300" date="10-10-2013" component="CcmExec" context="" type="3" thread="3968" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="09:38:10.515+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="7288" file="systemtask.cpp:680">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="09:38:51.929+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="6808" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="09:38:51.929+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="6808" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="09:38:51.979+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="6808" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="09:38:51.985+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="6808" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="09:38:51.991+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="6808" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="09:38:51.991+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="7480" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="09:38:52.035+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="7480" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="09:38:52.035+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="7548" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_LocalMP=@ for user 'S-1-5-18'.]LOG]!><time="09:38:52.077+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="7548" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_LocalMP=@ for user 'S-1-5-18'.]LOG]!><time="09:38:52.077+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="7480" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SCUpdateMgr' of __InstanceModificationEvent settings change on object SMS_PortalInformation=@ for user 'S-1-5-18'.]LOG]!><time="09:38:52.200+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="7480" file="wmisettings.cpp:202">
+<![LOG[*** Keep the system awake]LOG]!><time="09:40:25.222+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8484" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="09:40:26.463+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8484" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="10:15:25.179+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="1284" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="10:15:26.508+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="1284" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="10:55:25.136+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="4124" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="10:55:26.379+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="4124" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="11:33:04.317+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="9100" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="11:33:04.317+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="9100" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="11:33:04.317+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="9100" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="11:33:04.328+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="9100" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="11:35:59.711+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="7820" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="11:35:59.711+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="7820" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="11:35:59.712+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="7820" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="11:35:59.724+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8528" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="11:35:59.724+300" date="10-10-2013" component="CcmExec" context="" type="3" thread="8528" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="11:35:59.725+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="7820" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="11:45:30.257+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="8720" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="11:45:30.257+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="8720" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="11:45:30.257+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8720" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="11:45:30.267+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8720" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="12:12:25.134+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="1264" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="12:12:26.453+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="1264" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="12:13:54.000+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="1264" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="12:13:55.879+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="1264" file="powerstatemanager.cpp:1068">
+<![LOG[Notifying endpoint 'ScanAgent' of __InstanceModificationEvent settings change on object CCM_UpdateSource.UniqueID="{492D1044-253F-41DA-BD27-AFAE975C0A4C}" for user 'S-1-5-18'.]LOG]!><time="12:13:55.911+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="6076" file="wmisettings.cpp:202">
+<![LOG[TaskScheduler requested to start Idle task.]LOG]!><time="12:21:59.680+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="5192" file="wintaskscheduler.cpp:234">
+<![LOG[*** Keep the system awake]LOG]!><time="12:58:25.238+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="2400" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="12:58:26.374+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="2400" file="powerstatemanager.cpp:1068">
+<![LOG[TaskScheduler requested to stop Idle task.]LOG]!><time="13:05:54.849+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="6720" file="wintaskscheduler.cpp:266">
+<![LOG[Idle task is stopped]LOG]!><time="13:05:54.849+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8352" file="wintaskscheduler.cpp:185">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="13:05:57.288+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="8352" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="13:05:57.288+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="8352" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="13:05:57.288+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8352" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="13:05:57.302+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8780" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="13:05:57.302+300" date="10-10-2013" component="CcmExec" context="" type="3" thread="8780" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="13:05:57.302+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8352" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="13:16:05.089+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="7952" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="13:16:05.089+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="7952" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="13:16:05.089+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="7952" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="13:16:05.115+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="7952" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="13:18:00.034+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="5920" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="13:18:00.034+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="5920" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="13:18:00.034+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="5920" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="13:18:00.044+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="6740" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="13:18:00.044+300" date="10-10-2013" component="CcmExec" context="" type="3" thread="6740" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="13:18:00.044+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="5920" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="13:52:25.505+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8768" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="13:52:27.034+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8768" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="14:28:01.408+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="8488" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="14:28:01.408+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="8488" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="14:28:01.409+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8488" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="14:28:01.420+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8488" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="14:35:29.034+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="8488" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="14:35:29.034+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="8488" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="14:35:29.034+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8488" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="14:35:29.047+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="7912" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="14:35:29.047+300" date="10-10-2013" component="CcmExec" context="" type="3" thread="7912" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="14:35:29.047+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8488" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="15:05:25.184+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="5720" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="15:05:26.824+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="5720" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="15:54:18.860+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="6020" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="15:54:18.860+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="6020" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="15:54:18.861+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="6020" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="15:54:18.874+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="6020" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="15:57:02.366+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="5484" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="15:57:02.366+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="5484" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="15:57:02.366+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="5484" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="15:57:02.378+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="2628" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="15:57:02.378+300" date="10-10-2013" component="CcmExec" context="" type="3" thread="2628" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="15:57:02.378+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="5484" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="16:38:25.182+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="4200" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="16:38:26.260+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="4200" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="17:02:58.643+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="7724" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="17:02:58.643+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="7724" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="17:02:58.643+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="7724" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="17:02:58.654+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="7724" file="systemtask.cpp:680">
+<![LOG[TaskScheduler requested to start Idle task.]LOG]!><time="17:27:28.493+300" date="10-10-2013" component="CCMEXEC" context="" type="1" thread="9144" file="wintaskscheduler.cpp:234">
+<![LOG[*** Keep the system awake]LOG]!><time="17:41:25.200+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="4532" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="17:41:26.297+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="4532" file="powerstatemanager.cpp:1068">
+<![LOG[Idle task completed]LOG]!><time="18:27:28.756+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="6312" file="wintaskscheduler.cpp:192">
+<![LOG[*** Keep the system awake]LOG]!><time="18:36:25.256+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="6824" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="18:36:26.453+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="6824" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="18:54:25.229+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="6256" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="18:54:26.558+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="6256" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="20:01:25.279+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8180" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="20:01:27.319+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8180" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="21:58:25.164+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="6260" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="21:58:27.611+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="6260" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="22:00:00.238+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="6340" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="22:00:00.314+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="6340" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="23:45:25.219+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8568" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="23:45:27.058+300" date="10-10-2013" component="CcmExec" context="" type="1" thread="8568" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="00:13:53.768+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="3848" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="00:13:56.396+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="3848" file="powerstatemanager.cpp:1068">
+<![LOG[Notifying endpoint 'ScanAgent' of __InstanceModificationEvent settings change on object CCM_UpdateSource.UniqueID="{492D1044-253F-41DA-BD27-AFAE975C0A4C}" for user 'S-1-5-18'.]LOG]!><time="00:13:56.431+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="6360" file="wmisettings.cpp:202">
+<![LOG[*** Keep the system awake]LOG]!><time="01:00:27.551+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="5480" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="01:00:29.257+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="5480" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="01:14:25.505+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="4408" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="01:14:26.639+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="4408" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="03:00:25.180+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="6440" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="03:00:27.086+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="6440" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="04:51:25.183+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="7956" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="04:51:26.482+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="7956" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="05:10:25.176+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="6264" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="05:10:26.280+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="6264" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="05:33:25.532+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8984" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="05:33:26.777+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8984" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="06:59:25.186+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8072" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="06:59:26.492+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8072" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="07:12:25.160+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="4364" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="07:12:26.189+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="4364" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="07:49:25.183+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="6664" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="07:49:26.300+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="6664" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="08:34:16.547+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="8396" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="08:34:16.547+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="8396" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="08:34:16.547+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8396" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="08:34:16.558+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="6264" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="08:34:16.558+300" date="10-11-2013" component="CcmExec" context="" type="3" thread="6264" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="08:34:16.558+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8396" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="08:41:23.391+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="1284" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="08:41:23.392+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="1284" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="08:41:23.392+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="1284" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="08:41:23.406+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="1284" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="08:42:54.819+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="6800" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="08:42:54.819+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="6800" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="08:42:54.820+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="6800" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="08:42:54.833+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="7056" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="08:42:54.834+300" date="10-11-2013" component="CcmExec" context="" type="3" thread="7056" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="08:42:54.834+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="6800" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="09:18:25.393+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="252" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="09:18:27.532+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="252" file="powerstatemanager.cpp:1068">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="10:38:53.184+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="10220" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="10:38:53.187+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="10220" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="10:38:53.232+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="10220" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="10:38:53.237+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="10220" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="10:38:53.274+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="10220" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="10:38:53.274+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="10220" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="10:38:53.325+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="10220" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="10:38:53.325+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="7956" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_LocalMP=@ for user 'S-1-5-18'.]LOG]!><time="10:38:53.365+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="7956" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_LocalMP=@ for user 'S-1-5-18'.]LOG]!><time="10:38:53.365+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="10220" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SCUpdateMgr' of __InstanceModificationEvent settings change on object SMS_PortalInformation=@ for user 'S-1-5-18'.]LOG]!><time="10:38:53.553+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="7956" file="wmisettings.cpp:202">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="10:51:13.053+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="9032" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="10:51:13.053+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="9032" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="10:51:13.053+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9032" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="10:51:13.064+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9032" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="10:53:56.843+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9864" file="powerstatemanager.cpp:1057">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="10:53:59.921+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="9272" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="10:53:59.921+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="9272" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="10:53:59.921+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9272" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="10:53:59.933+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9032" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="10:53:59.933+300" date="10-11-2013" component="CcmExec" context="" type="3" thread="9032" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="10:53:59.933+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9272" file="systemtask.cpp:680">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="10:54:04.830+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9864" file="powerstatemanager.cpp:1068">
+<![LOG[Notifying endpoint 'DCMAgent' of __InstanceCreationEvent settings change on object CCM_ApplicationCIAssignment.AssignmentID="{E2CA34FB-D749-4301-BF2F-7B1D1D1B46C4}" for user 'S-1-5-18'.]LOG]!><time="10:54:04.886+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="1676" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'CIStore' of __InstanceCreationEvent settings change on object CCM_CIVersionInfo.ModelName="ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/Application_3f6830a9-979a-4280-a9fb-3ee7d31e93f2",Version="2" for user 'S-1-5-18'.]LOG]!><time="10:54:04.920+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="9364" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'CIStore' of __InstanceCreationEvent settings change on object CCM_CIVersionInfo.ModelName="ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/DeploymentType_f67f42c5-787a-4499-b3c3-da103e74dc83",Version="2" for user 'S-1-5-18'.]LOG]!><time="10:54:05.020+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="9364" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'CIStore' of __InstanceCreationEvent settings change on object CCM_CIVersionInfo.ModelName="ScopeId_9265C920-BDFB-468F-A773-711D991FE1BA/RequiredApplication_3f6830a9-979a-4280-a9fb-3ee7d31e93f2",Version="2" for user 'S-1-5-18'.]LOG]!><time="10:54:05.048+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="9364" file="wmisettings.cpp:202">
+<![LOG[*** Keep the system awake]LOG]!><time="10:54:05.950+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9032" file="powerstatemanager.cpp:1057">
+<![LOG[Notifying endpoint 'CITaskMgr' of __InstanceModificationEvent settings change on object SMS_MaintenanceTaskRequests.TaskID="fd99573f-41cf-4878-b167-2167931128f1" for user 'S-1-5-18'.]LOG]!><time="10:54:31.415+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="8272" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'CITaskMgr' of __InstanceModificationEvent settings change on object SMS_MaintenanceTaskRequests.TaskID="fd99573f-41cf-4878-b167-2167931128f1" for user 'S-1-5-18'.]LOG]!><time="10:54:31.429+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="8272" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'CITaskMgr' of __InstanceDeletionEvent settings change on object SMS_MaintenanceTaskRequests.TaskID="fd99573f-41cf-4878-b167-2167931128f1" for user 'S-1-5-18'.]LOG]!><time="10:54:38.640+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="9364" file="wmisettings.cpp:202">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="10:54:39.510+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9032" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="11:04:05.063+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="4904" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="11:04:05.409+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="4904" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="11:08:25.344+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="3364" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="11:08:26.809+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="3364" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="11:31:11.762+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="8820" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="11:31:11.762+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="8820" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="11:31:11.762+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8820" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="11:31:11.773+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8820" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="11:51:42.910+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="9212" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="11:51:42.911+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="9212" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="11:51:42.911+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9212" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="11:51:42.922+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="256" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="11:51:42.922+300" date="10-11-2013" component="CcmExec" context="" type="3" thread="256" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="11:51:42.922+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9212" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="12:11:25.208+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="3392" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="12:11:26.951+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="3392" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="12:11:43.423+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="2124" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="12:11:43.423+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="2124" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="12:11:43.424+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8676" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="12:11:43.434+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8676" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="12:13:57.056+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="2124" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="12:13:58.394+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="2124" file="powerstatemanager.cpp:1068">
+<![LOG[Notifying endpoint 'ScanAgent' of __InstanceModificationEvent settings change on object CCM_UpdateSource.UniqueID="{492D1044-253F-41DA-BD27-AFAE975C0A4C}" for user 'S-1-5-18'.]LOG]!><time="12:13:58.421+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="7364" file="wmisettings.cpp:202">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="12:15:36.442+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="7936" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="12:15:36.442+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="7936" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="12:15:36.443+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="7936" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="12:15:36.455+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="2124" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="12:15:36.455+300" date="10-11-2013" component="CcmExec" context="" type="3" thread="2124" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="12:15:36.455+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="7936" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="12:57:25.166+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8692" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="12:57:26.955+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8692" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="13:50:25.367+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8280" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="13:50:26.920+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8280" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="15:06:09.987+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="6960" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="15:06:09.987+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="6960" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="15:06:09.987+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="6960" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="15:06:09.999+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="6960" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="15:08:48.532+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="9816" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="15:08:48.532+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="9816" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="15:08:48.532+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9816" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="15:08:48.547+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="4476" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="15:08:48.547+300" date="10-11-2013" component="CcmExec" context="" type="3" thread="4476" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="15:08:48.547+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9816" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="15:55:25.346+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="7768" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="15:55:27.619+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="7768" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="16:02:50.481+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="9848" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="16:02:50.481+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="9848" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="16:02:50.481+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9848" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="16:02:50.495+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9848" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="16:06:46.794+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="8280" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="16:06:46.794+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="8280" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="16:06:46.795+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8280" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="16:06:46.805+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="1652" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="16:06:46.805+300" date="10-11-2013" component="CcmExec" context="" type="3" thread="1652" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="16:06:46.805+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8280" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="16:32:38.103+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="6716" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="16:32:38.103+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="6716" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="16:32:38.103+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8664" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="16:32:38.114+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8664" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="16:35:19.652+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="9020" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="16:35:19.652+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="9020" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="16:35:19.652+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8976" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="16:35:19.666+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9020" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="16:35:19.666+300" date="10-11-2013" component="CcmExec" context="" type="3" thread="9020" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="16:35:19.666+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8976" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="16:49:13.430+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="7520" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="16:49:13.430+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="7520" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="16:49:13.430+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="7520" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="16:49:13.440+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="7520" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="16:49:17.016+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="10232" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="16:49:17.016+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="10232" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="16:49:17.016+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="10232" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="16:49:17.027+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="7520" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="16:49:17.027+300" date="10-11-2013" component="CcmExec" context="" type="3" thread="7520" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="16:49:17.028+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="10232" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="16:58:32.351+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="936" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="16:58:32.351+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="936" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="16:58:32.351+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="936" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="16:58:32.367+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="936" file="systemtask.cpp:680">
+<![LOG[TaskScheduler requested to start Idle task.]LOG]!><time="17:23:02.820+300" date="10-11-2013" component="CCMEXEC" context="" type="1" thread="6844" file="wintaskscheduler.cpp:234">
+<![LOG[*** Keep the system awake]LOG]!><time="17:58:25.183+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8788" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="17:58:26.992+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8788" file="powerstatemanager.cpp:1068">
+<![LOG[Idle task completed]LOG]!><time="18:23:02.364+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="8124" file="wintaskscheduler.cpp:192">
+<![LOG[*** Keep the system awake]LOG]!><time="19:31:25.179+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="10040" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="19:31:26.598+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="10040" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="20:52:25.159+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9684" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="20:52:26.990+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9684" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="22:00:00.119+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9232" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="22:00:00.200+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="9232" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="22:35:25.216+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="5676" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="22:35:27.839+300" date="10-11-2013" component="CcmExec" context="" type="1" thread="5676" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="00:13:58.452+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="5404" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="00:14:01.360+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="5404" file="powerstatemanager.cpp:1068">
+<![LOG[Notifying endpoint 'ScanAgent' of __InstanceModificationEvent settings change on object CCM_UpdateSource.UniqueID="{492D1044-253F-41DA-BD27-AFAE975C0A4C}" for user 'S-1-5-18'.]LOG]!><time="00:14:01.413+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="7444" file="wmisettings.cpp:202">
+<![LOG[*** Keep the system awake]LOG]!><time="00:28:25.188+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="9704" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="00:28:33.679+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="9704" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="01:19:34.956+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8636" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="01:19:52.590+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8636" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="02:44:25.184+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8960" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="02:44:27.869+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8960" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="03:38:25.187+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8740" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="03:38:26.951+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8740" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="04:49:25.177+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="6108" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="04:49:26.818+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="6108" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="05:52:25.184+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8424" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="05:52:27.254+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8424" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="06:36:25.135+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="7516" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="06:36:27.642+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="7516" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="06:57:25.172+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="7276" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="06:57:27.159+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="7276" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="07:44:25.188+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="6028" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="07:44:27.445+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="6028" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="08:03:25.179+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="7392" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="08:03:26.619+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="7392" file="powerstatemanager.cpp:1068">
+<![LOG[SystemTaskProcessor::QueueEvent(SessionReconnect, 0)]LOG]!><time="08:18:43.370+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="8968" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('SessionReconnect')]LOG]!><time="08:18:43.370+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8968" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'DCMAgent_Reconnect' via ICcmSystemTask2 interface.]LOG]!><time="08:18:43.392+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="5872" file="systemtask.cpp:174">
+<![LOG[END ExecuteSystemTasks('SessionReconnect')]LOG]!><time="08:18:43.421+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8968" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="08:18:43.464+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="8968" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="08:18:43.464+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="8968" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="08:18:43.464+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8968" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="08:18:43.483+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="5872" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="08:18:43.483+300" date="10-12-2013" component="CcmExec" context="" type="3" thread="5872" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="08:18:43.483+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8968" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="08:25:26.262+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="9672" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="08:25:30.204+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="9672" file="powerstatemanager.cpp:1068">
+<![LOG[SystemTaskProcessor::QueueEvent(SessionReconnect, 0)]LOG]!><time="08:35:00.738+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="5568" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('SessionReconnect')]LOG]!><time="08:35:00.738+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="5568" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'DCMAgent_Reconnect' via ICcmSystemTask2 interface.]LOG]!><time="08:35:00.759+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="9040" file="systemtask.cpp:174">
+<![LOG[END ExecuteSystemTasks('SessionReconnect')]LOG]!><time="08:35:00.763+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="5568" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="08:36:25.203+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="9040" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="08:36:26.795+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="9040" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="08:41:25.280+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="7748" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="08:41:27.077+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="7748" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="09:11:25.278+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="7832" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="09:11:26.674+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="7832" file="powerstatemanager.cpp:1068">
+<![LOG[TaskScheduler requested to start Idle task.]LOG]!><time="09:18:03.371+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="9712" file="wintaskscheduler.cpp:234">
+<![LOG[*** Keep the system awake]LOG]!><time="09:38:25.513+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8096" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="09:38:27.085+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8096" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="10:00:25.265+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="7792" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="10:00:27.349+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="7792" file="powerstatemanager.cpp:1068">
+<![LOG[Idle task completed]LOG]!><time="10:18:03.636+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="7984" file="wintaskscheduler.cpp:192">
+<![LOG[*** Keep the system awake]LOG]!><time="10:22:25.178+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="5240" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="10:22:26.896+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="5240" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="10:32:25.860+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="5028" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="10:32:27.275+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="5028" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="11:22:25.424+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="9732" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="11:22:27.337+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="9732" file="powerstatemanager.cpp:1068">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="11:38:54.769+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="10120" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="11:38:54.770+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="10120" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="11:38:54.818+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="10120" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="11:38:54.823+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="10120" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="11:38:54.830+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="10120" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="11:38:54.830+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="7328" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="11:38:54.879+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="10120" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="11:38:54.879+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="7328" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_LocalMP=@ for user 'S-1-5-18'.]LOG]!><time="11:38:54.917+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="7328" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_LocalMP=@ for user 'S-1-5-18'.]LOG]!><time="11:38:54.917+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="10120" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SCUpdateMgr' of __InstanceModificationEvent settings change on object SMS_PortalInformation=@ for user 'S-1-5-18'.]LOG]!><time="11:38:55.047+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="10120" file="wmisettings.cpp:202">
+<![LOG[*** Keep the system awake]LOG]!><time="12:14:00.519+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="9668" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="12:14:08.140+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="9668" file="powerstatemanager.cpp:1068">
+<![LOG[Notifying endpoint 'ScanAgent' of __InstanceModificationEvent settings change on object CCM_UpdateSource.UniqueID="{492D1044-253F-41DA-BD27-AFAE975C0A4C}" for user 'S-1-5-18'.]LOG]!><time="12:14:08.172+300" date="10-12-2013" component="CCMEXEC" context="" type="1" thread="8392" file="wmisettings.cpp:202">
+<![LOG[*** Keep the system awake]LOG]!><time="13:28:25.189+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="9092" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="13:28:26.837+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="9092" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="14:48:25.139+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="7428" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="14:48:26.996+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="7428" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="15:23:25.198+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="5976" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="15:23:26.685+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="5976" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="16:13:25.133+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8472" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="16:13:26.718+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8472" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="18:19:25.141+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="5024" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="18:19:26.997+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="5024" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="19:49:25.355+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="9772" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="19:49:28.351+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="9772" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="21:13:25.269+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="4540" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="21:13:28.222+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="4540" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="22:44:25.177+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="7428" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="22:44:28.115+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="7428" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="23:24:25.294+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8988" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="23:24:28.346+300" date="10-12-2013" component="CcmExec" context="" type="1" thread="8988" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="00:00:00.390+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="4864" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="00:00:00.536+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="4864" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="00:14:02.188+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="7928" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="00:14:05.787+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="7928" file="powerstatemanager.cpp:1068">
+<![LOG[Notifying endpoint 'ScanAgent' of __InstanceModificationEvent settings change on object CCM_UpdateSource.UniqueID="{492D1044-253F-41DA-BD27-AFAE975C0A4C}" for user 'S-1-5-18'.]LOG]!><time="00:14:05.820+300" date="10-13-2013" component="CCMEXEC" context="" type="1" thread="2288" file="wmisettings.cpp:202">
+<![LOG[*** Keep the system awake]LOG]!><time="00:41:25.139+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="9484" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="00:41:28.259+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="9484" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="01:20:34.151+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="3728" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="01:21:16.785+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="3728" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="03:22:25.254+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="4100" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="03:22:28.015+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="4100" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="03:38:25.205+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="4128" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="03:38:27.266+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="4128" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="04:03:25.133+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="6228" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="04:03:27.139+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="6228" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="04:11:25.174+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="8328" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="04:11:27.439+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="8328" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="04:29:25.626+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="6624" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="04:29:26.996+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="6624" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="05:35:25.182+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="9740" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="05:35:26.765+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="9740" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="05:59:25.134+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="8908" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="05:59:26.455+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="8908" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="06:52:25.130+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="9024" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="06:52:26.582+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="9024" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="08:46:25.182+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="9712" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="08:46:26.885+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="9712" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="10:45:25.135+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="5304" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="10:45:26.581+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="5304" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="11:13:25.257+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="7164" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="11:13:27.017+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="7164" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="12:14:02.173+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="4456" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="12:14:04.585+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="4456" file="powerstatemanager.cpp:1068">
+<![LOG[Notifying endpoint 'ScanAgent' of __InstanceModificationEvent settings change on object CCM_UpdateSource.UniqueID="{492D1044-253F-41DA-BD27-AFAE975C0A4C}" for user 'S-1-5-18'.]LOG]!><time="12:14:04.615+300" date="10-13-2013" component="CCMEXEC" context="" type="1" thread="8040" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="12:38:55.380+300" date="10-13-2013" component="CCMEXEC" context="" type="1" thread="5552" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="12:38:55.381+300" date="10-13-2013" component="CCMEXEC" context="" type="1" thread="5552" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="12:38:55.431+300" date="10-13-2013" component="CCMEXEC" context="" type="1" thread="5552" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:CM2" for user 'S-1-5-18'.]LOG]!><time="12:38:55.436+300" date="10-13-2013" component="CCMEXEC" context="" type="1" thread="5552" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="12:38:55.443+300" date="10-13-2013" component="CCMEXEC" context="" type="1" thread="5552" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="12:38:55.443+300" date="10-13-2013" component="CCMEXEC" context="" type="1" thread="5136" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="12:38:55.486+300" date="10-13-2013" component="CCMEXEC" context="" type="1" thread="5136" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="12:38:55.486+300" date="10-13-2013" component="CCMEXEC" context="" type="1" thread="5552" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_LocalMP=@ for user 'S-1-5-18'.]LOG]!><time="12:38:55.524+300" date="10-13-2013" component="CCMEXEC" context="" type="1" thread="5136" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_LocalMP=@ for user 'S-1-5-18'.]LOG]!><time="12:38:55.524+300" date="10-13-2013" component="CCMEXEC" context="" type="1" thread="5552" file="wmisettings.cpp:202">
+<![LOG[Notifying endpoint 'SCUpdateMgr' of __InstanceModificationEvent settings change on object SMS_PortalInformation=@ for user 'S-1-5-18'.]LOG]!><time="12:38:55.638+300" date="10-13-2013" component="CCMEXEC" context="" type="1" thread="5136" file="wmisettings.cpp:202">
+<![LOG[*** Keep the system awake]LOG]!><time="13:09:25.188+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="9960" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="13:09:26.998+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="9960" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="13:58:25.186+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="8524" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="13:58:26.637+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="8524" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="14:30:25.182+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="2476" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="14:30:27.420+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="2476" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="15:40:25.180+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="3940" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="15:40:26.761+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="3940" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="17:26:25.138+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="6840" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="17:26:26.677+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="6840" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="19:07:25.314+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="6472" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="19:07:41.064+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="6472" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="20:28:25.135+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="5912" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="20:28:26.647+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="5912" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="22:19:25.186+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="8152" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="22:19:27.217+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="8152" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="22:40:25.133+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="9172" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="22:40:27.536+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="9172" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="23:34:25.186+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="4084" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="23:34:26.606+300" date="10-13-2013" component="CcmExec" context="" type="1" thread="4084" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="00:14:05.046+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="5656" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="00:14:08.038+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="5656" file="powerstatemanager.cpp:1068">
+<![LOG[Notifying endpoint 'ScanAgent' of __InstanceModificationEvent settings change on object CCM_UpdateSource.UniqueID="{492D1044-253F-41DA-BD27-AFAE975C0A4C}" for user 'S-1-5-18'.]LOG]!><time="00:14:08.070+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2768" file="wmisettings.cpp:202">
+<![LOG[*** Keep the system awake]LOG]!><time="00:45:25.631+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="4964" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="00:45:29.037+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="4964" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="01:38:36.043+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="9992" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="01:41:06.160+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="9992" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="03:33:25.137+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="7740" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="03:33:26.804+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="7740" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="04:57:43.299+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="7240" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="04:58:43.451+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="7240" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="06:36:25.202+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="8048" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="06:36:26.715+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="8048" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="07:25:25.186+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="4396" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="07:25:26.949+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="4396" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="08:16:25.137+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="9632" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="08:16:26.510+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="9632" file="powerstatemanager.cpp:1068">
+<![LOG[SystemTaskProcessor::QueueEvent(SessionReconnect, 0)]LOG]!><time="08:30:09.838+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="9948" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('SessionReconnect')]LOG]!><time="08:30:09.913+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="9948" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'DCMAgent_Reconnect' via ICcmSystemTask2 interface.]LOG]!><time="08:30:09.938+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="5468" file="systemtask.cpp:174">
+<![LOG[END ExecuteSystemTasks('SessionReconnect')]LOG]!><time="08:30:09.987+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="9948" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="08:38:45.130+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="8888" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="08:38:45.130+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="8888" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="08:38:45.130+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="8888" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="08:38:45.145+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="8888" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="08:40:17.121+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="5568" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="08:40:17.121+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="5568" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="08:40:17.121+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="5568" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="08:40:17.135+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="6856" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="08:40:17.135+300" date="10-14-2013" component="CcmExec" context="" type="3" thread="6856" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="08:40:17.135+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="5568" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="09:39:25.133+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="9044" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="09:39:26.883+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="9044" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="10:03:25.179+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="9540" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="10:03:27.555+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="9540" file="powerstatemanager.cpp:1068">
+<![LOG[*** Keep the system awake]LOG]!><time="10:46:25.184+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="8464" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="10:46:26.572+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="8464" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="11:13:32.120+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="8492" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="11:13:32.122+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="8492" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="11:13:32.122+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="8492" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="11:13:32.141+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="8492" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="11:16:23.608+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="4044" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="11:16:23.608+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="4044" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="11:16:23.608+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="4044" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="11:16:23.622+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="8492" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="11:16:23.622+300" date="10-14-2013" component="CcmExec" context="" type="3" thread="8492" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="11:16:23.622+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="4044" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="11:30:27.862+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3964" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="11:30:27.862+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3964" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="11:30:27.862+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3964" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="11:30:27.883+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3964" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="11:34:39.802+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="7580" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="11:34:39.802+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="7580" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="11:34:39.802+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="5392" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="11:34:39.816+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="7580" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="11:34:39.816+300" date="10-14-2013" component="CcmExec" context="" type="3" thread="7580" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="11:34:39.816+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="5392" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="11:51:25.180+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="9000" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="11:51:27.363+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="9000" file="powerstatemanager.cpp:1068">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' lock processing.]LOG]!><time="12:08:16.725+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="5544" file="senslog.cpp:354">
+<![LOG[SystemTaskProcessor::QueueEvent(Lock, 0)]LOG]!><time="12:08:16.725+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="5544" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Lock')]LOG]!><time="12:08:16.725+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="5544" file="systemtask.cpp:564">
+<![LOG[END ExecuteSystemTasks('Lock')]LOG]!><time="12:08:16.740+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="5544" file="systemtask.cpp:680">
+<![LOG[User SID 'S-1-5-21-1454471165-2000478354-1801674531-190005' unlock processing.]LOG]!><time="12:09:39.627+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="9812" file="senslog.cpp:458">
+<![LOG[SystemTaskProcessor::QueueEvent(Unlock, 0)]LOG]!><time="12:09:39.627+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="9812" file="systemtaskprocessor.cpp:428">
+<![LOG[BEGIN ExecuteSystemTasks('Unlock')]LOG]!><time="12:09:39.627+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="9812" file="systemtask.cpp:564">
+<![LOG[Invoking system task 'PolicyEvaluator_Unlock' via ICcmSystemTask2 interface.]LOG]!><time="12:09:39.637+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="7688" file="systemtask.cpp:174">
+<![LOG[System task 'PolicyEvaluator_Unlock' returned error code 0x8000ffff.]LOG]!><time="12:09:39.637+300" date="10-14-2013" component="CcmExec" context="" type="3" thread="7688" file="systemtask.cpp:199">
+<![LOG[END ExecuteSystemTasks('Unlock')]LOG]!><time="12:09:39.637+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="9812" file="systemtask.cpp:680">
+<![LOG[*** Keep the system awake]LOG]!><time="12:14:06.097+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="9000" file="powerstatemanager.cpp:1057">
+<![LOG[*** System is now free to go to sleep]LOG]!><time="12:14:07.554+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="9000" file="powerstatemanager.cpp:1068">
+<![LOG[Notifying endpoint 'ScanAgent' of __InstanceModificationEvent settings change on object CCM_UpdateSource.UniqueID="{492D1044-253F-41DA-BD27-AFAE975C0A4C}" for user 'S-1-5-18'.]LOG]!><time="12:14:07.676+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="6468" file="wmisettings.cpp:202">

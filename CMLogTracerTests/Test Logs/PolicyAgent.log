@@ -1,0 +1,1762 @@
+﻿<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="06:30:18.702+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6592" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="06:30:18.715+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6592" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014113018.729000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 6592;
+};
+]LOG]!><time="06:30:18.729+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6592" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="06:30:18.792+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8048" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014113018.793000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 8048;
+};
+]LOG]!><time="06:30:18.793+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8048" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="06:30:18.794+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8048" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="06:30:18.794+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8048" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="06:30:18.795+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8048" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="06:34:04.361+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8172" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="06:34:04.367+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8172" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014113404.377000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 8172;
+};
+]LOG]!><time="06:34:04.377+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8172" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="06:40:18.631+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7232" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="06:40:18.641+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7232" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014114018.651000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 7232;
+};
+]LOG]!><time="06:40:18.651+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7232" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="06:40:18.705+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7284" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014114018.707000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 7284;
+};
+]LOG]!><time="06:40:18.707+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7284" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="06:40:18.708+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7284" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="06:40:18.708+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7284" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="06:40:18.709+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7284" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="06:44:04.314+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9640" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="06:44:04.321+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9640" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014114404.331000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 9640;
+};
+]LOG]!><time="06:44:04.331+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9640" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="06:50:18.660+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6452" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="06:50:18.670+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6452" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014115018.679000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 6452;
+};
+]LOG]!><time="06:50:18.679+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6452" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="06:50:18.731+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9364" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014115018.732000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 9364;
+};
+]LOG]!><time="06:50:18.732+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9364" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="06:50:18.733+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9364" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="06:50:18.734+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9364" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="06:50:18.734+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9364" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="06:54:04.365+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7328" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="06:54:04.371+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7328" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014115404.380000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 7328;
+};
+]LOG]!><time="06:54:04.380+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7328" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="07:00:18.709+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6280" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="07:00:18.720+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6280" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014120018.730000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 6280;
+};
+]LOG]!><time="07:00:18.731+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6280" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="07:00:18.804+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5616" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014120018.805000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 5616;
+};
+]LOG]!><time="07:00:18.805+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5616" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="07:00:18.806+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5616" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="07:00:18.807+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5616" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="07:00:18.807+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5616" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="07:04:04.415+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="2884" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="07:04:04.421+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="2884" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014120404.431000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 2884;
+};
+]LOG]!><time="07:04:04.431+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="2884" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="07:10:18.759+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3216" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="07:10:18.769+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3216" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014121018.778000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 3216;
+};
+]LOG]!><time="07:10:18.778+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3216" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="07:10:19.024+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="10084" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014121019.025000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 10084;
+};
+]LOG]!><time="07:10:19.025+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="10084" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="07:10:19.026+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="10084" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="07:10:19.026+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="10084" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="07:10:19.027+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="10084" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="07:14:04.465+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6212" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="07:14:04.472+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6212" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014121404.481000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 6212;
+};
+]LOG]!><time="07:14:04.481+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6212" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="07:20:18.809+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="4940" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="07:20:18.819+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="4940" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014122018.829000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 4940;
+};
+]LOG]!><time="07:20:18.829+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="4940" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="07:20:18.881+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7376" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014122018.882000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 7376;
+};
+]LOG]!><time="07:20:18.882+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7376" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="07:20:18.884+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7376" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="07:20:18.884+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7376" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="07:20:18.884+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7376" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="07:24:04.516+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="10044" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="07:24:04.520+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="10044" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014122404.528000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 10044;
+};
+]LOG]!><time="07:24:04.528+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="10044" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="07:30:18.859+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="5104" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="07:30:18.870+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="5104" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014123018.880000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 5104;
+};
+]LOG]!><time="07:30:18.880+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="5104" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="07:30:18.936+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8368" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014123018.937000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 8368;
+};
+]LOG]!><time="07:30:18.937+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8368" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="07:30:18.939+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8368" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="07:30:18.939+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8368" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="07:30:18.940+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8368" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="07:34:04.565+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3376" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="07:34:04.571+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3376" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014123404.580000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 3376;
+};
+]LOG]!><time="07:34:04.581+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3376" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="07:40:18.909+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8240" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="07:40:18.918+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8240" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014124018.928000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 8240;
+};
+]LOG]!><time="07:40:18.928+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8240" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="07:40:18.984+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6340" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014124018.985000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 6340;
+};
+]LOG]!><time="07:40:18.985+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6340" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="07:40:18.987+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6340" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="07:40:18.987+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6340" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="07:40:18.987+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6340" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="07:44:04.615+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="4384" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="07:44:04.621+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="4384" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014124404.630000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 4384;
+};
+]LOG]!><time="07:44:04.630+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="4384" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="07:50:18.957+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6580" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="07:50:18.968+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6580" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014125018.978000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 6580;
+};
+]LOG]!><time="07:50:18.978+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6580" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="07:50:19.036+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="3816" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014125019.037000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 3816;
+};
+]LOG]!><time="07:50:19.037+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="3816" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="07:50:19.038+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="3816" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="07:50:19.038+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="3816" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="07:50:19.039+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="3816" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="07:54:04.665+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8784" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="07:54:04.671+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8784" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014125404.680000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 8784;
+};
+]LOG]!><time="07:54:04.680+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8784" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="08:00:19.006+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="10032" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="08:00:19.017+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="10032" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014130019.026000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 10032;
+};
+]LOG]!><time="08:00:19.026+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="10032" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="08:00:19.081+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7596" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014130019.082000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 7596;
+};
+]LOG]!><time="08:00:19.082+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7596" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="08:00:19.084+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7596" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="08:00:19.084+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7596" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="08:00:19.085+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7596" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="08:04:04.715+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8888" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="08:04:04.721+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8888" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014130404.730000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 8888;
+};
+]LOG]!><time="08:04:04.731+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8888" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="08:10:19.056+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9996" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="08:10:19.067+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9996" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014131019.233000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 9996;
+};
+]LOG]!><time="08:10:19.233+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9996" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="08:10:19.292+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5136" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014131019.293000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 5136;
+};
+]LOG]!><time="08:10:19.293+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5136" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="08:10:19.294+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5136" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="08:10:19.294+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5136" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="08:10:19.295+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5136" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="08:14:04.765+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3080" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="08:14:04.771+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3080" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014131404.780000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 3080;
+};
+]LOG]!><time="08:14:04.780+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3080" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="08:20:19.106+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3160" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="08:20:19.116+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3160" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014132019.126000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 3160;
+};
+]LOG]!><time="08:20:19.126+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3160" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="08:20:19.192+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="2476" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014132019.193000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 2476;
+};
+]LOG]!><time="08:20:19.193+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="2476" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="08:20:19.194+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="2476" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="08:20:19.195+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="2476" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="08:20:19.195+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="2476" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="08:24:04.824+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7536" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="08:24:04.830+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7536" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014132404.838000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 7536;
+};
+]LOG]!><time="08:24:04.839+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7536" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="08:30:19.156+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8908" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="08:30:19.166+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8908" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014133019.174000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 8908;
+};
+]LOG]!><time="08:30:19.175+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8908" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="08:30:19.241+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7364" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014133019.242000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 7364;
+};
+]LOG]!><time="08:30:19.242+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7364" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="08:30:19.243+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7364" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="08:30:19.243+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7364" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="08:30:19.244+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7364" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="08:34:04.874+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7124" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="08:34:04.880+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7124" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014133404.892000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 7124;
+};
+]LOG]!><time="08:34:04.892+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7124" file="event.cpp:706">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="08:38:48.713+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6856" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="08:38:48.718+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6856" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014133848.774000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 6856;
+};
+]LOG]!><time="08:38:48.774+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6856" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="08:40:19.206+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9772" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="08:40:19.216+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9772" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014134019.226000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 9772;
+};
+]LOG]!><time="08:40:19.226+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9772" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="08:40:20.422+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6856" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014134020.424000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 6856;
+};
+]LOG]!><time="08:40:20.425+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6856" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="08:40:20.426+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6856" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="08:40:20.426+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6856" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="08:40:20.426+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6856" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="08:44:04.924+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="10016" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="08:44:04.929+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="10016" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014134404.938000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 10016;
+};
+]LOG]!><time="08:44:04.938+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="10016" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="08:50:19.256+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8160" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="08:50:19.266+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8160" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014135019.276000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 8160;
+};
+]LOG]!><time="08:50:19.276+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8160" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="08:50:19.331+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="10020" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014135019.332000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 10020;
+};
+]LOG]!><time="08:50:19.332+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="10020" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="08:50:19.334+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="10020" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="08:50:19.334+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="10020" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="08:50:19.334+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="10020" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="08:54:04.974+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9252" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="08:54:04.980+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9252" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014135404.990000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 9252;
+};
+]LOG]!><time="08:54:04.990+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9252" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="09:00:19.306+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3832" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="09:00:19.315+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3832" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014140019.324000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 3832;
+};
+]LOG]!><time="09:00:19.325+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3832" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="09:00:19.385+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6752" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014140019.386000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 6752;
+};
+]LOG]!><time="09:00:19.386+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6752" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="09:00:19.388+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6752" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="09:00:19.388+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6752" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="09:00:19.388+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6752" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="09:04:05.024+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7428" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="09:04:05.030+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7428" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014140405.040000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 7428;
+};
+]LOG]!><time="09:04:05.040+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7428" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="09:10:19.430+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8080" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="09:10:19.440+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8080" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014141019.451000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 8080;
+};
+]LOG]!><time="09:10:19.451+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8080" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="09:10:19.507+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8180" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014141019.508000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 8180;
+};
+]LOG]!><time="09:10:19.508+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8180" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="09:10:19.509+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8180" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="09:10:19.509+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8180" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="09:10:19.510+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8180" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="09:14:05.076+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9580" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="09:14:05.082+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9580" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014141405.092000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 9580;
+};
+]LOG]!><time="09:14:05.092+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9580" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="09:20:19.480+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="4364" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="09:20:19.491+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="4364" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014142019.501000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 4364;
+};
+]LOG]!><time="09:20:19.502+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="4364" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="09:20:19.596+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5392" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014142019.599000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 5392;
+};
+]LOG]!><time="09:20:19.599+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5392" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="09:20:19.600+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5392" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="09:20:19.600+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5392" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="09:20:19.601+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5392" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="09:24:05.127+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="2632" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="09:24:05.133+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="2632" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014142405.143000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 2632;
+};
+]LOG]!><time="09:24:05.143+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="2632" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="09:30:19.716+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7156" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="09:30:19.726+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7156" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014143019.740000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 7156;
+};
+]LOG]!><time="09:30:19.740+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7156" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="09:30:19.792+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6472" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014143019.793000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 6472;
+};
+]LOG]!><time="09:30:19.793+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6472" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="09:30:19.794+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6472" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="09:30:19.794+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6472" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="09:30:19.795+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6472" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="09:34:05.178+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="10196" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="09:34:05.184+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="10196" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014143405.193000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 10196;
+};
+]LOG]!><time="09:34:05.193+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="10196" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="09:40:19.765+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8512" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="09:40:19.776+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8512" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014144019.785000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 8512;
+};
+]LOG]!><time="09:40:19.785+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8512" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="09:40:19.844+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7748" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014144019.845000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 7748;
+};
+]LOG]!><time="09:40:19.845+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7748" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="09:40:19.846+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7748" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="09:40:19.846+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7748" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="09:40:19.847+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7748" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="09:44:05.228+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9296" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="09:44:05.234+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9296" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014144405.252000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 9296;
+};
+]LOG]!><time="09:44:05.252+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9296" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="09:50:19.814+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="5760" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="09:50:19.824+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="5760" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014145019.832000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 5760;
+};
+]LOG]!><time="09:50:19.833+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="5760" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="09:50:20.047+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5760" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014145020.048000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 5760;
+};
+]LOG]!><time="09:50:20.049+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5760" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="09:50:20.050+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5760" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="09:50:20.050+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5760" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="09:50:20.051+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="5760" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="09:54:05.283+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6464" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="09:54:05.289+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6464" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014145405.300000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 6464;
+};
+]LOG]!><time="09:54:05.300+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6464" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="10:00:20.019+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9540" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="10:00:20.030+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9540" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014150020.101000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 9540;
+};
+]LOG]!><time="10:00:20.101+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9540" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="10:00:20.155+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7716" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014150020.155000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 7716;
+};
+]LOG]!><time="10:00:20.155+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7716" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="10:00:20.157+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7716" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="10:00:20.157+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7716" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="10:00:20.158+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7716" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="10:04:05.356+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7716" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="10:04:05.361+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7716" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014150405.369000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 7716;
+};
+]LOG]!><time="10:04:05.369+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7716" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="10:10:20.069+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="5984" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="10:10:20.080+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="5984" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014151020.089000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 5984;
+};
+]LOG]!><time="10:10:20.089+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="5984" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="10:10:20.142+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7672" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014151020.143000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 7672;
+};
+]LOG]!><time="10:10:20.143+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7672" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="10:10:20.144+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7672" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="10:10:20.144+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7672" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="10:10:20.145+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7672" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="10:14:05.404+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3960" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="10:14:05.411+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3960" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014151405.419000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 3960;
+};
+]LOG]!><time="10:14:05.419+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="3960" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="10:20:20.118+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6604" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="10:20:20.128+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6604" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014152020.136000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 6604;
+};
+]LOG]!><time="10:20:20.136+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6604" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="10:20:20.188+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="680" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014152020.189000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 680;
+};
+]LOG]!><time="10:20:20.189+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="680" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="10:20:20.191+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="680" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="10:20:20.191+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="680" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="10:20:20.192+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="680" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="10:24:05.455+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="680" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="10:24:05.462+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="680" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014152405.471000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 680;
+};
+]LOG]!><time="10:24:05.471+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="680" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="10:30:20.167+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9576" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="10:30:20.177+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9576" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014153020.188000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 9576;
+};
+]LOG]!><time="10:30:20.188+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9576" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="10:30:20.274+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8060" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014153020.275000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 8060;
+};
+]LOG]!><time="10:30:20.275+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8060" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="10:30:20.277+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8060" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="10:30:20.277+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8060" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="10:30:20.277+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8060" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="10:34:05.505+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9076" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="10:34:05.512+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9076" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014153405.521000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 9076;
+};
+]LOG]!><time="10:34:05.521+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9076" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="10:40:20.217+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="2576" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="10:40:20.227+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="2576" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014154020.237000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 2576;
+};
+]LOG]!><time="10:40:20.237+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="2576" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="10:40:20.292+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8604" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014154020.293000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 8604;
+};
+]LOG]!><time="10:40:20.293+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8604" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="10:40:20.294+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8604" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="10:40:20.294+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8604" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="10:40:20.295+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8604" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="10:44:05.556+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8464" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="10:44:05.562+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8464" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014154405.571000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 8464;
+};
+]LOG]!><time="10:44:05.571+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8464" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="10:50:20.268+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6336" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="10:50:20.279+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6336" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014155020.292000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 6336;
+};
+]LOG]!><time="10:50:20.292+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6336" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="10:50:20.350+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6336" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014155020.351000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 6336;
+};
+]LOG]!><time="10:50:20.351+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6336" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="10:50:20.353+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6336" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="10:50:20.353+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6336" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="10:50:20.353+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="6336" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="10:54:05.609+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="5304" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="10:54:05.615+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="5304" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014155405.624000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 5304;
+};
+]LOG]!><time="10:54:05.625+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="5304" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="11:00:20.345+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6724" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="11:00:20.356+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6724" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014160020.366000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 6724;
+};
+]LOG]!><time="11:00:20.366+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6724" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="11:00:20.449+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="10052" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014160020.450000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 10052;
+};
+]LOG]!><time="11:00:20.450+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="10052" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="11:00:20.451+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="10052" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="11:00:20.452+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="10052" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="11:00:20.452+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="10052" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="11:04:05.659+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="2876" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="11:04:05.665+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="2876" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014160405.676000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 2876;
+};
+]LOG]!><time="11:04:05.676+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="2876" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="11:10:20.395+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9408" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="11:10:20.405+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9408" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014161020.415000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 9408;
+};
+]LOG]!><time="11:10:20.415+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9408" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="11:10:20.486+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9468" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014161020.486000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 9468;
+};
+]LOG]!><time="11:10:20.487+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9468" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="11:10:20.488+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9468" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="11:10:20.488+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9468" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 79 Domain Security Groups]LOG]!><time="11:10:20.488+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9468" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="11:14:05.709+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6960" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="11:14:05.715+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6960" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014161405.724000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 6960;
+};
+]LOG]!><time="11:14:05.724+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6960" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="11:20:20.449+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9608" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="11:20:20.462+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9608" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014162020.471000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 9608;
+};
+]LOG]!><time="11:20:20.472+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9608" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="11:20:21.668+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="4600" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014162021.668000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 4600;
+};
+]LOG]!><time="11:20:21.669+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="4600" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="11:20:21.670+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="4600" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="11:20:21.670+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="4600" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 80 Domain Security Groups]LOG]!><time="11:20:21.670+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="4600" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="11:24:05.759+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7860" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="11:24:05.763+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7860" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014162405.790000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 7860;
+};
+]LOG]!><time="11:24:05.790+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7860" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="11:30:20.499+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6284" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="11:30:20.509+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6284" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014163020.520000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 6284;
+};
+]LOG]!><time="11:30:20.520+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="6284" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="11:30:20.592+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="1812" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014163020.593000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 1812;
+};
+]LOG]!><time="11:30:20.593+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="1812" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="11:30:20.594+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="1812" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="11:30:20.594+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="1812" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 80 Domain Security Groups]LOG]!><time="11:30:20.595+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="1812" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="11:34:05.809+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="1812" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="11:34:05.815+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="1812" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014163405.823000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 1812;
+};
+]LOG]!><time="11:34:05.823+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="1812" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="11:40:20.549+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="4392" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="11:40:20.558+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="4392" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014164020.567000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 4392;
+};
+]LOG]!><time="11:40:20.567+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="4392" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="11:40:21.769+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="2644" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014164021.770000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 2644;
+};
+]LOG]!><time="11:40:21.770+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="2644" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="11:40:21.772+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="2644" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="11:40:21.772+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="2644" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 80 Domain Security Groups]LOG]!><time="11:40:21.772+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="2644" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="11:44:05.859+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8612" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="11:44:05.864+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8612" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014164405.873000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 8612;
+};
+]LOG]!><time="11:44:05.873+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="8612" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="11:50:20.599+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7444" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="11:50:20.609+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7444" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014165020.619000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 7444;
+};
+]LOG]!><time="11:50:20.619+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7444" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="11:50:20.692+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8576" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014165020.693000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 8576;
+};
+]LOG]!><time="11:50:20.693+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8576" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="11:50:20.694+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8576" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="11:50:20.694+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8576" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 80 Domain Security Groups]LOG]!><time="11:50:20.695+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="8576" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="11:54:05.910+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9736" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="11:54:05.916+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9736" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014165405.926000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 9736;
+};
+]LOG]!><time="11:54:05.926+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9736" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="12:00:20.649+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7504" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="12:00:20.659+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7504" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014170020.668000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 7504;
+};
+]LOG]!><time="12:00:20.668+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="7504" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="12:00:20.745+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9680" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014170020.746000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 9680;
+};
+]LOG]!><time="12:00:20.746+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9680" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="12:00:20.747+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9680" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="12:00:20.747+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9680" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 80 Domain Security Groups]LOG]!><time="12:00:20.748+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9680" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="12:04:05.961+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9772" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="12:04:05.967+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9772" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014170405.976000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 9772;
+};
+]LOG]!><time="12:04:05.977+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="9772" file="event.cpp:706">
+<![LOG[Requesting User policy assignments for 'S-1-5-21-1454471165-2000478354-1801674531-190005']LOG]!><time="12:10:20.697+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="1652" file="requestassignmentstask.cpp:1489">
+<![LOG[Requesting User policy from authority 'SMS:CM2']LOG]!><time="12:10:20.708+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="1652" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014171020.716000+000";
+	ProcessID = 1860;
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 1652;
+};
+]LOG]!><time="12:10:20.716+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="1652" file="event.cpp:706">
+<![LOG[Processing User assignments from 'SMS:CM2'. The new cookie is ''.]LOG]!><time="12:10:21.921+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9812" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014171021.922000+000";
+	ProcessID = 1860;
+	ReplyType = "Full";
+	ResourceName = "S-1-5-21-1454471165-2000478354-1801674531-190005";
+	ResourceType = "User";
+	ThreadID = 9812;
+};
+]LOG]!><time="12:10:21.922+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9812" file="event.cpp:706">
+<![LOG[Received User full policy update with 0 assignments]LOG]!><time="12:10:21.924+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9812" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Cleaning policy for 'SMS:CM2' in '\\AHS-OD-ABLAS\ROOT\ccm\Policy\S_1_5_21_1454471165_2000478354_1801674531_190005\RequestedConfig']LOG]!><time="12:10:21.924+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9812" file="policyutil.cpp:9052">
+<![LOG[User 'S-1-5-21-1454471165-2000478354-1801674531-190005' is member of 80 Domain Security Groups]LOG]!><time="12:10:21.924+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="9812" file="replyassignmentsendpoint.cpp:735">
+<![LOG[Requesting Machine policy assignments]LOG]!><time="12:14:06.011+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="1180" file="requestassignmentstask.cpp:1485">
+<![LOG[Requesting Machine policy from authority 'SMS:CM2']LOG]!><time="12:14:06.017+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="1180" file="requestassignmentstask.cpp:1549">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014171406.026000+000";
+	ProcessID = 1860;
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 1180;
+};
+]LOG]!><time="12:14:06.026+300" date="10-14-2013" component="PolicyAgent_RequestAssignments" context="" type="1" thread="1180" file="event.cpp:706">
+<![LOG[Processing Machine assignments from 'SMS:CM2'. The new cookie is '2013-10-14 17:11:32.403'.]LOG]!><time="12:14:06.071+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7284" file="replyassignmentsendpoint.cpp:1441">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_AssignmentsReceived
+{
+	AuthorityName = "SMS:CM2";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014171406.072000+000";
+	ProcessID = 1860;
+	ReplyType = "Delta";
+	ResourceName = "AHS-OD-ABLAS";
+	ResourceType = "Machine";
+	ThreadID = 7284;
+};
+]LOG]!><time="12:14:06.072+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7284" file="event.cpp:706">
+<![LOG[Received Machine delta policy update with 1 assignments]LOG]!><time="12:14:06.073+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7284" file="replyassignmentsendpoint.cpp:1939">
+<![LOG[Compiling policy assignment '{af81e565-1f2d-40a1-9340-66f3aee74416}' (ver. 1473.00) from 'SMS:CM2' (2013-10-14 17:11:32.403)]LOG]!><time="12:14:06.073+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7284" file="policyutil.cpp:5394">
+<![LOG[Compiling policy '{071d1116-1761-4428-81b6-493cf96504e8}' version '1473.00' hash 'SHA256:FDE86220C1CCEC3A5C5851E9E8A9684B2D4E1CAAB1143F34F0627311C499F31C' from 'SMS:CM2' (2013-10-14 17:11:32.403)]LOG]!><time="12:14:06.074+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7284" file="policyutil.cpp:4993">
+<![LOG[Initializing download of policy 'CCM_Policy_Policy5.PolicyID="{071d1116-1761-4428-81b6-493cf96504e8}",PolicySource="SMS:CM2",PolicyVersion="1473.00"' from 'http://SCCM-UIC-PS1.ad.uillinois.edu/SMS_MP/.sms_pol?{071d1116-1761-4428-81b6-493cf96504e8}.1473_00']LOG]!><time="12:14:06.084+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7284" file="policyutil.cpp:4145">
+<![LOG[Download of policy started - DTS job ID: '{2BA53816-534E-451C-9502-BE665E253787}']LOG]!><time="12:14:06.088+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7284" file="policyutil.cpp:4013">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_PolicyDownloadStarted
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014171406.094000+000";
+	DownloadMethod = "BITS";
+	DownloadSource = "http://SCCM-UIC-PS1.ad.uillinois.edu/SMS_MP/.sms_pol?{071d1116-1761-4428-81b6-493cf96504e8}.1473_00";
+	PolicyNamespace = "\\\\AHS-OD-ABLAS\\ROOT\\ccm\\Policy\\Machine\\RequestedConfig";
+	PolicyPath = "CCM_Policy_Policy5.PolicyID=\"{071d1116-1761-4428-81b6-493cf96504e8}\",PolicySource=\"SMS:CM2\",PolicyVersion=\"1473.00\"";
+	ProcessID = 1860;
+	ThreadID = 7284;
+};
+]LOG]!><time="12:14:06.094+300" date="10-14-2013" component="PolicyAgent_ReplyAssignments" context="" type="1" thread="7284" file="event.cpp:706">
+<![LOG[Download of policy CCM_Policy_Policy5.PolicyID="{071d1116-1761-4428-81b6-493cf96504e8}",PolicySource="SMS:CM2",PolicyVersion="1473.00" completed (DTS Job ID: {2BA53816-534E-451C-9502-BE665E253787})]LOG]!><time="12:14:06.981+300" date="10-14-2013" component="PolicyAgent_PolicyDownload" context="" type="1" thread="1676" file="policydownloadendpoint.cpp:599">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_PolicyDownloadSucceeded
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014171406.983000+000";
+	DownloadMethod = "BITS";
+	DownloadSource = "http://SCCM-UIC-PS1.ad.uillinois.edu/SMS_MP/.sms_pol?{071d1116-1761-4428-81b6-493cf96504e8}.1473_00";
+	PolicyNamespace = "\\\\AHS-OD-ABLAS\\ROOT\\ccm\\Policy\\Machine\\RequestedConfig";
+	PolicyPath = "CCM_Policy_Policy5.PolicyID=\"{071d1116-1761-4428-81b6-493cf96504e8}\",PolicySource=\"SMS:CM2\",PolicyVersion=\"1473.00\"";
+	ProcessID = 1860;
+	ThreadID = 1676;
+};
+]LOG]!><time="12:14:06.983+300" date="10-14-2013" component="PolicyAgent_PolicyDownload" context="" type="1" thread="1676" file="event.cpp:706">
+<![LOG[Revoking policy '{071d1116-1761-4428-81b6-493cf96504e8}' version '1472.00']LOG]!><time="12:14:07.026+300" date="10-14-2013" component="PolicyAgent_PolicyDownload" context="" type="1" thread="1676" file="policyutil.cpp:6219">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_PolicyRuleRevoked
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014171407.067000+000";
+	PolicyID = "{071d1116-1761-4428-81b6-493cf96504e8}";
+	PolicyNamespace = "\\\\AHS-OD-ABLAS\\ROOT\\ccm\\Policy\\Machine\\RequestedConfig";
+	PolicySource = "SMS:CM2";
+	PolicyVersion = "1472.00";
+	ProcessID = 1860;
+	RuleCondition = "";
+	RuleID = "{61846a16-f1c8-422c-b2d7-82b501283a91}";
+	ThreadID = 1676;
+};
+]LOG]!><time="12:14:07.067+300" date="10-14-2013" component="PolicyAgent_PolicyDownload" context="" type="1" thread="1676" file="event.cpp:706">
+<![LOG[Deleting policy '{071d1116-1761-4428-81b6-493cf96504e8}' version '1472.00']LOG]!><time="12:14:07.068+300" date="10-14-2013" component="PolicyAgent_PolicyDownload" context="" type="1" thread="1676" file="policyutil.cpp:1279">

@@ -1,0 +1,1153 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3019FEAC180D820E00F00CC2 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3019FEAB180D820E00F00CC2 /* CoreData.framework */; };
+		3039AB3B18284D6E00E59BA5 /* CMLogEntry.m in Sources */ = {isa = PBXBuildFile; fileRef = 3039AB3A18284D6E00E59BA5 /* CMLogEntry.m */; };
+		3039C9B618393553001B8AB5 /* ImportProgressIndicator.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3039C9B818393553001B8AB5 /* ImportProgressIndicator.xib */; };
+		307C7DE6180C6CE30085468D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 307C7DE5180C6CE30085468D /* Foundation.framework */; };
+		307C7DE8180C6CE30085468D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 307C7DE7180C6CE30085468D /* CoreGraphics.framework */; };
+		307C7DEA180C6CE30085468D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 307C7DE9180C6CE30085468D /* UIKit.framework */; };
+		3082902C18141802008242C3 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 3082902B18141802008242C3 /* libz.dylib */; };
+		30A272C21814BBA800472803 /* CMAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 30A272AF1814BBA800472803 /* CMAppDelegate.m */; };
+		30A272C31814BBA800472803 /* CMDataStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 30A272B11814BBA800472803 /* CMDataStore.m */; };
+		30A272C41814BBA800472803 /* CMLogEntriesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 30A272B31814BBA800472803 /* CMLogEntriesViewController.m */; };
+		30A272C61814BBA800472803 /* CMLogEntryDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 30A272B71814BBA800472803 /* CMLogEntryDetailsViewController.m */; };
+		30A272C71814BBA800472803 /* CMLogFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 30A272B91814BBA800472803 /* CMLogFile.m */; };
+		30A272C81814BBA800472803 /* CMLogImporter.m in Sources */ = {isa = PBXBuildFile; fileRef = 30A272BB1814BBA800472803 /* CMLogImporter.m */; };
+		30A272C91814BBA800472803 /* CMLogsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 30A272BD1814BBA800472803 /* CMLogsViewController.m */; };
+		30A272CA1814BBA800472803 /* CMUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 30A272C01814BBA800472803 /* CMUtils.m */; };
+		30A272CB1814BBA800472803 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30A272C11814BBA800472803 /* Images.xcassets */; };
+		30A272D01814BBBC00472803 /* LogEntryTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 30A272CC1814BBBC00472803 /* LogEntryTableCell.xib */; };
+		30A272D11814BBBC00472803 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30A272CE1814BBBC00472803 /* Main.storyboard */; };
+		30A272D81814BBE300472803 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 30A272D51814BBE300472803 /* Localizable.strings */; };
+		30A272DD1814BC0100472803 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 30A272DB1814BC0100472803 /* main.m */; };
+		30A272E11814BCB600472803 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 30A272D31814BBE300472803 /* InfoPlist.strings */; };
+		30D68A551819872E00159A76 /* SCCM Log File.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 30D68A531819872E00159A76 /* SCCM Log File.xcdatamodeld */; };
+		30D68A561819872E00159A76 /* SCCM Log File.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 30D68A531819872E00159A76 /* SCCM Log File.xcdatamodeld */; };
+		30DAF81818149AD900417CCD /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 307C7E07180C6CE30085468D /* XCTest.framework */; };
+		30DAF81918149AD900417CCD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 307C7DE5180C6CE30085468D /* Foundation.framework */; };
+		30DAF81A18149AD900417CCD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 307C7DE9180C6CE30085468D /* UIKit.framework */; };
+		30DAF82018149AD900417CCD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF81E18149AD900417CCD /* InfoPlist.strings */; };
+		30DAF89718149B2200417CCD /* CMLogImporterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 30DAF82A18149B2200417CCD /* CMLogImporterTests.m */; };
+		30DAF90318149B4400417CCD /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 3082902B18141802008242C3 /* libz.dylib */; };
+		30DAF90418149B4700417CCD /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 307C7DE7180C6CE30085468D /* CoreGraphics.framework */; };
+		30DAF90518149B4A00417CCD /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3019FEAB180D820E00F00CC2 /* CoreData.framework */; };
+		30DAF97118149E1600417CCD /* _SCNotify_AD@ablas_1.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF90618149E1500417CCD /* _SCNotify_AD@ablas_1.log */; };
+		30DAF97218149E1600417CCD /* 2007-CcmExec.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF90718149E1500417CCD /* 2007-CcmExec.log */; };
+		30DAF97318149E1600417CCD /* AppDiscovery-20131013-032227.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF90818149E1500417CCD /* AppDiscovery-20131013-032227.log */; };
+		30DAF97418149E1600417CCD /* AppDiscovery.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF90918149E1500417CCD /* AppDiscovery.log */; };
+		30DAF97518149E1600417CCD /* AppEnforce.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF90A18149E1500417CCD /* AppEnforce.log */; };
+		30DAF97618149E1600417CCD /* AppIntentEval-20131013-091925.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF90B18149E1500417CCD /* AppIntentEval-20131013-091925.log */; };
+		30DAF97718149E1600417CCD /* AppIntentEval.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF90C18149E1500417CCD /* AppIntentEval.log */; };
+		30DAF97818149E1600417CCD /* AssetAdvisor-20131009-112553.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF90D18149E1500417CCD /* AssetAdvisor-20131009-112553.log */; };
+		30DAF97918149E1600417CCD /* AssetAdvisor.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF90E18149E1500417CCD /* AssetAdvisor.log */; };
+		30DAF97A18149E1600417CCD /* Busted-CcmMessaging.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF90F18149E1500417CCD /* Busted-CcmMessaging.log */; };
+		30DAF97B18149E1600417CCD /* Busted-CcmNotificationAgent-20131014-063030.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF91018149E1500417CCD /* Busted-CcmNotificationAgent-20131014-063030.log */; };
+		30DAF97C18149E1600417CCD /* Busted-CcmNotificationAgent.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF91118149E1500417CCD /* Busted-CcmNotificationAgent.log */; };
+		30DAF97D18149E1600417CCD /* Busted-CcmRepair.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF91218149E1500417CCD /* Busted-CcmRepair.log */; };
+		30DAF97E18149E1600417CCD /* Busted-CcmRestart.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF91318149E1500417CCD /* Busted-CcmRestart.log */; };
+		30DAF97F18149E1600417CCD /* CAS.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF91418149E1500417CCD /* CAS.log */; };
+		30DAF98018149E1600417CCD /* CcmEval-20131002-000428.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF91518149E1500417CCD /* CcmEval-20131002-000428.log */; };
+		30DAF98118149E1600417CCD /* CcmEval.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF91618149E1500417CCD /* CcmEval.log */; };
+		30DAF98218149E1600417CCD /* CcmEvalTask.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF91718149E1500417CCD /* CcmEvalTask.log */; };
+		30DAF98318149E1600417CCD /* CcmExec-20131009-083840.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF91818149E1500417CCD /* CcmExec-20131009-083840.log */; };
+		30DAF98418149E1600417CCD /* CcmExec.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF91918149E1500417CCD /* CcmExec.log */; };
+		30DAF98518149E1600417CCD /* CcmMessaging-20131014-091925.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF91A18149E1500417CCD /* CcmMessaging-20131014-091925.log */; };
+		30DAF98618149E1600417CCD /* CcmMessaging.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF91B18149E1500417CCD /* CcmMessaging.log */; };
+		30DAF98718149E1600417CCD /* CcmNotificationAgent-20131014-063030.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF91C18149E1500417CCD /* CcmNotificationAgent-20131014-063030.log */; };
+		30DAF98818149E1600417CCD /* CcmNotificationAgent.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF91D18149E1500417CCD /* CcmNotificationAgent.log */; };
+		30DAF98918149E1600417CCD /* CcmRepair.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF91E18149E1500417CCD /* CcmRepair.log */; };
+		30DAF98A18149E1600417CCD /* CcmRestart.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF91F18149E1500417CCD /* CcmRestart.log */; };
+		30DAF98B18149E1600417CCD /* CCMSDKProvider-20131012-143855.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF92018149E1500417CCD /* CCMSDKProvider-20131012-143855.log */; };
+		30DAF98C18149E1600417CCD /* CCMSDKProvider.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF92118149E1500417CCD /* CCMSDKProvider.log */; };
+		30DAF98D18149E1600417CCD /* CCMVDIProvider.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF92218149E1500417CCD /* CCMVDIProvider.log */; };
+		30DAF98E18149E1600417CCD /* CertificateMaintenance.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF92318149E1500417CCD /* CertificateMaintenance.log */; };
+		30DAF98F18149E1600417CCD /* CIAgent-20131014-083846.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF92418149E1500417CCD /* CIAgent-20131014-083846.log */; };
+		30DAF99018149E1600417CCD /* CIAgent.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF92518149E1500417CCD /* CIAgent.log */; };
+		30DAF99118149E1600417CCD /* CIDownloader-20131013-143025.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF92618149E1500417CCD /* CIDownloader-20131013-143025.log */; };
+		30DAF99218149E1600417CCD /* CIDownloader.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF92718149E1500417CCD /* CIDownloader.log */; };
+		30DAF99318149E1600417CCD /* CIStateStore-20131014-083846.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF92818149E1500417CCD /* CIStateStore-20131014-083846.log */; };
+		30DAF99418149E1600417CCD /* CIStateStore.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF92918149E1500417CCD /* CIStateStore.log */; };
+		30DAF99518149E1600417CCD /* CIStore-20131013-091925.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF92A18149E1500417CCD /* CIStore-20131013-091925.log */; };
+		30DAF99618149E1600417CCD /* CIStore.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF92B18149E1500417CCD /* CIStore.log */; };
+		30DAF99718149E1600417CCD /* CITaskMgr.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF92C18149E1500417CCD /* CITaskMgr.log */; };
+		30DAF99818149E1600417CCD /* ClientIDManagerStartup-20131001-203439.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF92D18149E1500417CCD /* ClientIDManagerStartup-20131001-203439.log */; };
+		30DAF99918149E1600417CCD /* ClientIDManagerStartup.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF92E18149E1500417CCD /* ClientIDManagerStartup.log */; };
+		30DAF99A18149E1600417CCD /* ClientLocation.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF92F18149E1500417CCD /* ClientLocation.log */; };
+		30DAF99B18149E1600417CCD /* CmRcService.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF93018149E1500417CCD /* CmRcService.log */; };
+		30DAF99C18149E1600417CCD /* ContentTransferManager.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF93118149E1500417CCD /* ContentTransferManager.log */; };
+		30DAF99D18149E1600417CCD /* DataTransferService-20131011-105409.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF93218149E1500417CCD /* DataTransferService-20131011-105409.log */; };
+		30DAF99E18149E1600417CCD /* DataTransferService.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF93318149E1500417CCD /* DataTransferService.log */; };
+		30DAF99F18149E1600417CCD /* DCMAgent-20131014-063856.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF93418149E1500417CCD /* DCMAgent-20131014-063856.log */; };
+		30DAF9A018149E1600417CCD /* DCMAgent.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF93518149E1500417CCD /* DCMAgent.log */; };
+		30DAF9A118149E1600417CCD /* DCMReporting-20131014-100326.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF93618149E1500417CCD /* DCMReporting-20131014-100326.log */; };
+		30DAF9A218149E1600417CCD /* DCMReporting.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF93718149E1500417CCD /* DCMReporting.log */; };
+		30DAF9A318149E1600417CCD /* DcmWmiProvider-20131012-083837.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF93818149E1500417CCD /* DcmWmiProvider-20131012-083837.log */; };
+		30DAF9A418149E1600417CCD /* DcmWmiProvider.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF93918149E1500417CCD /* DcmWmiProvider.log */; };
+		30DAF9A518149E1600417CCD /* EndpointProtectionAgent.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF93A18149E1500417CCD /* EndpointProtectionAgent.log */; };
+		30DAF9A618149E1600417CCD /* execmgr.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF93B18149E1500417CCD /* execmgr.log */; };
+		30DAF9A718149E1600417CCD /* ExpressionSolver-20131012-033827.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF93C18149E1500417CCD /* ExpressionSolver-20131012-033827.log */; };
+		30DAF9A818149E1600417CCD /* ExpressionSolver.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF93D18149E1500417CCD /* ExpressionSolver.log */; };
+		30DAF9A918149E1600417CCD /* ExternalEventAgent.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF93E18149E1500417CCD /* ExternalEventAgent.log */; };
+		30DAF9AA18149E1600417CCD /* FileBITS.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF93F18149E1500417CCD /* FileBITS.log */; };
+		30DAF9AB18149E1600417CCD /* FSPStateMessage.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF94018149E1500417CCD /* FSPStateMessage.log */; };
+		30DAF9AC18149E1600417CCD /* InventoryAgent-20131010-091927.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF94118149E1500417CCD /* InventoryAgent-20131010-091927.log */; };
+		30DAF9AD18149E1600417CCD /* InventoryAgent.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF94218149E1500417CCD /* InventoryAgent.log */; };
+		30DAF9AE18149E1600417CCD /* InventoryProvider-20131003-183230.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF94318149E1500417CCD /* InventoryProvider-20131003-183230.log */; };
+		30DAF9AF18149E1600417CCD /* InventoryProvider.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF94418149E1500417CCD /* InventoryProvider.log */; };
+		30DAF9B018149E1600417CCD /* LocationServices-20131006-151409.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF94518149E1500417CCD /* LocationServices-20131006-151409.log */; };
+		30DAF9B118149E1600417CCD /* LocationServices.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF94618149E1500417CCD /* LocationServices.log */; };
+		30DAF9B218149E1600417CCD /* MaintenanceCoordinator.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF94718149E1600417CCD /* MaintenanceCoordinator.log */; };
+		30DAF9B318149E1600417CCD /* mtrmgr.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF94818149E1600417CCD /* mtrmgr.log */; };
+		30DAF9B418149E1600417CCD /* oobmgmt.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF94918149E1600417CCD /* oobmgmt.log */; };
+		30DAF9B518149E1600417CCD /* PeerDPAgent.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF94A18149E1600417CCD /* PeerDPAgent.log */; };
+		30DAF9B618149E1600417CCD /* PolicyAgent-20131014-062404.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF94B18149E1600417CCD /* PolicyAgent-20131014-062404.log */; };
+		30DAF9B718149E1600417CCD /* PolicyAgent.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF94C18149E1600417CCD /* PolicyAgent.log */; };
+		30DAF9B818149E1600417CCD /* PolicyAgentProvider-20131011-094508.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF94D18149E1600417CCD /* PolicyAgentProvider-20131011-094508.log */; };
+		30DAF9B918149E1600417CCD /* PolicyAgentProvider.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF94E18149E1600417CCD /* PolicyAgentProvider.log */; };
+		30DAF9BA18149E1600417CCD /* PolicyEvaluator-20131014-091925.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF94F18149E1600417CCD /* PolicyEvaluator-20131014-091925.log */; };
+		30DAF9BB18149E1600417CCD /* PolicyEvaluator.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF95018149E1600417CCD /* PolicyEvaluator.log */; };
+		30DAF9BC18149E1600417CCD /* pwrmgmt-20131013-221432.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF95118149E1600417CCD /* pwrmgmt-20131013-221432.log */; };
+		30DAF9BD18149E1600417CCD /* pwrmgmt.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF95218149E1600417CCD /* pwrmgmt.log */; };
+		30DAF9BE18149E1600417CCD /* PwrProvider-20131012-131640.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF95318149E1600417CCD /* PwrProvider-20131012-131640.log */; };
+		30DAF9BF18149E1600417CCD /* PwrProvider.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF95418149E1600417CCD /* PwrProvider.log */; };
+		30DAF9C018149E1600417CCD /* RebootCoordinator.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF95518149E1600417CCD /* RebootCoordinator.log */; };
+		30DAF9C118149E1600417CCD /* ScanAgent.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF95618149E1600417CCD /* ScanAgent.log */; };
+		30DAF9C218149E1600417CCD /* SCClient_AD@ablas_1.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF95718149E1600417CCD /* SCClient_AD@ablas_1.log */; };
+		30DAF9C318149E1600417CCD /* Scheduler-20131013-180429.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF95818149E1600417CCD /* Scheduler-20131013-180429.log */; };
+		30DAF9C418149E1600417CCD /* Scheduler.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF95918149E1600417CCD /* Scheduler.log */; };
+		30DAF9C518149E1600417CCD /* SCNotify_AD@ablas_1.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF95A18149E1600417CCD /* SCNotify_AD@ablas_1.log */; };
+		30DAF9C618149E1600417CCD /* ServiceWindowManager-20131010-060001.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF95B18149E1600417CCD /* ServiceWindowManager-20131010-060001.log */; };
+		30DAF9C718149E1600417CCD /* ServiceWindowManager.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF95C18149E1600417CCD /* ServiceWindowManager.log */; };
+		30DAF9C818149E1600417CCD /* setuppolicyevaluator.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF95D18149E1600417CCD /* setuppolicyevaluator.log */; };
+		30DAF9C918149E1600417CCD /* smscliui.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF95E18149E1600417CCD /* smscliui.log */; };
+		30DAF9CA18149E1600417CCD /* smssha.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF95F18149E1600417CCD /* smssha.log */; };
+		30DAF9CB18149E1600417CCD /* SoftwareCatalogUpdateEndpoint.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF96018149E1600417CCD /* SoftwareCatalogUpdateEndpoint.log */; };
+		30DAF9CC18149E1600417CCD /* SoftwareCenterSystemTasks.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF96118149E1600417CCD /* SoftwareCenterSystemTasks.log */; };
+		30DAF9CD18149E1600417CCD /* SrcUpdateMgr.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF96218149E1600417CCD /* SrcUpdateMgr.log */; };
+		30DAF9CE18149E1600417CCD /* StateMessage-20131013-091925.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF96318149E1600417CCD /* StateMessage-20131013-091925.log */; };
+		30DAF9CF18149E1600417CCD /* StateMessage.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF96418149E1600417CCD /* StateMessage.log */; };
+		30DAF9D018149E1600417CCD /* StateMessageProvider-20131014-071914.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF96518149E1600417CCD /* StateMessageProvider-20131014-071914.log */; };
+		30DAF9D118149E1600417CCD /* StateMessageProvider.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF96618149E1600417CCD /* StateMessageProvider.log */; };
+		30DAF9D218149E1600417CCD /* StatusAgent-20131014-110407.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF96718149E1600417CCD /* StatusAgent-20131014-110407.log */; };
+		30DAF9D318149E1600417CCD /* StatusAgent.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF96818149E1600417CCD /* StatusAgent.log */; };
+		30DAF9D418149E1600417CCD /* SWMTRReportGen.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF96918149E1600417CCD /* SWMTRReportGen.log */; };
+		30DAF9D518149E1600417CCD /* UpdatesDeployment.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF96A18149E1600417CCD /* UpdatesDeployment.log */; };
+		30DAF9D618149E1600417CCD /* UpdatesHandler.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF96B18149E1600417CCD /* UpdatesHandler.log */; };
+		30DAF9D718149E1600417CCD /* UpdateTrustedSites.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF96C18149E1600417CCD /* UpdateTrustedSites.log */; };
+		30DAF9D818149E1600417CCD /* UserAffinity.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF96D18149E1600417CCD /* UserAffinity.log */; };
+		30DAF9D918149E1600417CCD /* VirtualApp.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF96E18149E1600417CCD /* VirtualApp.log */; };
+		30DAF9DA18149E1600417CCD /* wedmtrace.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF96F18149E1600417CCD /* wedmtrace.log */; };
+		30DAF9DB18149E1600417CCD /* WUAHandler.log in Resources */ = {isa = PBXBuildFile; fileRef = 30DAF97018149E1600417CCD /* WUAHandler.log */; };
+		3F4B6F089D68B71C92975098 /* libPods-CMLogTracer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6978DE0BC544E09B685F7BC0 /* libPods-CMLogTracer.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		30DAF82418149ADA00417CCD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 307C7DDA180C6CE30085468D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 307C7DE1180C6CE30085468D;
+			remoteInfo = CMLogTracer;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3019FEAB180D820E00F00CC2 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		3039AB3918284D6E00E59BA5 /* CMLogEntry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CMLogEntry.h; sourceTree = "<group>"; };
+		3039AB3A18284D6E00E59BA5 /* CMLogEntry.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CMLogEntry.m; sourceTree = "<group>"; };
+		3039C9B718393553001B8AB5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/ImportProgressIndicator.xib; sourceTree = "<group>"; };
+		307C7DE2180C6CE30085468D /* CMLogTracer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CMLogTracer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		307C7DE5180C6CE30085468D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		307C7DE7180C6CE30085468D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		307C7DE9180C6CE30085468D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		307C7E07180C6CE30085468D /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		3082902B18141802008242C3 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		3084CADF18298A4E00221235 /* CMLogEntry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CMLogEntry.h; sourceTree = "<group>"; };
+		3084CAE018298A4E00221235 /* CMLogEntry.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CMLogEntry.m; sourceTree = "<group>"; };
+		30A272AE1814BBA800472803 /* CMAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CMAppDelegate.h; path = CMLogTracer/CMAppDelegate.h; sourceTree = SOURCE_ROOT; };
+		30A272AF1814BBA800472803 /* CMAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CMAppDelegate.m; path = CMLogTracer/CMAppDelegate.m; sourceTree = SOURCE_ROOT; };
+		30A272B01814BBA800472803 /* CMDataStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CMDataStore.h; path = CMLogTracer/CMDataStore.h; sourceTree = SOURCE_ROOT; };
+		30A272B11814BBA800472803 /* CMDataStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CMDataStore.m; path = CMLogTracer/CMDataStore.m; sourceTree = SOURCE_ROOT; };
+		30A272B21814BBA800472803 /* CMLogEntriesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CMLogEntriesViewController.h; path = CMLogTracer/CMLogEntriesViewController.h; sourceTree = SOURCE_ROOT; };
+		30A272B31814BBA800472803 /* CMLogEntriesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CMLogEntriesViewController.m; path = CMLogTracer/CMLogEntriesViewController.m; sourceTree = SOURCE_ROOT; };
+		30A272B61814BBA800472803 /* CMLogEntryDetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CMLogEntryDetailsViewController.h; path = CMLogTracer/CMLogEntryDetailsViewController.h; sourceTree = SOURCE_ROOT; };
+		30A272B71814BBA800472803 /* CMLogEntryDetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CMLogEntryDetailsViewController.m; path = CMLogTracer/CMLogEntryDetailsViewController.m; sourceTree = SOURCE_ROOT; };
+		30A272B81814BBA800472803 /* CMLogFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CMLogFile.h; path = CMLogTracer/CMLogFile.h; sourceTree = SOURCE_ROOT; };
+		30A272B91814BBA800472803 /* CMLogFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CMLogFile.m; path = CMLogTracer/CMLogFile.m; sourceTree = SOURCE_ROOT; };
+		30A272BA1814BBA800472803 /* CMLogImporter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CMLogImporter.h; path = CMLogTracer/CMLogImporter.h; sourceTree = SOURCE_ROOT; };
+		30A272BB1814BBA800472803 /* CMLogImporter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CMLogImporter.m; path = CMLogTracer/CMLogImporter.m; sourceTree = SOURCE_ROOT; };
+		30A272BC1814BBA800472803 /* CMLogsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CMLogsViewController.h; path = CMLogTracer/CMLogsViewController.h; sourceTree = SOURCE_ROOT; };
+		30A272BD1814BBA800472803 /* CMLogsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CMLogsViewController.m; path = CMLogTracer/CMLogsViewController.m; sourceTree = SOURCE_ROOT; };
+		30A272BF1814BBA800472803 /* CMUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CMUtils.h; path = CMLogTracer/CMUtils.h; sourceTree = SOURCE_ROOT; };
+		30A272C01814BBA800472803 /* CMUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CMUtils.m; path = CMLogTracer/CMUtils.m; sourceTree = SOURCE_ROOT; };
+		30A272C11814BBA800472803 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = CMLogTracer/Images.xcassets; sourceTree = SOURCE_ROOT; };
+		30A272CD1814BBBC00472803 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = CMLogTracer/Base.lproj/LogEntryTableCell.xib; sourceTree = SOURCE_ROOT; };
+		30A272CF1814BBBC00472803 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = CMLogTracer/Base.lproj/Main.storyboard; sourceTree = SOURCE_ROOT; };
+		30A272D41814BBE300472803 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = CMLogTracer/Base.lproj/InfoPlist.strings; sourceTree = SOURCE_ROOT; };
+		30A272D61814BBE300472803 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = CMLogTracer/Base.lproj/Localizable.strings; sourceTree = SOURCE_ROOT; };
+		30A272D91814BC0100472803 /* CMLogTracer-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "CMLogTracer-Info.plist"; path = "CMLogTracer/CMLogTracer-Info.plist"; sourceTree = SOURCE_ROOT; };
+		30A272DA1814BC0100472803 /* CMLogTracer-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "CMLogTracer-Prefix.pch"; path = "CMLogTracer/CMLogTracer-Prefix.pch"; sourceTree = SOURCE_ROOT; };
+		30A272DB1814BC0100472803 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = CMLogTracer/main.m; sourceTree = SOURCE_ROOT; };
+		30D68A541819872E00159A76 /* SCCM Log File.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "SCCM Log File.xcdatamodel"; sourceTree = "<group>"; };
+		30DAF81718149AD900417CCD /* CMLogTracerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CMLogTracerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		30DAF81D18149AD900417CCD /* CMLogTracerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CMLogTracerTests-Info.plist"; sourceTree = "<group>"; };
+		30DAF81F18149AD900417CCD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		30DAF82318149AD900417CCD /* CMLogTracerTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CMLogTracerTests-Prefix.pch"; sourceTree = "<group>"; };
+		30DAF82A18149B2200417CCD /* CMLogImporterTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CMLogImporterTests.m; sourceTree = "<group>"; };
+		30DAF90618149E1500417CCD /* _SCNotify_AD@ablas_1.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "_SCNotify_AD@ablas_1.log"; sourceTree = "<group>"; };
+		30DAF90718149E1500417CCD /* 2007-CcmExec.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "2007-CcmExec.log"; sourceTree = "<group>"; };
+		30DAF90818149E1500417CCD /* AppDiscovery-20131013-032227.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "AppDiscovery-20131013-032227.log"; sourceTree = "<group>"; };
+		30DAF90918149E1500417CCD /* AppDiscovery.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AppDiscovery.log; sourceTree = "<group>"; };
+		30DAF90A18149E1500417CCD /* AppEnforce.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AppEnforce.log; sourceTree = "<group>"; };
+		30DAF90B18149E1500417CCD /* AppIntentEval-20131013-091925.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "AppIntentEval-20131013-091925.log"; sourceTree = "<group>"; };
+		30DAF90C18149E1500417CCD /* AppIntentEval.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AppIntentEval.log; sourceTree = "<group>"; };
+		30DAF90D18149E1500417CCD /* AssetAdvisor-20131009-112553.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "AssetAdvisor-20131009-112553.log"; sourceTree = "<group>"; };
+		30DAF90E18149E1500417CCD /* AssetAdvisor.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AssetAdvisor.log; sourceTree = "<group>"; };
+		30DAF90F18149E1500417CCD /* Busted-CcmMessaging.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Busted-CcmMessaging.log"; sourceTree = "<group>"; };
+		30DAF91018149E1500417CCD /* Busted-CcmNotificationAgent-20131014-063030.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Busted-CcmNotificationAgent-20131014-063030.log"; sourceTree = "<group>"; };
+		30DAF91118149E1500417CCD /* Busted-CcmNotificationAgent.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Busted-CcmNotificationAgent.log"; sourceTree = "<group>"; };
+		30DAF91218149E1500417CCD /* Busted-CcmRepair.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Busted-CcmRepair.log"; sourceTree = "<group>"; };
+		30DAF91318149E1500417CCD /* Busted-CcmRestart.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Busted-CcmRestart.log"; sourceTree = "<group>"; };
+		30DAF91418149E1500417CCD /* CAS.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CAS.log; sourceTree = "<group>"; };
+		30DAF91518149E1500417CCD /* CcmEval-20131002-000428.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CcmEval-20131002-000428.log"; sourceTree = "<group>"; };
+		30DAF91618149E1500417CCD /* CcmEval.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CcmEval.log; sourceTree = "<group>"; };
+		30DAF91718149E1500417CCD /* CcmEvalTask.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CcmEvalTask.log; sourceTree = "<group>"; };
+		30DAF91818149E1500417CCD /* CcmExec-20131009-083840.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CcmExec-20131009-083840.log"; sourceTree = "<group>"; };
+		30DAF91918149E1500417CCD /* CcmExec.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CcmExec.log; sourceTree = "<group>"; };
+		30DAF91A18149E1500417CCD /* CcmMessaging-20131014-091925.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CcmMessaging-20131014-091925.log"; sourceTree = "<group>"; };
+		30DAF91B18149E1500417CCD /* CcmMessaging.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CcmMessaging.log; sourceTree = "<group>"; };
+		30DAF91C18149E1500417CCD /* CcmNotificationAgent-20131014-063030.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CcmNotificationAgent-20131014-063030.log"; sourceTree = "<group>"; };
+		30DAF91D18149E1500417CCD /* CcmNotificationAgent.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CcmNotificationAgent.log; sourceTree = "<group>"; };
+		30DAF91E18149E1500417CCD /* CcmRepair.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CcmRepair.log; sourceTree = "<group>"; };
+		30DAF91F18149E1500417CCD /* CcmRestart.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CcmRestart.log; sourceTree = "<group>"; };
+		30DAF92018149E1500417CCD /* CCMSDKProvider-20131012-143855.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CCMSDKProvider-20131012-143855.log"; sourceTree = "<group>"; };
+		30DAF92118149E1500417CCD /* CCMSDKProvider.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CCMSDKProvider.log; sourceTree = "<group>"; };
+		30DAF92218149E1500417CCD /* CCMVDIProvider.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CCMVDIProvider.log; sourceTree = "<group>"; };
+		30DAF92318149E1500417CCD /* CertificateMaintenance.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CertificateMaintenance.log; sourceTree = "<group>"; };
+		30DAF92418149E1500417CCD /* CIAgent-20131014-083846.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CIAgent-20131014-083846.log"; sourceTree = "<group>"; };
+		30DAF92518149E1500417CCD /* CIAgent.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CIAgent.log; sourceTree = "<group>"; };
+		30DAF92618149E1500417CCD /* CIDownloader-20131013-143025.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CIDownloader-20131013-143025.log"; sourceTree = "<group>"; };
+		30DAF92718149E1500417CCD /* CIDownloader.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CIDownloader.log; sourceTree = "<group>"; };
+		30DAF92818149E1500417CCD /* CIStateStore-20131014-083846.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CIStateStore-20131014-083846.log"; sourceTree = "<group>"; };
+		30DAF92918149E1500417CCD /* CIStateStore.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CIStateStore.log; sourceTree = "<group>"; };
+		30DAF92A18149E1500417CCD /* CIStore-20131013-091925.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CIStore-20131013-091925.log"; sourceTree = "<group>"; };
+		30DAF92B18149E1500417CCD /* CIStore.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CIStore.log; sourceTree = "<group>"; };
+		30DAF92C18149E1500417CCD /* CITaskMgr.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CITaskMgr.log; sourceTree = "<group>"; };
+		30DAF92D18149E1500417CCD /* ClientIDManagerStartup-20131001-203439.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ClientIDManagerStartup-20131001-203439.log"; sourceTree = "<group>"; };
+		30DAF92E18149E1500417CCD /* ClientIDManagerStartup.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ClientIDManagerStartup.log; sourceTree = "<group>"; };
+		30DAF92F18149E1500417CCD /* ClientLocation.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ClientLocation.log; sourceTree = "<group>"; };
+		30DAF93018149E1500417CCD /* CmRcService.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CmRcService.log; sourceTree = "<group>"; };
+		30DAF93118149E1500417CCD /* ContentTransferManager.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ContentTransferManager.log; sourceTree = "<group>"; };
+		30DAF93218149E1500417CCD /* DataTransferService-20131011-105409.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "DataTransferService-20131011-105409.log"; sourceTree = "<group>"; };
+		30DAF93318149E1500417CCD /* DataTransferService.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = DataTransferService.log; sourceTree = "<group>"; };
+		30DAF93418149E1500417CCD /* DCMAgent-20131014-063856.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "DCMAgent-20131014-063856.log"; sourceTree = "<group>"; };
+		30DAF93518149E1500417CCD /* DCMAgent.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = DCMAgent.log; sourceTree = "<group>"; };
+		30DAF93618149E1500417CCD /* DCMReporting-20131014-100326.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "DCMReporting-20131014-100326.log"; sourceTree = "<group>"; };
+		30DAF93718149E1500417CCD /* DCMReporting.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = DCMReporting.log; sourceTree = "<group>"; };
+		30DAF93818149E1500417CCD /* DcmWmiProvider-20131012-083837.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "DcmWmiProvider-20131012-083837.log"; sourceTree = "<group>"; };
+		30DAF93918149E1500417CCD /* DcmWmiProvider.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = DcmWmiProvider.log; sourceTree = "<group>"; };
+		30DAF93A18149E1500417CCD /* EndpointProtectionAgent.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = EndpointProtectionAgent.log; sourceTree = "<group>"; };
+		30DAF93B18149E1500417CCD /* execmgr.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = execmgr.log; sourceTree = "<group>"; };
+		30DAF93C18149E1500417CCD /* ExpressionSolver-20131012-033827.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ExpressionSolver-20131012-033827.log"; sourceTree = "<group>"; };
+		30DAF93D18149E1500417CCD /* ExpressionSolver.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ExpressionSolver.log; sourceTree = "<group>"; };
+		30DAF93E18149E1500417CCD /* ExternalEventAgent.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ExternalEventAgent.log; sourceTree = "<group>"; };
+		30DAF93F18149E1500417CCD /* FileBITS.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FileBITS.log; sourceTree = "<group>"; };
+		30DAF94018149E1500417CCD /* FSPStateMessage.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FSPStateMessage.log; sourceTree = "<group>"; };
+		30DAF94118149E1500417CCD /* InventoryAgent-20131010-091927.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "InventoryAgent-20131010-091927.log"; sourceTree = "<group>"; };
+		30DAF94218149E1500417CCD /* InventoryAgent.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = InventoryAgent.log; sourceTree = "<group>"; };
+		30DAF94318149E1500417CCD /* InventoryProvider-20131003-183230.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "InventoryProvider-20131003-183230.log"; sourceTree = "<group>"; };
+		30DAF94418149E1500417CCD /* InventoryProvider.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = InventoryProvider.log; sourceTree = "<group>"; };
+		30DAF94518149E1500417CCD /* LocationServices-20131006-151409.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "LocationServices-20131006-151409.log"; sourceTree = "<group>"; };
+		30DAF94618149E1500417CCD /* LocationServices.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LocationServices.log; sourceTree = "<group>"; };
+		30DAF94718149E1600417CCD /* MaintenanceCoordinator.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MaintenanceCoordinator.log; sourceTree = "<group>"; };
+		30DAF94818149E1600417CCD /* mtrmgr.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mtrmgr.log; sourceTree = "<group>"; };
+		30DAF94918149E1600417CCD /* oobmgmt.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = oobmgmt.log; sourceTree = "<group>"; };
+		30DAF94A18149E1600417CCD /* PeerDPAgent.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PeerDPAgent.log; sourceTree = "<group>"; };
+		30DAF94B18149E1600417CCD /* PolicyAgent-20131014-062404.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "PolicyAgent-20131014-062404.log"; sourceTree = "<group>"; };
+		30DAF94C18149E1600417CCD /* PolicyAgent.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PolicyAgent.log; sourceTree = "<group>"; };
+		30DAF94D18149E1600417CCD /* PolicyAgentProvider-20131011-094508.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "PolicyAgentProvider-20131011-094508.log"; sourceTree = "<group>"; };
+		30DAF94E18149E1600417CCD /* PolicyAgentProvider.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PolicyAgentProvider.log; sourceTree = "<group>"; };
+		30DAF94F18149E1600417CCD /* PolicyEvaluator-20131014-091925.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "PolicyEvaluator-20131014-091925.log"; sourceTree = "<group>"; };
+		30DAF95018149E1600417CCD /* PolicyEvaluator.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PolicyEvaluator.log; sourceTree = "<group>"; };
+		30DAF95118149E1600417CCD /* pwrmgmt-20131013-221432.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "pwrmgmt-20131013-221432.log"; sourceTree = "<group>"; };
+		30DAF95218149E1600417CCD /* pwrmgmt.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pwrmgmt.log; sourceTree = "<group>"; };
+		30DAF95318149E1600417CCD /* PwrProvider-20131012-131640.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "PwrProvider-20131012-131640.log"; sourceTree = "<group>"; };
+		30DAF95418149E1600417CCD /* PwrProvider.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PwrProvider.log; sourceTree = "<group>"; };
+		30DAF95518149E1600417CCD /* RebootCoordinator.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = RebootCoordinator.log; sourceTree = "<group>"; };
+		30DAF95618149E1600417CCD /* ScanAgent.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ScanAgent.log; sourceTree = "<group>"; };
+		30DAF95718149E1600417CCD /* SCClient_AD@ablas_1.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "SCClient_AD@ablas_1.log"; sourceTree = "<group>"; };
+		30DAF95818149E1600417CCD /* Scheduler-20131013-180429.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Scheduler-20131013-180429.log"; sourceTree = "<group>"; };
+		30DAF95918149E1600417CCD /* Scheduler.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Scheduler.log; sourceTree = "<group>"; };
+		30DAF95A18149E1600417CCD /* SCNotify_AD@ablas_1.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "SCNotify_AD@ablas_1.log"; sourceTree = "<group>"; };
+		30DAF95B18149E1600417CCD /* ServiceWindowManager-20131010-060001.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ServiceWindowManager-20131010-060001.log"; sourceTree = "<group>"; };
+		30DAF95C18149E1600417CCD /* ServiceWindowManager.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ServiceWindowManager.log; sourceTree = "<group>"; };
+		30DAF95D18149E1600417CCD /* setuppolicyevaluator.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = setuppolicyevaluator.log; sourceTree = "<group>"; };
+		30DAF95E18149E1600417CCD /* smscliui.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = smscliui.log; sourceTree = "<group>"; };
+		30DAF95F18149E1600417CCD /* smssha.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = smssha.log; sourceTree = "<group>"; };
+		30DAF96018149E1600417CCD /* SoftwareCatalogUpdateEndpoint.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SoftwareCatalogUpdateEndpoint.log; sourceTree = "<group>"; };
+		30DAF96118149E1600417CCD /* SoftwareCenterSystemTasks.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SoftwareCenterSystemTasks.log; sourceTree = "<group>"; };
+		30DAF96218149E1600417CCD /* SrcUpdateMgr.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SrcUpdateMgr.log; sourceTree = "<group>"; };
+		30DAF96318149E1600417CCD /* StateMessage-20131013-091925.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "StateMessage-20131013-091925.log"; sourceTree = "<group>"; };
+		30DAF96418149E1600417CCD /* StateMessage.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = StateMessage.log; sourceTree = "<group>"; };
+		30DAF96518149E1600417CCD /* StateMessageProvider-20131014-071914.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "StateMessageProvider-20131014-071914.log"; sourceTree = "<group>"; };
+		30DAF96618149E1600417CCD /* StateMessageProvider.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = StateMessageProvider.log; sourceTree = "<group>"; };
+		30DAF96718149E1600417CCD /* StatusAgent-20131014-110407.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "StatusAgent-20131014-110407.log"; sourceTree = "<group>"; };
+		30DAF96818149E1600417CCD /* StatusAgent.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = StatusAgent.log; sourceTree = "<group>"; };
+		30DAF96918149E1600417CCD /* SWMTRReportGen.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SWMTRReportGen.log; sourceTree = "<group>"; };
+		30DAF96A18149E1600417CCD /* UpdatesDeployment.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = UpdatesDeployment.log; sourceTree = "<group>"; };
+		30DAF96B18149E1600417CCD /* UpdatesHandler.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = UpdatesHandler.log; sourceTree = "<group>"; };
+		30DAF96C18149E1600417CCD /* UpdateTrustedSites.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = UpdateTrustedSites.log; sourceTree = "<group>"; };
+		30DAF96D18149E1600417CCD /* UserAffinity.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = UserAffinity.log; sourceTree = "<group>"; };
+		30DAF96E18149E1600417CCD /* VirtualApp.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = VirtualApp.log; sourceTree = "<group>"; };
+		30DAF96F18149E1600417CCD /* wedmtrace.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = wedmtrace.log; sourceTree = "<group>"; };
+		30DAF97018149E1600417CCD /* WUAHandler.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WUAHandler.log; sourceTree = "<group>"; };
+		6978DE0BC544E09B685F7BC0 /* libPods-CMLogTracer.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CMLogTracer.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7BDD7D322D9744F169C23C3A /* Pods-CMLogTracer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CMLogTracer.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CMLogTracer/Pods-CMLogTracer.debug.xcconfig"; sourceTree = "<group>"; };
+		8F079240A781B807B801CFC4 /* Pods-CMLogTracer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CMLogTracer.release.xcconfig"; path = "Pods/Target Support Files/Pods-CMLogTracer/Pods-CMLogTracer.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		307C7DDF180C6CE30085468D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3082902C18141802008242C3 /* libz.dylib in Frameworks */,
+				3019FEAC180D820E00F00CC2 /* CoreData.framework in Frameworks */,
+				307C7DE8180C6CE30085468D /* CoreGraphics.framework in Frameworks */,
+				307C7DEA180C6CE30085468D /* UIKit.framework in Frameworks */,
+				307C7DE6180C6CE30085468D /* Foundation.framework in Frameworks */,
+				3F4B6F089D68B71C92975098 /* libPods-CMLogTracer.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		30DAF81418149AD900417CCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				30DAF81818149AD900417CCD /* XCTest.framework in Frameworks */,
+				30DAF81A18149AD900417CCD /* UIKit.framework in Frameworks */,
+				30DAF81918149AD900417CCD /* Foundation.framework in Frameworks */,
+				30DAF90318149B4400417CCD /* libz.dylib in Frameworks */,
+				30DAF90418149B4700417CCD /* CoreGraphics.framework in Frameworks */,
+				30DAF90518149B4A00417CCD /* CoreData.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		30101E5B180F0026007053F8 /* XIBs and Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				30A272CC1814BBBC00472803 /* LogEntryTableCell.xib */,
+				30A272CE1814BBBC00472803 /* Main.storyboard */,
+				3039C9B818393553001B8AB5 /* ImportProgressIndicator.xib */,
+			);
+			name = "XIBs and Storyboards";
+			sourceTree = "<group>";
+		};
+		307C7DD9180C6CE30085468D = {
+			isa = PBXGroup;
+			children = (
+				307C7DEB180C6CE30085468D /* CMLogTracer */,
+				30DAF81B18149AD900417CCD /* CMLogTracerTests */,
+				307C7DE4180C6CE30085468D /* Frameworks */,
+				307C7DE3180C6CE30085468D /* Products */,
+				599191B01FC2AFF81DE333ED /* Pods */,
+			);
+			sourceTree = "<group>";
+		};
+		307C7DE3180C6CE30085468D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				307C7DE2180C6CE30085468D /* CMLogTracer.app */,
+				30DAF81718149AD900417CCD /* CMLogTracerTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		307C7DE4180C6CE30085468D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3082902B18141802008242C3 /* libz.dylib */,
+				3019FEAB180D820E00F00CC2 /* CoreData.framework */,
+				307C7DE5180C6CE30085468D /* Foundation.framework */,
+				307C7DE7180C6CE30085468D /* CoreGraphics.framework */,
+				307C7DE9180C6CE30085468D /* UIKit.framework */,
+				307C7E07180C6CE30085468D /* XCTest.framework */,
+				6978DE0BC544E09B685F7BC0 /* libPods-CMLogTracer.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		307C7DEB180C6CE30085468D /* CMLogTracer */ = {
+			isa = PBXGroup;
+			children = (
+				30A272AE1814BBA800472803 /* CMAppDelegate.h */,
+				30A272AF1814BBA800472803 /* CMAppDelegate.m */,
+				30A272C11814BBA800472803 /* Images.xcassets */,
+				309C2CD8182868F7000E44C5 /* Model */,
+				309C2CD91828690A000E44C5 /* Controllers */,
+				309C2CDA18286929000E44C5 /* Utils */,
+				30101E5B180F0026007053F8 /* XIBs and Storyboards */,
+				307C7DEC180C6CE30085468D /* Supporting Files */,
+			);
+			path = CMLogTracer;
+			sourceTree = "<group>";
+		};
+		307C7DEC180C6CE30085468D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				30A272D91814BC0100472803 /* CMLogTracer-Info.plist */,
+				30A272DA1814BC0100472803 /* CMLogTracer-Prefix.pch */,
+				30A272DB1814BC0100472803 /* main.m */,
+				30A272D31814BBE300472803 /* InfoPlist.strings */,
+				30A272D51814BBE300472803 /* Localizable.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		309C2CD8182868F7000E44C5 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				30A272B01814BBA800472803 /* CMDataStore.h */,
+				30A272B11814BBA800472803 /* CMDataStore.m */,
+				30A272B81814BBA800472803 /* CMLogFile.h */,
+				30A272B91814BBA800472803 /* CMLogFile.m */,
+				3084CADF18298A4E00221235 /* CMLogEntry.h */,
+				3084CAE018298A4E00221235 /* CMLogEntry.m */,
+				3039AB3918284D6E00E59BA5 /* CMLogEntry.h */,
+				3039AB3A18284D6E00E59BA5 /* CMLogEntry.m */,
+				30D68A531819872E00159A76 /* SCCM Log File.xcdatamodeld */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		309C2CD91828690A000E44C5 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				30A272BC1814BBA800472803 /* CMLogsViewController.h */,
+				30A272BD1814BBA800472803 /* CMLogsViewController.m */,
+				30A272B21814BBA800472803 /* CMLogEntriesViewController.h */,
+				30A272B31814BBA800472803 /* CMLogEntriesViewController.m */,
+				30A272B61814BBA800472803 /* CMLogEntryDetailsViewController.h */,
+				30A272B71814BBA800472803 /* CMLogEntryDetailsViewController.m */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		309C2CDA18286929000E44C5 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				30A272BA1814BBA800472803 /* CMLogImporter.h */,
+				30A272BB1814BBA800472803 /* CMLogImporter.m */,
+				30A272BF1814BBA800472803 /* CMUtils.h */,
+				30A272C01814BBA800472803 /* CMUtils.m */,
+			);
+			name = Utils;
+			sourceTree = "<group>";
+		};
+		30DAF81B18149AD900417CCD /* CMLogTracerTests */ = {
+			isa = PBXGroup;
+			children = (
+				30DAF82A18149B2200417CCD /* CMLogImporterTests.m */,
+				30DAF82B18149B2200417CCD /* Test Logs */,
+				30DAF81C18149AD900417CCD /* Supporting Files */,
+			);
+			path = CMLogTracerTests;
+			sourceTree = "<group>";
+		};
+		30DAF81C18149AD900417CCD /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				30DAF81D18149AD900417CCD /* CMLogTracerTests-Info.plist */,
+				30DAF81E18149AD900417CCD /* InfoPlist.strings */,
+				30DAF82318149AD900417CCD /* CMLogTracerTests-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		30DAF82B18149B2200417CCD /* Test Logs */ = {
+			isa = PBXGroup;
+			children = (
+				30DAF90618149E1500417CCD /* _SCNotify_AD@ablas_1.log */,
+				30DAF90718149E1500417CCD /* 2007-CcmExec.log */,
+				30DAF90818149E1500417CCD /* AppDiscovery-20131013-032227.log */,
+				30DAF90918149E1500417CCD /* AppDiscovery.log */,
+				30DAF90A18149E1500417CCD /* AppEnforce.log */,
+				30DAF90B18149E1500417CCD /* AppIntentEval-20131013-091925.log */,
+				30DAF90C18149E1500417CCD /* AppIntentEval.log */,
+				30DAF90D18149E1500417CCD /* AssetAdvisor-20131009-112553.log */,
+				30DAF90E18149E1500417CCD /* AssetAdvisor.log */,
+				30DAF90F18149E1500417CCD /* Busted-CcmMessaging.log */,
+				30DAF91018149E1500417CCD /* Busted-CcmNotificationAgent-20131014-063030.log */,
+				30DAF91118149E1500417CCD /* Busted-CcmNotificationAgent.log */,
+				30DAF91218149E1500417CCD /* Busted-CcmRepair.log */,
+				30DAF91318149E1500417CCD /* Busted-CcmRestart.log */,
+				30DAF91418149E1500417CCD /* CAS.log */,
+				30DAF91518149E1500417CCD /* CcmEval-20131002-000428.log */,
+				30DAF91618149E1500417CCD /* CcmEval.log */,
+				30DAF91718149E1500417CCD /* CcmEvalTask.log */,
+				30DAF91818149E1500417CCD /* CcmExec-20131009-083840.log */,
+				30DAF91918149E1500417CCD /* CcmExec.log */,
+				30DAF91A18149E1500417CCD /* CcmMessaging-20131014-091925.log */,
+				30DAF91B18149E1500417CCD /* CcmMessaging.log */,
+				30DAF91C18149E1500417CCD /* CcmNotificationAgent-20131014-063030.log */,
+				30DAF91D18149E1500417CCD /* CcmNotificationAgent.log */,
+				30DAF91E18149E1500417CCD /* CcmRepair.log */,
+				30DAF91F18149E1500417CCD /* CcmRestart.log */,
+				30DAF92018149E1500417CCD /* CCMSDKProvider-20131012-143855.log */,
+				30DAF92118149E1500417CCD /* CCMSDKProvider.log */,
+				30DAF92218149E1500417CCD /* CCMVDIProvider.log */,
+				30DAF92318149E1500417CCD /* CertificateMaintenance.log */,
+				30DAF92418149E1500417CCD /* CIAgent-20131014-083846.log */,
+				30DAF92518149E1500417CCD /* CIAgent.log */,
+				30DAF92618149E1500417CCD /* CIDownloader-20131013-143025.log */,
+				30DAF92718149E1500417CCD /* CIDownloader.log */,
+				30DAF92818149E1500417CCD /* CIStateStore-20131014-083846.log */,
+				30DAF92918149E1500417CCD /* CIStateStore.log */,
+				30DAF92A18149E1500417CCD /* CIStore-20131013-091925.log */,
+				30DAF92B18149E1500417CCD /* CIStore.log */,
+				30DAF92C18149E1500417CCD /* CITaskMgr.log */,
+				30DAF92D18149E1500417CCD /* ClientIDManagerStartup-20131001-203439.log */,
+				30DAF92E18149E1500417CCD /* ClientIDManagerStartup.log */,
+				30DAF92F18149E1500417CCD /* ClientLocation.log */,
+				30DAF93018149E1500417CCD /* CmRcService.log */,
+				30DAF93118149E1500417CCD /* ContentTransferManager.log */,
+				30DAF93218149E1500417CCD /* DataTransferService-20131011-105409.log */,
+				30DAF93318149E1500417CCD /* DataTransferService.log */,
+				30DAF93418149E1500417CCD /* DCMAgent-20131014-063856.log */,
+				30DAF93518149E1500417CCD /* DCMAgent.log */,
+				30DAF93618149E1500417CCD /* DCMReporting-20131014-100326.log */,
+				30DAF93718149E1500417CCD /* DCMReporting.log */,
+				30DAF93818149E1500417CCD /* DcmWmiProvider-20131012-083837.log */,
+				30DAF93918149E1500417CCD /* DcmWmiProvider.log */,
+				30DAF93A18149E1500417CCD /* EndpointProtectionAgent.log */,
+				30DAF93B18149E1500417CCD /* execmgr.log */,
+				30DAF93C18149E1500417CCD /* ExpressionSolver-20131012-033827.log */,
+				30DAF93D18149E1500417CCD /* ExpressionSolver.log */,
+				30DAF93E18149E1500417CCD /* ExternalEventAgent.log */,
+				30DAF93F18149E1500417CCD /* FileBITS.log */,
+				30DAF94018149E1500417CCD /* FSPStateMessage.log */,
+				30DAF94118149E1500417CCD /* InventoryAgent-20131010-091927.log */,
+				30DAF94218149E1500417CCD /* InventoryAgent.log */,
+				30DAF94318149E1500417CCD /* InventoryProvider-20131003-183230.log */,
+				30DAF94418149E1500417CCD /* InventoryProvider.log */,
+				30DAF94518149E1500417CCD /* LocationServices-20131006-151409.log */,
+				30DAF94618149E1500417CCD /* LocationServices.log */,
+				30DAF94718149E1600417CCD /* MaintenanceCoordinator.log */,
+				30DAF94818149E1600417CCD /* mtrmgr.log */,
+				30DAF94918149E1600417CCD /* oobmgmt.log */,
+				30DAF94A18149E1600417CCD /* PeerDPAgent.log */,
+				30DAF94B18149E1600417CCD /* PolicyAgent-20131014-062404.log */,
+				30DAF94C18149E1600417CCD /* PolicyAgent.log */,
+				30DAF94D18149E1600417CCD /* PolicyAgentProvider-20131011-094508.log */,
+				30DAF94E18149E1600417CCD /* PolicyAgentProvider.log */,
+				30DAF94F18149E1600417CCD /* PolicyEvaluator-20131014-091925.log */,
+				30DAF95018149E1600417CCD /* PolicyEvaluator.log */,
+				30DAF95118149E1600417CCD /* pwrmgmt-20131013-221432.log */,
+				30DAF95218149E1600417CCD /* pwrmgmt.log */,
+				30DAF95318149E1600417CCD /* PwrProvider-20131012-131640.log */,
+				30DAF95418149E1600417CCD /* PwrProvider.log */,
+				30DAF95518149E1600417CCD /* RebootCoordinator.log */,
+				30DAF95618149E1600417CCD /* ScanAgent.log */,
+				30DAF95718149E1600417CCD /* SCClient_AD@ablas_1.log */,
+				30DAF95818149E1600417CCD /* Scheduler-20131013-180429.log */,
+				30DAF95918149E1600417CCD /* Scheduler.log */,
+				30DAF95A18149E1600417CCD /* SCNotify_AD@ablas_1.log */,
+				30DAF95B18149E1600417CCD /* ServiceWindowManager-20131010-060001.log */,
+				30DAF95C18149E1600417CCD /* ServiceWindowManager.log */,
+				30DAF95D18149E1600417CCD /* setuppolicyevaluator.log */,
+				30DAF95E18149E1600417CCD /* smscliui.log */,
+				30DAF95F18149E1600417CCD /* smssha.log */,
+				30DAF96018149E1600417CCD /* SoftwareCatalogUpdateEndpoint.log */,
+				30DAF96118149E1600417CCD /* SoftwareCenterSystemTasks.log */,
+				30DAF96218149E1600417CCD /* SrcUpdateMgr.log */,
+				30DAF96318149E1600417CCD /* StateMessage-20131013-091925.log */,
+				30DAF96418149E1600417CCD /* StateMessage.log */,
+				30DAF96518149E1600417CCD /* StateMessageProvider-20131014-071914.log */,
+				30DAF96618149E1600417CCD /* StateMessageProvider.log */,
+				30DAF96718149E1600417CCD /* StatusAgent-20131014-110407.log */,
+				30DAF96818149E1600417CCD /* StatusAgent.log */,
+				30DAF96918149E1600417CCD /* SWMTRReportGen.log */,
+				30DAF96A18149E1600417CCD /* UpdatesDeployment.log */,
+				30DAF96B18149E1600417CCD /* UpdatesHandler.log */,
+				30DAF96C18149E1600417CCD /* UpdateTrustedSites.log */,
+				30DAF96D18149E1600417CCD /* UserAffinity.log */,
+				30DAF96E18149E1600417CCD /* VirtualApp.log */,
+				30DAF96F18149E1600417CCD /* wedmtrace.log */,
+				30DAF97018149E1600417CCD /* WUAHandler.log */,
+			);
+			path = "Test Logs";
+			sourceTree = "<group>";
+		};
+		599191B01FC2AFF81DE333ED /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				7BDD7D322D9744F169C23C3A /* Pods-CMLogTracer.debug.xcconfig */,
+				8F079240A781B807B801CFC4 /* Pods-CMLogTracer.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		307C7DE1180C6CE30085468D /* CMLogTracer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 307C7E17180C6CE30085468D /* Build configuration list for PBXNativeTarget "CMLogTracer" */;
+			buildPhases = (
+				DF3028AA1286637584E3DE37 /* Check Pods Manifest.lock */,
+				30101E65180F1A98007053F8 /* ShellScript */,
+				307C7DDE180C6CE30085468D /* Sources */,
+				307C7DDF180C6CE30085468D /* Frameworks */,
+				307C7DE0180C6CE30085468D /* Resources */,
+				BB3DC19011EA2C10D2F2A814 /* Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CMLogTracer;
+			productName = SCLogViewer;
+			productReference = 307C7DE2180C6CE30085468D /* CMLogTracer.app */;
+			productType = "com.apple.product-type.application";
+		};
+		30DAF81618149AD900417CCD /* CMLogTracerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 30DAF82618149ADA00417CCD /* Build configuration list for PBXNativeTarget "CMLogTracerTests" */;
+			buildPhases = (
+				30DAF81318149AD900417CCD /* Sources */,
+				30DAF81418149AD900417CCD /* Frameworks */,
+				30DAF81518149AD900417CCD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				30DAF82518149ADA00417CCD /* PBXTargetDependency */,
+			);
+			name = CMLogTracerTests;
+			productName = CMLogTracerTests;
+			productReference = 30DAF81718149AD900417CCD /* CMLogTracerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		307C7DDA180C6CE30085468D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = SC;
+				LastUpgradeCheck = 0630;
+				ORGANIZATIONNAME = "Andre Bocchini";
+				TargetAttributes = {
+					307C7DE1180C6CE30085468D = {
+						DevelopmentTeam = 82638A44Y2;
+					};
+					30DAF81618149AD900417CCD = {
+						TestTargetID = 307C7DE1180C6CE30085468D;
+					};
+				};
+			};
+			buildConfigurationList = 307C7DDD180C6CE30085468D /* Build configuration list for PBXProject "CMLogTracer" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 307C7DD9180C6CE30085468D;
+			productRefGroup = 307C7DE3180C6CE30085468D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				307C7DE1180C6CE30085468D /* CMLogTracer */,
+				30DAF81618149AD900417CCD /* CMLogTracerTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		307C7DE0180C6CE30085468D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				30A272CB1814BBA800472803 /* Images.xcassets in Resources */,
+				30A272D01814BBBC00472803 /* LogEntryTableCell.xib in Resources */,
+				30A272D81814BBE300472803 /* Localizable.strings in Resources */,
+				30A272D11814BBBC00472803 /* Main.storyboard in Resources */,
+				3039C9B618393553001B8AB5 /* ImportProgressIndicator.xib in Resources */,
+				30A272E11814BCB600472803 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		30DAF81518149AD900417CCD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				30DAF99918149E1600417CCD /* ClientIDManagerStartup.log in Resources */,
+				30DAF9C918149E1600417CCD /* smscliui.log in Resources */,
+				30DAF9AD18149E1600417CCD /* InventoryAgent.log in Resources */,
+				30DAF99F18149E1600417CCD /* DCMAgent-20131014-063856.log in Resources */,
+				30DAF99118149E1600417CCD /* CIDownloader-20131013-143025.log in Resources */,
+				30DAF97D18149E1600417CCD /* Busted-CcmRepair.log in Resources */,
+				30DAF99618149E1600417CCD /* CIStore.log in Resources */,
+				30DAF97318149E1600417CCD /* AppDiscovery-20131013-032227.log in Resources */,
+				30DAF9C618149E1600417CCD /* ServiceWindowManager-20131010-060001.log in Resources */,
+				30DAF9BC18149E1600417CCD /* pwrmgmt-20131013-221432.log in Resources */,
+				30DAF97C18149E1600417CCD /* Busted-CcmNotificationAgent.log in Resources */,
+				30DAF98E18149E1600417CCD /* CertificateMaintenance.log in Resources */,
+				30DAF97A18149E1600417CCD /* Busted-CcmMessaging.log in Resources */,
+				30DAF82018149AD900417CCD /* InfoPlist.strings in Resources */,
+				30DAF9B818149E1600417CCD /* PolicyAgentProvider-20131011-094508.log in Resources */,
+				30DAF9D118149E1600417CCD /* StateMessageProvider.log in Resources */,
+				30DAF9A618149E1600417CCD /* execmgr.log in Resources */,
+				30DAF9B218149E1600417CCD /* MaintenanceCoordinator.log in Resources */,
+				30DAF9D318149E1600417CCD /* StatusAgent.log in Resources */,
+				30DAF97618149E1600417CCD /* AppIntentEval-20131013-091925.log in Resources */,
+				30DAF9B718149E1600417CCD /* PolicyAgent.log in Resources */,
+				30DAF9B118149E1600417CCD /* LocationServices.log in Resources */,
+				30DAF9D518149E1600417CCD /* UpdatesDeployment.log in Resources */,
+				30DAF9AC18149E1600417CCD /* InventoryAgent-20131010-091927.log in Resources */,
+				30DAF9CD18149E1600417CCD /* SrcUpdateMgr.log in Resources */,
+				30DAF9DB18149E1600417CCD /* WUAHandler.log in Resources */,
+				30DAF9C718149E1600417CCD /* ServiceWindowManager.log in Resources */,
+				30DAF97E18149E1600417CCD /* Busted-CcmRestart.log in Resources */,
+				30DAF99E18149E1600417CCD /* DataTransferService.log in Resources */,
+				30DAF9B418149E1600417CCD /* oobmgmt.log in Resources */,
+				30DAF9A018149E1600417CCD /* DCMAgent.log in Resources */,
+				30DAF98D18149E1600417CCD /* CCMVDIProvider.log in Resources */,
+				30DAF9B018149E1600417CCD /* LocationServices-20131006-151409.log in Resources */,
+				30DAF9D418149E1600417CCD /* SWMTRReportGen.log in Resources */,
+				30DAF98F18149E1600417CCD /* CIAgent-20131014-083846.log in Resources */,
+				30DAF98418149E1600417CCD /* CcmExec.log in Resources */,
+				30DAF9AB18149E1600417CCD /* FSPStateMessage.log in Resources */,
+				30DAF98518149E1600417CCD /* CcmMessaging-20131014-091925.log in Resources */,
+				30DAF9C518149E1600417CCD /* SCNotify_AD@ablas_1.log in Resources */,
+				30DAF9C118149E1600417CCD /* ScanAgent.log in Resources */,
+				30DAF9AE18149E1600417CCD /* InventoryProvider-20131003-183230.log in Resources */,
+				30DAF98018149E1600417CCD /* CcmEval-20131002-000428.log in Resources */,
+				30DAF9BB18149E1600417CCD /* PolicyEvaluator.log in Resources */,
+				30DAF9D618149E1600417CCD /* UpdatesHandler.log in Resources */,
+				30DAF9CF18149E1600417CCD /* StateMessage.log in Resources */,
+				30DAF9A218149E1600417CCD /* DCMReporting.log in Resources */,
+				30DAF9CE18149E1600417CCD /* StateMessage-20131013-091925.log in Resources */,
+				30DAF97118149E1600417CCD /* _SCNotify_AD@ablas_1.log in Resources */,
+				30DAF98718149E1600417CCD /* CcmNotificationAgent-20131014-063030.log in Resources */,
+				30DAF9B618149E1600417CCD /* PolicyAgent-20131014-062404.log in Resources */,
+				30DAF9C018149E1600417CCD /* RebootCoordinator.log in Resources */,
+				30DAF99818149E1600417CCD /* ClientIDManagerStartup-20131001-203439.log in Resources */,
+				30DAF98B18149E1600417CCD /* CCMSDKProvider-20131012-143855.log in Resources */,
+				30DAF9D018149E1600417CCD /* StateMessageProvider-20131014-071914.log in Resources */,
+				30DAF98818149E1600417CCD /* CcmNotificationAgent.log in Resources */,
+				30DAF9AF18149E1600417CCD /* InventoryProvider.log in Resources */,
+				30DAF97718149E1600417CCD /* AppIntentEval.log in Resources */,
+				30DAF9BD18149E1600417CCD /* pwrmgmt.log in Resources */,
+				30DAF9A518149E1600417CCD /* EndpointProtectionAgent.log in Resources */,
+				30DAF97418149E1600417CCD /* AppDiscovery.log in Resources */,
+				30DAF98918149E1600417CCD /* CcmRepair.log in Resources */,
+				30DAF9D718149E1600417CCD /* UpdateTrustedSites.log in Resources */,
+				30DAF9A918149E1600417CCD /* ExternalEventAgent.log in Resources */,
+				30DAF99A18149E1600417CCD /* ClientLocation.log in Resources */,
+				30DAF9C418149E1600417CCD /* Scheduler.log in Resources */,
+				30DAF9D818149E1600417CCD /* UserAffinity.log in Resources */,
+				30DAF9CA18149E1600417CCD /* smssha.log in Resources */,
+				30DAF99B18149E1600417CCD /* CmRcService.log in Resources */,
+				30DAF98218149E1600417CCD /* CcmEvalTask.log in Resources */,
+				30DAF9A318149E1600417CCD /* DcmWmiProvider-20131012-083837.log in Resources */,
+				30DAF9C218149E1600417CCD /* SCClient_AD@ablas_1.log in Resources */,
+				30DAF9A818149E1600417CCD /* ExpressionSolver.log in Resources */,
+				30DAF9D218149E1600417CCD /* StatusAgent-20131014-110407.log in Resources */,
+				30DAF9D918149E1600417CCD /* VirtualApp.log in Resources */,
+				30DAF9A718149E1600417CCD /* ExpressionSolver-20131012-033827.log in Resources */,
+				30DAF98C18149E1600417CCD /* CCMSDKProvider.log in Resources */,
+				30DAF9C818149E1600417CCD /* setuppolicyevaluator.log in Resources */,
+				30DAF98A18149E1600417CCD /* CcmRestart.log in Resources */,
+				30DAF9C318149E1600417CCD /* Scheduler-20131013-180429.log in Resources */,
+				30DAF9CB18149E1600417CCD /* SoftwareCatalogUpdateEndpoint.log in Resources */,
+				30DAF98318149E1600417CCD /* CcmExec-20131009-083840.log in Resources */,
+				30DAF99718149E1600417CCD /* CITaskMgr.log in Resources */,
+				30DAF97918149E1600417CCD /* AssetAdvisor.log in Resources */,
+				30DAF9CC18149E1600417CCD /* SoftwareCenterSystemTasks.log in Resources */,
+				30DAF99C18149E1600417CCD /* ContentTransferManager.log in Resources */,
+				30DAF9B318149E1600417CCD /* mtrmgr.log in Resources */,
+				30DAF9DA18149E1600417CCD /* wedmtrace.log in Resources */,
+				30DAF97818149E1600417CCD /* AssetAdvisor-20131009-112553.log in Resources */,
+				30DAF9A418149E1600417CCD /* DcmWmiProvider.log in Resources */,
+				30DAF97218149E1600417CCD /* 2007-CcmExec.log in Resources */,
+				30DAF99418149E1600417CCD /* CIStateStore.log in Resources */,
+				30DAF99518149E1600417CCD /* CIStore-20131013-091925.log in Resources */,
+				30DAF9BE18149E1600417CCD /* PwrProvider-20131012-131640.log in Resources */,
+				30DAF97B18149E1600417CCD /* Busted-CcmNotificationAgent-20131014-063030.log in Resources */,
+				30DAF97F18149E1600417CCD /* CAS.log in Resources */,
+				30DAF9BF18149E1600417CCD /* PwrProvider.log in Resources */,
+				30DAF9B918149E1600417CCD /* PolicyAgentProvider.log in Resources */,
+				30DAF9B518149E1600417CCD /* PeerDPAgent.log in Resources */,
+				30DAF99318149E1600417CCD /* CIStateStore-20131014-083846.log in Resources */,
+				30DAF98618149E1600417CCD /* CcmMessaging.log in Resources */,
+				30DAF99D18149E1600417CCD /* DataTransferService-20131011-105409.log in Resources */,
+				30DAF9BA18149E1600417CCD /* PolicyEvaluator-20131014-091925.log in Resources */,
+				30DAF9AA18149E1600417CCD /* FileBITS.log in Resources */,
+				30DAF99218149E1600417CCD /* CIDownloader.log in Resources */,
+				30DAF9A118149E1600417CCD /* DCMReporting-20131014-100326.log in Resources */,
+				30DAF98118149E1600417CCD /* CcmEval.log in Resources */,
+				30DAF97518149E1600417CCD /* AppEnforce.log in Resources */,
+				30DAF99018149E1600417CCD /* CIAgent.log in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		30101E65180F1A98007053F8 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/usr/bin/genstrings -o CMLogTracer/Base.lproj CMLogTracer/*.m";
+		};
+		BB3DC19011EA2C10D2F2A814 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CMLogTracer/Pods-CMLogTracer-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DF3028AA1286637584E3DE37 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		307C7DDE180C6CE30085468D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				30A272C41814BBA800472803 /* CMLogEntriesViewController.m in Sources */,
+				30D68A551819872E00159A76 /* SCCM Log File.xcdatamodeld in Sources */,
+				30A272C71814BBA800472803 /* CMLogFile.m in Sources */,
+				30A272CA1814BBA800472803 /* CMUtils.m in Sources */,
+				30A272C21814BBA800472803 /* CMAppDelegate.m in Sources */,
+				30A272C31814BBA800472803 /* CMDataStore.m in Sources */,
+				3039AB3B18284D6E00E59BA5 /* CMLogEntry.m in Sources */,
+				30A272C91814BBA800472803 /* CMLogsViewController.m in Sources */,
+				30A272C81814BBA800472803 /* CMLogImporter.m in Sources */,
+				30A272DD1814BC0100472803 /* main.m in Sources */,
+				30A272C61814BBA800472803 /* CMLogEntryDetailsViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		30DAF81318149AD900417CCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				30D68A561819872E00159A76 /* SCCM Log File.xcdatamodeld in Sources */,
+				30DAF89718149B2200417CCD /* CMLogImporterTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		30DAF82518149ADA00417CCD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 307C7DE1180C6CE30085468D /* CMLogTracer */;
+			targetProxy = 30DAF82418149ADA00417CCD /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3039C9B818393553001B8AB5 /* ImportProgressIndicator.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3039C9B718393553001B8AB5 /* Base */,
+			);
+			name = ImportProgressIndicator.xib;
+			sourceTree = "<group>";
+		};
+		30A272CC1814BBBC00472803 /* LogEntryTableCell.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				30A272CD1814BBBC00472803 /* Base */,
+			);
+			name = LogEntryTableCell.xib;
+			sourceTree = "<group>";
+		};
+		30A272CE1814BBBC00472803 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				30A272CF1814BBBC00472803 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		30A272D31814BBE300472803 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				30A272D41814BBE300472803 /* Base */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		30A272D51814BBE300472803 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				30A272D61814BBE300472803 /* Base */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		30DAF81E18149AD900417CCD /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				30DAF81F18149AD900417CCD /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		307C7E15180C6CE30085468D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				EXCLUDED_SOURCE_FILE_NAMES = "";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_LDFLAGS = "-ObjC";
+				SDKROOT = iphoneos;
+				VALID_ARCHS = "armv7 armv7s arm64";
+			};
+			name = Debug;
+		};
+		307C7E16180C6CE30085468D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				EXCLUDED_SOURCE_FILE_NAMES = "";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				OTHER_LDFLAGS = "-ObjC";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+				VALID_ARCHS = "armv7 armv7s arm64";
+			};
+			name = Release;
+		};
+		307C7E18180C6CE30085468D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7BDD7D322D9744F169C23C3A /* Pods-CMLogTracer.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CMLogTracer/CMLogTracer-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+				);
+				INFOPLIST_FILE = "CMLogTracer/CMLogTracer-Info.plist";
+				LIBRARY_SEARCH_PATHS = "$(inherited)";
+				PRODUCT_NAME = CMLogTracer;
+				VALID_ARCHS = "armv7 armv7s arm64";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		307C7E19180C6CE30085468D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8F079240A781B807B801CFC4 /* Pods-CMLogTracer.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CMLogTracer/CMLogTracer-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+				);
+				INFOPLIST_FILE = "CMLogTracer/CMLogTracer-Info.plist";
+				LIBRARY_SEARCH_PATHS = "$(inherited)";
+				PRODUCT_NAME = CMLogTracer;
+				VALID_ARCHS = "armv7 armv7s arm64";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		30DAF82718149ADA00417CCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/CMLogTracer.app/CMLogTracer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CMLogTracerTests/CMLogTracerTests-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "CMLogTracerTests/CMLogTracerTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		30DAF82918149ADA00417CCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/CMLogTracer.app/CMLogTracer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CMLogTracerTests/CMLogTracerTests-Prefix.pch";
+				INFOPLIST_FILE = "CMLogTracerTests/CMLogTracerTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		307C7DDD180C6CE30085468D /* Build configuration list for PBXProject "CMLogTracer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				307C7E15180C6CE30085468D /* Debug */,
+				307C7E16180C6CE30085468D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		307C7E17180C6CE30085468D /* Build configuration list for PBXNativeTarget "CMLogTracer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				307C7E18180C6CE30085468D /* Debug */,
+				307C7E19180C6CE30085468D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		30DAF82618149ADA00417CCD /* Build configuration list for PBXNativeTarget "CMLogTracerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				30DAF82718149ADA00417CCD /* Debug */,
+				30DAF82918149ADA00417CCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		30D68A531819872E00159A76 /* SCCM Log File.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				30D68A541819872E00159A76 /* SCCM Log File.xcdatamodel */,
+			);
+			currentVersion = 30D68A541819872E00159A76 /* SCCM Log File.xcdatamodel */;
+			path = "SCCM Log File.xcdatamodeld";
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 307C7DDA180C6CE30085468D /* Project object */;
+}

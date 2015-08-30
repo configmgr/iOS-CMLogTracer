@@ -1,0 +1,1121 @@
+﻿<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.750+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.760+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.763+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.763+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.763+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.763+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.766+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.766+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.766+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.767+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.769+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.769+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.770+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.770+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.772+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.773+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.773+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.773+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.775+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.776+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.776+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.776+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.778+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.779+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.779+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.779+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.782+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.782+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.782+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.782+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.785+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.785+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.785+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.785+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.788+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.788+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.788+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.789+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.791+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.791+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.791+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.792+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.794+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.794+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.795+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.795+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.797+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.797+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.798+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.798+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.800+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.800+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.801+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.801+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.803+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.804+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.804+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.804+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.806+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.807+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.807+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.807+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.809+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.810+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.810+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.810+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.813+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.813+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.813+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.813+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.816+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.816+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.816+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.817+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.819+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.819+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.819+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.820+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.822+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.822+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.823+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.823+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.825+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.825+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.826+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.826+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:30.828+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.829+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:30.829+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:30.829+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.587+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.588+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.588+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.588+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.591+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.591+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.591+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.592+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.594+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.595+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.595+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.595+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.598+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.598+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.599+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.599+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.601+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.602+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.602+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.602+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.605+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.605+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.605+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.606+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.608+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.608+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.609+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.609+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.611+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.612+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.612+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.612+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.615+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.615+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.615+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.616+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.618+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.618+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.619+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.619+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.621+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.622+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.622+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.622+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.625+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.625+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.625+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.625+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.628+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.628+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.628+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.629+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.631+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.631+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.632+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.632+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.634+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.635+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.635+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.635+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.638+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.638+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.638+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.639+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.641+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.641+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.642+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.642+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.644+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.645+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.645+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.645+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.648+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.648+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.648+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.648+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.651+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.651+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.651+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.652+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.654+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.655+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.655+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.655+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.657+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.658+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.658+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.658+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.661+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.661+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.661+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.661+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.664+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.664+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.664+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.665+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.667+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.667+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.668+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.668+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.670+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.671+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.671+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.671+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.674+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.674+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.674+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.674+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.677+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.677+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.677+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.678+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.680+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.680+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.681+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.681+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.683+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.684+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.684+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.684+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.687+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.687+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.687+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.688+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.690+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.691+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.691+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.691+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.693+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.694+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.694+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.694+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.697+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.697+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.697+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.697+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.700+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.700+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.700+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.701+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.703+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.703+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.704+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.704+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.706+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.707+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.707+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.707+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.710+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.710+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.710+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.710+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.713+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.713+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.713+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.714+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.716+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.716+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.716+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.717+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.719+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.719+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.720+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.720+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.722+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.723+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.723+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.723+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.725+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.726+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.726+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.726+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.729+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.729+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.729+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.729+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.732+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.732+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.732+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.733+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.735+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.735+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.736+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.736+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.738+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.739+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.739+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.739+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.742+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.742+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.742+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.742+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.745+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.745+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.745+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.745+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.748+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.748+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.748+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.749+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.751+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.751+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.752+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.752+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.754+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.755+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.755+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.755+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.757+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.758+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.758+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.758+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.760+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.761+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.761+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.761+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.764+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.764+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.764+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.765+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.767+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.767+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.767+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.768+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.770+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.771+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.771+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.771+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.773+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.774+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.774+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.774+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.776+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.777+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.777+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.777+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.780+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.780+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.780+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.780+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.783+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.783+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.783+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.784+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.786+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.786+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.786+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.787+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.789+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.789+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.790+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.790+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.792+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.793+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.793+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.793+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.795+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.796+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.796+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.796+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.799+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.799+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.799+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.799+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.802+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.802+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.802+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.803+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.805+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.805+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.806+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.806+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.808+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.808+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.809+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.809+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.811+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.812+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.812+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.812+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.814+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.815+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.815+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.815+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.817+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.818+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.818+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.818+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.820+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.821+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.821+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.821+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.824+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.824+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.824+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.824+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.827+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.827+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.827+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.827+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.830+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.830+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.830+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.831+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.833+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.833+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.833+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.834+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.836+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.836+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.837+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.837+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.839+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.839+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.840+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.840+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.842+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.843+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.843+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.843+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.845+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.846+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.846+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.846+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.848+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.849+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.849+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.849+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.851+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.852+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.852+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.852+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.855+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.855+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.855+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.855+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.858+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.858+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.858+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.859+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.861+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.861+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.861+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.862+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.864+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.864+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.865+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.865+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.867+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.868+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.868+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.868+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.870+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.871+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.871+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.871+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.873+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.874+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.874+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.874+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.877+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.877+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.877+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.877+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.880+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.880+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.880+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.881+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.883+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.883+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.883+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.884+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.886+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.886+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.887+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.887+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.889+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.890+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.890+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.890+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.892+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.893+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.893+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.893+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.907+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.907+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.908+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.908+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.935+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.936+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.936+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.936+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="18:32:32.947+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.947+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="18:32:32.948+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="18:32:32.948+300" date="10-03-2013" component="InventoryProvider" context="" type="3" thread="2624" file="inventoryprovider.cpp:190">
+<![LOG[GetAllInstances - 1225 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="18:32:33.572+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 1225 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="18:32:33.673+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="2624" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 2 instance(s) of 'InventoryActionStatus' found]LOG]!><time="18:32:37.234+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="5508" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 1225 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="18:32:37.340+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="5508" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 1225 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="18:32:37.399+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="5508" file="sqlceproviderbase.cpp:489">
+<![LOG[>>> Initialize]LOG]!><time="18:35:03.158+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="4672" file="sqlceproviderbase.cpp:95">
+<![LOG[The state message store path is: 'C:\Windows\CCM\InventoryStore.sdf']LOG]!><time="18:35:03.159+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="4672" file="sqlceproviderbase.cpp:101">
+<![LOG[<<< Initialize]LOG]!><time="18:35:03.166+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="4672" file="sqlceproviderbase.cpp:137">
+<![LOG[GetAllInstances - 0 instance(s) of 'C00000000_0000_0000_0000_000000000002' found]LOG]!><time="18:35:03.169+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="4672" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 2 instance(s) of 'InventoryActionStatus' found]LOG]!><time="18:35:03.171+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="4672" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 0 instance(s) of 'C00000000_0000_0000_0000_000000000002' found]LOG]!><time="18:35:04.738+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="4672" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 0 instance(s) of 'C00000000_0000_0000_0000_000000000002' found]LOG]!><time="18:35:04.740+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="4672" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 0 instance(s) of 'C00000000_0000_0000_0000_000000000010' found]LOG]!><time="18:35:04.754+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="4672" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 3 instance(s) of 'InventoryActionStatus' found]LOG]!><time="18:35:04.756+300" date="10-03-2013" component="InventoryProvider" context="" type="1" thread="4672" file="sqlceproviderbase.cpp:489">
+<![LOG[>>> Initialize]LOG]!><time="11:56:25.405+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:95">
+<![LOG[The state message store path is: 'C:\Windows\CCM\InventoryStore.sdf']LOG]!><time="11:56:25.436+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:101">
+<![LOG[<<< Initialize]LOG]!><time="11:56:25.483+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:137">
+<![LOG[GetAllInstances - 2450 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="11:56:26.310+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 4 instance(s) of 'InventoryActionStatus' found]LOG]!><time="11:57:05.482+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="6808" file="sqlceproviderbase.cpp:489">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:57:06.933+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="6808" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:06.933+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:06.933+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:57:06.933+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:57:07.120+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="6808" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:07.120+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:07.120+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:57:07.120+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:57:07.120+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="6808" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:07.120+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:07.120+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:57:07.120+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:57:07.120+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="6808" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:07.120+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:07.120+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:57:07.120+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:57:07.120+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="6808" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:07.120+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:07.120+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:57:07.120+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:57:07.136+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="6808" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:07.136+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:07.136+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:57:07.136+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:57:07.136+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="6808" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:07.136+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:07.136+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:57:07.136+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:57:07.136+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="6808" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:07.136+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:07.136+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:57:07.136+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:57:20.895+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="6808" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:20.895+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:20.895+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:57:20.895+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:57:21.067+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="6808" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:21.067+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:21.067+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:57:21.067+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="6808" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:57:28.134+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:28.134+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:28.134+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:57:28.134+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:57:28.368+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:28.368+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:28.368+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:57:28.368+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:57:28.493+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:28.493+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:28.493+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:57:28.493+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:57:28.711+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:28.711+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:28.711+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:57:28.711+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:57:30.177+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:30.177+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:30.177+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:57:30.177+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:57:30.318+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:30.318+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:57:30.318+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:57:30.318+300" date="10-06-2013" component="InventoryProvider" context="" type="3" thread="748" file="inventoryprovider.cpp:190">
+<![LOG[GetAllInstances - 2470 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="11:57:33.968+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 2470 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="11:57:34.155+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 4 instance(s) of 'InventoryActionStatus' found]LOG]!><time="11:57:34.483+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 2470 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="11:57:34.733+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 1245 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="11:57:54.701+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 0 instance(s) of 'C00000000_0000_0000_0000_000000000002' found]LOG]!><time="11:58:20.769+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 4 instance(s) of 'InventoryActionStatus' found]LOG]!><time="11:58:20.769+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 0 instance(s) of 'C00000000_0000_0000_0000_000000000002' found]LOG]!><time="11:58:22.173+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 0 instance(s) of 'C00000000_0000_0000_0000_000000000002' found]LOG]!><time="11:58:22.173+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 0 instance(s) of 'C00000000_0000_0000_0000_000000000010' found]LOG]!><time="11:58:22.189+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 4 instance(s) of 'InventoryActionStatus' found]LOG]!><time="11:58:22.189+300" date="10-06-2013" component="InventoryProvider" context="" type="1" thread="748" file="sqlceproviderbase.cpp:489">
+<![LOG[>>> Initialize]LOG]!><time="11:25:25.359+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:95">
+<![LOG[The state message store path is: 'C:\Windows\CCM\InventoryStore.sdf']LOG]!><time="11:25:25.373+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:101">
+<![LOG[<<< Initialize]LOG]!><time="11:25:25.407+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:137">
+<![LOG[GetAllInstances - 2480 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="11:25:25.528+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 4 instance(s) of 'InventoryActionStatus' found]LOG]!><time="11:25:30.977+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="6580" file="sqlceproviderbase.cpp:489">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:25:32.605+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.625+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.625+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:25:32.626+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:25:32.683+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.683+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.684+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:25:32.684+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:25:32.687+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.688+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.688+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:25:32.688+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:25:32.708+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.708+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.708+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:25:32.709+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:25:32.712+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.712+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.712+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:25:32.713+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:25:32.715+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.716+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.716+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:25:32.717+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:25:32.719+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.720+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.720+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:25:32.720+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:25:32.723+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.723+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.724+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:25:32.724+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:25:32.727+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.727+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:32.728+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:25:32.728+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:25:36.227+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:36.227+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:36.228+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:25:36.228+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:25:36.351+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:36.352+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:36.352+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:25:36.352+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:25:36.406+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:36.407+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:36.407+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:25:36.407+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:25:36.466+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:36.467+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:25:36.467+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:25:36.468+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="5592" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:26:17.983+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="6580" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:17.984+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:17.984+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:26:17.984+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:26:18.006+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="6580" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.006+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.007+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:26:18.007+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:26:18.093+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="6580" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.094+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.094+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:26:18.094+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:26:18.101+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="6580" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.101+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.102+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:26:18.102+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:26:18.112+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="6580" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.113+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.113+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:26:18.113+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:26:18.146+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="6580" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.147+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.147+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:26:18.147+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:26:18.158+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="6580" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.158+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.159+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:26:18.159+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:26:18.212+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="6580" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.212+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.213+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:26:18.213+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:26:18.223+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="6580" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.224+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.224+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:26:18.224+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="11:26:18.463+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="6580" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.463+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="11:26:18.463+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="11:26:18.464+300" date="10-09-2013" component="InventoryProvider" context="" type="3" thread="6580" file="inventoryprovider.cpp:190">
+<![LOG[GetAllInstances - 2492 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="11:26:18.980+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="6580" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 2492 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="11:26:19.227+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="6580" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 4 instance(s) of 'InventoryActionStatus' found]LOG]!><time="11:26:19.766+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="6580" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 2492 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="11:26:20.195+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="6580" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 1257 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="11:26:23.477+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="6580" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 0 instance(s) of 'C00000000_0000_0000_0000_000000000010' found]LOG]!><time="11:26:27.750+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 4 instance(s) of 'InventoryActionStatus' found]LOG]!><time="11:26:27.752+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 0 instance(s) of 'C00000000_0000_0000_0000_000000000002' found]LOG]!><time="11:26:28.117+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 4 instance(s) of 'InventoryActionStatus' found]LOG]!><time="11:26:28.119+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 0 instance(s) of 'C00000000_0000_0000_0000_000000000002' found]LOG]!><time="11:26:29.418+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 0 instance(s) of 'C00000000_0000_0000_0000_000000000002' found]LOG]!><time="11:26:29.419+300" date="10-09-2013" component="InventoryProvider" context="" type="1" thread="5592" file="sqlceproviderbase.cpp:489">
+<![LOG[>>> Initialize]LOG]!><time="09:19:25.323+300" date="10-10-2013" component="InventoryProvider" context="" type="1" thread="2592" file="sqlceproviderbase.cpp:95">
+<![LOG[The state message store path is: 'C:\Windows\CCM\InventoryStore.sdf']LOG]!><time="09:19:25.324+300" date="10-10-2013" component="InventoryProvider" context="" type="1" thread="2592" file="sqlceproviderbase.cpp:101">
+<![LOG[<<< Initialize]LOG]!><time="09:19:25.328+300" date="10-10-2013" component="InventoryProvider" context="" type="1" thread="2592" file="sqlceproviderbase.cpp:137">
+<![LOG[GetAllInstances - 40 instance(s) of 'C00000000_0000_0000_0000_000000000003' found]LOG]!><time="09:19:25.331+300" date="10-10-2013" component="InventoryProvider" context="" type="1" thread="2592" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 4 instance(s) of 'InventoryActionStatus' found]LOG]!><time="09:19:25.423+300" date="10-10-2013" component="InventoryProvider" context="" type="1" thread="8188" file="sqlceproviderbase.cpp:489">
+<![LOG[Failed in discovering instance. 
+Call cancelled (Error: 80041032; Source: WMI)]LOG]!><time="09:19:25.426+300" date="10-10-2013" component="InventoryProvider" context="" type="3" thread="8188" file="cibase.cpp:473">
+<![LOG[Failed to do HandleCreateInstanceEnumAsync(). 
+Call cancelled (Error: 80041032; Source: WMI)]LOG]!><time="09:19:25.426+300" date="10-10-2013" component="InventoryProvider" context="" type="3" thread="8188" file="cibase.cpp:278">
+<![LOG[Fail to return error status to the Wbem user.. 
+Shutting down (Error: 80041033; Source: WMI)]LOG]!><time="09:19:25.426+300" date="10-10-2013" component="InventoryProvider" context="" type="3" thread="8188" file="cibase.cpp:283">
+<![LOG[CreateInstanceEnumAsync - Error handling request, 80041032]LOG]!><time="09:19:25.427+300" date="10-10-2013" component="InventoryProvider" context="" type="3" thread="8188" file="inventoryprovider.cpp:128">
+<![LOG[GetAllInstances - 40 instance(s) of 'C00000000_0000_0000_0000_000000000003' found]LOG]!><time="09:19:26.935+300" date="10-10-2013" component="InventoryProvider" context="" type="1" thread="8188" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 40 instance(s) of 'C00000000_0000_0000_0000_000000000003' found]LOG]!><time="09:19:26.940+300" date="10-10-2013" component="InventoryProvider" context="" type="1" thread="8188" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 4 instance(s) of 'InventoryActionStatus' found]LOG]!><time="09:19:26.975+300" date="10-10-2013" component="InventoryProvider" context="" type="1" thread="8188" file="sqlceproviderbase.cpp:489">
+<![LOG[Failed in discovering instance. 
+Call cancelled (Error: 80041032; Source: WMI)]LOG]!><time="09:19:26.975+300" date="10-10-2013" component="InventoryProvider" context="" type="3" thread="8188" file="cibase.cpp:473">
+<![LOG[Failed to do HandleCreateInstanceEnumAsync(). 
+Call cancelled (Error: 80041032; Source: WMI)]LOG]!><time="09:19:26.976+300" date="10-10-2013" component="InventoryProvider" context="" type="3" thread="8188" file="cibase.cpp:278">
+<![LOG[Fail to return error status to the Wbem user.. 
+Shutting down (Error: 80041033; Source: WMI)]LOG]!><time="09:19:26.976+300" date="10-10-2013" component="InventoryProvider" context="" type="3" thread="8188" file="cibase.cpp:283">
+<![LOG[CreateInstanceEnumAsync - Error handling request, 80041032]LOG]!><time="09:19:26.976+300" date="10-10-2013" component="InventoryProvider" context="" type="3" thread="8188" file="inventoryprovider.cpp:128">
+<![LOG[GetAllInstances - 40 instance(s) of 'C00000000_0000_0000_0000_000000000003' found]LOG]!><time="09:19:26.983+300" date="10-10-2013" component="InventoryProvider" context="" type="1" thread="8188" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 20 instance(s) of 'C00000000_0000_0000_0000_000000000003' found]LOG]!><time="09:19:27.034+300" date="10-10-2013" component="InventoryProvider" context="" type="1" thread="8188" file="sqlceproviderbase.cpp:489">
+<![LOG[>>> Initialize]LOG]!><time="10:04:25.660+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="10220" file="sqlceproviderbase.cpp:95">
+<![LOG[The state message store path is: 'C:\Windows\CCM\InventoryStore.sdf']LOG]!><time="10:04:25.670+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="10220" file="sqlceproviderbase.cpp:101">
+<![LOG[<<< Initialize]LOG]!><time="10:04:25.734+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="10220" file="sqlceproviderbase.cpp:137">
+<![LOG[GetAllInstances - 0 instance(s) of 'C00000000_0000_0000_0000_000000000010' found]LOG]!><time="10:04:25.737+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="10220" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 4 instance(s) of 'InventoryActionStatus' found]LOG]!><time="10:04:25.740+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="10220" file="sqlceproviderbase.cpp:489">
+<![LOG[>>> Initialize]LOG]!><time="10:54:25.109+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="7984" file="sqlceproviderbase.cpp:95">
+<![LOG[The state message store path is: 'C:\Windows\CCM\InventoryStore.sdf']LOG]!><time="10:54:25.109+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="7984" file="sqlceproviderbase.cpp:101">
+<![LOG[<<< Initialize]LOG]!><time="10:54:25.117+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="7984" file="sqlceproviderbase.cpp:137">
+<![LOG[GetAllInstances - 0 instance(s) of 'C00000000_0000_0000_0000_000000000002' found]LOG]!><time="10:54:25.120+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="7984" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 4 instance(s) of 'InventoryActionStatus' found]LOG]!><time="10:54:25.122+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="7984" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 0 instance(s) of 'C00000000_0000_0000_0000_000000000002' found]LOG]!><time="10:54:26.549+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="7984" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 0 instance(s) of 'C00000000_0000_0000_0000_000000000002' found]LOG]!><time="10:54:26.551+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="7984" file="sqlceproviderbase.cpp:489">
+<![LOG[>>> Initialize]LOG]!><time="13:16:25.181+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="7016" file="sqlceproviderbase.cpp:95">
+<![LOG[The state message store path is: 'C:\Windows\CCM\InventoryStore.sdf']LOG]!><time="13:16:25.182+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="7016" file="sqlceproviderbase.cpp:101">
+<![LOG[<<< Initialize]LOG]!><time="13:16:25.190+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="7016" file="sqlceproviderbase.cpp:137">
+<![LOG[GetAllInstances - 2504 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="13:16:26.118+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="7016" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 4 instance(s) of 'InventoryActionStatus' found]LOG]!><time="13:16:32.415+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="9060" file="sqlceproviderbase.cpp:489">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="13:16:34.198+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="9060" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.248+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.248+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="13:16:34.249+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="13:16:34.316+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="9060" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.316+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.317+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="13:16:34.317+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="13:16:34.324+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="9060" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.324+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.325+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="13:16:34.325+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="13:16:34.341+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="9060" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.341+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.341+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="13:16:34.342+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="13:16:34.345+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="9060" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.345+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.346+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="13:16:34.346+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="13:16:34.353+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="9060" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.354+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.354+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="13:16:34.354+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="13:16:34.366+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="9060" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.366+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.367+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="13:16:34.367+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="13:16:34.382+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="9060" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.382+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.382+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="13:16:34.383+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="13:16:34.394+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="9060" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.394+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:16:34.395+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="13:16:34.395+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="9060" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="13:17:11.008+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="7016" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:17:11.009+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="7016" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:17:11.009+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="7016" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="13:17:11.010+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="7016" file="inventoryprovider.cpp:190">
+<![LOG[PopulateInstance - Requested instance not found.]LOG]!><time="13:17:13.832+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="7016" file="sqlceproviderbase.cpp:212">
+<![LOG[Failed in discovering instance. 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:17:13.833+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="7016" file="cibase.cpp:625">
+<![LOG[Failed to do HandleGetObjectAsync(). 
+Invalid object (Error: 8004100F; Source: WMI)]LOG]!><time="13:17:13.833+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="7016" file="cibase.cpp:141">
+<![LOG[GetObjectAsync - Error handling request, 8004100f]LOG]!><time="13:17:13.834+300" date="10-12-2013" component="InventoryProvider" context="" type="3" thread="7016" file="inventoryprovider.cpp:190">
+<![LOG[GetAllInstances - 2515 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="13:17:19.392+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="7016" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 2515 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="13:17:19.604+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="7016" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 4 instance(s) of 'InventoryActionStatus' found]LOG]!><time="13:17:20.039+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="7016" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 2515 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="13:17:20.203+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="7016" file="sqlceproviderbase.cpp:489">
+<![LOG[GetAllInstances - 1268 instance(s) of 'C00000000_0000_0000_0000_000000000001' found]LOG]!><time="13:17:23.634+300" date="10-12-2013" component="InventoryProvider" context="" type="1" thread="9060" file="sqlceproviderbase.cpp:489">

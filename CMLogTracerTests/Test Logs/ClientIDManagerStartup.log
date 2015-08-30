@@ -1,0 +1,922 @@
+﻿<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="20:37:18.277+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 157 seconds before refreshing location services.]LOG]!><time="20:39:40.290+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="20:42:18.194+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 156 seconds before refreshing location services.]LOG]!><time="20:44:41.205+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="20:47:18.205+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 155 seconds before refreshing location services.]LOG]!><time="20:49:42.215+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="20:52:18.212+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 154 seconds before refreshing location services.]LOG]!><time="20:54:43.192+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="20:57:18.171+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 153 seconds before refreshing location services.]LOG]!><time="20:59:44.166+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:02:18.272+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 152 seconds before refreshing location services.]LOG]!><time="21:04:45.267+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:07:18.153+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 151 seconds before refreshing location services.]LOG]!><time="21:09:46.162+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:12:18.170+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 150 seconds before refreshing location services.]LOG]!><time="21:14:47.180+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:17:18.190+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 149 seconds before refreshing location services.]LOG]!><time="21:19:48.200+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:22:18.196+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 148 seconds before refreshing location services.]LOG]!><time="21:24:49.207+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:27:18.204+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 147 seconds before refreshing location services.]LOG]!><time="21:29:50.215+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:32:18.212+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 146 seconds before refreshing location services.]LOG]!><time="21:34:51.223+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:37:18.327+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 145 seconds before refreshing location services.]LOG]!><time="21:39:52.338+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:42:18.230+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 144 seconds before refreshing location services.]LOG]!><time="21:44:53.241+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:47:18.243+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 143 seconds before refreshing location services.]LOG]!><time="21:49:54.254+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:52:18.243+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 142 seconds before refreshing location services.]LOG]!><time="21:54:55.254+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:57:18.262+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 141 seconds before refreshing location services.]LOG]!><time="21:59:56.272+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:02:18.269+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 140 seconds before refreshing location services.]LOG]!><time="22:04:57.279+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:07:18.274+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 139 seconds before refreshing location services.]LOG]!><time="22:09:58.284+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:12:18.397+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 138 seconds before refreshing location services.]LOG]!><time="22:14:59.408+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:17:18.311+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 137 seconds before refreshing location services.]LOG]!><time="22:20:00.322+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:22:18.336+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 136 seconds before refreshing location services.]LOG]!><time="22:25:01.347+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:27:18.347+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 135 seconds before refreshing location services.]LOG]!><time="22:30:02.358+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:32:18.361+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 134 seconds before refreshing location services.]LOG]!><time="22:35:03.372+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:37:18.374+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 133 seconds before refreshing location services.]LOG]!><time="22:40:04.385+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:42:18.388+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 132 seconds before refreshing location services.]LOG]!><time="22:45:05.400+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:47:18.510+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 131 seconds before refreshing location services.]LOG]!><time="22:50:06.521+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:52:18.420+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 130 seconds before refreshing location services.]LOG]!><time="22:55:07.431+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:57:18.424+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 129 seconds before refreshing location services.]LOG]!><time="23:00:08.435+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:02:18.436+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 128 seconds before refreshing location services.]LOG]!><time="23:05:09.447+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:07:18.447+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 127 seconds before refreshing location services.]LOG]!><time="23:10:10.404+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:12:18.338+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 126 seconds before refreshing location services.]LOG]!><time="23:15:11.296+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:17:18.268+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 125 seconds before refreshing location services.]LOG]!><time="23:20:12.256+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:22:18.362+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 124 seconds before refreshing location services.]LOG]!><time="23:25:13.355+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:27:18.237+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 123 seconds before refreshing location services.]LOG]!><time="23:30:14.230+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:32:18.222+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 122 seconds before refreshing location services.]LOG]!><time="23:35:15.215+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:37:18.208+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 121 seconds before refreshing location services.]LOG]!><time="23:40:16.212+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:42:18.219+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 120 seconds before refreshing location services.]LOG]!><time="23:45:17.230+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:47:18.241+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 119 seconds before refreshing location services.]LOG]!><time="23:50:18.252+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:52:18.247+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 118 seconds before refreshing location services.]LOG]!><time="23:55:19.258+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:57:18.356+300" date="10-01-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 117 seconds before refreshing location services.]LOG]!><time="00:00:20.368+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:02:18.280+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 116 seconds before refreshing location services.]LOG]!><time="00:05:21.292+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:07:18.299+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 115 seconds before refreshing location services.]LOG]!><time="00:10:22.311+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:12:18.312+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 114 seconds before refreshing location services.]LOG]!><time="00:15:23.324+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:17:18.325+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 113 seconds before refreshing location services.]LOG]!><time="00:20:24.337+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:22:18.342+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 112 seconds before refreshing location services.]LOG]!><time="00:25:25.354+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:27:18.344+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 111 seconds before refreshing location services.]LOG]!><time="00:30:26.355+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:32:18.449+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 110 seconds before refreshing location services.]LOG]!><time="00:35:27.461+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:37:18.361+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 109 seconds before refreshing location services.]LOG]!><time="00:40:28.373+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:42:18.368+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 108 seconds before refreshing location services.]LOG]!><time="00:45:29.380+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:47:18.377+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 107 seconds before refreshing location services.]LOG]!><time="00:50:30.390+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:52:18.388+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 106 seconds before refreshing location services.]LOG]!><time="00:55:31.400+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:57:18.398+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 105 seconds before refreshing location services.]LOG]!><time="01:00:32.410+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:02:18.409+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 104 seconds before refreshing location services.]LOG]!><time="01:05:33.421+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:07:18.533+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 103 seconds before refreshing location services.]LOG]!><time="01:10:34.545+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:12:18.440+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 102 seconds before refreshing location services.]LOG]!><time="01:15:35.452+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:17:18.458+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 101 seconds before refreshing location services.]LOG]!><time="01:20:36.470+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:22:18.482+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 100 seconds before refreshing location services.]LOG]!><time="01:25:37.486+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:27:18.451+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 99 seconds before refreshing location services.]LOG]!><time="01:30:38.408+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:32:18.393+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 98 seconds before refreshing location services.]LOG]!><time="01:35:39.385+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:37:18.404+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 97 seconds before refreshing location services.]LOG]!><time="01:40:40.396+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:42:18.470+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 96 seconds before refreshing location services.]LOG]!><time="01:45:41.462+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:47:18.426+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 95 seconds before refreshing location services.]LOG]!><time="01:50:42.422+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:52:18.359+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 94 seconds before refreshing location services.]LOG]!><time="01:55:43.372+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:57:18.375+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 93 seconds before refreshing location services.]LOG]!><time="02:00:44.388+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:02:18.393+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 92 seconds before refreshing location services.]LOG]!><time="02:05:45.406+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:07:18.398+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 91 seconds before refreshing location services.]LOG]!><time="02:10:46.411+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:12:18.426+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 90 seconds before refreshing location services.]LOG]!><time="02:15:47.439+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:17:18.534+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 89 seconds before refreshing location services.]LOG]!><time="02:20:48.546+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:22:18.447+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 88 seconds before refreshing location services.]LOG]!><time="02:25:49.459+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:27:18.456+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 87 seconds before refreshing location services.]LOG]!><time="02:30:50.617+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:32:18.728+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 86 seconds before refreshing location services.]LOG]!><time="02:35:51.741+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:37:18.739+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 85 seconds before refreshing location services.]LOG]!><time="02:40:52.752+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:42:18.753+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 84 seconds before refreshing location services.]LOG]!><time="02:45:53.984+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:47:19.758+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 83 seconds before refreshing location services.]LOG]!><time="02:50:55.771+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:52:19.073+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 82 seconds before refreshing location services.]LOG]!><time="02:55:56.086+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:57:19.075+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 81 seconds before refreshing location services.]LOG]!><time="03:00:57.088+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:02:19.079+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 80 seconds before refreshing location services.]LOG]!><time="03:05:58.092+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:07:19.088+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 79 seconds before refreshing location services.]LOG]!><time="03:10:59.101+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:12:19.119+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 78 seconds before refreshing location services.]LOG]!><time="03:16:00.132+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:17:19.127+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 77 seconds before refreshing location services.]LOG]!><time="03:21:01.141+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:22:19.240+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 76 seconds before refreshing location services.]LOG]!><time="03:26:02.254+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:27:19.161+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 75 seconds before refreshing location services.]LOG]!><time="03:31:03.175+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:32:19.175+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 74 seconds before refreshing location services.]LOG]!><time="03:36:04.189+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:37:19.192+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 73 seconds before refreshing location services.]LOG]!><time="03:41:05.206+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:42:19.180+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 72 seconds before refreshing location services.]LOG]!><time="03:46:06.103+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:47:19.070+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 71 seconds before refreshing location services.]LOG]!><time="03:51:07.037+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:52:19.017+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 70 seconds before refreshing location services.]LOG]!><time="03:56:08.007+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:57:19.093+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 69 seconds before refreshing location services.]LOG]!><time="04:01:09.083+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:02:18.978+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 68 seconds before refreshing location services.]LOG]!><time="04:06:09.968+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:07:18.963+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 67 seconds before refreshing location services.]LOG]!><time="04:11:10.977+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:12:18.975+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 66 seconds before refreshing location services.]LOG]!><time="04:16:11.989+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:17:18.997+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 65 seconds before refreshing location services.]LOG]!><time="04:21:13.011+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:22:18.997+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 64 seconds before refreshing location services.]LOG]!><time="04:26:14.011+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:27:19.016+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 63 seconds before refreshing location services.]LOG]!><time="04:31:15.030+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:32:19.119+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 62 seconds before refreshing location services.]LOG]!><time="04:36:16.132+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:37:19.043+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 61 seconds before refreshing location services.]LOG]!><time="04:41:17.058+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:42:19.049+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 60 seconds before refreshing location services.]LOG]!><time="04:46:18.063+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:47:19.055+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 59 seconds before refreshing location services.]LOG]!><time="04:51:19.069+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:52:19.080+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 58 seconds before refreshing location services.]LOG]!><time="04:56:20.094+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:57:19.092+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 57 seconds before refreshing location services.]LOG]!><time="05:01:21.107+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:02:19.104+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 56 seconds before refreshing location services.]LOG]!><time="05:06:22.119+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:07:19.218+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 55 seconds before refreshing location services.]LOG]!><time="05:11:23.233+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:12:19.141+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 54 seconds before refreshing location services.]LOG]!><time="05:16:24.155+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:17:19.163+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 53 seconds before refreshing location services.]LOG]!><time="05:21:25.177+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:22:19.164+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 52 seconds before refreshing location services.]LOG]!><time="05:26:26.178+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:27:19.170+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 51 seconds before refreshing location services.]LOG]!><time="05:31:27.184+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:32:19.175+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 50 seconds before refreshing location services.]LOG]!><time="05:36:28.189+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:37:19.197+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 49 seconds before refreshing location services.]LOG]!><time="05:41:29.211+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:42:19.323+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 48 seconds before refreshing location services.]LOG]!><time="05:46:30.336+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:47:19.240+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 47 seconds before refreshing location services.]LOG]!><time="05:51:31.255+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:52:19.251+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 46 seconds before refreshing location services.]LOG]!><time="05:56:32.266+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:57:19.265+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 45 seconds before refreshing location services.]LOG]!><time="06:01:33.215+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:02:19.186+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 44 seconds before refreshing location services.]LOG]!><time="06:06:34.167+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:07:19.167+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 43 seconds before refreshing location services.]LOG]!><time="06:11:35.156+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:12:19.140+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 42 seconds before refreshing location services.]LOG]!><time="06:16:36.129+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:17:19.215+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 41 seconds before refreshing location services.]LOG]!><time="06:21:37.204+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:22:19.106+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 40 seconds before refreshing location services.]LOG]!><time="06:26:38.117+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:27:19.109+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 39 seconds before refreshing location services.]LOG]!><time="06:31:39.124+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:32:19.118+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 38 seconds before refreshing location services.]LOG]!><time="06:36:40.133+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:37:19.128+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 37 seconds before refreshing location services.]LOG]!><time="06:41:41.144+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:42:19.139+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 36 seconds before refreshing location services.]LOG]!><time="06:46:42.154+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:47:19.151+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 35 seconds before refreshing location services.]LOG]!><time="06:51:43.166+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:52:19.267+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 34 seconds before refreshing location services.]LOG]!><time="06:56:44.281+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:57:19.189+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 33 seconds before refreshing location services.]LOG]!><time="07:01:45.205+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:02:19.207+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 32 seconds before refreshing location services.]LOG]!><time="07:06:46.222+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:07:19.228+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 31 seconds before refreshing location services.]LOG]!><time="07:11:47.243+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:12:19.235+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 30 seconds before refreshing location services.]LOG]!><time="07:16:48.250+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:17:19.243+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 29 seconds before refreshing location services.]LOG]!><time="07:21:49.258+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:22:19.273+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 28 seconds before refreshing location services.]LOG]!><time="07:26:50.288+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:27:19.386+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 27 seconds before refreshing location services.]LOG]!><time="07:31:51.402+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:32:19.304+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 26 seconds before refreshing location services.]LOG]!><time="07:36:52.320+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:37:19.317+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 25 seconds before refreshing location services.]LOG]!><time="07:41:53.333+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:42:19.332+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 24 seconds before refreshing location services.]LOG]!><time="07:46:54.348+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:47:19.350+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 23 seconds before refreshing location services.]LOG]!><time="07:51:55.366+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:52:19.353+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 22 seconds before refreshing location services.]LOG]!><time="07:56:56.368+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:57:19.373+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 21 seconds before refreshing location services.]LOG]!><time="08:01:57.389+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:02:19.496+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 20 seconds before refreshing location services.]LOG]!><time="08:06:58.512+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:07:19.412+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 19 seconds before refreshing location services.]LOG]!><time="08:11:59.427+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:12:19.436+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 18 seconds before refreshing location services.]LOG]!><time="08:17:00.398+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:17:19.383+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 17 seconds before refreshing location services.]LOG]!><time="08:22:01.312+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:22:19.329+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 16 seconds before refreshing location services.]LOG]!><time="08:27:02.301+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:27:19.283+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 15 seconds before refreshing location services.]LOG]!><time="08:32:03.270+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:32:19.268+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 14 seconds before refreshing location services.]LOG]!><time="08:37:04.255+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:37:19.356+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 13 seconds before refreshing location services.]LOG]!><time="08:42:05.357+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:42:19.250+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 12 seconds before refreshing location services.]LOG]!><time="08:47:06.266+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:47:19.254+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 11 seconds before refreshing location services.]LOG]!><time="08:52:07.270+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:52:19.276+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 10 seconds before refreshing location services.]LOG]!><time="08:57:08.292+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:57:19.299+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 9 seconds before refreshing location services.]LOG]!><time="09:02:09.315+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="09:02:19.530+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 8 seconds before refreshing location services.]LOG]!><time="09:07:10.546+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="09:07:19.324+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 7 seconds before refreshing location services.]LOG]!><time="09:12:11.341+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="09:12:19.336+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 6 seconds before refreshing location services.]LOG]!><time="09:17:12.353+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="09:17:19.351+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 5 seconds before refreshing location services.]LOG]!><time="09:22:13.368+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="09:22:19.377+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 4 seconds before refreshing location services.]LOG]!><time="09:27:14.394+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="09:27:19.395+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 3 seconds before refreshing location services.]LOG]!><time="09:32:15.412+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="09:32:19.398+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 2 seconds before refreshing location services.]LOG]!><time="09:37:16.415+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="09:37:19.505+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 1 seconds before refreshing location services.]LOG]!><time="09:42:17.522+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="09:42:19.419+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[Sleeping for 0 seconds before refreshing location services.]LOG]!><time="09:47:18.436+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="1" thread="5468" file="regtask.cpp:197">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="09:47:19.932+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="09:52:19.964+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="09:57:20.992+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="10:02:23.022+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="10:07:26.154+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="10:12:30.183+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="10:17:35.213+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="10:22:41.266+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="10:27:48.305+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="10:32:56.404+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="10:38:05.445+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="10:43:15.423+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="10:48:26.403+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="10:53:38.404+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="10:58:51.420+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="11:04:05.452+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="11:09:20.584+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="11:14:36.615+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="11:19:53.750+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="11:25:11.788+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="11:30:30.818+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="11:35:50.849+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="11:41:11.984+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="11:46:34.015+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="11:51:57.046+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="11:57:21.078+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="12:02:46.109+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="12:08:12.245+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="12:13:39.378+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="12:19:07.409+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="12:24:36.441+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="12:30:06.481+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="12:35:37.512+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="12:41:09.543+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="12:46:42.675+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="12:52:16.706+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="12:57:51.842+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="13:03:27.875+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="13:09:04.911+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="13:14:42.941+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="13:20:22.074+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="13:26:02.105+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="13:31:43.146+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="13:37:25.181+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="13:43:08.318+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="13:48:52.350+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="13:54:37.483+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="14:00:23.515+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="14:06:10.548+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="14:11:58.589+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="14:17:47.621+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="14:23:37.652+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="14:29:28.785+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="14:35:20.824+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="14:41:13.856+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="14:47:07.889+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="14:53:02.920+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="14:58:59.057+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="15:04:56.148+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="15:10:53.922+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="15:16:52.863+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="15:22:52.847+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="15:28:53.843+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="15:34:55.945+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="15:40:58.985+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="15:47:03.122+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="15:53:08.155+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="15:59:14.190+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="16:05:21.326+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="16:11:29.359+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="16:17:38.392+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="16:23:48.424+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="16:29:59.458+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="16:36:11.697+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="16:42:24.738+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="16:48:38.771+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="16:54:53.805+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="17:01:09.837+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="17:07:26.974+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="17:13:45.008+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="17:20:04.046+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="17:26:24.184+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="17:32:45.218+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="17:39:07.353+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="17:45:30.393+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="17:51:54.429+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="17:58:19.462+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="18:04:45.495+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="18:11:12.631+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="18:17:40.768+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="18:24:09.803+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="18:30:39.838+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="18:37:10.871+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="18:43:43.005+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="18:50:16.048+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="18:56:50.081+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="19:03:25.221+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="19:10:01.257+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="19:16:38.392+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="19:23:16.429+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="19:29:55.464+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="19:36:35.498+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="19:43:16.248+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="19:49:58.388+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="19:56:41.374+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="20:03:25.367+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="20:10:10.379+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="20:16:56.413+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="20:23:43.547+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="20:30:31.582+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="20:37:20.721+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="20:44:10.756+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="20:51:01.791+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="20:57:53.934+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:04:47.079+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:11:41.113+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:18:36.149+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:25:32.184+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:32:29.220+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:39:27.356+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:46:26.394+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="21:53:26.428+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:00:27.469+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:07:29.507+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:14:32.642+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:21:36.678+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:28:41.714+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:35:47.750+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:42:54.784+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:50:02.921+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="22:57:11.957+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:04:22.002+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:11:33.038+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:18:45.074+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:25:58.213+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:33:12.273+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:40:27.309+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:47:43.344+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="23:55:00.381+300" date="10-02-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:02:18.518+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:09:37.563+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:16:57.333+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:24:18.284+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:31:40.275+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:39:03.389+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:46:27.426+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="00:53:52.461+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:01:18.498+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:08:45.540+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:16:13.683+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:23:42.721+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:31:12.757+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:38:43.795+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:46:15.933+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="01:53:48.970+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:01:23.006+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:08:58.046+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:16:34.189+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:24:11.227+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:31:49.264+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:39:28.302+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:47:08.439+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="02:54:49.477+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:02:31.513+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:10:14.551+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:17:58.696+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:25:43.737+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:33:29.775+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:41:16.814+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:49:04.951+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="03:56:53.989+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:04:45.035+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:12:36.074+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:20:28.220+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:28:21.257+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:36:15.293+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:44:10.284+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="04:52:06.082+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:00:03.021+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:08:01.013+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:16:00.007+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:24:00.107+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:32:01.098+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:40:03.089+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:48:06.079+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="05:56:10.169+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:04:15.162+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:12:21.152+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:20:28.145+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:28:36.243+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:36:45.236+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:44:55.224+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="06:53:06.214+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:01:18.303+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:09:31.293+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:17:45.281+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:26:00.270+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:34:16.369+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:42:33.361+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:50:51.350+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="07:59:10.339+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:07:30.428+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:15:51.418+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:24:13.407+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:32:36.398+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:41:00.496+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:49:25.486+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="08:57:51.475+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="09:06:18.570+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5468" file="regtask.cpp:219">
+<![LOG[[----- SHUTDOWN -----]]LOG]!><time="09:10:42.081+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="4968" file="ccmidstore.cpp:512">
+<![LOG[[----- STARTUP -----]]LOG]!><time="09:10:43.468+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5780" file="ccmidstore.cpp:414">
+<![LOG[Machine: AHS-OD-ABLAS]LOG]!><time="09:10:43.471+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5780" file="ccmid.cpp:1408">
+<![LOG[OS Version: 6.1 Service Pack 1]LOG]!><time="09:10:43.471+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5780" file="ccmid.cpp:1412">
+<![LOG[SCCM Client Version: 5.00.7804.1000]LOG]!><time="09:10:43.471+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5780" file="ccmid.cpp:1416">
+<![LOG['RDV' Identity store does not support backup.]LOG]!><time="09:10:43.475+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5780" file="ccmidstore.cpp:372">
+<![LOG[CCM Identity is in sync with Identity stores]LOG]!><time="09:10:43.475+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5780" file="ccmid.cpp:1455">
+<![LOG[Client is set to use HTTPS when available. The current state is 224.]LOG]!><time="09:10:43.477+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5780" file="ccmutillib.cpp:404">
+<![LOG[[RegTask] - Executing registration task synchronously.]LOG]!><time="09:10:51.436+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5020" file="regtask.cpp:916">
+<![LOG[Read SMBIOS (encoded): 39003100500053005A0051003100]LOG]!><time="09:10:51.441+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5020" file="smbiosident.cpp:118">
+<![LOG[Evaluated SMBIOS (encoded): 39003100500053005A0051003100]LOG]!><time="09:10:51.445+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5020" file="smbiosident.cpp:184">
+<![LOG[No SMBIOS Changed]LOG]!><time="09:10:51.445+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5020" file="smbiosident.cpp:65">
+<![LOG[SMBIOS unchanged]LOG]!><time="09:10:51.445+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5020" file="ccmid.cpp:671">
+<![LOG[SID unchanged]LOG]!><time="09:10:51.446+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5020" file="ccmid.cpp:688">
+<![LOG[HWID unchanged]LOG]!><time="09:10:52.519+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5020" file="ccmid.cpp:705">
+<![LOG[RegTask: Failed to refresh site code. Error: 0x80070032]LOG]!><time="09:10:53.786+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5020" file="regtask.cpp:219">
+<![LOG[Sleeping for 297 seconds before refreshing location services.]LOG]!><time="09:10:55.788+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5020" file="regtask.cpp:197">
+<![LOG[RegEndPoint: Event notification: CCM_RemoteClient_Reassigned]LOG]!><time="09:15:54.087+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5752" file="regendpoint.cpp:253">
+<![LOG[RegEndPoint: Received notification for site assignment change from '<none>' to 'CM2'.]LOG]!><time="09:15:54.088+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5752" file="regendpoint.cpp:285">
+<![LOG[[----- SHUTDOWN -----]]LOG]!><time="09:15:54.371+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5780" file="ccmidstore.cpp:512">
+<![LOG[[----- STARTUP -----]]LOG]!><time="09:15:54.947+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7768" file="ccmidstore.cpp:414">
+<![LOG[Machine: AHS-OD-ABLAS]LOG]!><time="09:15:54.949+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7768" file="ccmid.cpp:1408">
+<![LOG[OS Version: 6.1 Service Pack 1]LOG]!><time="09:15:54.949+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7768" file="ccmid.cpp:1412">
+<![LOG[SCCM Client Version: 5.00.7804.1000]LOG]!><time="09:15:54.949+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7768" file="ccmid.cpp:1416">
+<![LOG['RDV' Identity store does not support backup.]LOG]!><time="09:15:54.953+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7768" file="ccmidstore.cpp:372">
+<![LOG[CCM Identity is in sync with Identity stores]LOG]!><time="09:15:54.953+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7768" file="ccmid.cpp:1455">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="09:15:54.955+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7768" file="ccmutillib.cpp:404">
+<![LOG[Begin searching client certificates based on Certificate Issuers]LOG]!><time="09:15:55.032+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7768" file="ccmcert.cpp:3833">
+<![LOG[Completed searching client certificates based on Certificate Issuers]LOG]!><time="09:15:55.032+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7768" file="ccmcert.cpp:3992">
+<![LOG[Begin to select client certificate]LOG]!><time="09:15:55.032+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7768" file="ccmcert.cpp:4073">
+<![LOG[There are no certificates in the 'MY' store.]LOG]!><time="09:15:55.033+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7768" file="ccmcert.cpp:4131">
+<![LOG[Raising event:
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	DateTime = "20131003141555.035000+000";
+	HRESULT = "0x87d00280";
+	ProcessID = 7828;
+	ThreadID = 7768;
+};
+]LOG]!><time="09:15:55.035+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7768" file="event.cpp:706">
+<![LOG[Failed to submit event to the Status Agent. Attempting to create pending event.]LOG]!><time="09:15:55.036+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="7768" file="event.cpp:728">
+<![LOG[Raising pending event:
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	DateTime = "20131003141555.035000+000";
+	HRESULT = "0x87d00280";
+	ProcessID = 7828;
+	ThreadID = 7768;
+};
+]LOG]!><time="09:15:55.036+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7768" file="event.cpp:761">
+<![LOG[Unable to find PKI Certificate matching SCCM certificate selection criteria. 0x87d00280]LOG]!><time="09:15:55.038+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="7768" file="ccmgencert.cpp:3590">
+<![LOG[Initializing registration renewal for potential PKI issued certificate changes.]LOG]!><time="09:15:57.059+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="regtask.cpp:510">
+<![LOG[Succesfully intialized registration renewal.]LOG]!><time="09:15:57.060+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="regtask.cpp:552">
+<![LOG[[RegTask] - Executing registration task synchronously.]LOG]!><time="09:15:57.060+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="regtask.cpp:916">
+<![LOG[Read SMBIOS (encoded): 39003100500053005A0051003100]LOG]!><time="09:15:57.065+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="smbiosident.cpp:118">
+<![LOG[Evaluated SMBIOS (encoded): 39003100500053005A0051003100]LOG]!><time="09:15:57.070+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="smbiosident.cpp:184">
+<![LOG[No SMBIOS Changed]LOG]!><time="09:15:57.070+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="smbiosident.cpp:65">
+<![LOG[SMBIOS unchanged]LOG]!><time="09:15:57.070+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="ccmid.cpp:671">
+<![LOG[SID unchanged]LOG]!><time="09:15:57.071+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="ccmid.cpp:688">
+<![LOG[HWID unchanged]LOG]!><time="09:15:58.143+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="ccmid.cpp:705">
+<![LOG[Windows To Go requires a minimum operating system of Windows 8]LOG]!><time="09:15:59.685+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="util.cpp:2902">
+<![LOG[GetSystemEnclosureChassisInfo: IsFixed=TRUE, IsLaptop=FALSE]LOG]!><time="09:15:59.688+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="ccmid.cpp:215">
+<![LOG[Windows To Go requires a minimum operating system of Windows 8]LOG]!><time="09:15:59.696+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="util.cpp:2902">
+<![LOG[Computed HardwareID=2:42A65FDBDA3AC2C41F70521A631AE7C1DA5D318A
+	Win32_SystemEnclosure.SerialNumber=91PSZQ1
+	Win32_SystemEnclosure.SMBIOSAssetTag=<empty>
+	Win32_BaseBoard.SerialNumber=/91PSZQ1/CN7360415400SK/
+	Win32_BIOS.SerialNumber=91PSZQ1
+	Win32_NetworkAdapterConfiguration.MACAddress=78:2B:CB:AE:35:CF]LOG]!><time="09:15:59.696+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="ccmid.cpp:476">
+<![LOG[[RegTask] - Client is not registered. Sending registration request for GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B ...]LOG]!><time="09:15:59.699+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="regtask.cpp:1634">
+<![LOG[[RegTask] - Client registration is pending. Server assigned ClientID is GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B]LOG]!><time="09:16:01.029+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="regtask.cpp:1664">
+<![LOG[[RegTask] - Sleeping for 60 seconds ...]LOG]!><time="09:16:01.039+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="regtask.cpp:1445">
+<![LOG[[RegTask] - Client registration is pending. Sending confirmation request for GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B ...]LOG]!><time="09:17:01.085+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="regtask.cpp:1746">
+<![LOG[[RegTask] - Client is registered. Server assigned ClientID is GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B. Approval status 1]LOG]!><time="09:17:01.135+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="regtask.cpp:1755">
+<![LOG['RDV' Identity store does not support backup.]LOG]!><time="09:17:01.233+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="ccmidstore.cpp:372">
+<![LOG[Raising event:
+[SMS_CodePage(437), SMS_LocaleID(1033)]
+instance of SMS_RemoteClient_Reassigned
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131003141701.234000+000";
+	LastAssignedSite = "";
+	MachineName = "AHS-OD-ABLAS";
+	NewAssignedSite = "CM2";
+	ProcessID = 7828;
+	SiteCode = "CM2";
+	ThreadID = 6948;
+};
+]LOG]!><time="09:17:01.235+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="event.cpp:706">
+<![LOG[Read SMBIOS (encoded): 39003100500053005A0051003100]LOG]!><time="09:17:02.081+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="smbiosident.cpp:118">
+<![LOG[Evaluated SMBIOS (encoded): 39003100500053005A0051003100]LOG]!><time="09:17:02.210+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="smbiosident.cpp:184">
+<![LOG[No SMBIOS Changed]LOG]!><time="09:17:02.211+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="smbiosident.cpp:65">
+<![LOG[SMBIOS unchanged]LOG]!><time="09:17:02.211+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="ccmid.cpp:671">
+<![LOG[SID unchanged]LOG]!><time="09:17:02.211+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="ccmid.cpp:688">
+<![LOG[HWID unchanged]LOG]!><time="09:17:02.211+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="ccmid.cpp:705">
+<![LOG[GetSystemEnclosureChassisInfo: IsFixed=TRUE, IsLaptop=FALSE]LOG]!><time="09:17:02.220+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="ccmid.cpp:215">
+<![LOG[Windows To Go requires a minimum operating system of Windows 8]LOG]!><time="09:17:02.228+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="util.cpp:2902">
+<![LOG[Computed HardwareID=2:42A65FDBDA3AC2C41F70521A631AE7C1DA5D318A
+	Win32_SystemEnclosure.SerialNumber=91PSZQ1
+	Win32_SystemEnclosure.SMBIOSAssetTag=<empty>
+	Win32_BaseBoard.SerialNumber=/91PSZQ1/CN7360415400SK/
+	Win32_BIOS.SerialNumber=91PSZQ1
+	Win32_NetworkAdapterConfiguration.MACAddress=78:2B:CB:AE:35:CF]LOG]!><time="09:17:02.228+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="ccmid.cpp:476">
+<![LOG[Persisted hardware IDs in CCM_ClientIdentificationInformation=@:
+	HardwareID1=2:42A65FDBDA3AC2C41F70521A631AE7C1DA5D318A
+	HardwareID2=73867D03019800FE]LOG]!><time="09:17:02.229+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6948" file="ccmid.cpp:575">
+<![LOG[RenewalTask: Executing renewal task.]LOG]!><time="09:18:28.076+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7424" file="regtask.cpp:2335">
+<![LOG[Begin searching client certificates based on Certificate Issuers]LOG]!><time="09:18:28.077+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7424" file="ccmcert.cpp:3833">
+<![LOG[Completed searching client certificates based on Certificate Issuers]LOG]!><time="09:18:28.077+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7424" file="ccmcert.cpp:3992">
+<![LOG[Begin to select client certificate]LOG]!><time="09:18:28.077+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7424" file="ccmcert.cpp:4073">
+<![LOG[There are no certificates in the 'MY' store.]LOG]!><time="09:18:28.077+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7424" file="ccmcert.cpp:4131">
+<![LOG[Raising event:
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131003141828.079000+000";
+	HRESULT = "0x87d00280";
+	ProcessID = 7828;
+	ThreadID = 7424;
+};
+]LOG]!><time="09:18:28.079+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7424" file="event.cpp:706">
+<![LOG[Unable to find PKI Certificate matching SCCM certificate selection criteria. 0x87d00280]LOG]!><time="09:18:28.079+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="7424" file="ccmgencert.cpp:3590">
+<![LOG[RenewalTask: Certificate store/settings have changed, but target certificate has not.]LOG]!><time="09:18:28.081+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7424" file="regtask.cpp:2365">
+<![LOG[[----- SHUTDOWN -----]]LOG]!><time="09:20:58.943+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="7768" file="ccmidstore.cpp:512">
+<![LOG[[----- STARTUP -----]]LOG]!><time="09:21:01.521+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6292" file="ccmidstore.cpp:414">
+<![LOG[Machine: AHS-OD-ABLAS]LOG]!><time="09:21:01.522+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6292" file="ccmid.cpp:1408">
+<![LOG[OS Version: 6.1 Service Pack 1]LOG]!><time="09:21:01.522+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6292" file="ccmid.cpp:1412">
+<![LOG[SCCM Client Version: 5.00.7804.1000]LOG]!><time="09:21:01.523+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6292" file="ccmid.cpp:1416">
+<![LOG['RDV' Identity store does not support backup.]LOG]!><time="09:21:01.527+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6292" file="ccmidstore.cpp:372">
+<![LOG[CCM Identity is in sync with Identity stores]LOG]!><time="09:21:01.527+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6292" file="ccmid.cpp:1455">
+<![LOG['RDV' Identity store does not support backup.]LOG]!><time="09:21:01.547+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6292" file="ccmidstore.cpp:372">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="09:21:01.549+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6292" file="ccmutillib.cpp:404">
+<![LOG[Begin searching client certificates based on Certificate Issuers]LOG]!><time="09:21:01.549+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6292" file="ccmcert.cpp:3833">
+<![LOG[Completed searching client certificates based on Certificate Issuers]LOG]!><time="09:21:01.549+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6292" file="ccmcert.cpp:3992">
+<![LOG[Begin to select client certificate]LOG]!><time="09:21:01.549+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6292" file="ccmcert.cpp:4073">
+<![LOG[There are no certificates in the 'MY' store.]LOG]!><time="09:21:01.549+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6292" file="ccmcert.cpp:4131">
+<![LOG[Raising event:
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131003142101.552000+000";
+	HRESULT = "0x87d00280";
+	ProcessID = 3976;
+	ThreadID = 6292;
+};
+]LOG]!><time="09:21:01.552+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6292" file="event.cpp:706">
+<![LOG[Failed to submit event to the Status Agent. Attempting to create pending event.]LOG]!><time="09:21:01.555+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="6292" file="event.cpp:728">
+<![LOG[Raising pending event:
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131003142101.552000+000";
+	HRESULT = "0x87d00280";
+	ProcessID = 3976;
+	ThreadID = 6292;
+};
+]LOG]!><time="09:21:01.555+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6292" file="event.cpp:761">
+<![LOG[Unable to find PKI Certificate matching SCCM certificate selection criteria. 0x87d00280]LOG]!><time="09:21:01.557+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="6292" file="ccmgencert.cpp:3590">
+<![LOG[Initializing registration renewal for potential PKI issued certificate changes.]LOG]!><time="09:21:03.495+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="8936" file="regtask.cpp:510">
+<![LOG[Succesfully intialized registration renewal.]LOG]!><time="09:21:03.495+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="8936" file="regtask.cpp:552">
+<![LOG[[RegTask] - Executing registration task synchronously.]LOG]!><time="09:21:03.495+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="8936" file="regtask.cpp:916">
+<![LOG[[RegTask] - Client is already registered. Exiting.]LOG]!><time="09:21:03.498+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="8936" file="regtask.cpp:793">
+<![LOG[Read SMBIOS (encoded): 39003100500053005A0051003100]LOG]!><time="09:21:03.615+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="8228" file="smbiosident.cpp:118">
+<![LOG[Evaluated SMBIOS (encoded): 39003100500053005A0051003100]LOG]!><time="09:21:03.619+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="8228" file="smbiosident.cpp:184">
+<![LOG[No SMBIOS Changed]LOG]!><time="09:21:03.619+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="8228" file="smbiosident.cpp:65">
+<![LOG[SMBIOS unchanged]LOG]!><time="09:21:03.619+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="8228" file="ccmid.cpp:671">
+<![LOG[SID unchanged]LOG]!><time="09:21:03.647+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="8228" file="ccmid.cpp:688">
+<![LOG[HWID unchanged]LOG]!><time="09:21:04.712+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="8228" file="ccmid.cpp:705">
+<![LOG[GetSystemEnclosureChassisInfo: IsFixed=TRUE, IsLaptop=FALSE]LOG]!><time="09:21:04.721+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="8228" file="ccmid.cpp:215">
+<![LOG[Windows To Go requires a minimum operating system of Windows 8]LOG]!><time="09:21:04.729+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="8228" file="util.cpp:2902">
+<![LOG[Computed HardwareID=2:42A65FDBDA3AC2C41F70521A631AE7C1DA5D318A
+	Win32_SystemEnclosure.SerialNumber=91PSZQ1
+	Win32_SystemEnclosure.SMBIOSAssetTag=<empty>
+	Win32_BaseBoard.SerialNumber=/91PSZQ1/CN7360415400SK/
+	Win32_BIOS.SerialNumber=91PSZQ1
+	Win32_NetworkAdapterConfiguration.MACAddress=78:2B:CB:AE:35:CF]LOG]!><time="09:21:04.729+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="8228" file="ccmid.cpp:476">
+<![LOG[Persisted hardware IDs in CCM_ClientIdentificationInformation=@:
+	HardwareID1=2:42A65FDBDA3AC2C41F70521A631AE7C1DA5D318A
+	HardwareID2=73867D03019800FE]LOG]!><time="09:21:04.730+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="8228" file="ccmid.cpp:575">
+<![LOG[Failed to open to WMI namespace '\\.\root\ccmvdi' (8007045b)]LOG]!><time="16:19:23.653+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="3" thread="6292" file="wminamespace.cpp:292">
+<![LOG[[----- SHUTDOWN -----]]LOG]!><time="16:19:24.043+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="6292" file="ccmidstore.cpp:512">
+<![LOG[[----- STARTUP -----]]LOG]!><time="16:29:40.573+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="2608" file="ccmidstore.cpp:414">
+<![LOG[Machine: AHS-OD-ABLAS]LOG]!><time="16:29:41.528+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="2608" file="ccmid.cpp:1408">
+<![LOG[OS Version: 6.1 Service Pack 1]LOG]!><time="16:29:41.528+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="2608" file="ccmid.cpp:1412">
+<![LOG[SCCM Client Version: 5.00.7804.1000]LOG]!><time="16:29:41.528+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="2608" file="ccmid.cpp:1416">
+<![LOG['RDV' Identity store does not support backup.]LOG]!><time="16:29:41.918+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="2608" file="ccmidstore.cpp:372">
+<![LOG[CCM Identity is in sync with Identity stores]LOG]!><time="16:29:41.918+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="2608" file="ccmid.cpp:1455">
+<![LOG['RDV' Identity store does not support backup.]LOG]!><time="16:29:41.997+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="2608" file="ccmidstore.cpp:372">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="16:29:41.997+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="2608" file="ccmutillib.cpp:404">
+<![LOG[Begin searching client certificates based on Certificate Issuers]LOG]!><time="16:29:41.997+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="2608" file="ccmcert.cpp:3833">
+<![LOG[Completed searching client certificates based on Certificate Issuers]LOG]!><time="16:29:41.997+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="2608" file="ccmcert.cpp:3992">
+<![LOG[Begin to select client certificate]LOG]!><time="16:29:41.997+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="2608" file="ccmcert.cpp:4073">
+<![LOG[There are no certificates in the 'MY' store.]LOG]!><time="16:29:41.997+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="2608" file="ccmcert.cpp:4131">
+<![LOG[Raising event:
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131003212942.372000+000";
+	HRESULT = "0x87d00280";
+	ProcessID = 3472;
+	ThreadID = 2608;
+};
+]LOG]!><time="16:29:42.372+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="2608" file="event.cpp:706">
+<![LOG[Failed to submit event to the Status Agent. Attempting to create pending event.]LOG]!><time="16:29:42.388+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="2608" file="event.cpp:728">
+<![LOG[Raising pending event:
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131003212942.372000+000";
+	HRESULT = "0x87d00280";
+	ProcessID = 3472;
+	ThreadID = 2608;
+};
+]LOG]!><time="16:29:42.388+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="2608" file="event.cpp:761">
+<![LOG[Unable to find PKI Certificate matching SCCM certificate selection criteria. 0x87d00280]LOG]!><time="16:29:42.763+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="2608" file="ccmgencert.cpp:3590">
+<![LOG[Initializing registration renewal for potential PKI issued certificate changes.]LOG]!><time="16:30:39.979+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5052" file="regtask.cpp:510">
+<![LOG[Succesfully intialized registration renewal.]LOG]!><time="16:30:39.979+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5052" file="regtask.cpp:552">
+<![LOG[[RegTask] - Executing registration task synchronously.]LOG]!><time="16:30:39.979+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5052" file="regtask.cpp:916">
+<![LOG[[RegTask] - Client is already registered. Exiting.]LOG]!><time="16:30:39.979+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5052" file="regtask.cpp:793">
+<![LOG[Read SMBIOS (encoded): 39003100500053005A0051003100]LOG]!><time="16:30:40.573+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5052" file="smbiosident.cpp:118">
+<![LOG[Evaluated SMBIOS (encoded): 39003100500053005A0051003100]LOG]!><time="16:30:40.604+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5052" file="smbiosident.cpp:184">
+<![LOG[No SMBIOS Changed]LOG]!><time="16:30:40.604+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5052" file="smbiosident.cpp:65">
+<![LOG[SMBIOS unchanged]LOG]!><time="16:30:40.604+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5052" file="ccmid.cpp:671">
+<![LOG[SID unchanged]LOG]!><time="16:30:40.604+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5052" file="ccmid.cpp:688">
+<![LOG[HWID unchanged]LOG]!><time="16:30:41.793+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5052" file="ccmid.cpp:705">
+<![LOG[GetSystemEnclosureChassisInfo: IsFixed=TRUE, IsLaptop=FALSE]LOG]!><time="16:30:41.793+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5052" file="ccmid.cpp:215">
+<![LOG[Windows To Go requires a minimum operating system of Windows 8]LOG]!><time="16:30:41.808+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5052" file="util.cpp:2902">
+<![LOG[Computed HardwareID=2:42A65FDBDA3AC2C41F70521A631AE7C1DA5D318A
+	Win32_SystemEnclosure.SerialNumber=91PSZQ1
+	Win32_SystemEnclosure.SMBIOSAssetTag=<empty>
+	Win32_BaseBoard.SerialNumber=/91PSZQ1/CN7360415400SK/
+	Win32_BIOS.SerialNumber=91PSZQ1
+	Win32_NetworkAdapterConfiguration.MACAddress=78:2B:CB:AE:35:CF]LOG]!><time="16:30:41.808+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5052" file="ccmid.cpp:476">
+<![LOG[Persisted hardware IDs in CCM_ClientIdentificationInformation=@:
+	HardwareID1=2:42A65FDBDA3AC2C41F70521A631AE7C1DA5D318A
+	HardwareID2=736E7F03019800FE]LOG]!><time="16:30:41.808+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5052" file="ccmid.cpp:575">
+<![LOG[RenewalTask: Executing renewal task.]LOG]!><time="16:36:10.472+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5020" file="regtask.cpp:2335">
+<![LOG[Begin searching client certificates based on Certificate Issuers]LOG]!><time="16:36:10.472+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5020" file="ccmcert.cpp:3833">
+<![LOG[Completed searching client certificates based on Certificate Issuers]LOG]!><time="16:36:10.472+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5020" file="ccmcert.cpp:3992">
+<![LOG[Begin to select client certificate]LOG]!><time="16:36:10.472+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5020" file="ccmcert.cpp:4073">
+<![LOG[There are no certificates in the 'MY' store.]LOG]!><time="16:36:10.472+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5020" file="ccmcert.cpp:4131">
+<![LOG[Raising event:
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131003213610.475000+000";
+	HRESULT = "0x87d00280";
+	ProcessID = 3472;
+	ThreadID = 5020;
+};
+]LOG]!><time="16:36:10.475+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5020" file="event.cpp:706">
+<![LOG[Unable to find PKI Certificate matching SCCM certificate selection criteria. 0x87d00280]LOG]!><time="16:36:10.476+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="2" thread="5020" file="ccmgencert.cpp:3590">
+<![LOG[RenewalTask: Certificate store/settings have changed, but target certificate has not.]LOG]!><time="16:36:10.478+300" date="10-03-2013" component="ClientIDManagerStartup" context="" type="1" thread="5020" file="regtask.cpp:2365">
+<![LOG[Failed to open to WMI namespace '\\.\root\ccmvdi' (8007045b)]LOG]!><time="14:03:00.818+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="3" thread="2608" file="wminamespace.cpp:292">
+<![LOG[[----- SHUTDOWN -----]]LOG]!><time="14:03:00.818+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="2608" file="ccmidstore.cpp:512">
+<![LOG[[----- STARTUP -----]]LOG]!><time="14:13:26.821+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="772" file="ccmidstore.cpp:414">
+<![LOG[Machine: AHS-OD-ABLAS]LOG]!><time="14:13:27.478+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="772" file="ccmid.cpp:1408">
+<![LOG[OS Version: 6.1 Service Pack 1]LOG]!><time="14:13:27.478+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="772" file="ccmid.cpp:1412">
+<![LOG[SCCM Client Version: 5.00.7804.1000]LOG]!><time="14:13:27.478+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="772" file="ccmid.cpp:1416">
+<![LOG['RDV' Identity store does not support backup.]LOG]!><time="14:13:27.660+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="772" file="ccmidstore.cpp:372">
+<![LOG[CCM Identity is in sync with Identity stores]LOG]!><time="14:13:27.660+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="772" file="ccmid.cpp:1455">
+<![LOG['RDV' Identity store does not support backup.]LOG]!><time="14:13:27.910+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="772" file="ccmidstore.cpp:372">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="14:13:27.916+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="772" file="ccmutillib.cpp:404">
+<![LOG[Begin searching client certificates based on Certificate Issuers]LOG]!><time="14:13:27.960+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="772" file="ccmcert.cpp:3833">
+<![LOG[Completed searching client certificates based on Certificate Issuers]LOG]!><time="14:13:27.960+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="772" file="ccmcert.cpp:3992">
+<![LOG[Begin to select client certificate]LOG]!><time="14:13:27.960+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="772" file="ccmcert.cpp:4073">
+<![LOG[There are no certificates in the 'MY' store.]LOG]!><time="14:13:27.960+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="772" file="ccmcert.cpp:4131">
+<![LOG[Raising event:
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131004191328.195000+000";
+	HRESULT = "0x87d00280";
+	ProcessID = 4744;
+	ThreadID = 772;
+};
+]LOG]!><time="14:13:28.228+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="772" file="event.cpp:706">
+<![LOG[Failed to submit event to the Status Agent. Attempting to create pending event.]LOG]!><time="14:13:28.252+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="2" thread="772" file="event.cpp:728">
+<![LOG[Raising pending event:
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131004191328.195000+000";
+	HRESULT = "0x87d00280";
+	ProcessID = 4744;
+	ThreadID = 772;
+};
+]LOG]!><time="14:13:28.252+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="772" file="event.cpp:761">
+<![LOG[Unable to find PKI Certificate matching SCCM certificate selection criteria. 0x87d00280]LOG]!><time="14:13:28.284+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="2" thread="772" file="ccmgencert.cpp:3590">
+<![LOG[Initializing registration renewal for potential PKI issued certificate changes.]LOG]!><time="14:13:42.901+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="2812" file="regtask.cpp:510">
+<![LOG[Succesfully intialized registration renewal.]LOG]!><time="14:13:42.901+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="2812" file="regtask.cpp:552">
+<![LOG[[RegTask] - Executing registration task synchronously.]LOG]!><time="14:13:42.901+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="2812" file="regtask.cpp:916">
+<![LOG[[RegTask] - Client is already registered. Exiting.]LOG]!><time="14:13:42.905+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="2812" file="regtask.cpp:793">
+<![LOG[Read SMBIOS (encoded): 39003100500053005A0051003100]LOG]!><time="14:13:43.951+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="2812" file="smbiosident.cpp:118">
+<![LOG[Evaluated SMBIOS (encoded): 39003100500053005A0051003100]LOG]!><time="14:13:43.982+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="2812" file="smbiosident.cpp:184">
+<![LOG[No SMBIOS Changed]LOG]!><time="14:13:43.982+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="2812" file="smbiosident.cpp:65">
+<![LOG[SMBIOS unchanged]LOG]!><time="14:13:43.982+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="2812" file="ccmid.cpp:671">
+<![LOG[SID unchanged]LOG]!><time="14:13:43.998+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="2812" file="ccmid.cpp:688">
+<![LOG[HWID unchanged]LOG]!><time="14:13:45.184+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="2812" file="ccmid.cpp:705">
+<![LOG[GetSystemEnclosureChassisInfo: IsFixed=TRUE, IsLaptop=FALSE]LOG]!><time="14:13:45.424+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="2812" file="ccmid.cpp:215">
+<![LOG[Windows To Go requires a minimum operating system of Windows 8]LOG]!><time="14:13:45.433+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="2812" file="util.cpp:2902">
+<![LOG[Computed HardwareID=2:42A65FDBDA3AC2C41F70521A631AE7C1DA5D318A
+	Win32_SystemEnclosure.SerialNumber=91PSZQ1
+	Win32_SystemEnclosure.SMBIOSAssetTag=<empty>
+	Win32_BaseBoard.SerialNumber=/91PSZQ1/CN7360415400SK/
+	Win32_BIOS.SerialNumber=91PSZQ1
+	Win32_NetworkAdapterConfiguration.MACAddress=78:2B:CB:AE:35:CF]LOG]!><time="14:13:45.433+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="2812" file="ccmid.cpp:476">
+<![LOG[Persisted hardware IDs in CCM_ClientIdentificationInformation=@:
+	HardwareID1=2:42A65FDBDA3AC2C41F70521A631AE7C1DA5D318A
+	HardwareID2=73227303019800FE]LOG]!><time="14:13:45.434+300" date="10-04-2013" component="ClientIDManagerStartup" context="" type="1" thread="2812" file="ccmid.cpp:575">
+<![LOG[Failed to open to WMI namespace '\\.\root\ccmvdi' (8007045b)]LOG]!><time="08:28:23.331+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="3" thread="772" file="wminamespace.cpp:292">
+<![LOG[[----- SHUTDOWN -----]]LOG]!><time="08:28:23.346+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="772" file="ccmidstore.cpp:512">
+<![LOG[[----- STARTUP -----]]LOG]!><time="08:38:18.969+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="2800" file="ccmidstore.cpp:414">
+<![LOG[Machine: AHS-OD-ABLAS]LOG]!><time="08:38:19.031+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="2800" file="ccmid.cpp:1408">
+<![LOG[OS Version: 6.1 Service Pack 1]LOG]!><time="08:38:19.031+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="2800" file="ccmid.cpp:1412">
+<![LOG[SCCM Client Version: 5.00.7804.1000]LOG]!><time="08:38:19.031+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="2800" file="ccmid.cpp:1416">
+<![LOG['RDV' Identity store does not support backup.]LOG]!><time="08:38:19.140+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="2800" file="ccmidstore.cpp:372">
+<![LOG[CCM Identity is in sync with Identity stores]LOG]!><time="08:38:19.140+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="2800" file="ccmid.cpp:1455">
+<![LOG['RDV' Identity store does not support backup.]LOG]!><time="08:38:19.343+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="2800" file="ccmidstore.cpp:372">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="08:38:19.343+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="2800" file="ccmutillib.cpp:404">
+<![LOG[Begin searching client certificates based on Certificate Issuers]LOG]!><time="08:38:19.343+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="2800" file="ccmcert.cpp:3833">
+<![LOG[Completed searching client certificates based on Certificate Issuers]LOG]!><time="08:38:19.343+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="2800" file="ccmcert.cpp:3992">
+<![LOG[Begin to select client certificate]LOG]!><time="08:38:19.343+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="2800" file="ccmcert.cpp:4073">
+<![LOG[There are no certificates in the 'MY' store.]LOG]!><time="08:38:19.343+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="2800" file="ccmcert.cpp:4131">
+<![LOG[Raising event:
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131009133819.374000+000";
+	HRESULT = "0x87d00280";
+	ProcessID = 1860;
+	ThreadID = 2800;
+};
+]LOG]!><time="08:38:19.390+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="2800" file="event.cpp:706">
+<![LOG[Failed to submit event to the Status Agent. Attempting to create pending event.]LOG]!><time="08:38:19.421+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="2" thread="2800" file="event.cpp:728">
+<![LOG[Raising pending event:
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131009133819.374000+000";
+	HRESULT = "0x87d00280";
+	ProcessID = 1860;
+	ThreadID = 2800;
+};
+]LOG]!><time="08:38:19.421+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="2800" file="event.cpp:761">
+<![LOG[Unable to find PKI Certificate matching SCCM certificate selection criteria. 0x87d00280]LOG]!><time="08:38:19.421+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="2" thread="2800" file="ccmgencert.cpp:3590">
+<![LOG[Initializing registration renewal for potential PKI issued certificate changes.]LOG]!><time="08:38:32.212+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="3220" file="regtask.cpp:510">
+<![LOG[Succesfully intialized registration renewal.]LOG]!><time="08:38:32.212+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="3220" file="regtask.cpp:552">
+<![LOG[[RegTask] - Executing registration task synchronously.]LOG]!><time="08:38:32.212+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="3220" file="regtask.cpp:916">
+<![LOG[[RegTask] - Client is already registered. Exiting.]LOG]!><time="08:38:32.212+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="3220" file="regtask.cpp:793">
+<![LOG[Read SMBIOS (encoded): 39003100500053005A0051003100]LOG]!><time="08:38:33.132+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="3220" file="smbiosident.cpp:118">
+<![LOG[Evaluated SMBIOS (encoded): 39003100500053005A0051003100]LOG]!><time="08:38:33.148+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="3220" file="smbiosident.cpp:184">
+<![LOG[No SMBIOS Changed]LOG]!><time="08:38:33.148+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="3220" file="smbiosident.cpp:65">
+<![LOG[SMBIOS unchanged]LOG]!><time="08:38:33.148+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="3220" file="ccmid.cpp:671">
+<![LOG[SID unchanged]LOG]!><time="08:38:33.507+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="3220" file="ccmid.cpp:688">
+<![LOG[HWID unchanged]LOG]!><time="08:38:34.599+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="3220" file="ccmid.cpp:705">
+<![LOG[GetSystemEnclosureChassisInfo: IsFixed=TRUE, IsLaptop=FALSE]LOG]!><time="08:38:34.630+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="3220" file="ccmid.cpp:215">
+<![LOG[Windows To Go requires a minimum operating system of Windows 8]LOG]!><time="08:38:34.723+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="3220" file="util.cpp:2902">
+<![LOG[Computed HardwareID=2:42A65FDBDA3AC2C41F70521A631AE7C1DA5D318A
+	Win32_SystemEnclosure.SerialNumber=91PSZQ1
+	Win32_SystemEnclosure.SMBIOSAssetTag=<empty>
+	Win32_BaseBoard.SerialNumber=/91PSZQ1/CN7360415400SK/
+	Win32_BIOS.SerialNumber=91PSZQ1
+	Win32_NetworkAdapterConfiguration.MACAddress=78:2B:CB:AE:35:CF]LOG]!><time="08:38:34.723+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="3220" file="ccmid.cpp:476">
+<![LOG[Persisted hardware IDs in CCM_ClientIdentificationInformation=@:
+	HardwareID1=2:42A65FDBDA3AC2C41F70521A631AE7C1DA5D318A
+	HardwareID2=73127903019800FE]LOG]!><time="08:38:34.723+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="3220" file="ccmid.cpp:575">
+<![LOG[RenewalTask: Executing renewal task.]LOG]!><time="08:46:57.622+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="4292" file="regtask.cpp:2335">
+<![LOG[Begin searching client certificates based on Certificate Issuers]LOG]!><time="08:46:57.622+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="4292" file="ccmcert.cpp:3833">
+<![LOG[Completed searching client certificates based on Certificate Issuers]LOG]!><time="08:46:57.622+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="4292" file="ccmcert.cpp:3992">
+<![LOG[Begin to select client certificate]LOG]!><time="08:46:57.622+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="4292" file="ccmcert.cpp:4073">
+<![LOG[There are no certificates in the 'MY' store.]LOG]!><time="08:46:57.622+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="4292" file="ccmcert.cpp:4131">
+<![LOG[Raising event:
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131009134657.625000+000";
+	HRESULT = "0x87d00280";
+	ProcessID = 1860;
+	ThreadID = 4292;
+};
+]LOG]!><time="08:46:57.625+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="4292" file="event.cpp:706">
+<![LOG[Unable to find PKI Certificate matching SCCM certificate selection criteria. 0x87d00280]LOG]!><time="08:46:57.626+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="2" thread="4292" file="ccmgencert.cpp:3590">
+<![LOG[RenewalTask: Certificate store/settings have changed, but target certificate has not.]LOG]!><time="08:46:57.628+300" date="10-09-2013" component="ClientIDManagerStartup" context="" type="1" thread="4292" file="regtask.cpp:2365">

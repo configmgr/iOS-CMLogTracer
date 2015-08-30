@@ -1,0 +1,530 @@
+﻿<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="17:26:25.411+300" date="10-13-2013" component="CIStore" context="" type="1" thread="5160" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="17:26:25.535+300" date="10-13-2013" component="CIStore" context="" type="1" thread="5160" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="19:07:25.756+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="19:07:25.757+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="19:07:25.758+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="19:07:25.759+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="19:07:25.761+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="19:07:25.761+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="19:07:26.094+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="19:07:26.094+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="19:07:26.100+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="19:07:26.101+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="19:07:26.345+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="19:07:26.346+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="19:07:26.780+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="19:07:26.781+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="19:07:27.099+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="19:07:27.105+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="19:07:27.382+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="19:07:27.383+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetLatestTargetedCIReference failed (0x87d00315).]LOG]!><time="19:07:27.631+300" date="10-13-2013" component="CIStore" context="" type="3" thread="3988" file="cistore.cpp:3511">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="19:07:27.632+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="19:07:27.632+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="19:07:27.835+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="19:07:27.836+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="19:07:28.409+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="19:07:28.409+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="19:07:28.634+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="19:07:28.635+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="19:07:28.641+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="19:07:28.642+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="19:07:28.648+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="19:07:28.649+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="19:07:28.659+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="19:07:28.660+300" date="10-13-2013" component="CIStore" context="" type="1" thread="3988" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="20:28:25.141+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="20:28:25.144+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="20:28:25.146+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="20:28:25.147+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="20:28:25.148+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="20:28:25.148+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="20:28:25.163+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="20:28:25.163+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="20:28:25.172+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="20:28:25.173+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="20:28:25.251+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="20:28:25.251+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="20:28:25.272+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="20:28:25.272+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="20:28:25.279+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="20:28:25.280+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="20:28:25.293+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="20:28:25.294+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetLatestTargetedCIReference failed (0x87d00315).]LOG]!><time="20:28:25.308+300" date="10-13-2013" component="CIStore" context="" type="3" thread="9560" file="cistore.cpp:3511">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="20:28:25.308+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="20:28:25.309+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="20:28:25.317+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="20:28:25.317+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="20:28:25.331+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="20:28:25.334+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="20:28:25.340+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="20:28:25.343+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="20:28:25.349+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="20:28:25.349+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="20:28:25.355+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="20:28:25.355+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="20:28:25.366+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="20:28:25.366+300" date="10-13-2013" component="CIStore" context="" type="1" thread="9560" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:19:25.193+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:19:25.193+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:19:25.195+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:19:25.195+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:19:25.196+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:19:25.196+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:19:25.205+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:19:25.207+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:19:25.213+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:19:25.215+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:19:25.347+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:19:25.347+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:19:25.384+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:19:25.385+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:19:25.391+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:19:25.391+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:19:25.403+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:19:25.403+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetLatestTargetedCIReference failed (0x87d00315).]LOG]!><time="22:19:25.418+300" date="10-13-2013" component="CIStore" context="" type="3" thread="8600" file="cistore.cpp:3511">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:19:25.419+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:19:25.419+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:19:25.426+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:19:25.426+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:19:25.437+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:19:25.437+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:19:25.443+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:19:25.444+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:19:25.451+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:19:25.451+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:19:25.457+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:19:25.457+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:19:25.469+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:19:25.470+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8600" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:40:25.323+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:40:25.324+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:40:25.325+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:40:25.326+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:40:25.329+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:40:25.330+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:40:25.346+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:40:25.347+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:40:25.355+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:40:25.355+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:40:25.440+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:40:25.441+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:40:25.460+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:40:25.461+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:40:25.467+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:40:25.468+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:40:25.480+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:40:25.480+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetLatestTargetedCIReference failed (0x87d00315).]LOG]!><time="22:40:25.495+300" date="10-13-2013" component="CIStore" context="" type="3" thread="8824" file="cistore.cpp:3511">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:40:25.497+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:40:25.498+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:40:25.506+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:40:25.507+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:40:25.519+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:40:25.522+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:40:25.528+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:40:25.531+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:40:25.539+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:40:25.540+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:40:25.546+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:40:25.547+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="22:40:25.560+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="22:40:25.562+300" date="10-13-2013" component="CIStore" context="" type="1" thread="8824" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="23:34:25.191+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="23:34:25.191+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="23:34:25.193+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="23:34:25.193+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="23:34:25.194+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="23:34:25.195+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="23:34:25.202+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="23:34:25.203+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="23:34:25.209+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="23:34:25.210+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="23:34:25.321+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="23:34:25.321+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="23:34:25.338+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="23:34:25.338+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="23:34:25.344+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="23:34:25.345+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="23:34:25.360+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="23:34:25.360+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetLatestTargetedCIReference failed (0x87d00315).]LOG]!><time="23:34:25.377+300" date="10-13-2013" component="CIStore" context="" type="3" thread="6348" file="cistore.cpp:3511">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="23:34:25.378+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="23:34:25.379+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="23:34:25.385+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="23:34:25.386+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="23:34:25.398+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="23:34:25.399+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="23:34:25.410+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="23:34:25.410+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="23:34:25.416+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="23:34:25.418+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="23:34:25.424+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="23:34:25.426+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="23:34:25.438+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="23:34:25.438+300" date="10-13-2013" component="CIStore" context="" type="1" thread="6348" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="00:45:25.636+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="00:45:25.637+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="00:45:25.639+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="00:45:25.640+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="00:45:25.641+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="00:45:25.641+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="00:45:25.651+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="00:45:25.651+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="00:45:25.658+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="00:45:25.660+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="00:45:25.965+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="00:45:26.015+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="00:45:26.105+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="00:45:26.306+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="00:45:26.364+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="00:45:26.364+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="00:45:26.376+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="00:45:26.376+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetLatestTargetedCIReference failed (0x87d00315).]LOG]!><time="00:45:26.389+300" date="10-14-2013" component="CIStore" context="" type="3" thread="2676" file="cistore.cpp:3511">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="00:45:26.390+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="00:45:26.390+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="00:45:26.396+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="00:45:26.397+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="00:45:26.409+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="00:45:26.409+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="00:45:26.416+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="00:45:26.417+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="00:45:26.423+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="00:45:26.424+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="00:45:26.429+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="00:45:26.430+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="00:45:26.441+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="00:45:26.517+300" date="10-14-2013" component="CIStore" context="" type="1" thread="2676" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="01:38:40.549+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="01:38:41.049+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="01:38:41.551+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="01:38:42.051+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="01:38:42.553+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="01:38:43.053+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="01:38:44.732+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="01:38:45.237+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="01:38:46.913+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="01:38:47.413+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="01:38:50.542+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="01:38:51.043+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="01:38:54.061+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="01:38:54.561+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="01:38:56.068+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="01:38:56.568+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="01:38:59.080+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="01:38:59.582+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetLatestTargetedCIReference failed (0x87d00315).]LOG]!><time="01:39:02.124+300" date="10-14-2013" component="CIStore" context="" type="3" thread="6296" file="cistore.cpp:3511">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="01:39:03.151+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="01:39:03.652+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="01:39:05.158+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="01:39:05.659+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="01:39:08.172+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="01:39:08.672+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="01:39:10.178+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="01:39:10.679+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="01:39:12.686+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="01:39:13.192+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="01:39:14.698+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="01:39:15.198+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="01:39:17.713+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="01:39:18.213+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6296" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="03:33:25.147+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="03:33:25.148+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="03:33:25.149+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="03:33:25.150+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="03:33:25.151+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="03:33:25.152+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="03:33:25.166+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="03:33:25.166+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="03:33:25.223+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="03:33:25.224+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="03:33:25.302+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="03:33:25.303+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="03:33:25.320+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="03:33:25.321+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="03:33:25.327+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="03:33:25.328+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="03:33:25.339+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="03:33:25.341+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetLatestTargetedCIReference failed (0x87d00315).]LOG]!><time="03:33:25.355+300" date="10-14-2013" component="CIStore" context="" type="3" thread="9468" file="cistore.cpp:3511">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="03:33:25.356+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="03:33:25.356+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="03:33:25.364+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="03:33:25.365+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="03:33:25.377+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="03:33:25.377+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="03:33:25.383+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="03:33:25.384+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="03:33:25.390+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="03:33:25.393+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="03:33:25.399+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="03:33:25.399+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="03:33:25.411+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="03:33:25.412+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9468" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="04:57:50.798+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6908" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="04:57:52.799+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6908" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="04:57:53.800+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6908" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="04:57:54.811+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6908" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="04:57:55.329+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6908" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="04:57:55.352+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6908" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="04:58:01.037+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="04:58:02.042+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="04:58:05.036+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="04:58:06.034+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="04:58:11.131+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="04:58:11.132+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="04:58:11.147+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="04:58:11.148+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="04:58:11.154+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="04:58:11.155+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="04:58:11.168+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="04:58:11.169+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetLatestTargetedCIReference failed (0x87d00315).]LOG]!><time="04:58:11.681+300" date="10-14-2013" component="CIStore" context="" type="3" thread="7456" file="cistore.cpp:3511">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="04:58:13.682+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="04:58:13.931+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="04:58:16.932+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="04:58:18.439+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="04:58:23.439+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="04:58:24.439+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="04:58:26.590+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="04:58:27.589+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="04:58:28.130+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="04:58:28.131+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="04:58:28.137+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="04:58:28.138+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="04:58:28.148+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="04:58:28.149+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7456" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="06:36:25.208+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="06:36:25.209+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="06:36:25.210+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="06:36:25.210+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="06:36:25.212+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="06:36:25.212+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="06:36:25.220+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="06:36:25.221+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="06:36:25.229+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="06:36:25.230+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="06:36:25.341+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="06:36:25.341+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="06:36:25.357+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="06:36:25.358+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="06:36:25.366+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="06:36:25.366+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="06:36:25.381+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="06:36:25.381+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetLatestTargetedCIReference failed (0x87d00315).]LOG]!><time="06:36:25.396+300" date="10-14-2013" component="CIStore" context="" type="3" thread="9544" file="cistore.cpp:3511">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="06:36:25.397+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="06:36:25.397+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="06:36:25.404+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="06:36:25.404+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="06:36:25.415+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="06:36:25.416+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="06:36:25.424+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="06:36:25.425+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="06:36:25.433+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="06:36:25.434+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="06:36:25.440+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="06:36:25.440+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="06:36:25.454+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="06:36:25.454+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9544" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="07:25:25.192+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="07:25:25.193+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="07:25:25.195+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="07:25:25.195+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="07:25:25.196+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="07:25:25.196+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="07:25:25.204+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="07:25:25.205+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="07:25:25.214+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="07:25:25.215+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="07:25:25.293+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="07:25:25.294+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="07:25:25.311+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="07:25:25.311+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="07:25:25.317+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="07:25:25.318+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="07:25:25.333+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="07:25:25.334+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetLatestTargetedCIReference failed (0x87d00315).]LOG]!><time="07:25:25.347+300" date="10-14-2013" component="CIStore" context="" type="3" thread="8368" file="cistore.cpp:3511">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="07:25:25.350+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="07:25:25.351+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="07:25:25.358+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="07:25:25.358+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="07:25:25.371+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="07:25:25.372+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="07:25:25.379+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="07:25:25.380+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="07:25:25.386+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="07:25:25.387+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="07:25:25.395+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="07:25:25.396+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="07:25:25.406+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="07:25:25.407+300" date="10-14-2013" component="CIStore" context="" type="1" thread="8368" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="08:16:25.145+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="08:16:25.146+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="08:16:25.148+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="08:16:25.148+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="08:16:25.150+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="08:16:25.153+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="08:16:25.163+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="08:16:25.166+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="08:16:25.173+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="08:16:25.174+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="08:16:25.257+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="08:16:25.258+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="08:16:25.274+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="08:16:25.275+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="08:16:25.282+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="08:16:25.283+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="08:16:25.296+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="08:16:25.297+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetLatestTargetedCIReference failed (0x87d00315).]LOG]!><time="08:16:25.311+300" date="10-14-2013" component="CIStore" context="" type="3" thread="6648" file="cistore.cpp:3511">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="08:16:25.313+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="08:16:25.314+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="08:16:25.320+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="08:16:25.321+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="08:16:25.333+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="08:16:25.334+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="08:16:25.341+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="08:16:25.342+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="08:16:25.347+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="08:16:25.349+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="08:16:25.354+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="08:16:25.354+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="08:16:25.368+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="08:16:25.368+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6648" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="09:39:25.141+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="09:39:25.142+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="09:39:25.144+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="09:39:25.144+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="09:39:25.145+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="09:39:25.146+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="09:39:25.156+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="09:39:25.157+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="09:39:25.165+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="09:39:25.165+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="09:39:25.292+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="09:39:25.292+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="09:39:25.309+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="09:39:25.310+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="09:39:25.316+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="09:39:25.316+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="09:39:25.327+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="09:39:25.328+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetLatestTargetedCIReference failed (0x87d00315).]LOG]!><time="09:39:25.342+300" date="10-14-2013" component="CIStore" context="" type="3" thread="6504" file="cistore.cpp:3511">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="09:39:25.343+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="09:39:25.344+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="09:39:25.352+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="09:39:25.352+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="09:39:25.365+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="09:39:25.365+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="09:39:25.371+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="09:39:25.372+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="09:39:25.378+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="09:39:25.379+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="09:39:25.385+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="09:39:25.386+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="09:39:25.398+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="09:39:25.399+300" date="10-14-2013" component="CIStore" context="" type="1" thread="6504" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:03:25.184+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:03:25.195+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:03:25.197+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:03:25.198+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:03:25.199+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:03:25.200+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:03:25.216+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:03:25.217+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:03:25.223+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:03:25.224+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:03:25.358+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:03:25.358+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:03:25.375+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:03:25.376+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:03:25.382+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:03:25.384+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:03:25.395+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:03:25.396+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetLatestTargetedCIReference failed (0x87d00315).]LOG]!><time="10:03:25.409+300" date="10-14-2013" component="CIStore" context="" type="3" thread="7716" file="cistore.cpp:3511">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:03:25.411+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:03:25.411+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:03:25.418+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:03:25.418+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:03:25.432+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:03:25.432+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:03:25.439+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:03:25.441+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:03:25.447+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:03:25.447+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:03:25.454+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:03:25.454+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:03:25.467+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:03:25.468+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7716" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:46:25.189+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:46:25.190+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:46:25.191+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:46:25.191+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:46:25.192+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:46:25.193+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:46:25.200+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:46:25.201+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:46:25.207+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:46:25.207+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:46:25.282+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:46:25.282+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:46:25.297+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:46:25.298+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:46:25.304+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:46:25.305+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:46:25.315+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:46:25.315+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetLatestTargetedCIReference failed (0x87d00315).]LOG]!><time="10:46:25.330+300" date="10-14-2013" component="CIStore" context="" type="3" thread="9308" file="cistore.cpp:3511">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:46:25.331+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:46:25.331+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:46:25.337+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:46:25.338+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:46:25.349+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:46:25.350+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:46:25.357+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:46:25.357+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:46:25.364+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:46:25.365+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:46:25.371+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:46:25.371+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="10:46:25.381+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="10:46:25.382+300" date="10-14-2013" component="CIStore" context="" type="1" thread="9308" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="11:51:25.186+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="11:51:25.197+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="11:51:25.199+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="11:51:25.200+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="11:51:25.201+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="11:51:25.201+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="11:51:25.250+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="11:51:25.250+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="11:51:25.258+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="11:51:25.258+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="11:51:25.359+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="11:51:25.360+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="11:51:25.376+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="11:51:25.377+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="11:51:25.383+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="11:51:25.383+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="11:51:25.395+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="11:51:25.395+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetLatestTargetedCIReference failed (0x87d00315).]LOG]!><time="11:51:25.408+300" date="10-14-2013" component="CIStore" context="" type="3" thread="7444" file="cistore.cpp:3511">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="11:51:25.409+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="11:51:25.409+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="11:51:25.415+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="11:51:25.415+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="11:51:25.426+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="11:51:25.426+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="11:51:25.433+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="11:51:25.433+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="11:51:25.441+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="11:51:25.442+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="11:51:25.448+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="11:51:25.448+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3708">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - called for target - ]LOG]!><time="11:51:25.460+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3670">
+<![LOG[CCIStore::GetPolicyNamespaceForTarget - Returing Machine namespace]LOG]!><time="11:51:25.460+300" date="10-14-2013" component="CIStore" context="" type="1" thread="7444" file="cistore.cpp:3708">

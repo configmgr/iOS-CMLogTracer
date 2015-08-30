@@ -1,0 +1,739 @@
+﻿<![LOG[Begin evaluating client health rules.]LOG]!><time="00:04:03.419+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:244">
+<![LOG[Successfully retrieved all client health checks.]LOG]!><time="00:04:04.440+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmevalmanifest.cpp:130">
+<![LOG[Evaluating health check rule {4AB7D77D-3BB0-4EAB-BEFD-7C0F7DA10296} : Verify WMI service exists.]LOG]!><time="00:04:04.440+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {518C0699-03F8-4F38-85C4-4D319EAEFC05} : Verify/Remediate WMI service startup type.]LOG]!><time="00:04:04.441+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {7F4B6E15-2221-455B-9615-93C379E470D5} : Verify/Remediate WMI service status.]LOG]!><time="00:04:04.441+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {14E6774A-1795-4E09-B17D-B6F36A124205} : WMI Repository Read/Write Test.]LOG]!><time="00:04:04.441+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {690A959D-6210-4930-865F-E3BB82F02133} : Verify/Remediate client WMI provider.]LOG]!><time="00:04:05.590+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {A81778B5-9A1E-4A52-9C6E-6939CEFAA118} : WMI Repository Integrity Test.]LOG]!><time="00:04:06.209+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {5CC6C949-5001-4765-84B4-DD4FDC1E6940} : Verify BITS exists.]LOG]!><time="00:04:06.265+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C6E29CF5-F9B2-450B-AE61-C4B256A75023} : Verify/Remediate BITS startup type.]LOG]!><time="00:04:06.265+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {2F373187-6295-4CBB-BE9E-8E43C459883A} : Verify/Remediate client prerequisites.]LOG]!><time="00:04:06.265+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {AD9CAF50-6602-4857-A9F4-64864EA30BDF} : Verify/Remediate client installation.]LOG]!><time="00:04:07.395+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {8883C683-04C8-4228-BB76-2EDD666BA781} : Verify SMS Agent Host service exists.]LOG]!><time="00:04:07.432+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {13F46523-5B82-417d-A363-A644E80CAD76} : Verify/Remediate SMS Agent Host service startup type.]LOG]!><time="00:04:07.432+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {70BECB51-44A1-4b46-8A23-6EA3D345B677} : Verify/Remediate SMS Agent Host service status.]LOG]!><time="00:04:07.432+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C35E790D-4C05-40A8-BB46-A68578966D19} : WMI Event Sink Test.]LOG]!><time="00:04:07.432+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {D9D0245D-0617-4C2F-8837-84A397AC5B22} : Verify/Remediate Microsoft Policy Platform service startup type.]LOG]!><time="00:04:07.432+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {09886543-BE8B-431F-BC00-7D917632E22C} : Verify/Remediate Antimalware service startup type.]LOG]!><time="00:04:07.433+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:07.437+300" date="10-03-2013" component="CcmEval" context="" type="2" thread="6664" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {5B50566C-363E-4F1C-8A7D-6F2D2A51B142} : Verify/Remediate Antimalware service status.]LOG]!><time="00:04:07.437+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:07.439+300" date="10-03-2013" component="CcmEval" context="" type="2" thread="6664" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {6BC824B4-BD8C-4779-BB10-ABDBCD5AFAEB} : Verify/Remediate Network Inspection service startup type.]LOG]!><time="00:04:07.439+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Failed to get SOFTWARE\Policies\Microsoft\Microsoft Antimalware\Real-Time Protection\DisableIntrusionPreventionSystem]LOG]!><time="00:04:07.441+300" date="10-03-2013" component="CcmEval" context="" type="2" thread="6664" file="cmclientevaluator.cpp:1274">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:07.441+300" date="10-03-2013" component="CcmEval" context="" type="2" thread="6664" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {D6CB32EA-423D-44CB-9C58-97CE55D2148E} : Verify/Remediate Windows Update service startup type.]LOG]!><time="00:04:07.441+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:07.443+300" date="10-03-2013" component="CcmEval" context="" type="2" thread="6664" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {E8030BE0-B773-4742-B6A1-0870CF139117} : Verify/Remediate Windows Update service startup type on Windows 8.]LOG]!><time="00:04:07.443+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:07.443+300" date="10-03-2013" component="CcmEval" context="" type="2" thread="6664" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {9040BA8C-580D-4FCA-8846-BBD5F5BB1597} : Verify/Remediate Configuration Manager Remote Control service startup type.]LOG]!><time="00:04:07.443+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:07.443+300" date="10-03-2013" component="CcmEval" context="" type="2" thread="6664" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {9DCD49EF-E021-46FF-A777-49210B558527} : Verify/Remediate Configuration Manager Remote Control service status.]LOG]!><time="00:04:07.443+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:07.444+300" date="10-03-2013" component="CcmEval" context="" type="2" thread="6664" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {934F12E3-295E-4BA0-AE0F-09859685720F} : Verify/Remediate Configuration Manager Proxy service startup type.]LOG]!><time="00:04:07.444+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:07.471+300" date="10-03-2013" component="CcmEval" context="" type="2" thread="6664" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {43029EED-EB9D-4E35-A5F7-7FDD93EC8C57} : Verify/Remediate Configuration Manager Proxy service status.]LOG]!><time="00:04:07.471+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:07.492+300" date="10-03-2013" component="CcmEval" context="" type="2" thread="6664" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {7B9F8FF6-EDF7-42CA-A67F-073A2E161C19} : Verify/Remediate SQL CE database is healthy.]LOG]!><time="00:04:07.493+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:279">
+<![LOG[Successfully evaluated all client health rules.]LOG]!><time="00:04:07.493+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:329">
+<![LOG[MP check failed for 21 times and exceeded the threshold 3]LOG]!><time="00:04:07.502+300" date="10-03-2013" component="CcmEval" context="" type="3" thread="6664" file="evalservercomm.cpp:166">
+<![LOG[Send previous report if needed.]LOG]!><time="00:04:08.004+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="messagesender.cpp:281">
+<![LOG[Fail to get time from registry]LOG]!><time="00:04:08.004+300" date="10-03-2013" component="CcmEval" context="" type="2" thread="6664" file="evalcommon.cpp:245">
+<![LOG[Can't determine whether previous sent succeed, assume sent failed]LOG]!><time="00:04:08.004+300" date="10-03-2013" component="CcmEval" context="" type="2" thread="6664" file="messagesender.cpp:190">
+<![LOG[Previous report was sent as state message, check whether it was really sent]LOG]!><time="00:04:08.004+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="messagesender.cpp:310">
+<![LOG[Previous report failed to send as a state message. Attempting to send as an FSP message.]LOG]!><time="00:04:08.356+300" date="10-03-2013" component="CcmEval" context="" type="2" thread="6664" file="messagesender.cpp:314">
+<![LOG[Failed to resend previous report as an FSP message.]LOG]!><time="00:04:08.357+300" date="10-03-2013" component="CcmEval" context="" type="2" thread="6664" file="messagesender.cpp:343">
+<![LOG[Fail to get time from registry]LOG]!><time="00:04:08.357+300" date="10-03-2013" component="CcmEval" context="" type="2" thread="6664" file="evalcommon.cpp:245">
+<![LOG[Can't determine whether previous sent succeed, assume sent failed]LOG]!><time="00:04:08.357+300" date="10-03-2013" component="CcmEval" context="" type="2" thread="6664" file="messagesender.cpp:190">
+<![LOG[Previous send is not complete, need to send report this time.]LOG]!><time="00:04:08.357+300" date="10-03-2013" component="CcmEval" context="" type="2" thread="6664" file="messagesender.cpp:440">
+<![LOG[Begin to send client health status report]LOG]!><time="00:04:09.357+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="messagesender.cpp:483">
+<![LOG[Failed to get site code from WMI]LOG]!><time="00:04:09.359+300" date="10-03-2013" component="CcmEval" context="" type="3" thread="6664" file="messagesender.cpp:395">
+<![LOG[Successfully sent client health status as a state message.]LOG]!><time="00:04:09.495+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="messagesender.cpp:491">
+<![LOG[==========[ ccmeval finished normally in process 4040 ]==========================]LOG]!><time="00:04:09.563+300" date="10-03-2013" component="CcmEval" context="" type="1" thread="6664" file="ccmeval.cpp:139">
+<![LOG[==========[ ccmeval started in process 4636 ]====================================]LOG]!><time="00:04:02.350+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:102">
+<![LOG[ccmeval version: 5.0.7804.1000]LOG]!><time="00:04:02.350+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:120">
+<![LOG[Loading manifest file: C:\Windows\CCM\CcmEval.xml]LOG]!><time="00:04:02.352+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmevalmanifest.cpp:30">
+<![LOG[Successfully loaded ccmeval manifest file.]LOG]!><time="00:04:04.404+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmevalmanifest.cpp:41">
+<![LOG[Begin evaluating client health rules.]LOG]!><time="00:04:04.404+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:244">
+<![LOG[Successfully retrieved all client health checks.]LOG]!><time="00:04:05.431+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmevalmanifest.cpp:130">
+<![LOG[Evaluating health check rule {4AB7D77D-3BB0-4EAB-BEFD-7C0F7DA10296} : Verify WMI service exists.]LOG]!><time="00:04:05.431+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {518C0699-03F8-4F38-85C4-4D319EAEFC05} : Verify/Remediate WMI service startup type.]LOG]!><time="00:04:05.431+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {7F4B6E15-2221-455B-9615-93C379E470D5} : Verify/Remediate WMI service status.]LOG]!><time="00:04:05.432+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {14E6774A-1795-4E09-B17D-B6F36A124205} : WMI Repository Read/Write Test.]LOG]!><time="00:04:05.432+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {690A959D-6210-4930-865F-E3BB82F02133} : Verify/Remediate client WMI provider.]LOG]!><time="00:04:06.722+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {A81778B5-9A1E-4A52-9C6E-6939CEFAA118} : WMI Repository Integrity Test.]LOG]!><time="00:04:07.455+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {5CC6C949-5001-4765-84B4-DD4FDC1E6940} : Verify BITS exists.]LOG]!><time="00:04:07.592+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C6E29CF5-F9B2-450B-AE61-C4B256A75023} : Verify/Remediate BITS startup type.]LOG]!><time="00:04:07.592+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {2F373187-6295-4CBB-BE9E-8E43C459883A} : Verify/Remediate client prerequisites.]LOG]!><time="00:04:07.593+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {AD9CAF50-6602-4857-A9F4-64864EA30BDF} : Verify/Remediate client installation.]LOG]!><time="00:04:22.408+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {8883C683-04C8-4228-BB76-2EDD666BA781} : Verify SMS Agent Host service exists.]LOG]!><time="00:04:22.446+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {13F46523-5B82-417d-A363-A644E80CAD76} : Verify/Remediate SMS Agent Host service startup type.]LOG]!><time="00:04:22.447+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {70BECB51-44A1-4b46-8A23-6EA3D345B677} : Verify/Remediate SMS Agent Host service status.]LOG]!><time="00:04:22.447+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C35E790D-4C05-40A8-BB46-A68578966D19} : WMI Event Sink Test.]LOG]!><time="00:04:22.447+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {D9D0245D-0617-4C2F-8837-84A397AC5B22} : Verify/Remediate Microsoft Policy Platform service startup type.]LOG]!><time="00:04:22.447+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {09886543-BE8B-431F-BC00-7D917632E22C} : Verify/Remediate Antimalware service startup type.]LOG]!><time="00:04:22.447+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:22.451+300" date="10-04-2013" component="CcmEval" context="" type="2" thread="1112" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {5B50566C-363E-4F1C-8A7D-6F2D2A51B142} : Verify/Remediate Antimalware service status.]LOG]!><time="00:04:22.451+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:22.453+300" date="10-04-2013" component="CcmEval" context="" type="2" thread="1112" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {6BC824B4-BD8C-4779-BB10-ABDBCD5AFAEB} : Verify/Remediate Network Inspection service startup type.]LOG]!><time="00:04:22.453+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Failed to get SOFTWARE\Policies\Microsoft\Microsoft Antimalware\Real-Time Protection\DisableIntrusionPreventionSystem]LOG]!><time="00:04:22.456+300" date="10-04-2013" component="CcmEval" context="" type="2" thread="1112" file="cmclientevaluator.cpp:1274">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:22.456+300" date="10-04-2013" component="CcmEval" context="" type="2" thread="1112" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {D6CB32EA-423D-44CB-9C58-97CE55D2148E} : Verify/Remediate Windows Update service startup type.]LOG]!><time="00:04:22.456+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:22.458+300" date="10-04-2013" component="CcmEval" context="" type="2" thread="1112" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {E8030BE0-B773-4742-B6A1-0870CF139117} : Verify/Remediate Windows Update service startup type on Windows 8.]LOG]!><time="00:04:22.458+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:22.458+300" date="10-04-2013" component="CcmEval" context="" type="2" thread="1112" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {9040BA8C-580D-4FCA-8846-BBD5F5BB1597} : Verify/Remediate Configuration Manager Remote Control service startup type.]LOG]!><time="00:04:22.458+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {9DCD49EF-E021-46FF-A777-49210B558527} : Verify/Remediate Configuration Manager Remote Control service status.]LOG]!><time="00:04:22.458+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {934F12E3-295E-4BA0-AE0F-09859685720F} : Verify/Remediate Configuration Manager Proxy service startup type.]LOG]!><time="00:04:22.459+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:22.485+300" date="10-04-2013" component="CcmEval" context="" type="2" thread="1112" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {43029EED-EB9D-4E35-A5F7-7FDD93EC8C57} : Verify/Remediate Configuration Manager Proxy service status.]LOG]!><time="00:04:22.485+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:22.505+300" date="10-04-2013" component="CcmEval" context="" type="2" thread="1112" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {7B9F8FF6-EDF7-42CA-A67F-073A2E161C19} : Verify/Remediate SQL CE database is healthy.]LOG]!><time="00:04:22.505+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:279">
+<![LOG[Successfully evaluated all client health rules.]LOG]!><time="00:04:22.505+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:329">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:22.516+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmutillib.cpp:404">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:22.516+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmutillib.cpp:404">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131004050422.537000+000";
+	HostName = "SCCM-UIC-DP1.AD.UILLINOIS.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 4636;
+	StatusCode = 0;
+	ThreadID = 1112;
+};
+]LOG]!><time="00:04:22.537+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="event.cpp:706">
+<![LOG[Client's current MP is http://SCCM-UIC-DP1.AD.UILLINOIS.EDU and is accessible]LOG]!><time="00:04:22.539+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="evalservercomm.cpp:317">
+<![LOG[MP check succeeded]LOG]!><time="00:04:22.539+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="evalservercomm.cpp:179">
+<![LOG[Send previous report if needed.]LOG]!><time="00:04:23.060+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="messagesender.cpp:281">
+<![LOG[Fail to get time from registry]LOG]!><time="00:04:23.060+300" date="10-04-2013" component="CcmEval" context="" type="2" thread="1112" file="evalcommon.cpp:245">
+<![LOG[Can't determine whether previous sent succeed, assume sent failed]LOG]!><time="00:04:23.060+300" date="10-04-2013" component="CcmEval" context="" type="2" thread="1112" file="messagesender.cpp:190">
+<![LOG[Previous report was sent as state message, check whether it was really sent]LOG]!><time="00:04:23.060+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="messagesender.cpp:310">
+<![LOG[Previous report was successfully sent as a state message.]LOG]!><time="00:04:23.103+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="messagesender.cpp:319">
+<![LOG[Report is changed, need to send it this time.]LOG]!><time="00:04:23.105+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="messagesender.cpp:448">
+<![LOG[Begin to send client health status report]LOG]!><time="00:04:24.105+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="messagesender.cpp:483">
+<![LOG[Successfully sent client health status as a state message.]LOG]!><time="00:04:24.636+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="messagesender.cpp:491">
+<![LOG[==========[ ccmeval finished normally in process 4636 ]==========================]LOG]!><time="00:04:25.667+300" date="10-04-2013" component="CcmEval" context="" type="1" thread="1112" file="ccmeval.cpp:139">
+<![LOG[==========[ ccmeval started in process 6260 ]====================================]LOG]!><time="00:04:01.674+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:102">
+<![LOG[ccmeval version: 5.0.7804.1000]LOG]!><time="00:04:01.674+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:120">
+<![LOG[Loading manifest file: C:\Windows\CCM\CcmEval.xml]LOG]!><time="00:04:01.674+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmevalmanifest.cpp:30">
+<![LOG[Successfully loaded ccmeval manifest file.]LOG]!><time="00:04:04.264+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmevalmanifest.cpp:41">
+<![LOG[Begin evaluating client health rules.]LOG]!><time="00:04:04.264+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:244">
+<![LOG[Successfully retrieved all client health checks.]LOG]!><time="00:04:05.293+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmevalmanifest.cpp:130">
+<![LOG[Evaluating health check rule {4AB7D77D-3BB0-4EAB-BEFD-7C0F7DA10296} : Verify WMI service exists.]LOG]!><time="00:04:05.293+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {518C0699-03F8-4F38-85C4-4D319EAEFC05} : Verify/Remediate WMI service startup type.]LOG]!><time="00:04:05.293+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {7F4B6E15-2221-455B-9615-93C379E470D5} : Verify/Remediate WMI service status.]LOG]!><time="00:04:05.309+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {14E6774A-1795-4E09-B17D-B6F36A124205} : WMI Repository Read/Write Test.]LOG]!><time="00:04:05.309+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {690A959D-6210-4930-865F-E3BB82F02133} : Verify/Remediate client WMI provider.]LOG]!><time="00:04:06.619+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {A81778B5-9A1E-4A52-9C6E-6939CEFAA118} : WMI Repository Integrity Test.]LOG]!><time="00:04:07.415+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {5CC6C949-5001-4765-84B4-DD4FDC1E6940} : Verify BITS exists.]LOG]!><time="00:04:07.665+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C6E29CF5-F9B2-450B-AE61-C4B256A75023} : Verify/Remediate BITS startup type.]LOG]!><time="00:04:07.665+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {2F373187-6295-4CBB-BE9E-8E43C459883A} : Verify/Remediate client prerequisites.]LOG]!><time="00:04:07.665+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {AD9CAF50-6602-4857-A9F4-64864EA30BDF} : Verify/Remediate client installation.]LOG]!><time="00:04:15.402+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {8883C683-04C8-4228-BB76-2EDD666BA781} : Verify SMS Agent Host service exists.]LOG]!><time="00:04:15.434+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {13F46523-5B82-417d-A363-A644E80CAD76} : Verify/Remediate SMS Agent Host service startup type.]LOG]!><time="00:04:15.434+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {70BECB51-44A1-4b46-8A23-6EA3D345B677} : Verify/Remediate SMS Agent Host service status.]LOG]!><time="00:04:15.434+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C35E790D-4C05-40A8-BB46-A68578966D19} : WMI Event Sink Test.]LOG]!><time="00:04:15.434+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {D9D0245D-0617-4C2F-8837-84A397AC5B22} : Verify/Remediate Microsoft Policy Platform service startup type.]LOG]!><time="00:04:15.434+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {09886543-BE8B-431F-BC00-7D917632E22C} : Verify/Remediate Antimalware service startup type.]LOG]!><time="00:04:15.434+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:15.434+300" date="10-05-2013" component="CcmEval" context="" type="2" thread="2304" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {5B50566C-363E-4F1C-8A7D-6F2D2A51B142} : Verify/Remediate Antimalware service status.]LOG]!><time="00:04:15.434+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:15.434+300" date="10-05-2013" component="CcmEval" context="" type="2" thread="2304" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {6BC824B4-BD8C-4779-BB10-ABDBCD5AFAEB} : Verify/Remediate Network Inspection service startup type.]LOG]!><time="00:04:15.434+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Failed to get SOFTWARE\Policies\Microsoft\Microsoft Antimalware\Real-Time Protection\DisableIntrusionPreventionSystem]LOG]!><time="00:04:15.449+300" date="10-05-2013" component="CcmEval" context="" type="2" thread="2304" file="cmclientevaluator.cpp:1274">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:15.449+300" date="10-05-2013" component="CcmEval" context="" type="2" thread="2304" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {D6CB32EA-423D-44CB-9C58-97CE55D2148E} : Verify/Remediate Windows Update service startup type.]LOG]!><time="00:04:15.449+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:15.449+300" date="10-05-2013" component="CcmEval" context="" type="2" thread="2304" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {E8030BE0-B773-4742-B6A1-0870CF139117} : Verify/Remediate Windows Update service startup type on Windows 8.]LOG]!><time="00:04:15.449+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:15.449+300" date="10-05-2013" component="CcmEval" context="" type="2" thread="2304" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {9040BA8C-580D-4FCA-8846-BBD5F5BB1597} : Verify/Remediate Configuration Manager Remote Control service startup type.]LOG]!><time="00:04:15.449+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {9DCD49EF-E021-46FF-A777-49210B558527} : Verify/Remediate Configuration Manager Remote Control service status.]LOG]!><time="00:04:15.449+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {934F12E3-295E-4BA0-AE0F-09859685720F} : Verify/Remediate Configuration Manager Proxy service startup type.]LOG]!><time="00:04:15.449+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:15.465+300" date="10-05-2013" component="CcmEval" context="" type="2" thread="2304" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {43029EED-EB9D-4E35-A5F7-7FDD93EC8C57} : Verify/Remediate Configuration Manager Proxy service status.]LOG]!><time="00:04:15.465+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:15.496+300" date="10-05-2013" component="CcmEval" context="" type="2" thread="2304" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {7B9F8FF6-EDF7-42CA-A67F-073A2E161C19} : Verify/Remediate SQL CE database is healthy.]LOG]!><time="00:04:15.496+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:279">
+<![LOG[Successfully evaluated all client health rules.]LOG]!><time="00:04:15.496+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:329">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:15.496+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmutillib.cpp:404">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:15.496+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmutillib.cpp:404">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131005050415.527000+000";
+	HostName = "SCCM-UIC-DP1.AD.UILLINOIS.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 6260;
+	StatusCode = 0;
+	ThreadID = 2304;
+};
+]LOG]!><time="00:04:15.527+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="event.cpp:706">
+<![LOG[Client's current MP is http://SCCM-UIC-DP1.AD.UILLINOIS.EDU and is accessible]LOG]!><time="00:04:15.527+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="evalservercomm.cpp:317">
+<![LOG[MP check succeeded]LOG]!><time="00:04:15.527+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="evalservercomm.cpp:179">
+<![LOG[Send previous report if needed.]LOG]!><time="00:04:16.042+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="messagesender.cpp:281">
+<![LOG[Previous report was sent as state message, check whether it was really sent]LOG]!><time="00:04:16.042+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="messagesender.cpp:310">
+<![LOG[Previous report was successfully sent as a state message.]LOG]!><time="00:04:16.073+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="messagesender.cpp:319">
+<![LOG[Previous site code CM2, current site code CM2]LOG]!><time="00:04:16.619+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="messagesender.cpp:371">
+<![LOG[Report is built but not necessary to send]LOG]!><time="00:04:16.619+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="messagesender.cpp:471">
+<![LOG[==========[ ccmeval finished normally in process 6260 ]==========================]LOG]!><time="00:04:17.165+300" date="10-05-2013" component="CcmEval" context="" type="1" thread="2304" file="ccmeval.cpp:139">
+<![LOG[==========[ ccmeval started in process 5760 ]====================================]LOG]!><time="00:03:56.693+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:102">
+<![LOG[ccmeval version: 5.0.7804.1000]LOG]!><time="00:03:56.693+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:120">
+<![LOG[Loading manifest file: C:\Windows\CCM\CcmEval.xml]LOG]!><time="00:03:56.693+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmevalmanifest.cpp:30">
+<![LOG[Successfully loaded ccmeval manifest file.]LOG]!><time="00:03:57.239+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmevalmanifest.cpp:41">
+<![LOG[Begin evaluating client health rules.]LOG]!><time="00:03:57.239+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:244">
+<![LOG[Successfully retrieved all client health checks.]LOG]!><time="00:03:58.113+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmevalmanifest.cpp:130">
+<![LOG[Evaluating health check rule {4AB7D77D-3BB0-4EAB-BEFD-7C0F7DA10296} : Verify WMI service exists.]LOG]!><time="00:03:58.113+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {518C0699-03F8-4F38-85C4-4D319EAEFC05} : Verify/Remediate WMI service startup type.]LOG]!><time="00:03:58.113+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {7F4B6E15-2221-455B-9615-93C379E470D5} : Verify/Remediate WMI service status.]LOG]!><time="00:03:58.113+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {14E6774A-1795-4E09-B17D-B6F36A124205} : WMI Repository Read/Write Test.]LOG]!><time="00:03:58.113+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {690A959D-6210-4930-865F-E3BB82F02133} : Verify/Remediate client WMI provider.]LOG]!><time="00:03:58.987+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {A81778B5-9A1E-4A52-9C6E-6939CEFAA118} : WMI Repository Integrity Test.]LOG]!><time="00:03:59.392+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {5CC6C949-5001-4765-84B4-DD4FDC1E6940} : Verify BITS exists.]LOG]!><time="00:03:59.455+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C6E29CF5-F9B2-450B-AE61-C4B256A75023} : Verify/Remediate BITS startup type.]LOG]!><time="00:03:59.455+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {2F373187-6295-4CBB-BE9E-8E43C459883A} : Verify/Remediate client prerequisites.]LOG]!><time="00:03:59.455+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {AD9CAF50-6602-4857-A9F4-64864EA30BDF} : Verify/Remediate client installation.]LOG]!><time="00:04:01.779+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {8883C683-04C8-4228-BB76-2EDD666BA781} : Verify SMS Agent Host service exists.]LOG]!><time="00:04:01.810+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {13F46523-5B82-417d-A363-A644E80CAD76} : Verify/Remediate SMS Agent Host service startup type.]LOG]!><time="00:04:01.810+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {70BECB51-44A1-4b46-8A23-6EA3D345B677} : Verify/Remediate SMS Agent Host service status.]LOG]!><time="00:04:01.810+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C35E790D-4C05-40A8-BB46-A68578966D19} : WMI Event Sink Test.]LOG]!><time="00:04:01.810+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {D9D0245D-0617-4C2F-8837-84A397AC5B22} : Verify/Remediate Microsoft Policy Platform service startup type.]LOG]!><time="00:04:01.810+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {09886543-BE8B-431F-BC00-7D917632E22C} : Verify/Remediate Antimalware service startup type.]LOG]!><time="00:04:01.810+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:01.810+300" date="10-06-2013" component="CcmEval" context="" type="2" thread="6608" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {5B50566C-363E-4F1C-8A7D-6F2D2A51B142} : Verify/Remediate Antimalware service status.]LOG]!><time="00:04:01.810+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:01.810+300" date="10-06-2013" component="CcmEval" context="" type="2" thread="6608" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {6BC824B4-BD8C-4779-BB10-ABDBCD5AFAEB} : Verify/Remediate Network Inspection service startup type.]LOG]!><time="00:04:01.810+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Failed to get SOFTWARE\Policies\Microsoft\Microsoft Antimalware\Real-Time Protection\DisableIntrusionPreventionSystem]LOG]!><time="00:04:01.826+300" date="10-06-2013" component="CcmEval" context="" type="2" thread="6608" file="cmclientevaluator.cpp:1274">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:01.826+300" date="10-06-2013" component="CcmEval" context="" type="2" thread="6608" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {D6CB32EA-423D-44CB-9C58-97CE55D2148E} : Verify/Remediate Windows Update service startup type.]LOG]!><time="00:04:01.826+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:01.826+300" date="10-06-2013" component="CcmEval" context="" type="2" thread="6608" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {E8030BE0-B773-4742-B6A1-0870CF139117} : Verify/Remediate Windows Update service startup type on Windows 8.]LOG]!><time="00:04:01.826+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:01.826+300" date="10-06-2013" component="CcmEval" context="" type="2" thread="6608" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {9040BA8C-580D-4FCA-8846-BBD5F5BB1597} : Verify/Remediate Configuration Manager Remote Control service startup type.]LOG]!><time="00:04:01.826+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {9DCD49EF-E021-46FF-A777-49210B558527} : Verify/Remediate Configuration Manager Remote Control service status.]LOG]!><time="00:04:01.826+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {934F12E3-295E-4BA0-AE0F-09859685720F} : Verify/Remediate Configuration Manager Proxy service startup type.]LOG]!><time="00:04:01.826+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:01.857+300" date="10-06-2013" component="CcmEval" context="" type="2" thread="6608" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {43029EED-EB9D-4E35-A5F7-7FDD93EC8C57} : Verify/Remediate Configuration Manager Proxy service status.]LOG]!><time="00:04:01.857+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:01.873+300" date="10-06-2013" component="CcmEval" context="" type="2" thread="6608" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {7B9F8FF6-EDF7-42CA-A67F-073A2E161C19} : Verify/Remediate SQL CE database is healthy.]LOG]!><time="00:04:01.873+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:279">
+<![LOG[Successfully evaluated all client health rules.]LOG]!><time="00:04:01.873+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:329">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:01.888+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmutillib.cpp:404">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:01.888+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmutillib.cpp:404">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131006050401.904000+000";
+	HostName = "SCCM-UIC-DP1.AD.UILLINOIS.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 5760;
+	StatusCode = 0;
+	ThreadID = 6608;
+};
+]LOG]!><time="00:04:01.904+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="event.cpp:706">
+<![LOG[Client's current MP is http://SCCM-UIC-DP1.AD.UILLINOIS.EDU and is accessible]LOG]!><time="00:04:01.904+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="evalservercomm.cpp:317">
+<![LOG[MP check succeeded]LOG]!><time="00:04:01.904+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="evalservercomm.cpp:179">
+<![LOG[Send previous report if needed.]LOG]!><time="00:04:01.935+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="messagesender.cpp:281">
+<![LOG[Previous report was successfully sent, no need to resend.]LOG]!><time="00:04:01.935+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="messagesender.cpp:288">
+<![LOG[Previous site code CM2, current site code CM2]LOG]!><time="00:04:02.450+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="messagesender.cpp:371">
+<![LOG[Report is built but not necessary to send]LOG]!><time="00:04:02.450+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="messagesender.cpp:471">
+<![LOG[==========[ ccmeval finished normally in process 5760 ]==========================]LOG]!><time="00:04:02.559+300" date="10-06-2013" component="CcmEval" context="" type="1" thread="6608" file="ccmeval.cpp:139">
+<![LOG[==========[ ccmeval started in process 4304 ]====================================]LOG]!><time="00:03:57.712+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:102">
+<![LOG[ccmeval version: 5.0.7804.1000]LOG]!><time="00:03:57.712+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:120">
+<![LOG[Loading manifest file: C:\Windows\CCM\CcmEval.xml]LOG]!><time="00:03:57.712+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmevalmanifest.cpp:30">
+<![LOG[Successfully loaded ccmeval manifest file.]LOG]!><time="00:03:57.806+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmevalmanifest.cpp:41">
+<![LOG[Begin evaluating client health rules.]LOG]!><time="00:03:57.806+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:244">
+<![LOG[Successfully retrieved all client health checks.]LOG]!><time="00:03:57.884+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmevalmanifest.cpp:130">
+<![LOG[Evaluating health check rule {4AB7D77D-3BB0-4EAB-BEFD-7C0F7DA10296} : Verify WMI service exists.]LOG]!><time="00:03:57.884+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {518C0699-03F8-4F38-85C4-4D319EAEFC05} : Verify/Remediate WMI service startup type.]LOG]!><time="00:03:57.884+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {7F4B6E15-2221-455B-9615-93C379E470D5} : Verify/Remediate WMI service status.]LOG]!><time="00:03:57.884+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {14E6774A-1795-4E09-B17D-B6F36A124205} : WMI Repository Read/Write Test.]LOG]!><time="00:03:57.884+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {690A959D-6210-4930-865F-E3BB82F02133} : Verify/Remediate client WMI provider.]LOG]!><time="00:03:58.196+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {A81778B5-9A1E-4A52-9C6E-6939CEFAA118} : WMI Repository Integrity Test.]LOG]!><time="00:03:58.555+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {5CC6C949-5001-4765-84B4-DD4FDC1E6940} : Verify BITS exists.]LOG]!><time="00:03:58.602+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C6E29CF5-F9B2-450B-AE61-C4B256A75023} : Verify/Remediate BITS startup type.]LOG]!><time="00:03:58.602+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {2F373187-6295-4CBB-BE9E-8E43C459883A} : Verify/Remediate client prerequisites.]LOG]!><time="00:03:58.602+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {AD9CAF50-6602-4857-A9F4-64864EA30BDF} : Verify/Remediate client installation.]LOG]!><time="00:04:48.273+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {8883C683-04C8-4228-BB76-2EDD666BA781} : Verify SMS Agent Host service exists.]LOG]!><time="00:04:48.304+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {13F46523-5B82-417d-A363-A644E80CAD76} : Verify/Remediate SMS Agent Host service startup type.]LOG]!><time="00:04:48.304+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {70BECB51-44A1-4b46-8A23-6EA3D345B677} : Verify/Remediate SMS Agent Host service status.]LOG]!><time="00:04:48.304+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C35E790D-4C05-40A8-BB46-A68578966D19} : WMI Event Sink Test.]LOG]!><time="00:04:48.304+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {D9D0245D-0617-4C2F-8837-84A397AC5B22} : Verify/Remediate Microsoft Policy Platform service startup type.]LOG]!><time="00:04:48.304+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {09886543-BE8B-431F-BC00-7D917632E22C} : Verify/Remediate Antimalware service startup type.]LOG]!><time="00:04:48.304+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:48.320+300" date="10-07-2013" component="CcmEval" context="" type="2" thread="3728" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {5B50566C-363E-4F1C-8A7D-6F2D2A51B142} : Verify/Remediate Antimalware service status.]LOG]!><time="00:04:48.320+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:48.320+300" date="10-07-2013" component="CcmEval" context="" type="2" thread="3728" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {6BC824B4-BD8C-4779-BB10-ABDBCD5AFAEB} : Verify/Remediate Network Inspection service startup type.]LOG]!><time="00:04:48.320+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Failed to get SOFTWARE\Policies\Microsoft\Microsoft Antimalware\Real-Time Protection\DisableIntrusionPreventionSystem]LOG]!><time="00:04:48.320+300" date="10-07-2013" component="CcmEval" context="" type="2" thread="3728" file="cmclientevaluator.cpp:1274">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:48.320+300" date="10-07-2013" component="CcmEval" context="" type="2" thread="3728" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {D6CB32EA-423D-44CB-9C58-97CE55D2148E} : Verify/Remediate Windows Update service startup type.]LOG]!><time="00:04:48.320+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:48.320+300" date="10-07-2013" component="CcmEval" context="" type="2" thread="3728" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {E8030BE0-B773-4742-B6A1-0870CF139117} : Verify/Remediate Windows Update service startup type on Windows 8.]LOG]!><time="00:04:48.320+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:48.320+300" date="10-07-2013" component="CcmEval" context="" type="2" thread="3728" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {9040BA8C-580D-4FCA-8846-BBD5F5BB1597} : Verify/Remediate Configuration Manager Remote Control service startup type.]LOG]!><time="00:04:48.320+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {9DCD49EF-E021-46FF-A777-49210B558527} : Verify/Remediate Configuration Manager Remote Control service status.]LOG]!><time="00:04:48.320+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {934F12E3-295E-4BA0-AE0F-09859685720F} : Verify/Remediate Configuration Manager Proxy service startup type.]LOG]!><time="00:04:48.320+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:48.351+300" date="10-07-2013" component="CcmEval" context="" type="2" thread="3728" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {43029EED-EB9D-4E35-A5F7-7FDD93EC8C57} : Verify/Remediate Configuration Manager Proxy service status.]LOG]!><time="00:04:48.351+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:48.382+300" date="10-07-2013" component="CcmEval" context="" type="2" thread="3728" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {7B9F8FF6-EDF7-42CA-A67F-073A2E161C19} : Verify/Remediate SQL CE database is healthy.]LOG]!><time="00:04:48.382+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:279">
+<![LOG[Successfully evaluated all client health rules.]LOG]!><time="00:04:48.382+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:329">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:48.382+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmutillib.cpp:404">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:48.382+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmutillib.cpp:404">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131007050449.427000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 4304;
+	StatusCode = 0;
+	ThreadID = 3728;
+};
+]LOG]!><time="00:04:49.427+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="event.cpp:706">
+<![LOG[Client's current MP is http://SCCM-UIC-PS1.ad.uillinois.edu and is accessible]LOG]!><time="00:04:49.427+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="evalservercomm.cpp:317">
+<![LOG[MP check succeeded]LOG]!><time="00:04:49.427+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="evalservercomm.cpp:179">
+<![LOG[Send previous report if needed.]LOG]!><time="00:04:50.098+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="messagesender.cpp:281">
+<![LOG[Previous report was successfully sent, no need to resend.]LOG]!><time="00:04:50.098+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="messagesender.cpp:288">
+<![LOG[Previous site code CM2, current site code CM2]LOG]!><time="00:04:51.097+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="messagesender.cpp:371">
+<![LOG[Report is built but not necessary to send]LOG]!><time="00:04:51.097+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="messagesender.cpp:471">
+<![LOG[==========[ ccmeval finished normally in process 4304 ]==========================]LOG]!><time="00:04:52.111+300" date="10-07-2013" component="CcmEval" context="" type="1" thread="3728" file="ccmeval.cpp:139">
+<![LOG[==========[ ccmeval started in process 7908 ]====================================]LOG]!><time="00:04:16.050+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:102">
+<![LOG[ccmeval version: 5.0.7804.1000]LOG]!><time="00:04:16.051+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:120">
+<![LOG[Loading manifest file: C:\Windows\CCM\CcmEval.xml]LOG]!><time="00:04:16.052+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmevalmanifest.cpp:30">
+<![LOG[Successfully loaded ccmeval manifest file.]LOG]!><time="00:04:22.282+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmevalmanifest.cpp:41">
+<![LOG[Begin evaluating client health rules.]LOG]!><time="00:04:22.282+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:244">
+<![LOG[Successfully retrieved all client health checks.]LOG]!><time="00:04:22.596+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmevalmanifest.cpp:130">
+<![LOG[Evaluating health check rule {4AB7D77D-3BB0-4EAB-BEFD-7C0F7DA10296} : Verify WMI service exists.]LOG]!><time="00:04:22.596+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {518C0699-03F8-4F38-85C4-4D319EAEFC05} : Verify/Remediate WMI service startup type.]LOG]!><time="00:04:22.597+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {7F4B6E15-2221-455B-9615-93C379E470D5} : Verify/Remediate WMI service status.]LOG]!><time="00:04:22.597+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {14E6774A-1795-4E09-B17D-B6F36A124205} : WMI Repository Read/Write Test.]LOG]!><time="00:04:22.597+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {690A959D-6210-4930-865F-E3BB82F02133} : Verify/Remediate client WMI provider.]LOG]!><time="00:04:23.653+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {A81778B5-9A1E-4A52-9C6E-6939CEFAA118} : WMI Repository Integrity Test.]LOG]!><time="00:04:24.497+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {5CC6C949-5001-4765-84B4-DD4FDC1E6940} : Verify BITS exists.]LOG]!><time="00:04:24.941+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C6E29CF5-F9B2-450B-AE61-C4B256A75023} : Verify/Remediate BITS startup type.]LOG]!><time="00:04:24.942+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {2F373187-6295-4CBB-BE9E-8E43C459883A} : Verify/Remediate client prerequisites.]LOG]!><time="00:04:24.942+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {AD9CAF50-6602-4857-A9F4-64864EA30BDF} : Verify/Remediate client installation.]LOG]!><time="00:04:50.440+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {8883C683-04C8-4228-BB76-2EDD666BA781} : Verify SMS Agent Host service exists.]LOG]!><time="00:04:50.477+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {13F46523-5B82-417d-A363-A644E80CAD76} : Verify/Remediate SMS Agent Host service startup type.]LOG]!><time="00:04:50.477+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {70BECB51-44A1-4b46-8A23-6EA3D345B677} : Verify/Remediate SMS Agent Host service status.]LOG]!><time="00:04:50.477+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C35E790D-4C05-40A8-BB46-A68578966D19} : WMI Event Sink Test.]LOG]!><time="00:04:50.477+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {D9D0245D-0617-4C2F-8837-84A397AC5B22} : Verify/Remediate Microsoft Policy Platform service startup type.]LOG]!><time="00:04:50.477+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {09886543-BE8B-431F-BC00-7D917632E22C} : Verify/Remediate Antimalware service startup type.]LOG]!><time="00:04:50.477+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:50.481+300" date="10-08-2013" component="CcmEval" context="" type="2" thread="6464" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {5B50566C-363E-4F1C-8A7D-6F2D2A51B142} : Verify/Remediate Antimalware service status.]LOG]!><time="00:04:50.481+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:50.484+300" date="10-08-2013" component="CcmEval" context="" type="2" thread="6464" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {6BC824B4-BD8C-4779-BB10-ABDBCD5AFAEB} : Verify/Remediate Network Inspection service startup type.]LOG]!><time="00:04:50.484+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Failed to get SOFTWARE\Policies\Microsoft\Microsoft Antimalware\Real-Time Protection\DisableIntrusionPreventionSystem]LOG]!><time="00:04:50.486+300" date="10-08-2013" component="CcmEval" context="" type="2" thread="6464" file="cmclientevaluator.cpp:1274">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:50.486+300" date="10-08-2013" component="CcmEval" context="" type="2" thread="6464" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {D6CB32EA-423D-44CB-9C58-97CE55D2148E} : Verify/Remediate Windows Update service startup type.]LOG]!><time="00:04:50.486+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:50.488+300" date="10-08-2013" component="CcmEval" context="" type="2" thread="6464" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {E8030BE0-B773-4742-B6A1-0870CF139117} : Verify/Remediate Windows Update service startup type on Windows 8.]LOG]!><time="00:04:50.488+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:50.488+300" date="10-08-2013" component="CcmEval" context="" type="2" thread="6464" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {9040BA8C-580D-4FCA-8846-BBD5F5BB1597} : Verify/Remediate Configuration Manager Remote Control service startup type.]LOG]!><time="00:04:50.488+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {9DCD49EF-E021-46FF-A777-49210B558527} : Verify/Remediate Configuration Manager Remote Control service status.]LOG]!><time="00:04:50.488+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {934F12E3-295E-4BA0-AE0F-09859685720F} : Verify/Remediate Configuration Manager Proxy service startup type.]LOG]!><time="00:04:50.488+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:50.535+300" date="10-08-2013" component="CcmEval" context="" type="2" thread="6464" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {43029EED-EB9D-4E35-A5F7-7FDD93EC8C57} : Verify/Remediate Configuration Manager Proxy service status.]LOG]!><time="00:04:50.535+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:50.557+300" date="10-08-2013" component="CcmEval" context="" type="2" thread="6464" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {7B9F8FF6-EDF7-42CA-A67F-073A2E161C19} : Verify/Remediate SQL CE database is healthy.]LOG]!><time="00:04:50.557+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:279">
+<![LOG[Successfully evaluated all client health rules.]LOG]!><time="00:04:50.557+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:329">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:51.609+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmutillib.cpp:404">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:51.609+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmutillib.cpp:404">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131008050451.632000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 7908;
+	StatusCode = 0;
+	ThreadID = 6464;
+};
+]LOG]!><time="00:04:51.632+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="event.cpp:706">
+<![LOG[Client's current MP is http://SCCM-UIC-PS1.ad.uillinois.edu and is accessible]LOG]!><time="00:04:52.635+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="evalservercomm.cpp:317">
+<![LOG[MP check succeeded]LOG]!><time="00:04:52.635+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="evalservercomm.cpp:179">
+<![LOG[Send previous report if needed.]LOG]!><time="00:04:53.149+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="messagesender.cpp:281">
+<![LOG[Previous report was successfully sent, no need to resend.]LOG]!><time="00:04:53.150+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="messagesender.cpp:288">
+<![LOG[Previous site code CM2, current site code CM2]LOG]!><time="00:04:53.674+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="messagesender.cpp:371">
+<![LOG[Report is built but not necessary to send]LOG]!><time="00:04:53.674+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="messagesender.cpp:471">
+<![LOG[==========[ ccmeval finished normally in process 7908 ]==========================]LOG]!><time="00:04:54.736+300" date="10-08-2013" component="CcmEval" context="" type="1" thread="6464" file="ccmeval.cpp:139">
+<![LOG[==========[ ccmeval started in process 6668 ]====================================]LOG]!><time="00:04:11.872+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:102">
+<![LOG[ccmeval version: 5.0.7804.1000]LOG]!><time="00:04:11.872+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:120">
+<![LOG[Loading manifest file: C:\Windows\CCM\CcmEval.xml]LOG]!><time="00:04:11.874+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmevalmanifest.cpp:30">
+<![LOG[Successfully loaded ccmeval manifest file.]LOG]!><time="00:04:16.081+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmevalmanifest.cpp:41">
+<![LOG[Begin evaluating client health rules.]LOG]!><time="00:04:16.081+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:244">
+<![LOG[Successfully retrieved all client health checks.]LOG]!><time="00:04:19.595+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmevalmanifest.cpp:130">
+<![LOG[Evaluating health check rule {4AB7D77D-3BB0-4EAB-BEFD-7C0F7DA10296} : Verify WMI service exists.]LOG]!><time="00:04:19.595+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {518C0699-03F8-4F38-85C4-4D319EAEFC05} : Verify/Remediate WMI service startup type.]LOG]!><time="00:04:19.596+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {7F4B6E15-2221-455B-9615-93C379E470D5} : Verify/Remediate WMI service status.]LOG]!><time="00:04:19.596+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {14E6774A-1795-4E09-B17D-B6F36A124205} : WMI Repository Read/Write Test.]LOG]!><time="00:04:19.596+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {690A959D-6210-4930-865F-E3BB82F02133} : Verify/Remediate client WMI provider.]LOG]!><time="00:04:22.223+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {A81778B5-9A1E-4A52-9C6E-6939CEFAA118} : WMI Repository Integrity Test.]LOG]!><time="00:04:22.862+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {5CC6C949-5001-4765-84B4-DD4FDC1E6940} : Verify BITS exists.]LOG]!><time="00:04:23.470+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C6E29CF5-F9B2-450B-AE61-C4B256A75023} : Verify/Remediate BITS startup type.]LOG]!><time="00:04:23.470+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {2F373187-6295-4CBB-BE9E-8E43C459883A} : Verify/Remediate client prerequisites.]LOG]!><time="00:04:23.471+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {AD9CAF50-6602-4857-A9F4-64864EA30BDF} : Verify/Remediate client installation.]LOG]!><time="00:04:56.645+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {8883C683-04C8-4228-BB76-2EDD666BA781} : Verify SMS Agent Host service exists.]LOG]!><time="00:04:56.684+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {13F46523-5B82-417d-A363-A644E80CAD76} : Verify/Remediate SMS Agent Host service startup type.]LOG]!><time="00:04:56.684+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {70BECB51-44A1-4b46-8A23-6EA3D345B677} : Verify/Remediate SMS Agent Host service status.]LOG]!><time="00:04:56.684+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C35E790D-4C05-40A8-BB46-A68578966D19} : WMI Event Sink Test.]LOG]!><time="00:04:56.684+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {D9D0245D-0617-4C2F-8837-84A397AC5B22} : Verify/Remediate Microsoft Policy Platform service startup type.]LOG]!><time="00:04:56.684+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {09886543-BE8B-431F-BC00-7D917632E22C} : Verify/Remediate Antimalware service startup type.]LOG]!><time="00:04:56.685+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:56.689+300" date="10-09-2013" component="CcmEval" context="" type="2" thread="1368" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {5B50566C-363E-4F1C-8A7D-6F2D2A51B142} : Verify/Remediate Antimalware service status.]LOG]!><time="00:04:56.689+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:56.692+300" date="10-09-2013" component="CcmEval" context="" type="2" thread="1368" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {6BC824B4-BD8C-4779-BB10-ABDBCD5AFAEB} : Verify/Remediate Network Inspection service startup type.]LOG]!><time="00:04:56.692+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Failed to get SOFTWARE\Policies\Microsoft\Microsoft Antimalware\Real-Time Protection\DisableIntrusionPreventionSystem]LOG]!><time="00:04:56.694+300" date="10-09-2013" component="CcmEval" context="" type="2" thread="1368" file="cmclientevaluator.cpp:1274">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:56.694+300" date="10-09-2013" component="CcmEval" context="" type="2" thread="1368" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {D6CB32EA-423D-44CB-9C58-97CE55D2148E} : Verify/Remediate Windows Update service startup type.]LOG]!><time="00:04:56.694+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:56.696+300" date="10-09-2013" component="CcmEval" context="" type="2" thread="1368" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {E8030BE0-B773-4742-B6A1-0870CF139117} : Verify/Remediate Windows Update service startup type on Windows 8.]LOG]!><time="00:04:56.696+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:56.696+300" date="10-09-2013" component="CcmEval" context="" type="2" thread="1368" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {9040BA8C-580D-4FCA-8846-BBD5F5BB1597} : Verify/Remediate Configuration Manager Remote Control service startup type.]LOG]!><time="00:04:56.696+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {9DCD49EF-E021-46FF-A777-49210B558527} : Verify/Remediate Configuration Manager Remote Control service status.]LOG]!><time="00:04:56.696+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {934F12E3-295E-4BA0-AE0F-09859685720F} : Verify/Remediate Configuration Manager Proxy service startup type.]LOG]!><time="00:04:56.696+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:56.721+300" date="10-09-2013" component="CcmEval" context="" type="2" thread="1368" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {43029EED-EB9D-4E35-A5F7-7FDD93EC8C57} : Verify/Remediate Configuration Manager Proxy service status.]LOG]!><time="00:04:56.721+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:56.742+300" date="10-09-2013" component="CcmEval" context="" type="2" thread="1368" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {7B9F8FF6-EDF7-42CA-A67F-073A2E161C19} : Verify/Remediate SQL CE database is healthy.]LOG]!><time="00:04:56.742+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:279">
+<![LOG[Successfully evaluated all client health rules.]LOG]!><time="00:04:56.742+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:329">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:59.461+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmutillib.cpp:404">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:59.461+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmutillib.cpp:404">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131009050459.483000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 6668;
+	StatusCode = 0;
+	ThreadID = 1368;
+};
+]LOG]!><time="00:04:59.483+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="event.cpp:706">
+<![LOG[Client's current MP is http://SCCM-UIC-PS1.ad.uillinois.edu and is accessible]LOG]!><time="00:05:02.464+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="evalservercomm.cpp:317">
+<![LOG[MP check succeeded]LOG]!><time="00:05:02.464+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="evalservercomm.cpp:179">
+<![LOG[Send previous report if needed.]LOG]!><time="00:05:03.974+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="messagesender.cpp:281">
+<![LOG[Previous report was successfully sent, no need to resend.]LOG]!><time="00:05:03.974+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="messagesender.cpp:288">
+<![LOG[Previous site code CM2, current site code CM2]LOG]!><time="00:05:04.978+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="messagesender.cpp:371">
+<![LOG[Report is built but not necessary to send]LOG]!><time="00:05:04.979+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="messagesender.cpp:471">
+<![LOG[==========[ ccmeval finished normally in process 6668 ]==========================]LOG]!><time="00:05:09.992+300" date="10-09-2013" component="CcmEval" context="" type="1" thread="1368" file="ccmeval.cpp:139">
+<![LOG[==========[ ccmeval started in process 9108 ]====================================]LOG]!><time="00:04:02.427+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:102">
+<![LOG[ccmeval version: 5.0.7804.1000]LOG]!><time="00:04:02.428+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:120">
+<![LOG[Loading manifest file: C:\Windows\CCM\CcmEval.xml]LOG]!><time="00:04:02.429+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmevalmanifest.cpp:30">
+<![LOG[Successfully loaded ccmeval manifest file.]LOG]!><time="00:04:03.960+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmevalmanifest.cpp:41">
+<![LOG[Begin evaluating client health rules.]LOG]!><time="00:04:03.960+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:244">
+<![LOG[Successfully retrieved all client health checks.]LOG]!><time="00:04:04.148+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmevalmanifest.cpp:130">
+<![LOG[Evaluating health check rule {4AB7D77D-3BB0-4EAB-BEFD-7C0F7DA10296} : Verify WMI service exists.]LOG]!><time="00:04:04.148+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {518C0699-03F8-4F38-85C4-4D319EAEFC05} : Verify/Remediate WMI service startup type.]LOG]!><time="00:04:04.149+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {7F4B6E15-2221-455B-9615-93C379E470D5} : Verify/Remediate WMI service status.]LOG]!><time="00:04:04.149+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {14E6774A-1795-4E09-B17D-B6F36A124205} : WMI Repository Read/Write Test.]LOG]!><time="00:04:04.149+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {690A959D-6210-4930-865F-E3BB82F02133} : Verify/Remediate client WMI provider.]LOG]!><time="00:04:06.637+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {A81778B5-9A1E-4A52-9C6E-6939CEFAA118} : WMI Repository Integrity Test.]LOG]!><time="00:04:07.423+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {5CC6C949-5001-4765-84B4-DD4FDC1E6940} : Verify BITS exists.]LOG]!><time="00:04:07.543+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C6E29CF5-F9B2-450B-AE61-C4B256A75023} : Verify/Remediate BITS startup type.]LOG]!><time="00:04:07.544+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {2F373187-6295-4CBB-BE9E-8E43C459883A} : Verify/Remediate client prerequisites.]LOG]!><time="00:04:07.544+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {AD9CAF50-6602-4857-A9F4-64864EA30BDF} : Verify/Remediate client installation.]LOG]!><time="00:04:39.633+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {8883C683-04C8-4228-BB76-2EDD666BA781} : Verify SMS Agent Host service exists.]LOG]!><time="00:04:39.670+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {13F46523-5B82-417d-A363-A644E80CAD76} : Verify/Remediate SMS Agent Host service startup type.]LOG]!><time="00:04:39.670+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {70BECB51-44A1-4b46-8A23-6EA3D345B677} : Verify/Remediate SMS Agent Host service status.]LOG]!><time="00:04:39.671+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C35E790D-4C05-40A8-BB46-A68578966D19} : WMI Event Sink Test.]LOG]!><time="00:04:39.671+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {D9D0245D-0617-4C2F-8837-84A397AC5B22} : Verify/Remediate Microsoft Policy Platform service startup type.]LOG]!><time="00:04:39.671+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {09886543-BE8B-431F-BC00-7D917632E22C} : Verify/Remediate Antimalware service startup type.]LOG]!><time="00:04:39.671+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:39.675+300" date="10-10-2013" component="CcmEval" context="" type="2" thread="7416" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {5B50566C-363E-4F1C-8A7D-6F2D2A51B142} : Verify/Remediate Antimalware service status.]LOG]!><time="00:04:39.675+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:39.677+300" date="10-10-2013" component="CcmEval" context="" type="2" thread="7416" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {6BC824B4-BD8C-4779-BB10-ABDBCD5AFAEB} : Verify/Remediate Network Inspection service startup type.]LOG]!><time="00:04:39.677+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Failed to get SOFTWARE\Policies\Microsoft\Microsoft Antimalware\Real-Time Protection\DisableIntrusionPreventionSystem]LOG]!><time="00:04:39.679+300" date="10-10-2013" component="CcmEval" context="" type="2" thread="7416" file="cmclientevaluator.cpp:1274">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:39.679+300" date="10-10-2013" component="CcmEval" context="" type="2" thread="7416" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {D6CB32EA-423D-44CB-9C58-97CE55D2148E} : Verify/Remediate Windows Update service startup type.]LOG]!><time="00:04:39.679+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:39.682+300" date="10-10-2013" component="CcmEval" context="" type="2" thread="7416" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {E8030BE0-B773-4742-B6A1-0870CF139117} : Verify/Remediate Windows Update service startup type on Windows 8.]LOG]!><time="00:04:39.682+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:39.682+300" date="10-10-2013" component="CcmEval" context="" type="2" thread="7416" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {9040BA8C-580D-4FCA-8846-BBD5F5BB1597} : Verify/Remediate Configuration Manager Remote Control service startup type.]LOG]!><time="00:04:39.682+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {9DCD49EF-E021-46FF-A777-49210B558527} : Verify/Remediate Configuration Manager Remote Control service status.]LOG]!><time="00:04:39.682+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {934F12E3-295E-4BA0-AE0F-09859685720F} : Verify/Remediate Configuration Manager Proxy service startup type.]LOG]!><time="00:04:39.682+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:39.708+300" date="10-10-2013" component="CcmEval" context="" type="2" thread="7416" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {43029EED-EB9D-4E35-A5F7-7FDD93EC8C57} : Verify/Remediate Configuration Manager Proxy service status.]LOG]!><time="00:04:39.708+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:39.729+300" date="10-10-2013" component="CcmEval" context="" type="2" thread="7416" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {7B9F8FF6-EDF7-42CA-A67F-073A2E161C19} : Verify/Remediate SQL CE database is healthy.]LOG]!><time="00:04:39.729+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:279">
+<![LOG[Successfully evaluated all client health rules.]LOG]!><time="00:04:39.729+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:329">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:39.739+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmutillib.cpp:404">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:39.739+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmutillib.cpp:404">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131010050439.766000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 9108;
+	StatusCode = 0;
+	ThreadID = 7416;
+};
+]LOG]!><time="00:04:39.766+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="event.cpp:706">
+<![LOG[Client's current MP is http://SCCM-UIC-PS1.ad.uillinois.edu and is accessible]LOG]!><time="00:04:39.768+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="evalservercomm.cpp:317">
+<![LOG[MP check succeeded]LOG]!><time="00:04:39.768+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="evalservercomm.cpp:179">
+<![LOG[Send previous report if needed.]LOG]!><time="00:04:40.270+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="messagesender.cpp:281">
+<![LOG[Previous report was successfully sent, no need to resend.]LOG]!><time="00:04:40.270+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="messagesender.cpp:288">
+<![LOG[Previous site code CM2, current site code CM2]LOG]!><time="00:04:40.786+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="messagesender.cpp:371">
+<![LOG[Report is built but not necessary to send]LOG]!><time="00:04:40.786+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="messagesender.cpp:471">
+<![LOG[==========[ ccmeval finished normally in process 9108 ]==========================]LOG]!><time="00:04:41.314+300" date="10-10-2013" component="CcmEval" context="" type="1" thread="7416" file="ccmeval.cpp:139">
+<![LOG[==========[ ccmeval started in process 8296 ]====================================]LOG]!><time="00:03:54.019+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:102">
+<![LOG[ccmeval version: 5.0.7804.1000]LOG]!><time="00:03:54.019+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:120">
+<![LOG[Loading manifest file: C:\Windows\CCM\CcmEval.xml]LOG]!><time="00:03:54.020+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmevalmanifest.cpp:30">
+<![LOG[Successfully loaded ccmeval manifest file.]LOG]!><time="00:03:54.245+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmevalmanifest.cpp:41">
+<![LOG[Begin evaluating client health rules.]LOG]!><time="00:03:54.245+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:244">
+<![LOG[Successfully retrieved all client health checks.]LOG]!><time="00:03:54.272+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmevalmanifest.cpp:130">
+<![LOG[Evaluating health check rule {4AB7D77D-3BB0-4EAB-BEFD-7C0F7DA10296} : Verify WMI service exists.]LOG]!><time="00:03:54.272+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {518C0699-03F8-4F38-85C4-4D319EAEFC05} : Verify/Remediate WMI service startup type.]LOG]!><time="00:03:54.273+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {7F4B6E15-2221-455B-9615-93C379E470D5} : Verify/Remediate WMI service status.]LOG]!><time="00:03:54.273+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {14E6774A-1795-4E09-B17D-B6F36A124205} : WMI Repository Read/Write Test.]LOG]!><time="00:03:54.273+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {690A959D-6210-4930-865F-E3BB82F02133} : Verify/Remediate client WMI provider.]LOG]!><time="00:03:57.498+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {A81778B5-9A1E-4A52-9C6E-6939CEFAA118} : WMI Repository Integrity Test.]LOG]!><time="00:03:58.164+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {5CC6C949-5001-4765-84B4-DD4FDC1E6940} : Verify BITS exists.]LOG]!><time="00:03:59.220+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C6E29CF5-F9B2-450B-AE61-C4B256A75023} : Verify/Remediate BITS startup type.]LOG]!><time="00:03:59.220+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {2F373187-6295-4CBB-BE9E-8E43C459883A} : Verify/Remediate client prerequisites.]LOG]!><time="00:03:59.221+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {AD9CAF50-6602-4857-A9F4-64864EA30BDF} : Verify/Remediate client installation.]LOG]!><time="00:04:30.994+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {8883C683-04C8-4228-BB76-2EDD666BA781} : Verify SMS Agent Host service exists.]LOG]!><time="00:04:31.035+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {13F46523-5B82-417d-A363-A644E80CAD76} : Verify/Remediate SMS Agent Host service startup type.]LOG]!><time="00:04:31.035+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {70BECB51-44A1-4b46-8A23-6EA3D345B677} : Verify/Remediate SMS Agent Host service status.]LOG]!><time="00:04:31.035+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C35E790D-4C05-40A8-BB46-A68578966D19} : WMI Event Sink Test.]LOG]!><time="00:04:31.036+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {D9D0245D-0617-4C2F-8837-84A397AC5B22} : Verify/Remediate Microsoft Policy Platform service startup type.]LOG]!><time="00:04:31.036+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {09886543-BE8B-431F-BC00-7D917632E22C} : Verify/Remediate Antimalware service startup type.]LOG]!><time="00:04:31.036+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:31.044+300" date="10-11-2013" component="CcmEval" context="" type="2" thread="6460" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {5B50566C-363E-4F1C-8A7D-6F2D2A51B142} : Verify/Remediate Antimalware service status.]LOG]!><time="00:04:31.044+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:31.047+300" date="10-11-2013" component="CcmEval" context="" type="2" thread="6460" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {6BC824B4-BD8C-4779-BB10-ABDBCD5AFAEB} : Verify/Remediate Network Inspection service startup type.]LOG]!><time="00:04:31.047+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Failed to get SOFTWARE\Policies\Microsoft\Microsoft Antimalware\Real-Time Protection\DisableIntrusionPreventionSystem]LOG]!><time="00:04:31.050+300" date="10-11-2013" component="CcmEval" context="" type="2" thread="6460" file="cmclientevaluator.cpp:1274">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:31.050+300" date="10-11-2013" component="CcmEval" context="" type="2" thread="6460" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {D6CB32EA-423D-44CB-9C58-97CE55D2148E} : Verify/Remediate Windows Update service startup type.]LOG]!><time="00:04:31.050+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:31.054+300" date="10-11-2013" component="CcmEval" context="" type="2" thread="6460" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {E8030BE0-B773-4742-B6A1-0870CF139117} : Verify/Remediate Windows Update service startup type on Windows 8.]LOG]!><time="00:04:31.054+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:31.054+300" date="10-11-2013" component="CcmEval" context="" type="2" thread="6460" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {9040BA8C-580D-4FCA-8846-BBD5F5BB1597} : Verify/Remediate Configuration Manager Remote Control service startup type.]LOG]!><time="00:04:31.054+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {9DCD49EF-E021-46FF-A777-49210B558527} : Verify/Remediate Configuration Manager Remote Control service status.]LOG]!><time="00:04:31.054+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {934F12E3-295E-4BA0-AE0F-09859685720F} : Verify/Remediate Configuration Manager Proxy service startup type.]LOG]!><time="00:04:31.054+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:31.102+300" date="10-11-2013" component="CcmEval" context="" type="2" thread="6460" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {43029EED-EB9D-4E35-A5F7-7FDD93EC8C57} : Verify/Remediate Configuration Manager Proxy service status.]LOG]!><time="00:04:31.102+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:31.127+300" date="10-11-2013" component="CcmEval" context="" type="2" thread="6460" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {7B9F8FF6-EDF7-42CA-A67F-073A2E161C19} : Verify/Remediate SQL CE database is healthy.]LOG]!><time="00:04:31.127+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:279">
+<![LOG[Successfully evaluated all client health rules.]LOG]!><time="00:04:31.127+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:329">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:31.191+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmutillib.cpp:404">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:31.191+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmutillib.cpp:404">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131011050431.213000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 8296;
+	StatusCode = 0;
+	ThreadID = 6460;
+};
+]LOG]!><time="00:04:31.213+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="event.cpp:706">
+<![LOG[Client's current MP is http://SCCM-UIC-PS1.ad.uillinois.edu and is accessible]LOG]!><time="00:04:31.300+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="evalservercomm.cpp:317">
+<![LOG[MP check succeeded]LOG]!><time="00:04:31.300+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="evalservercomm.cpp:179">
+<![LOG[Send previous report if needed.]LOG]!><time="00:04:31.302+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="messagesender.cpp:281">
+<![LOG[Previous report was successfully sent, no need to resend.]LOG]!><time="00:04:31.303+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="messagesender.cpp:288">
+<![LOG[Previous site code CM2, current site code CM2]LOG]!><time="00:04:31.305+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="messagesender.cpp:371">
+<![LOG[Report is built but not necessary to send]LOG]!><time="00:04:31.305+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="messagesender.cpp:471">
+<![LOG[==========[ ccmeval finished normally in process 8296 ]==========================]LOG]!><time="00:04:32.113+300" date="10-11-2013" component="CcmEval" context="" type="1" thread="6460" file="ccmeval.cpp:139">
+<![LOG[==========[ ccmeval started in process 8988 ]====================================]LOG]!><time="00:03:59.008+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:102">
+<![LOG[ccmeval version: 5.0.7804.1000]LOG]!><time="00:03:59.008+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:120">
+<![LOG[Loading manifest file: C:\Windows\CCM\CcmEval.xml]LOG]!><time="00:03:59.009+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmevalmanifest.cpp:30">
+<![LOG[Successfully loaded ccmeval manifest file.]LOG]!><time="00:04:01.948+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmevalmanifest.cpp:41">
+<![LOG[Begin evaluating client health rules.]LOG]!><time="00:04:01.948+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:244">
+<![LOG[Successfully retrieved all client health checks.]LOG]!><time="00:04:02.058+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmevalmanifest.cpp:130">
+<![LOG[Evaluating health check rule {4AB7D77D-3BB0-4EAB-BEFD-7C0F7DA10296} : Verify WMI service exists.]LOG]!><time="00:04:02.058+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {518C0699-03F8-4F38-85C4-4D319EAEFC05} : Verify/Remediate WMI service startup type.]LOG]!><time="00:04:02.058+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {7F4B6E15-2221-455B-9615-93C379E470D5} : Verify/Remediate WMI service status.]LOG]!><time="00:04:02.058+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {14E6774A-1795-4E09-B17D-B6F36A124205} : WMI Repository Read/Write Test.]LOG]!><time="00:04:02.059+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {690A959D-6210-4930-865F-E3BB82F02133} : Verify/Remediate client WMI provider.]LOG]!><time="00:04:05.511+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {A81778B5-9A1E-4A52-9C6E-6939CEFAA118} : WMI Repository Integrity Test.]LOG]!><time="00:04:06.224+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {5CC6C949-5001-4765-84B4-DD4FDC1E6940} : Verify BITS exists.]LOG]!><time="00:04:07.006+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C6E29CF5-F9B2-450B-AE61-C4B256A75023} : Verify/Remediate BITS startup type.]LOG]!><time="00:04:07.006+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {2F373187-6295-4CBB-BE9E-8E43C459883A} : Verify/Remediate client prerequisites.]LOG]!><time="00:04:07.006+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {AD9CAF50-6602-4857-A9F4-64864EA30BDF} : Verify/Remediate client installation.]LOG]!><time="00:04:37.858+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {8883C683-04C8-4228-BB76-2EDD666BA781} : Verify SMS Agent Host service exists.]LOG]!><time="00:04:37.898+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {13F46523-5B82-417d-A363-A644E80CAD76} : Verify/Remediate SMS Agent Host service startup type.]LOG]!><time="00:04:37.898+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {70BECB51-44A1-4b46-8A23-6EA3D345B677} : Verify/Remediate SMS Agent Host service status.]LOG]!><time="00:04:37.899+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C35E790D-4C05-40A8-BB46-A68578966D19} : WMI Event Sink Test.]LOG]!><time="00:04:37.899+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {D9D0245D-0617-4C2F-8837-84A397AC5B22} : Verify/Remediate Microsoft Policy Platform service startup type.]LOG]!><time="00:04:37.899+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {09886543-BE8B-431F-BC00-7D917632E22C} : Verify/Remediate Antimalware service startup type.]LOG]!><time="00:04:37.899+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:37.902+300" date="10-12-2013" component="CcmEval" context="" type="2" thread="7844" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {5B50566C-363E-4F1C-8A7D-6F2D2A51B142} : Verify/Remediate Antimalware service status.]LOG]!><time="00:04:37.902+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:37.905+300" date="10-12-2013" component="CcmEval" context="" type="2" thread="7844" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {6BC824B4-BD8C-4779-BB10-ABDBCD5AFAEB} : Verify/Remediate Network Inspection service startup type.]LOG]!><time="00:04:37.905+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Failed to get SOFTWARE\Policies\Microsoft\Microsoft Antimalware\Real-Time Protection\DisableIntrusionPreventionSystem]LOG]!><time="00:04:37.907+300" date="10-12-2013" component="CcmEval" context="" type="2" thread="7844" file="cmclientevaluator.cpp:1274">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:37.907+300" date="10-12-2013" component="CcmEval" context="" type="2" thread="7844" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {D6CB32EA-423D-44CB-9C58-97CE55D2148E} : Verify/Remediate Windows Update service startup type.]LOG]!><time="00:04:37.907+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:37.931+300" date="10-12-2013" component="CcmEval" context="" type="2" thread="7844" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {E8030BE0-B773-4742-B6A1-0870CF139117} : Verify/Remediate Windows Update service startup type on Windows 8.]LOG]!><time="00:04:37.931+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:37.931+300" date="10-12-2013" component="CcmEval" context="" type="2" thread="7844" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {9040BA8C-580D-4FCA-8846-BBD5F5BB1597} : Verify/Remediate Configuration Manager Remote Control service startup type.]LOG]!><time="00:04:37.931+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {9DCD49EF-E021-46FF-A777-49210B558527} : Verify/Remediate Configuration Manager Remote Control service status.]LOG]!><time="00:04:37.931+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {934F12E3-295E-4BA0-AE0F-09859685720F} : Verify/Remediate Configuration Manager Proxy service startup type.]LOG]!><time="00:04:37.931+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:37.962+300" date="10-12-2013" component="CcmEval" context="" type="2" thread="7844" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {43029EED-EB9D-4E35-A5F7-7FDD93EC8C57} : Verify/Remediate Configuration Manager Proxy service status.]LOG]!><time="00:04:37.962+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:37.983+300" date="10-12-2013" component="CcmEval" context="" type="2" thread="7844" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {7B9F8FF6-EDF7-42CA-A67F-073A2E161C19} : Verify/Remediate SQL CE database is healthy.]LOG]!><time="00:04:37.983+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:279">
+<![LOG[Successfully evaluated all client health rules.]LOG]!><time="00:04:37.983+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:329">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:38.919+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmutillib.cpp:404">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:38.920+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmutillib.cpp:404">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131012050438.938000+000";
+	HostName = "SCCM-UIC-DP1.AD.UILLINOIS.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 8988;
+	StatusCode = 0;
+	ThreadID = 7844;
+};
+]LOG]!><time="00:04:38.938+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="event.cpp:706">
+<![LOG[Client's current MP is http://SCCM-UIC-DP1.AD.UILLINOIS.EDU and is accessible]LOG]!><time="00:04:38.942+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="evalservercomm.cpp:317">
+<![LOG[MP check succeeded]LOG]!><time="00:04:38.942+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="evalservercomm.cpp:179">
+<![LOG[Send previous report if needed.]LOG]!><time="00:04:38.944+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="messagesender.cpp:281">
+<![LOG[Previous report was successfully sent, no need to resend.]LOG]!><time="00:04:38.944+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="messagesender.cpp:288">
+<![LOG[Previous site code CM2, current site code CM2]LOG]!><time="00:04:38.945+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="messagesender.cpp:371">
+<![LOG[Report is built but not necessary to send]LOG]!><time="00:04:38.945+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="messagesender.cpp:471">
+<![LOG[==========[ ccmeval finished normally in process 8988 ]==========================]LOG]!><time="00:04:39.078+300" date="10-12-2013" component="CcmEval" context="" type="1" thread="7844" file="ccmeval.cpp:139">
+<![LOG[==========[ ccmeval started in process 7080 ]====================================]LOG]!><time="00:04:08.779+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:102">
+<![LOG[ccmeval version: 5.0.7804.1000]LOG]!><time="00:04:08.780+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:120">
+<![LOG[Loading manifest file: C:\Windows\CCM\CcmEval.xml]LOG]!><time="00:04:08.781+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmevalmanifest.cpp:30">
+<![LOG[Successfully loaded ccmeval manifest file.]LOG]!><time="00:04:09.006+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmevalmanifest.cpp:41">
+<![LOG[Begin evaluating client health rules.]LOG]!><time="00:04:09.006+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:244">
+<![LOG[Successfully retrieved all client health checks.]LOG]!><time="00:04:09.009+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmevalmanifest.cpp:130">
+<![LOG[Evaluating health check rule {4AB7D77D-3BB0-4EAB-BEFD-7C0F7DA10296} : Verify WMI service exists.]LOG]!><time="00:04:09.009+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {518C0699-03F8-4F38-85C4-4D319EAEFC05} : Verify/Remediate WMI service startup type.]LOG]!><time="00:04:09.010+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {7F4B6E15-2221-455B-9615-93C379E470D5} : Verify/Remediate WMI service status.]LOG]!><time="00:04:09.010+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {14E6774A-1795-4E09-B17D-B6F36A124205} : WMI Repository Read/Write Test.]LOG]!><time="00:04:09.010+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {690A959D-6210-4930-865F-E3BB82F02133} : Verify/Remediate client WMI provider.]LOG]!><time="00:04:09.676+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {A81778B5-9A1E-4A52-9C6E-6939CEFAA118} : WMI Repository Integrity Test.]LOG]!><time="00:04:10.193+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {5CC6C949-5001-4765-84B4-DD4FDC1E6940} : Verify BITS exists.]LOG]!><time="00:04:10.872+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C6E29CF5-F9B2-450B-AE61-C4B256A75023} : Verify/Remediate BITS startup type.]LOG]!><time="00:04:10.872+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {2F373187-6295-4CBB-BE9E-8E43C459883A} : Verify/Remediate client prerequisites.]LOG]!><time="00:04:10.872+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {AD9CAF50-6602-4857-A9F4-64864EA30BDF} : Verify/Remediate client installation.]LOG]!><time="00:04:12.536+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {8883C683-04C8-4228-BB76-2EDD666BA781} : Verify SMS Agent Host service exists.]LOG]!><time="00:04:12.571+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {13F46523-5B82-417d-A363-A644E80CAD76} : Verify/Remediate SMS Agent Host service startup type.]LOG]!><time="00:04:12.571+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {70BECB51-44A1-4b46-8A23-6EA3D345B677} : Verify/Remediate SMS Agent Host service status.]LOG]!><time="00:04:12.572+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C35E790D-4C05-40A8-BB46-A68578966D19} : WMI Event Sink Test.]LOG]!><time="00:04:12.572+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {D9D0245D-0617-4C2F-8837-84A397AC5B22} : Verify/Remediate Microsoft Policy Platform service startup type.]LOG]!><time="00:04:12.572+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {09886543-BE8B-431F-BC00-7D917632E22C} : Verify/Remediate Antimalware service startup type.]LOG]!><time="00:04:12.572+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:12.576+300" date="10-13-2013" component="CcmEval" context="" type="2" thread="7548" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {5B50566C-363E-4F1C-8A7D-6F2D2A51B142} : Verify/Remediate Antimalware service status.]LOG]!><time="00:04:12.576+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:12.578+300" date="10-13-2013" component="CcmEval" context="" type="2" thread="7548" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {6BC824B4-BD8C-4779-BB10-ABDBCD5AFAEB} : Verify/Remediate Network Inspection service startup type.]LOG]!><time="00:04:12.579+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Failed to get SOFTWARE\Policies\Microsoft\Microsoft Antimalware\Real-Time Protection\DisableIntrusionPreventionSystem]LOG]!><time="00:04:12.581+300" date="10-13-2013" component="CcmEval" context="" type="2" thread="7548" file="cmclientevaluator.cpp:1274">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:12.581+300" date="10-13-2013" component="CcmEval" context="" type="2" thread="7548" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {D6CB32EA-423D-44CB-9C58-97CE55D2148E} : Verify/Remediate Windows Update service startup type.]LOG]!><time="00:04:12.581+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:12.584+300" date="10-13-2013" component="CcmEval" context="" type="2" thread="7548" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {E8030BE0-B773-4742-B6A1-0870CF139117} : Verify/Remediate Windows Update service startup type on Windows 8.]LOG]!><time="00:04:12.584+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:12.584+300" date="10-13-2013" component="CcmEval" context="" type="2" thread="7548" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {9040BA8C-580D-4FCA-8846-BBD5F5BB1597} : Verify/Remediate Configuration Manager Remote Control service startup type.]LOG]!><time="00:04:12.584+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {9DCD49EF-E021-46FF-A777-49210B558527} : Verify/Remediate Configuration Manager Remote Control service status.]LOG]!><time="00:04:12.584+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {934F12E3-295E-4BA0-AE0F-09859685720F} : Verify/Remediate Configuration Manager Proxy service startup type.]LOG]!><time="00:04:12.585+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:12.633+300" date="10-13-2013" component="CcmEval" context="" type="2" thread="7548" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {43029EED-EB9D-4E35-A5F7-7FDD93EC8C57} : Verify/Remediate Configuration Manager Proxy service status.]LOG]!><time="00:04:12.633+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:12.657+300" date="10-13-2013" component="CcmEval" context="" type="2" thread="7548" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {7B9F8FF6-EDF7-42CA-A67F-073A2E161C19} : Verify/Remediate SQL CE database is healthy.]LOG]!><time="00:04:12.657+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:279">
+<![LOG[Successfully evaluated all client health rules.]LOG]!><time="00:04:12.657+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:329">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:12.707+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmutillib.cpp:404">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:12.707+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmutillib.cpp:404">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131013050415.722000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 7080;
+	StatusCode = 0;
+	ThreadID = 7548;
+};
+]LOG]!><time="00:04:15.722+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="event.cpp:706">
+<![LOG[Client's current MP is http://SCCM-UIC-PS1.ad.uillinois.edu and is accessible]LOG]!><time="00:04:15.728+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="evalservercomm.cpp:317">
+<![LOG[MP check succeeded]LOG]!><time="00:04:15.728+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="evalservercomm.cpp:179">
+<![LOG[Send previous report if needed.]LOG]!><time="00:04:15.730+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="messagesender.cpp:281">
+<![LOG[Previous report was successfully sent, no need to resend.]LOG]!><time="00:04:15.730+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="messagesender.cpp:288">
+<![LOG[Previous site code CM2, current site code CM2]LOG]!><time="00:04:15.732+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="messagesender.cpp:371">
+<![LOG[Report is built but not necessary to send]LOG]!><time="00:04:15.732+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="messagesender.cpp:471">
+<![LOG[==========[ ccmeval finished normally in process 7080 ]==========================]LOG]!><time="00:04:15.807+300" date="10-13-2013" component="CcmEval" context="" type="1" thread="7548" file="ccmeval.cpp:139">
+<![LOG[==========[ ccmeval started in process 2908 ]====================================]LOG]!><time="00:04:05.862+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:102">
+<![LOG[ccmeval version: 5.0.7804.1000]LOG]!><time="00:04:05.862+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:120">
+<![LOG[Loading manifest file: C:\Windows\CCM\CcmEval.xml]LOG]!><time="00:04:05.864+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmevalmanifest.cpp:30">
+<![LOG[Successfully loaded ccmeval manifest file.]LOG]!><time="00:04:06.150+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmevalmanifest.cpp:41">
+<![LOG[Begin evaluating client health rules.]LOG]!><time="00:04:06.150+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:244">
+<![LOG[Successfully retrieved all client health checks.]LOG]!><time="00:04:06.166+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmevalmanifest.cpp:130">
+<![LOG[Evaluating health check rule {4AB7D77D-3BB0-4EAB-BEFD-7C0F7DA10296} : Verify WMI service exists.]LOG]!><time="00:04:06.166+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {518C0699-03F8-4F38-85C4-4D319EAEFC05} : Verify/Remediate WMI service startup type.]LOG]!><time="00:04:06.167+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {7F4B6E15-2221-455B-9615-93C379E470D5} : Verify/Remediate WMI service status.]LOG]!><time="00:04:06.167+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {14E6774A-1795-4E09-B17D-B6F36A124205} : WMI Repository Read/Write Test.]LOG]!><time="00:04:06.167+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {690A959D-6210-4930-865F-E3BB82F02133} : Verify/Remediate client WMI provider.]LOG]!><time="00:04:07.607+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {A81778B5-9A1E-4A52-9C6E-6939CEFAA118} : WMI Repository Integrity Test.]LOG]!><time="00:04:07.984+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {5CC6C949-5001-4765-84B4-DD4FDC1E6940} : Verify BITS exists.]LOG]!><time="00:04:08.243+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C6E29CF5-F9B2-450B-AE61-C4B256A75023} : Verify/Remediate BITS startup type.]LOG]!><time="00:04:08.244+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {2F373187-6295-4CBB-BE9E-8E43C459883A} : Verify/Remediate client prerequisites.]LOG]!><time="00:04:08.244+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {AD9CAF50-6602-4857-A9F4-64864EA30BDF} : Verify/Remediate client installation.]LOG]!><time="00:04:09.587+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {8883C683-04C8-4228-BB76-2EDD666BA781} : Verify SMS Agent Host service exists.]LOG]!><time="00:04:09.623+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {13F46523-5B82-417d-A363-A644E80CAD76} : Verify/Remediate SMS Agent Host service startup type.]LOG]!><time="00:04:09.623+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {70BECB51-44A1-4b46-8A23-6EA3D345B677} : Verify/Remediate SMS Agent Host service status.]LOG]!><time="00:04:09.623+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {C35E790D-4C05-40A8-BB46-A68578966D19} : WMI Event Sink Test.]LOG]!><time="00:04:09.623+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {D9D0245D-0617-4C2F-8837-84A397AC5B22} : Verify/Remediate Microsoft Policy Platform service startup type.]LOG]!><time="00:04:09.623+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {09886543-BE8B-431F-BC00-7D917632E22C} : Verify/Remediate Antimalware service startup type.]LOG]!><time="00:04:09.623+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:09.626+300" date="10-14-2013" component="CcmEval" context="" type="2" thread="10044" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {5B50566C-363E-4F1C-8A7D-6F2D2A51B142} : Verify/Remediate Antimalware service status.]LOG]!><time="00:04:09.626+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:09.629+300" date="10-14-2013" component="CcmEval" context="" type="2" thread="10044" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {6BC824B4-BD8C-4779-BB10-ABDBCD5AFAEB} : Verify/Remediate Network Inspection service startup type.]LOG]!><time="00:04:09.629+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Failed to get SOFTWARE\Policies\Microsoft\Microsoft Antimalware\Real-Time Protection\DisableIntrusionPreventionSystem]LOG]!><time="00:04:09.631+300" date="10-14-2013" component="CcmEval" context="" type="2" thread="10044" file="cmclientevaluator.cpp:1274">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:09.631+300" date="10-14-2013" component="CcmEval" context="" type="2" thread="10044" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {D6CB32EA-423D-44CB-9C58-97CE55D2148E} : Verify/Remediate Windows Update service startup type.]LOG]!><time="00:04:09.631+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:09.633+300" date="10-14-2013" component="CcmEval" context="" type="2" thread="10044" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {E8030BE0-B773-4742-B6A1-0870CF139117} : Verify/Remediate Windows Update service startup type on Windows 8.]LOG]!><time="00:04:09.633+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:09.633+300" date="10-14-2013" component="CcmEval" context="" type="2" thread="10044" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {9040BA8C-580D-4FCA-8846-BBD5F5BB1597} : Verify/Remediate Configuration Manager Remote Control service startup type.]LOG]!><time="00:04:09.633+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {9DCD49EF-E021-46FF-A777-49210B558527} : Verify/Remediate Configuration Manager Remote Control service status.]LOG]!><time="00:04:09.634+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Evaluating health check rule {934F12E3-295E-4BA0-AE0F-09859685720F} : Verify/Remediate Configuration Manager Proxy service startup type.]LOG]!><time="00:04:09.634+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:09.687+300" date="10-14-2013" component="CcmEval" context="" type="2" thread="10044" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {43029EED-EB9D-4E35-A5F7-7FDD93EC8C57} : Verify/Remediate Configuration Manager Proxy service status.]LOG]!><time="00:04:09.687+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Result: Not Applicable, ResultCode: 0, ResultType: 0, ResultDetail: ]LOG]!><time="00:04:09.710+300" date="10-14-2013" component="CcmEval" context="" type="2" thread="10044" file="ccmeval.cpp:324">
+<![LOG[Evaluating health check rule {7B9F8FF6-EDF7-42CA-A67F-073A2E161C19} : Verify/Remediate SQL CE database is healthy.]LOG]!><time="00:04:09.710+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:279">
+<![LOG[Successfully evaluated all client health rules.]LOG]!><time="00:04:09.710+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:329">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:09.905+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmutillib.cpp:404">
+<![LOG[Client is set to use HTTPS when available. The current state is 480.]LOG]!><time="00:04:09.906+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmutillib.cpp:404">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014050415.933000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 2908;
+	StatusCode = 0;
+	ThreadID = 10044;
+};
+]LOG]!><time="00:04:15.933+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="event.cpp:706">
+<![LOG[Client's current MP is http://SCCM-UIC-PS1.ad.uillinois.edu and is accessible]LOG]!><time="00:04:15.980+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="evalservercomm.cpp:317">
+<![LOG[MP check succeeded]LOG]!><time="00:04:15.980+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="evalservercomm.cpp:179">
+<![LOG[Send previous report if needed.]LOG]!><time="00:04:15.982+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="messagesender.cpp:281">
+<![LOG[Previous report was successfully sent, no need to resend.]LOG]!><time="00:04:15.982+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="messagesender.cpp:288">
+<![LOG[Previous site code CM2, current site code CM2]LOG]!><time="00:04:16.057+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="messagesender.cpp:371">
+<![LOG[Report is built but not necessary to send]LOG]!><time="00:04:16.057+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="messagesender.cpp:471">
+<![LOG[==========[ ccmeval finished normally in process 2908 ]==========================]LOG]!><time="00:04:16.116+300" date="10-14-2013" component="CcmEval" context="" type="1" thread="10044" file="ccmeval.cpp:139">

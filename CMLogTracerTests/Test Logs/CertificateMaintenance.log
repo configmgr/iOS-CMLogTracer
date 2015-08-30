@@ -1,0 +1,6 @@
+﻿<![LOG[Certificate [Thumbprint 3D65BEBBDA034532D67B219766ED6569AAABB344] issued to 'SMS' has an insufficient key length of 1024. Will be deleted and recreated.]LOG]!><time="03:07:04.351+300" date="09-12-2013" component="CertificateMaintenance" context="" type="1" thread="4000" file="ccmgencert.cpp:1961">
+<![LOG[Creating Signing Certificate...]LOG]!><time="03:07:04.352+300" date="09-12-2013" component="CertificateMaintenance" context="" type="1" thread="4000" file="ccmgencert.cpp:844">
+<![LOG[Successfully created certifcate]LOG]!><time="03:07:05.220+300" date="09-12-2013" component="CertificateMaintenance" context="" type="1" thread="4000" file="ccmgencert.cpp:990">
+<![LOG[Certificate [Thumbprint D80BB55A64B909F1F12D5FB8C519B4E3D6A788DB] issued to 'SMS' has an insufficient key length of 1024. Will be deleted and recreated.]LOG]!><time="03:07:05.613+300" date="09-12-2013" component="CertificateMaintenance" context="" type="1" thread="4000" file="ccmgencert.cpp:1961">
+<![LOG[Creating Encryption Certificate...]LOG]!><time="03:07:05.613+300" date="09-12-2013" component="CertificateMaintenance" context="" type="1" thread="4000" file="ccmgencert.cpp:1062">
+<![LOG[Successfully created certifcate]LOG]!><time="03:07:06.421+300" date="09-12-2013" component="CertificateMaintenance" context="" type="1" thread="4000" file="ccmgencert.cpp:1208">

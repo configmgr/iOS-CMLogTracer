@@ -1,0 +1,13 @@
+PODS:
+  - Dropbox-iOS-Dropins-SDK (1.2.1)
+  - iRate (1.11.4)
+
+DEPENDENCIES:
+  - Dropbox-iOS-Dropins-SDK
+  - iRate
+
+SPEC CHECKSUMS:
+  Dropbox-iOS-Dropins-SDK: 01b2eb9cc2086954723629a0c8607b09a6e3f6fb
+  iRate: 599ed07c854e0695f3c605d1b2a64c67d912acb7
+
+COCOAPODS: 0.38.2

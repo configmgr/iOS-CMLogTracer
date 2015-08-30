@@ -1,0 +1,4 @@
+﻿<![LOG[CSWMtrReportEndpoint::HandleMessage- Report Endpoint invoked. ]LOG]!><time="09:19:27.115+300" date="10-03-2013" component="SWMTRReportGen" context="" type="1" thread="8396" file="swmtrreportendpoint.cpp:67">
+<![LOG[No usage data found to generate software metering report]LOG]!><time="09:19:27.120+300" date="10-03-2013" component="SWMTRReportGen" context="" type="2" thread="8396" file="swmtrreport.cpp:59">
+<![LOG[CSWMtrReportEndpoint::HandleMessage- Report Endpoint invoked. ]LOG]!><time="09:19:25.163+300" date="10-10-2013" component="SWMTRReportGen" context="" type="1" thread="9016" file="swmtrreportendpoint.cpp:67">
+<![LOG[No usage data found to generate software metering report]LOG]!><time="09:19:25.166+300" date="10-10-2013" component="SWMTRReportGen" context="" type="2" thread="9016" file="swmtrreport.cpp:59">

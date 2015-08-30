@@ -1,0 +1,870 @@
+﻿<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130259867317505532";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="12:38:51.7655562" date="10-11-2013" component="SCClient" context="" type="0" thread="5" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="12:38:51.7655562" date="10-11-2013" component="SCClient" context="" type="1" thread="5" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:51.7660563" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:51.7780587" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:51.7845600" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:51.7915614" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:51.7980627" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:51.8045640" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:51.8110653" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:51.8175666" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="14:38:51.5102053" date="10-11-2013" component="SCClient" context="" type="1" thread="14" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130259939315092053";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="14:38:51.5107053" date="10-11-2013" component="SCClient" context="" type="0" thread="14" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="14:38:51.5107053" date="10-11-2013" component="SCClient" context="" type="1" thread="14" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:51.5112053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:51.5227053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:51.5297053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:51.5367053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:51.5432053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:51.5502053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:51.5567053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:51.5637053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="16:38:50.6067053" date="10-11-2013" component="SCClient" context="" type="1" thread="15" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130260011306057053";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="16:38:50.6067053" date="10-11-2013" component="SCClient" context="" type="0" thread="15" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="16:38:50.6072053" date="10-11-2013" component="SCClient" context="" type="1" thread="15" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:50.6077053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:50.6182053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:50.6257053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:50.6322053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:50.6392053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:50.6462053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:50.6532053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:50.6602053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="18:38:49.7027053" date="10-11-2013" component="SCClient" context="" type="1" thread="16" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130260083297017053";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="18:38:49.7027053" date="10-11-2013" component="SCClient" context="" type="0" thread="16" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="18:38:49.7032053" date="10-11-2013" component="SCClient" context="" type="1" thread="16" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:49.7037053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:49.7147053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:49.7212053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:49.7277053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:49.7342053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:49.7412053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:49.7472053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:49.7542053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="20:38:48.7997053" date="10-11-2013" component="SCClient" context="" type="1" thread="17" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130260155287987053";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="20:38:48.8002053" date="10-11-2013" component="SCClient" context="" type="0" thread="17" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="20:38:48.8002053" date="10-11-2013" component="SCClient" context="" type="1" thread="17" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:48.8007053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:48.8122053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:48.8192053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:48.8257053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:48.8327053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:48.8392053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:48.8462053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:48.8527053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="22:38:47.8967053" date="10-11-2013" component="SCClient" context="" type="1" thread="6" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130260227278957053";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="22:38:47.8972053" date="10-11-2013" component="SCClient" context="" type="0" thread="6" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="22:38:47.8972053" date="10-11-2013" component="SCClient" context="" type="1" thread="6" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:47.8987053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:47.9102053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:47.9172053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:47.9237053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:47.9302053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:47.9367053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:47.9432053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:47.9497053" date="10-11-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="00:38:52.1977744" date="10-12-2013" component="SCClient" context="" type="1" thread="17" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130260299321967742";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="00:38:52.1982745" date="10-12-2013" component="SCClient" context="" type="0" thread="17" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="00:38:52.1987746" date="10-12-2013" component="SCClient" context="" type="1" thread="17" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:52.1987746" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:52.2127774" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:52.2212791" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:52.2282805" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:52.2377824" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:52.2447838" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:52.2527854" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:52.2612871" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="02:38:52.7340937" date="10-12-2013" component="SCClient" context="" type="1" thread="16" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130260371327330935";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="02:38:52.7345938" date="10-12-2013" component="SCClient" context="" type="0" thread="16" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="02:38:52.7350939" date="10-12-2013" component="SCClient" context="" type="1" thread="16" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:52.7350939" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:52.7475964" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:52.7545978" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:52.7635996" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:52.7731015" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:52.7826034" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:52.7921053" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:52.8006070" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="04:38:53.2704130" date="10-12-2013" component="SCClient" context="" type="1" thread="15" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130260443332694128";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="04:38:53.2709131" date="10-12-2013" component="SCClient" context="" type="0" thread="15" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="04:38:53.2709131" date="10-12-2013" component="SCClient" context="" type="1" thread="15" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:53.2714132" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:53.2829155" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:53.2909171" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:53.2994188" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:53.3064202" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:53.3144218" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:53.3219233" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:53.3289247" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="06:38:53.8072324" date="10-12-2013" component="SCClient" context="" type="1" thread="14" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130260515338062322";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="06:38:53.8077325" date="10-12-2013" component="SCClient" context="" type="0" thread="14" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="06:38:53.8077325" date="10-12-2013" component="SCClient" context="" type="1" thread="14" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:53.8082326" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:53.8197349" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:53.8267363" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:53.8332376" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:53.8397389" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:53.8467403" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:53.8532416" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:53.8597429" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[The notification process received a setting change notification 	 (Microsoft.SoftwareCenter.Client.Notification.SingleInstanceApplication at OnUserPreferenceChanged)]LOG]!><time="08:18:44.1370588" date="10-12-2013" component="SCClient" context="" type="1" thread="1" file="">
+<![LOG[The notification process received a setting change notification 	 (Microsoft.SoftwareCenter.Client.Notification.SingleInstanceApplication at OnUserPreferenceChanged)]LOG]!><time="08:18:45.4988311" date="10-12-2013" component="SCClient" context="" type="1" thread="1" file="">
+<![LOG[The notification process received a setting change notification 	 (Microsoft.SoftwareCenter.Client.Notification.SingleInstanceApplication at OnUserPreferenceChanged)]LOG]!><time="08:35:01.8568122" date="10-12-2013" component="SCClient" context="" type="1" thread="1" file="">
+<![LOG[The notification process received a setting change notification 	 (Microsoft.SoftwareCenter.Client.Notification.SingleInstanceApplication at OnUserPreferenceChanged)]LOG]!><time="08:35:01.8707590" date="10-12-2013" component="SCClient" context="" type="1" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="08:38:52.9194857" date="10-12-2013" component="SCClient" context="" type="1" thread="5" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130260587329189863";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="08:38:52.9199851" date="10-12-2013" component="SCClient" context="" type="0" thread="5" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="08:38:52.9204845" date="10-12-2013" component="SCClient" context="" type="1" thread="5" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:52.9204845" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:52.9299731" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:52.9364653" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:52.9434569" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:52.9494497" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:52.9564413" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:52.9629335" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:52.9694257" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="10:38:52.8991216" date="10-12-2013" component="SCClient" context="" type="1" thread="8" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130260659328981214";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="10:38:52.8996217" date="10-12-2013" component="SCClient" context="" type="0" thread="8" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="10:38:52.9001218" date="10-12-2013" component="SCClient" context="" type="1" thread="8" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:52.9001218" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:52.9116241" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:52.9191256" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:52.9261270" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:52.9326283" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:52.9391296" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:52.9456309" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:52.9526323" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="12:38:53.4359410" date="10-12-2013" component="SCClient" context="" type="1" thread="9" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130260731334349408";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="12:38:53.4359410" date="10-12-2013" component="SCClient" context="" type="0" thread="9" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="12:38:53.4364411" date="10-12-2013" component="SCClient" context="" type="1" thread="9" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:53.4369412" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:53.4479434" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:53.4549448" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:53.4614461" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:53.4684475" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:53.4749488" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:53.4814501" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:53.4884515" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="14:38:53.9722603" date="10-12-2013" component="SCClient" context="" type="1" thread="10" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130260803339712601";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="14:38:53.9722603" date="10-12-2013" component="SCClient" context="" type="0" thread="10" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="14:38:53.9727604" date="10-12-2013" component="SCClient" context="" type="1" thread="10" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:53.9732605" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:53.9842627" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:53.9912641" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:53.9977654" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:54.0042667" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:54.0107680" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:54.0172693" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:54.0237706" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="16:38:54.5120803" date="10-12-2013" component="SCClient" context="" type="1" thread="11" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130260875345105800";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="16:38:54.5120803" date="10-12-2013" component="SCClient" context="" type="0" thread="11" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="16:38:54.5125804" date="10-12-2013" component="SCClient" context="" type="1" thread="11" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:54.5125804" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:54.5235826" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:54.5310841" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:54.5380855" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:54.5450869" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:54.5515882" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:54.5580895" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:54.5645908" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="18:38:52.8881731" date="10-12-2013" component="SCClient" context="" type="1" thread="12" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130260947328871729";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="18:38:52.8886732" date="10-12-2013" component="SCClient" context="" type="0" thread="12" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="18:38:52.8886732" date="10-12-2013" component="SCClient" context="" type="1" thread="12" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:52.8891733" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:52.9011757" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:52.9076770" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:52.9141783" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:52.9206796" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:52.9276810" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:52.9336822" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:52.9401835" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="20:38:53.4259927" date="10-12-2013" component="SCClient" context="" type="1" thread="13" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130261019334244924";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="20:38:53.4259927" date="10-12-2013" component="SCClient" context="" type="0" thread="13" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="20:38:53.4264928" date="10-12-2013" component="SCClient" context="" type="1" thread="13" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:53.4269929" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:53.4384952" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:53.4454966" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:53.4524980" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:53.4589993" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:53.4655006" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:53.4720019" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:53.4785032" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="22:38:53.9618119" date="10-12-2013" component="SCClient" context="" type="1" thread="19" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130261091339608117";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="22:38:53.9633122" date="10-12-2013" component="SCClient" context="" type="0" thread="19" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="22:38:53.9638123" date="10-12-2013" component="SCClient" context="" type="1" thread="19" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:53.9648125" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:53.9763148" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:53.9833162" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:53.9898175" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:53.9963188" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:54.0028201" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:54.0093214" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:54.0158227" date="10-12-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="00:38:54.4991314" date="10-13-2013" component="SCClient" context="" type="1" thread="13" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130261163344976311";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="00:38:54.4991314" date="10-13-2013" component="SCClient" context="" type="0" thread="13" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="00:38:54.4996315" date="10-13-2013" component="SCClient" context="" type="1" thread="13" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:54.5001316" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:54.5131342" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:54.5201356" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:54.5291374" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:54.5361388" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:54.5431402" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:54.5511418" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:54.5586433" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="02:38:55.0349506" date="10-13-2013" component="SCClient" context="" type="1" thread="12" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130261235350339504";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="02:38:55.0354507" date="10-13-2013" component="SCClient" context="" type="0" thread="12" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="02:38:55.0354507" date="10-13-2013" component="SCClient" context="" type="1" thread="12" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:55.0359508" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:55.0474531" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:55.0544545" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:55.0609558" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:55.0674571" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:55.0739584" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:55.0804597" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:55.0869610" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="04:38:52.6908126" date="10-13-2013" component="SCClient" context="" type="1" thread="11" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130261307326898126";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="04:38:52.6913126" date="10-13-2013" component="SCClient" context="" type="0" thread="11" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="04:38:52.6913126" date="10-13-2013" component="SCClient" context="" type="1" thread="11" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:52.6918126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:52.7033126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:52.7103126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:52.7168126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:52.7233126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:52.7298126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:52.7368126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:52.7433126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="06:38:51.8138126" date="10-13-2013" component="SCClient" context="" type="1" thread="10" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130261379318128126";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="06:38:51.8143126" date="10-13-2013" component="SCClient" context="" type="0" thread="10" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="06:38:51.8143126" date="10-13-2013" component="SCClient" context="" type="1" thread="10" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:51.8148126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:51.8263126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:51.8333126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:51.8398126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:51.8463126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:51.8528126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:51.8598126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:51.8663126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="08:38:50.9103126" date="10-13-2013" component="SCClient" context="" type="1" thread="9" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130261451309093126";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="08:38:50.9108126" date="10-13-2013" component="SCClient" context="" type="0" thread="9" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="08:38:50.9113126" date="10-13-2013" component="SCClient" context="" type="1" thread="9" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:50.9113126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:50.9218126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:50.9293126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:50.9363126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:50.9428126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:50.9493126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:50.9558126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:50.9623126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="10:38:50.0068126" date="10-13-2013" component="SCClient" context="" type="1" thread="8" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130261523300058126";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="10:38:50.0073126" date="10-13-2013" component="SCClient" context="" type="0" thread="8" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="10:38:50.0073126" date="10-13-2013" component="SCClient" context="" type="1" thread="8" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:50.0078126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:50.0193126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:50.0263126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:50.0328126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:50.0393126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:50.0463126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:50.0528126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:50.0593126" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="12:38:53.9234071" date="10-13-2013" component="SCClient" context="" type="1" thread="5" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130261595339224069";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="12:38:53.9234071" date="10-13-2013" component="SCClient" context="" type="0" thread="5" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="12:38:53.9239072" date="10-13-2013" component="SCClient" context="" type="1" thread="5" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:53.9244073" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:53.9354095" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:53.9424109" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:53.9489122" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:53.9554135" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:53.9619148" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:53.9684161" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="12:38:53.9749174" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="14:38:54.4597264" date="10-13-2013" component="SCClient" context="" type="1" thread="14" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130261667344582261";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="14:38:54.4597264" date="10-13-2013" component="SCClient" context="" type="0" thread="14" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="14:38:54.4602265" date="10-13-2013" component="SCClient" context="" type="1" thread="14" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:54.4607266" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:54.4717288" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:54.4782301" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:54.4847314" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:54.4912327" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:54.4977340" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:54.5042353" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="14:38:54.5107366" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="16:38:54.9955456" date="10-13-2013" component="SCClient" context="" type="1" thread="15" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130261739349945454";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="16:38:54.9955456" date="10-13-2013" component="SCClient" context="" type="0" thread="15" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="16:38:54.9960457" date="10-13-2013" component="SCClient" context="" type="1" thread="15" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:54.9965458" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:55.0080481" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:55.0155496" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:55.0220509" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:55.0295524" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:55.0365538" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:55.0430551" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="16:38:55.0500565" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="18:38:55.5318649" date="10-13-2013" component="SCClient" context="" type="1" thread="16" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130261811355303646";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="18:38:55.5318649" date="10-13-2013" component="SCClient" context="" type="0" thread="16" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="18:38:55.5323650" date="10-13-2013" component="SCClient" context="" type="1" thread="16" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:55.5328651" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:55.5443674" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:55.5513688" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:55.5583702" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:55.5648715" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:55.5713728" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:55.5783742" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="18:38:55.5848755" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="20:38:56.0681842" date="10-13-2013" component="SCClient" context="" type="1" thread="17" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130261883360671840";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="20:38:56.0686843" date="10-13-2013" component="SCClient" context="" type="0" thread="17" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="20:38:56.0686843" date="10-13-2013" component="SCClient" context="" type="1" thread="17" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:56.0691844" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:56.0806867" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:56.0881882" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:56.0956897" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:56.1031912" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:56.1106927" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:56.1191944" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="20:38:56.1256957" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="22:38:54.6247543" date="10-13-2013" component="SCClient" context="" type="1" thread="6" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130261955346237541";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="22:38:54.6252544" date="10-13-2013" component="SCClient" context="" type="0" thread="6" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="22:38:54.6252544" date="10-13-2013" component="SCClient" context="" type="1" thread="6" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:54.6257545" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:54.6372568" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:54.6452584" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:54.6527599" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:54.6602614" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:54.6672628" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:54.6737641" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="22:38:54.6802654" date="10-13-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="00:38:55.1620738" date="10-14-2013" component="SCClient" context="" type="1" thread="17" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130262027351605735";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="00:38:55.1620738" date="10-14-2013" component="SCClient" context="" type="0" thread="17" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="00:38:55.1625739" date="10-14-2013" component="SCClient" context="" type="1" thread="17" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:55.1630740" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:55.1755765" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:55.1830780" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:55.1910796" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:55.2000814" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:55.2075829" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:55.2160846" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="00:38:55.2235861" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="02:38:55.6978930" date="10-14-2013" component="SCClient" context="" type="1" thread="16" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130262099356968928";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="02:38:55.6978930" date="10-14-2013" component="SCClient" context="" type="0" thread="16" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="02:38:55.6983931" date="10-14-2013" component="SCClient" context="" type="1" thread="16" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:55.6988932" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:55.7103955" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:55.7168968" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:55.7238982" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:55.7308996" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:55.7384011" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:55.7449024" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="02:38:55.7514037" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="04:38:56.2342123" date="10-14-2013" component="SCClient" context="" type="1" thread="15" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130262171362327120";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="04:38:56.2342123" date="10-14-2013" component="SCClient" context="" type="0" thread="15" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="04:38:56.2347124" date="10-14-2013" component="SCClient" context="" type="1" thread="15" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:56.2352125" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:56.2462147" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:56.2532161" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:56.2597174" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:56.2662187" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:56.2727200" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:56.2792213" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="04:38:56.2857226" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="06:38:54.7094920" date="10-14-2013" component="SCClient" context="" type="1" thread="14" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130262243347079920";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="06:38:54.7094920" date="10-14-2013" component="SCClient" context="" type="0" thread="14" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="06:38:54.7099920" date="10-14-2013" component="SCClient" context="" type="1" thread="14" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:54.7104920" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:54.7214920" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:54.7279920" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:54.7344920" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:54.7409920" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:54.7474920" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:54.7539920" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="06:38:54.7604920" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[The notification process received a setting change notification 	 (Microsoft.SoftwareCenter.Client.Notification.SingleInstanceApplication at OnUserPreferenceChanged)]LOG]!><time="08:30:09.5995164" date="10-14-2013" component="SCClient" context="" type="1" thread="1" file="">
+<![LOG[The notification process received a setting change notification 	 (Microsoft.SoftwareCenter.Client.Notification.SingleInstanceApplication at OnUserPreferenceChanged)]LOG]!><time="08:30:10.4486862" date="10-14-2013" component="SCClient" context="" type="1" thread="1" file="">
+<![LOG[The notification process received a setting change notification 	 (Microsoft.SoftwareCenter.Client.Notification.SingleInstanceApplication at OnUserPreferenceChanged)]LOG]!><time="08:30:11.3713707" date="10-14-2013" component="SCClient" context="" type="1" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="08:38:55.2056166" date="10-14-2013" component="SCClient" context="" type="1" thread="5" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130262315352051165";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="08:38:55.2061167" date="10-14-2013" component="SCClient" context="" type="0" thread="5" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="08:38:55.2066168" date="10-14-2013" component="SCClient" context="" type="1" thread="5" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:55.2066168" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:55.2166188" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:55.2236202" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:55.2301215" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:55.2366228" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:55.2431241" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:55.2496254" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="08:38:55.2566268" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Received a WMI event (CCM_InstanceEvent) 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="10:38:55.7419359" date="10-14-2013" component="SCClient" context="" type="1" thread="8" file="">
+<![LOG[Event object details: 
+instance of CCM_InstanceEvent
+{
+	ActionType = 28;
+	ClassName = "CCM_Application";
+	MessageLevel = 0;
+	SessionID = 4294967295;
+	TargetInstancePath = "";
+	TIME_CREATED = "130262387357409357";
+	UserSID = "";
+	Value = "";
+	Verbosity = 30;
+};
+ 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="10:38:55.7424360" date="10-14-2013" component="SCClient" context="" type="0" thread="8" file="">
+<![LOG[Event maps to notification type = Retry Time Changed 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at EventWatcher_EventArrived)]LOG]!><time="10:38:55.7429361" date="10-14-2013" component="SCClient" context="" type="1" thread="8" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:55.7429361" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:55.7544384" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:55.7614398" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:55.7684412" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:55.7749425" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:55.7814438" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:55.7884452" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">
+<![LOG[Executing WMI query: Select * From CCM_ClientAgentSettings 	 (Microsoft.SoftwareCenter.Client.Data.WmiConnectionManager at ExecuteQuery)]LOG]!><time="10:38:55.7949465" date="10-14-2013" component="SCClient" context="" type="0" thread="1" file="">

@@ -1,0 +1,13 @@
+﻿<![LOG[Failed to check PeerDistribution status. NOT able to do branch cache.]LOG]!><time="09:17:02.594+300" date="10-03-2013" component="FileBITS" context="" type="3" thread="3644" file="branchcacheglobalstate.cpp:193">
+<![LOG[BranchCache Is Not Enabled]LOG]!><time="09:17:02.594+300" date="10-03-2013" component="FileBITS" context="" type="2" thread="3644" file="branchcachemanager.cpp:475">
+<![LOG[Failed to check PeerDistribution status. NOT able to do branch cache.]LOG]!><time="09:21:05.158+300" date="10-03-2013" component="FileBITS" context="" type="3" thread="8340" file="branchcacheglobalstate.cpp:193">
+<![LOG[BranchCache Is Not Enabled]LOG]!><time="09:21:05.159+300" date="10-03-2013" component="FileBITS" context="" type="2" thread="8340" file="branchcachemanager.cpp:475">
+<![LOG[Failed to check PeerDistribution status. NOT able to do branch cache.]LOG]!><time="09:35:05.720+300" date="10-03-2013" component="FileBITS" context="" type="3" thread="8308" file="branchcacheglobalstate.cpp:193">
+<![LOG[Failed to check PeerDistribution status. NOT able to do branch cache.]LOG]!><time="16:30:44.655+300" date="10-03-2013" component="FileBITS" context="" type="3" thread="3776" file="branchcacheglobalstate.cpp:193">
+<![LOG[BranchCache Is Not Enabled]LOG]!><time="16:30:44.655+300" date="10-03-2013" component="FileBITS" context="" type="2" thread="3776" file="branchcachemanager.cpp:475">
+<![LOG[Failed to check PeerDistribution status. NOT able to do branch cache.]LOG]!><time="04:15:59.785+300" date="10-04-2013" component="FileBITS" context="" type="3" thread="5552" file="branchcacheglobalstate.cpp:193">
+<![LOG[Failed to check PeerDistribution status. NOT able to do branch cache.]LOG]!><time="14:13:47.950+300" date="10-04-2013" component="FileBITS" context="" type="3" thread="2444" file="branchcacheglobalstate.cpp:193">
+<![LOG[BranchCache Is Not Enabled]LOG]!><time="14:13:47.951+300" date="10-04-2013" component="FileBITS" context="" type="2" thread="2444" file="branchcachemanager.cpp:475">
+<![LOG[Failed to check PeerDistribution status. NOT able to do branch cache.]LOG]!><time="08:38:38.342+300" date="10-09-2013" component="FileBITS" context="" type="3" thread="3456" file="branchcacheglobalstate.cpp:193">
+<![LOG[BranchCache Is Not Enabled]LOG]!><time="08:38:38.342+300" date="10-09-2013" component="FileBITS" context="" type="2" thread="3456" file="branchcachemanager.cpp:475">
+<![LOG[Failed to check PeerDistribution status. NOT able to do branch cache.]LOG]!><time="10:54:10.768+300" date="10-11-2013" component="FileBITS" context="" type="3" thread="9772" file="branchcacheglobalstate.cpp:193">

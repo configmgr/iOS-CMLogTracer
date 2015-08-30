@@ -1,0 +1,129 @@
+﻿<![LOG[Software Distribution site settings (CCM_SoftwareDistributionClientConfig) policy does not yet exist on the client.
+If the client is not yet registered, this is expected behavior.]LOG]!><time="09:17:02.733+300" date="10-03-2013" component="execmgr" context="" type="2" thread="3644" file="softdistpolicy.cpp:1406">
+<![LOG[Software Distribution site settings (CCM_SoftwareDistributionClientConfig) policy does not yet exist on the client.
+If the client is not yet registered, this is expected behavior.]LOG]!><time="09:17:02.750+300" date="10-03-2013" component="execmgr" context="" type="2" thread="3644" file="softdistpolicy.cpp:1406">
+<![LOG[Software Distribution site settings (CCM_SoftwareDistributionClientConfig) policy does not yet exist on the client.
+If the client is not yet registered, this is expected behavior.]LOG]!><time="09:17:02.757+300" date="10-03-2013" component="execmgr" context="" type="2" thread="3644" file="softdistpolicy.cpp:1406">
+<![LOG[A user has logged on.]LOG]!><time="09:17:17.579+300" date="10-03-2013" component="execmgr" context="" type="1" thread="7760" file="execreqmgr.cpp:4912">
+<![LOG[The logged on user is AD\ablas]LOG]!><time="09:17:18.120+300" date="10-03-2013" component="execmgr" context="" type="1" thread="7760" file="execreqmgr.cpp:4931">
+<![LOG[Software distribution agent was enabled]LOG]!><time="09:19:25.595+300" date="10-03-2013" component="execmgr" context="" type="1" thread="8476" file="execreqmgr.cpp:6686">
+<![LOG[A user has logged on.]LOG]!><time="09:21:15.621+300" date="10-03-2013" component="execmgr" context="" type="1" thread="8028" file="execreqmgr.cpp:4912">
+<![LOG[The logged on user is AD\ablas]LOG]!><time="09:21:15.902+300" date="10-03-2013" component="execmgr" context="" type="1" thread="8028" file="execreqmgr.cpp:4931">
+<![LOG[On policy activation ignore disabled policy Configuration Manager Client Upgrade Program]LOG]!><time="09:30:55.907+300" date="10-03-2013" component="execmgr" context="" type="2" thread="8216" file="execreqmgr.cpp:7520">
+<![LOG[Mandatory execution requested for program Configuration Manager Client Upgrade Program and advertisement CM020000]LOG]!><time="09:30:55.908+300" date="10-03-2013" component="execmgr" context="" type="1" thread="9048" file="execreqmgr.cpp:3528">
+<![LOG[Policy arrived for parent package CM000002 program Configuration Manager Client Upgrade Program]LOG]!><time="09:30:55.925+300" date="10-03-2013" component="execmgr" context="" type="1" thread="5256" file="execreqmgr.cpp:6894">
+<![LOG[Creating mandatory request for advert CM020000, program Configuration Manager Client Upgrade Program, package CM000002]LOG]!><time="09:30:55.925+300" date="10-03-2013" component="execmgr" context="" type="1" thread="9048" file="execreqmgr.cpp:3654">
+<![LOG[Raising client SDK event for class CCM_Program, instance CCM_Program.PackageID="CM000002",ProgramID="Configuration Manager Client Upgrade Program", actionType 6l, value NULL, user NULL, session 4294967295l, level 0l, verbosity 30l]LOG]!><time="09:30:55.928+300" date="10-03-2013" component="execmgr" context="" type="1" thread="5256" file="event.cpp:396">
+<![LOG[Raising event:
+[SMS_CodePage(437), SMS_LocaleID(1033)]
+instance of SoftDistProgramOfferReceivedEvent
+{
+	AdvertisementId = "CM020000";
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131003143055.934000+000";
+	MachineName = "AHS-OD-ABLAS";
+	ProcessID = 3976;
+	SiteCode = "CM2";
+	ThreadID = 5256;
+};
+]LOG]!><time="09:30:55.935+300" date="10-03-2013" component="execmgr" context="" type="1" thread="5256" file="event.cpp:706">
+<![LOG[Program Configuration Manager Client Upgrade Program change to state WAITING_ENABLED]LOG]!><time="09:30:55.956+300" date="10-03-2013" component="execmgr" context="" type="1" thread="9048" file="executionrequest.cpp:4675">
+<![LOG[Execution Request for advert CM020000 package CM000002 program Configuration Manager Client Upgrade Program state change from NotExist to WaitingDisabled]LOG]!><time="09:30:55.956+300" date="10-03-2013" component="execmgr" context="" type="1" thread="9048" file="executionrequest.cpp:501">
+<![LOG[Raising client SDK event for class CCM_Program, instance CCM_Program.PackageID="CM000002",ProgramID="Configuration Manager Client Upgrade Program", actionType 1l, value , user NULL, session 4294967295l, level 0l, verbosity 30l]LOG]!><time="09:30:55.956+300" date="10-03-2013" component="execmgr" context="" type="1" thread="9048" file="event.cpp:396">
+<![LOG[The user has logged off.]LOG]!><time="16:18:56.072+300" date="10-03-2013" component="execmgr" context="" type="1" thread="5080" file="execreqmgr.cpp:5139">
+<![LOG[A user has logged on.]LOG]!><time="16:31:03.545+300" date="10-03-2013" component="execmgr" context="" type="1" thread="4640" file="execreqmgr.cpp:4912">
+<![LOG[The logged on user is AD\ablas]LOG]!><time="16:31:03.842+300" date="10-03-2013" component="execmgr" context="" type="1" thread="4640" file="execreqmgr.cpp:4931">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.017+300" date="10-03-2013" component="execmgr" context="" type="1" thread="3080" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.018+300" date="10-03-2013" component="execmgr" context="" type="1" thread="4772" file="cservicewindowhandler.cpp:37">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.043+300" date="10-03-2013" component="execmgr" context="" type="1" thread="4772" file="execreqmgr.cpp:8748">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.051+300" date="10-03-2013" component="execmgr" context="" type="1" thread="4772" file="execreqmgr.cpp:8760">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.089+300" date="10-03-2013" component="execmgr" context="" type="1" thread="3080" file="execreqmgr.cpp:8748">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.095+300" date="10-03-2013" component="execmgr" context="" type="1" thread="3080" file="execreqmgr.cpp:8760">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="05:00:00.035+300" date="10-04-2013" component="execmgr" context="" type="1" thread="4540" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="06:00:00.155+300" date="10-04-2013" component="execmgr" context="" type="1" thread="2864" file="cservicewindowhandler.cpp:37">
+<![LOG[The user has logged off.]LOG]!><time="14:02:45.624+300" date="10-04-2013" component="execmgr" context="" type="1" thread="6072" file="execreqmgr.cpp:5139">
+<![LOG[A user has logged on.]LOG]!><time="14:14:06.585+300" date="10-04-2013" component="execmgr" context="" type="1" thread="5124" file="execreqmgr.cpp:4912">
+<![LOG[The logged on user is AD\ablas]LOG]!><time="14:14:07.226+300" date="10-04-2013" component="execmgr" context="" type="1" thread="5124" file="execreqmgr.cpp:4931">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.052+300" date="10-04-2013" component="execmgr" context="" type="1" thread="5000" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.052+300" date="10-04-2013" component="execmgr" context="" type="1" thread="5372" file="cservicewindowhandler.cpp:37">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.052+300" date="10-04-2013" component="execmgr" context="" type="1" thread="5372" file="execreqmgr.cpp:8748">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.052+300" date="10-04-2013" component="execmgr" context="" type="1" thread="5000" file="execreqmgr.cpp:8748">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.068+300" date="10-04-2013" component="execmgr" context="" type="1" thread="5372" file="execreqmgr.cpp:8760">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.068+300" date="10-04-2013" component="execmgr" context="" type="1" thread="5000" file="execreqmgr.cpp:8760">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="00:00:00.044+300" date="10-05-2013" component="execmgr" context="" type="1" thread="6752" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="00:00:00.044+300" date="10-05-2013" component="execmgr" context="" type="1" thread="6752" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="00:00:00.044+300" date="10-05-2013" component="execmgr" context="" type="1" thread="6608" file="cservicewindowhandler.cpp:37">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="00:00:00.044+300" date="10-05-2013" component="execmgr" context="" type="1" thread="6752" file="execreqmgr.cpp:8748">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="00:00:00.060+300" date="10-05-2013" component="execmgr" context="" type="1" thread="6752" file="execreqmgr.cpp:8760">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="06:00:00.032+300" date="10-05-2013" component="execmgr" context="" type="1" thread="5124" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.015+300" date="10-05-2013" component="execmgr" context="" type="1" thread="6168" file="cservicewindowhandler.cpp:37">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.015+300" date="10-05-2013" component="execmgr" context="" type="1" thread="6168" file="execreqmgr.cpp:8748">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.030+300" date="10-05-2013" component="execmgr" context="" type="1" thread="6168" file="execreqmgr.cpp:8760">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="00:00:00.068+300" date="10-06-2013" component="execmgr" context="" type="1" thread="2708" file="cservicewindowhandler.cpp:37">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="00:00:00.068+300" date="10-06-2013" component="execmgr" context="" type="1" thread="2708" file="execreqmgr.cpp:8748">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="00:00:00.084+300" date="10-06-2013" component="execmgr" context="" type="1" thread="2708" file="execreqmgr.cpp:8760">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="05:00:00.070+300" date="10-06-2013" component="execmgr" context="" type="1" thread="6340" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="06:00:00.073+300" date="10-06-2013" component="execmgr" context="" type="1" thread="2956" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.067+300" date="10-06-2013" component="execmgr" context="" type="1" thread="6460" file="cservicewindowhandler.cpp:37">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.067+300" date="10-06-2013" component="execmgr" context="" type="1" thread="6460" file="execreqmgr.cpp:8748">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.082+300" date="10-06-2013" component="execmgr" context="" type="1" thread="6460" file="execreqmgr.cpp:8760">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="06:00:00.064+300" date="10-07-2013" component="execmgr" context="" type="1" thread="5952" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.155+300" date="10-07-2013" component="execmgr" context="" type="1" thread="1548" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.156+300" date="10-07-2013" component="execmgr" context="" type="1" thread="3016" file="cservicewindowhandler.cpp:37">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.164+300" date="10-07-2013" component="execmgr" context="" type="1" thread="1548" file="execreqmgr.cpp:8748">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.164+300" date="10-07-2013" component="execmgr" context="" type="1" thread="3016" file="execreqmgr.cpp:8748">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.172+300" date="10-07-2013" component="execmgr" context="" type="1" thread="1548" file="execreqmgr.cpp:8760">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.179+300" date="10-07-2013" component="execmgr" context="" type="1" thread="3016" file="execreqmgr.cpp:8760">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="05:00:00.000+300" date="10-08-2013" component="execmgr" context="" type="1" thread="5356" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="06:00:00.155+300" date="10-08-2013" component="execmgr" context="" type="1" thread="4832" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.000+300" date="10-08-2013" component="execmgr" context="" type="1" thread="5440" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.001+300" date="10-08-2013" component="execmgr" context="" type="1" thread="6408" file="cservicewindowhandler.cpp:37">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.009+300" date="10-08-2013" component="execmgr" context="" type="1" thread="6408" file="execreqmgr.cpp:8748">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.009+300" date="10-08-2013" component="execmgr" context="" type="1" thread="5440" file="execreqmgr.cpp:8748">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.018+300" date="10-08-2013" component="execmgr" context="" type="1" thread="6408" file="execreqmgr.cpp:8760">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.024+300" date="10-08-2013" component="execmgr" context="" type="1" thread="5440" file="execreqmgr.cpp:8760">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="05:00:00.155+300" date="10-09-2013" component="execmgr" context="" type="1" thread="6840" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="06:00:00.155+300" date="10-09-2013" component="execmgr" context="" type="1" thread="6644" file="cservicewindowhandler.cpp:37">
+<![LOG[The user has logged off.]LOG]!><time="08:27:30.415+300" date="10-09-2013" component="execmgr" context="" type="1" thread="3056" file="execreqmgr.cpp:5139">
+<![LOG[A user has logged on.]LOG]!><time="08:42:04.060+300" date="10-09-2013" component="execmgr" context="" type="1" thread="3220" file="execreqmgr.cpp:4912">
+<![LOG[The logged on user is AD\ablas]LOG]!><time="08:42:04.418+300" date="10-09-2013" component="execmgr" context="" type="1" thread="3220" file="execreqmgr.cpp:4931">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.055+300" date="10-09-2013" component="execmgr" context="" type="1" thread="6816" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.056+300" date="10-09-2013" component="execmgr" context="" type="1" thread="6012" file="cservicewindowhandler.cpp:37">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.064+300" date="10-09-2013" component="execmgr" context="" type="1" thread="6816" file="execreqmgr.cpp:8748">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.064+300" date="10-09-2013" component="execmgr" context="" type="1" thread="6012" file="execreqmgr.cpp:8748">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.073+300" date="10-09-2013" component="execmgr" context="" type="1" thread="6816" file="execreqmgr.cpp:8760">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.079+300" date="10-09-2013" component="execmgr" context="" type="1" thread="6012" file="execreqmgr.cpp:8760">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="05:00:00.000+300" date="10-10-2013" component="execmgr" context="" type="1" thread="8544" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="06:00:00.155+300" date="10-10-2013" component="execmgr" context="" type="1" thread="7332" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.065+300" date="10-10-2013" component="execmgr" context="" type="1" thread="8816" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.073+300" date="10-10-2013" component="execmgr" context="" type="1" thread="5768" file="cservicewindowhandler.cpp:37">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.076+300" date="10-10-2013" component="execmgr" context="" type="1" thread="8816" file="execreqmgr.cpp:8748">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.078+300" date="10-10-2013" component="execmgr" context="" type="1" thread="5768" file="execreqmgr.cpp:8748">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.093+300" date="10-10-2013" component="execmgr" context="" type="1" thread="8816" file="execreqmgr.cpp:8760">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.099+300" date="10-10-2013" component="execmgr" context="" type="1" thread="5768" file="execreqmgr.cpp:8760">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="05:00:00.263+300" date="10-11-2013" component="execmgr" context="" type="1" thread="8976" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="06:00:00.000+300" date="10-11-2013" component="execmgr" context="" type="1" thread="2628" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.000+300" date="10-11-2013" component="execmgr" context="" type="1" thread="9964" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.000+300" date="10-11-2013" component="execmgr" context="" type="1" thread="4496" file="cservicewindowhandler.cpp:37">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.045+300" date="10-11-2013" component="execmgr" context="" type="1" thread="4496" file="execreqmgr.cpp:8748">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.045+300" date="10-11-2013" component="execmgr" context="" type="1" thread="9964" file="execreqmgr.cpp:8748">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.065+300" date="10-11-2013" component="execmgr" context="" type="1" thread="4496" file="execreqmgr.cpp:8760">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.072+300" date="10-11-2013" component="execmgr" context="" type="1" thread="9964" file="execreqmgr.cpp:8760">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="00:00:03.824+300" date="10-12-2013" component="execmgr" context="" type="1" thread="9388" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="00:00:03.825+300" date="10-12-2013" component="execmgr" context="" type="1" thread="7736" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="00:00:03.825+300" date="10-12-2013" component="execmgr" context="" type="1" thread="9388" file="cservicewindowhandler.cpp:37">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="00:00:03.833+300" date="10-12-2013" component="execmgr" context="" type="1" thread="7736" file="execreqmgr.cpp:8748">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="00:00:03.841+300" date="10-12-2013" component="execmgr" context="" type="1" thread="7736" file="execreqmgr.cpp:8760">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="06:00:00.263+300" date="10-12-2013" component="execmgr" context="" type="1" thread="8276" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.263+300" date="10-12-2013" component="execmgr" context="" type="1" thread="3480" file="cservicewindowhandler.cpp:37">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.271+300" date="10-12-2013" component="execmgr" context="" type="1" thread="3480" file="execreqmgr.cpp:8748">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.329+300" date="10-12-2013" component="execmgr" context="" type="1" thread="3480" file="execreqmgr.cpp:8760">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="00:00:00.263+300" date="10-13-2013" component="execmgr" context="" type="1" thread="6036" file="cservicewindowhandler.cpp:37">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="00:00:00.271+300" date="10-13-2013" component="execmgr" context="" type="1" thread="6036" file="execreqmgr.cpp:8748">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="00:00:00.279+300" date="10-13-2013" component="execmgr" context="" type="1" thread="6036" file="execreqmgr.cpp:8760">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="05:00:00.000+300" date="10-13-2013" component="execmgr" context="" type="1" thread="8992" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="06:00:00.000+300" date="10-13-2013" component="execmgr" context="" type="1" thread="8908" file="cservicewindowhandler.cpp:37">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : START Event]LOG]!><time="22:00:00.001+300" date="10-13-2013" component="execmgr" context="" type="1" thread="5232" file="cservicewindowhandler.cpp:37">
+<![LOG[CExecutionRequestManager::OnServiceWindowEvent for START]LOG]!><time="22:00:00.009+300" date="10-13-2013" component="execmgr" context="" type="1" thread="5232" file="execreqmgr.cpp:8748">
+<![LOG[Auto Install is set to false. Do Nothing.]LOG]!><time="22:00:00.018+300" date="10-13-2013" component="execmgr" context="" type="1" thread="5232" file="execreqmgr.cpp:8760">
+<![LOG[CServiceWindowEventHandler::Execute - Received SERVICEWINDOWEVENT : END Event]LOG]!><time="06:00:00.264+300" date="10-14-2013" component="execmgr" context="" type="1" thread="9024" file="cservicewindowhandler.cpp:37">

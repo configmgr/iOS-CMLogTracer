@@ -1,0 +1,933 @@
+﻿<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014113530.454000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="06:35:30.454+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="06:35:30.464+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014114040.086000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="06:40:40.086+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="06:40:40.093+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014114550.369000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="06:45:50.369+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="06:45:50.377+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014115100.079000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="06:51:00.079+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="06:51:00.086+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014115610.085000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="06:56:10.085+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="06:56:10.094+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014120110.091000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="07:01:10.091+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="07:01:10.098+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014120620.099000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="07:06:20.099+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="07:06:20.106+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014121130.087000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="07:11:30.087+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="07:11:30.095+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014121640.092000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="07:16:40.092+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="07:16:40.100+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014122150.082000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="07:21:50.083+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="07:21:50.090+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014122700.085000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="07:27:00.085+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="07:27:00.093+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014123210.091000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="07:32:10.092+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="07:32:10.099+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014123720.083000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="07:37:20.083+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="07:37:20.090+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014124230.086000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="07:42:30.086+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="07:42:30.093+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014124740.077000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="07:47:40.077+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="07:47:40.085+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014125250.081000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="07:52:50.082+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="07:52:50.089+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014125800.086000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="07:58:00.086+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="07:58:00.093+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014130300.093000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="08:03:00.093+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="08:03:00.101+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014130810.113000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="08:08:10.114+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="08:08:10.122+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014131320.102000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="08:13:20.102+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="08:13:20.109+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014131830.108000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="08:18:30.108+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="08:18:30.116+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014132340.102000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="08:23:40.102+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="08:23:40.109+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014132850.101000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="08:28:50.101+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="08:28:50.108+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014133400.108000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="08:34:00.108+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="08:34:00.116+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014133910.096000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="08:39:10.096+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="08:39:10.103+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014134420.101000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="08:44:20.102+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="08:44:20.109+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014134930.093000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014135440.096000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="08:54:40.096+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="08:54:40.103+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014135950.088000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="08:59:50.088+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="08:59:50.096+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014140500.091000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="09:05:00.091+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="09:05:00.100+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014141010.097000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="09:10:10.097+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="09:10:10.105+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014141520.087000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="09:15:20.087+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="09:15:20.093+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014142030.091000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="09:20:30.091+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="09:20:30.098+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014142540.082000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="09:25:40.082+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="09:25:40.090+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014143050.101000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="09:30:50.101+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="09:30:50.108+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014143550.110000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="09:35:50.110+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="09:35:50.119+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014144100.114000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="09:41:00.114+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="09:41:00.121+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014144610.120000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="09:46:10.120+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="09:46:10.128+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014145120.107000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="09:51:20.107+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="09:51:20.115+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014145630.104000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="09:56:30.105+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="09:56:30.113+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014150140.104000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="10:01:40.105+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="10:01:40.112+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014150640.123000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="10:06:40.123+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="10:06:40.131+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014151150.136000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="10:11:50.136+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="10:11:50.144+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014151700.135000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="10:17:00.135+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="10:17:00.145+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014152200.170000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="10:22:00.170+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="10:22:00.178+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014152710.161000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="10:27:10.161+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="10:27:10.170+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014153220.164000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="10:32:20.164+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="10:32:20.172+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014153720.185000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="10:37:20.186+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="10:37:20.193+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014154230.176000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="10:42:30.176+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="10:42:30.184+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014154730.197000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="10:47:30.197+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="10:47:30.204+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014155240.183000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="10:52:40.184+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="10:52:40.191+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014155740.225000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="10:57:40.225+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="10:57:40.233+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014160250.213000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="11:02:50.213+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="11:02:50.221+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014160800.218000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="11:08:00.218+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="11:08:00.262+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014161310.222000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="11:13:10.222+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="11:13:10.232+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014161820.211000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="11:18:20.211+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="11:18:20.219+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014162320.251000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="11:23:20.251+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="11:23:20.258+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014162830.241000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="11:28:30.241+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="11:28:30.249+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014163340.260000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="11:33:40.260+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="11:33:40.268+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014163850.266000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="11:38:50.266+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="11:38:50.274+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014164400.272000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="11:44:00.272+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="11:44:00.279+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014164910.302000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="11:49:10.302+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="11:49:10.311+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014165420.297000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="11:54:20.297+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="11:54:20.305+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014165930.297000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="11:59:30.298+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="11:59:30.305+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014170430.332000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="12:04:30.332+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="12:04:30.339+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014170940.348000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="12:09:40.348+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="12:09:40.359+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014171450.657000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4196;
+};
+]LOG]!><time="12:14:50.657+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="event.cpp:706">
+<![LOG[Successfully sent keep-alive message.]LOG]!><time="12:14:50.665+300" date="10-14-2013" component="BgbAgent" context="" type="1" thread="4196" file="bgbconnector.cpp:192">

@@ -1,0 +1,431 @@
+﻿<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014144019.824000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 7748;
+};
+]LOG]!><time="09:40:19.824+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="7748" file="event.cpp:706">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014144405.272000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 2576;
+};
+]LOG]!><time="09:44:05.272+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="2576" file="event.cpp:706">
+<![LOG[Supplied sender token is null. Using GetUserTokenFromSid to find sender's token.]LOG]!><time="09:50:19.834+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="2576" file="messagequeueproc_outgoing.cpp:171">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014145019.867000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 2576;
+};
+]LOG]!><time="09:50:19.868+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="2576" file="event.cpp:706">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014145405.324000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4376;
+};
+]LOG]!><time="09:54:05.324+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="4376" file="event.cpp:706">
+<![LOG[Supplied sender token is null. Using GetUserTokenFromSid to find sender's token.]LOG]!><time="10:00:20.102+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="7716" file="messagequeueproc_outgoing.cpp:171">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014150020.139000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 7716;
+};
+]LOG]!><time="10:00:20.139+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="7716" file="event.cpp:706">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014150405.405000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 10036;
+};
+]LOG]!><time="10:04:05.405+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="10036" file="event.cpp:706">
+<![LOG[Supplied sender token is null. Using GetUserTokenFromSid to find sender's token.]LOG]!><time="10:10:20.090+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="7672" file="messagequeueproc_outgoing.cpp:171">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014151020.126000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 7672;
+};
+]LOG]!><time="10:10:20.126+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="7672" file="event.cpp:706">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014151405.440000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 7672;
+};
+]LOG]!><time="10:14:05.440+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="7672" file="event.cpp:706">
+<![LOG[Supplied sender token is null. Using GetUserTokenFromSid to find sender's token.]LOG]!><time="10:20:20.137+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="680" file="messagequeueproc_outgoing.cpp:171">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014152020.174000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 680;
+};
+]LOG]!><time="10:20:20.174+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="680" file="event.cpp:706">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014152405.491000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4664;
+};
+]LOG]!><time="10:24:05.491+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="4664" file="event.cpp:706">
+<![LOG[Supplied sender token is null. Using GetUserTokenFromSid to find sender's token.]LOG]!><time="10:30:20.188+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="8060" file="messagequeueproc_outgoing.cpp:171">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014153020.257000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 8060;
+};
+]LOG]!><time="10:30:20.257+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="8060" file="event.cpp:706">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014153405.544000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 6984;
+};
+]LOG]!><time="10:34:05.544+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="6984" file="event.cpp:706">
+<![LOG[Supplied sender token is null. Using GetUserTokenFromSid to find sender's token.]LOG]!><time="10:40:20.237+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="8604" file="messagequeueproc_outgoing.cpp:171">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014154020.275000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 8604;
+};
+]LOG]!><time="10:40:20.275+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="8604" file="event.cpp:706">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014154405.596000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 6528;
+};
+]LOG]!><time="10:44:05.596+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="6528" file="event.cpp:706">
+<![LOG[Supplied sender token is null. Using GetUserTokenFromSid to find sender's token.]LOG]!><time="10:50:20.292+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="9308" file="messagequeueproc_outgoing.cpp:171">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014155020.328000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 9308;
+};
+]LOG]!><time="10:50:20.328+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="9308" file="event.cpp:706">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014155405.646000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 5152;
+};
+]LOG]!><time="10:54:05.646+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="5152" file="event.cpp:706">
+<![LOG[Supplied sender token is null. Using GetUserTokenFromSid to find sender's token.]LOG]!><time="11:00:20.366+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="10052" file="messagequeueproc_outgoing.cpp:171">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014160020.433000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 10052;
+};
+]LOG]!><time="11:00:20.433+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="10052" file="event.cpp:706">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014160405.699000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 9996;
+};
+]LOG]!><time="11:04:05.700+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="9996" file="event.cpp:706">
+<![LOG[Supplied sender token is null. Using GetUserTokenFromSid to find sender's token.]LOG]!><time="11:10:20.416+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="9468" file="messagequeueproc_outgoing.cpp:171">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014161020.467000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 9468;
+};
+]LOG]!><time="11:10:20.467+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="9468" file="event.cpp:706">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014161405.754000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 7684;
+};
+]LOG]!><time="11:14:05.754+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="7684" file="event.cpp:706">
+<![LOG[Supplied sender token is null. Using GetUserTokenFromSid to find sender's token.]LOG]!><time="11:20:20.472+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="4600" file="messagequeueproc_outgoing.cpp:171">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014162021.652000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4600;
+};
+]LOG]!><time="11:20:21.652+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="4600" file="event.cpp:706">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014162405.811000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4600;
+};
+]LOG]!><time="11:24:05.811+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="4600" file="event.cpp:706">
+<![LOG[Supplied sender token is null. Using GetUserTokenFromSid to find sender's token.]LOG]!><time="11:30:20.520+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="1812" file="messagequeueproc_outgoing.cpp:171">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014163020.577000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 1812;
+};
+]LOG]!><time="11:30:20.577+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="1812" file="event.cpp:706">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014163405.847000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 7580;
+};
+]LOG]!><time="11:34:05.847+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="7580" file="event.cpp:706">
+<![LOG[Supplied sender token is null. Using GetUserTokenFromSid to find sender's token.]LOG]!><time="11:40:20.568+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="2644" file="messagequeueproc_outgoing.cpp:171">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014164021.755000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 2644;
+};
+]LOG]!><time="11:40:21.755+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="2644" file="event.cpp:706">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014164405.896000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 3668;
+};
+]LOG]!><time="11:44:05.896+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="3668" file="event.cpp:706">
+<![LOG[Supplied sender token is null. Using GetUserTokenFromSid to find sender's token.]LOG]!><time="11:50:20.619+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="8576" file="messagequeueproc_outgoing.cpp:171">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014165020.676000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 8576;
+};
+]LOG]!><time="11:50:20.676+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="8576" file="event.cpp:706">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014165405.950000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 9680;
+};
+]LOG]!><time="11:54:05.950+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="9680" file="event.cpp:706">
+<![LOG[Supplied sender token is null. Using GetUserTokenFromSid to find sender's token.]LOG]!><time="12:00:20.668+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="4000" file="messagequeueproc_outgoing.cpp:171">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014170020.728000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 4000;
+};
+]LOG]!><time="12:00:20.728+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="4000" file="event.cpp:706">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014170406.000000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 9812;
+};
+]LOG]!><time="12:04:06.000+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="9812" file="event.cpp:706">
+<![LOG[Supplied sender token is null. Using GetUserTokenFromSid to find sender's token.]LOG]!><time="12:10:20.717+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="9812" file="messagequeueproc_outgoing.cpp:171">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014171021.904000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 9812;
+};
+]LOG]!><time="12:10:21.904+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="9812" file="event.cpp:706">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014171406.059000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 7284;
+};
+]LOG]!><time="12:14:06.059+300" date="10-14-2013" component="CcmMessaging" context="" type="1" thread="7284" file="event.cpp:706">

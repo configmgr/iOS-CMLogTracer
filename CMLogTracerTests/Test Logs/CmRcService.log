@@ -1,0 +1,40 @@
+﻿<![LOG[====== Starting service CmRcService ======]LOG]!><time="09:34:47.454+300" date="10-03-2013" component="CmRcService" context="" type="1" thread="5368" file="cmrcsvcmain.cpp:162">
+<![LOG[Restoring Windows hardware acceleration settings.]LOG]!><time="09:34:47.706+300" date="10-03-2013" component="CmRcService" context="" type="1" thread="5364" file="cmrcservice.cpp:365">
+<![LOG[Registering Media Disconnect WMI Event was done successfully]LOG]!><time="09:34:51.203+300" date="10-03-2013" component="CmRcService" context="" type="1" thread="5364" file="sccmtcplistener.cpp:551">
+<![LOG[Configuring listeners on TCP port 2701.]LOG]!><time="09:34:51.203+300" date="10-03-2013" component="CmRcService" context="" type="1" thread="5364" file="sccmtcplistener.cpp:264">
+<![LOG[Binding to Ip v6 protocol success]LOG]!><time="09:34:51.203+300" date="10-03-2013" component="CmRcService" context="" type="1" thread="5364" file="sccmipcfg.cpp:53">
+<![LOG[Binding to Ip v4 protocol success]LOG]!><time="09:34:51.203+300" date="10-03-2013" component="CmRcService" context="" type="1" thread="5364" file="sccmipcfg.cpp:64">
+<![LOG[=== Listening for remote control requests ===]LOG]!><time="09:34:51.204+300" date="10-03-2013" component="CmRcService" context="" type="1" thread="5364" file="cmrcservice.cpp:308">
+<![LOG[UnRegistering Media Disconnect WMI Event was done successfully]LOG]!><time="16:18:59.442+300" date="10-03-2013" component="CmRcService" context="" type="1" thread="5364" file="sccmtcplistener.cpp:586">
+<![LOG[The service has stopped.]LOG]!><time="16:19:01.470+300" date="10-03-2013" component="CmRcService" context="" type="1" thread="5364" file="baseservice.cpp:492">
+<![LOG[====== Starting service CmRcService ======]LOG]!><time="16:29:35.044+300" date="10-03-2013" component="CmRcService" context="" type="1" thread="4356" file="cmrcsvcmain.cpp:162">
+<![LOG[Restoring Windows hardware acceleration settings.]LOG]!><time="16:29:38.228+300" date="10-03-2013" component="CmRcService" context="" type="1" thread="736" file="cmrcservice.cpp:365">
+<![LOG[Registering Media Disconnect WMI Event was done successfully]LOG]!><time="16:29:41.934+300" date="10-03-2013" component="CmRcService" context="" type="1" thread="736" file="sccmtcplistener.cpp:551">
+<![LOG[Configuring listeners on TCP port 2701.]LOG]!><time="16:29:41.934+300" date="10-03-2013" component="CmRcService" context="" type="1" thread="736" file="sccmtcplistener.cpp:264">
+<![LOG[Binding to Ip v6 protocol success]LOG]!><time="16:29:41.934+300" date="10-03-2013" component="CmRcService" context="" type="1" thread="736" file="sccmipcfg.cpp:53">
+<![LOG[Binding to Ip v4 protocol success]LOG]!><time="16:29:41.934+300" date="10-03-2013" component="CmRcService" context="" type="1" thread="736" file="sccmipcfg.cpp:64">
+<![LOG[=== Listening for remote control requests ===]LOG]!><time="16:29:41.934+300" date="10-03-2013" component="CmRcService" context="" type="1" thread="736" file="cmrcservice.cpp:308">
+<![LOG[UnRegistering Media Disconnect WMI Event was done successfully]LOG]!><time="14:02:48.993+300" date="10-04-2013" component="CmRcService" context="" type="1" thread="736" file="sccmtcplistener.cpp:586">
+<![LOG[The service has stopped.]LOG]!><time="14:02:49.181+300" date="10-04-2013" component="CmRcService" context="" type="1" thread="736" file="baseservice.cpp:492">
+<![LOG[====== Starting service CmRcService ======]LOG]!><time="14:13:13.642+300" date="10-04-2013" component="CmRcService" context="" type="1" thread="1888" file="cmrcsvcmain.cpp:162">
+<![LOG[Restoring Windows hardware acceleration settings.]LOG]!><time="14:13:14.354+300" date="10-04-2013" component="CmRcService" context="" type="1" thread="2796" file="cmrcservice.cpp:365">
+<![LOG[Registering Media Disconnect WMI Event was done successfully]LOG]!><time="14:13:15.411+300" date="10-04-2013" component="CmRcService" context="" type="1" thread="2796" file="sccmtcplistener.cpp:551">
+<![LOG[Configuring listeners on TCP port 2701.]LOG]!><time="14:13:15.411+300" date="10-04-2013" component="CmRcService" context="" type="1" thread="2796" file="sccmtcplistener.cpp:264">
+<![LOG[Binding to Ip v6 protocol success]LOG]!><time="14:13:15.411+300" date="10-04-2013" component="CmRcService" context="" type="1" thread="2796" file="sccmipcfg.cpp:53">
+<![LOG[Binding to Ip v4 protocol success]LOG]!><time="14:13:15.411+300" date="10-04-2013" component="CmRcService" context="" type="1" thread="2796" file="sccmipcfg.cpp:64">
+<![LOG[=== Listening for remote control requests ===]LOG]!><time="14:13:15.411+300" date="10-04-2013" component="CmRcService" context="" type="1" thread="2796" file="cmrcservice.cpp:308">
+<![LOG[UnRegistering Media Disconnect WMI Event was done successfully]LOG]!><time="08:28:10.242+300" date="10-09-2013" component="CmRcService" context="" type="1" thread="2796" file="sccmtcplistener.cpp:586">
+<![LOG[The service has stopped.]LOG]!><time="08:28:10.757+300" date="10-09-2013" component="CmRcService" context="" type="1" thread="2796" file="baseservice.cpp:492">
+<![LOG[====== Starting service CmRcService ======]LOG]!><time="08:38:16.270+300" date="10-09-2013" component="CmRcService" context="" type="1" thread="2072" file="cmrcsvcmain.cpp:162">
+<![LOG[Restoring Windows hardware acceleration settings.]LOG]!><time="08:38:16.910+300" date="10-09-2013" component="CmRcService" context="" type="1" thread="3904" file="cmrcservice.cpp:365">
+<![LOG[Registering Media Disconnect WMI Event was done successfully]LOG]!><time="08:38:18.267+300" date="10-09-2013" component="CmRcService" context="" type="1" thread="3904" file="sccmtcplistener.cpp:551">
+<![LOG[Configuring listeners on TCP port 2701.]LOG]!><time="08:38:18.267+300" date="10-09-2013" component="CmRcService" context="" type="1" thread="3904" file="sccmtcplistener.cpp:264">
+<![LOG[Binding to Ip v6 protocol success]LOG]!><time="08:38:18.267+300" date="10-09-2013" component="CmRcService" context="" type="1" thread="3904" file="sccmipcfg.cpp:53">
+<![LOG[Binding to Ip v4 protocol success]LOG]!><time="08:38:18.267+300" date="10-09-2013" component="CmRcService" context="" type="1" thread="3904" file="sccmipcfg.cpp:64">
+<![LOG[=== Listening for remote control requests ===]LOG]!><time="08:38:18.267+300" date="10-09-2013" component="CmRcService" context="" type="1" thread="3904" file="cmrcservice.cpp:308">
+<![LOG[Media disconnect occurred at MSNdis_StatusMediaDisconnect via class Intel(R) 82579LM Gigabit Network Connection]LOG]!><time="11:07:54.412+300" date="10-09-2013" component="CmRcService" context="" type="1" thread="6324" file="sccmtcplistener.cpp:500">
+<![LOG[A connector error has occurred. (OnConnectorError). 
+An existing connection was forcibly closed by the remote host. (Error: 80072746; Source: Windows)]LOG]!><time="11:07:54.412+300" date="10-09-2013" component="CmRcService" context="" type="3" thread="6324" file="cmrcservice.cpp:665">
+<![LOG[Session error = 0x80072746. (OnSessionError)]LOG]!><time="11:07:54.412+300" date="10-09-2013" component="CmRcService" context="" type="3" thread="6324" file="cmrcservice.cpp:443">
+<![LOG[The connection has been terminated (ID = 4294967295). (OnConnectionTerminated)]LOG]!><time="11:07:54.412+300" date="10-09-2013" component="CmRcService" context="" type="1" thread="6324" file="cmrcservice.cpp:587">
+<![LOG[Media Disconnect event is successfully processed.]LOG]!><time="11:07:54.412+300" date="10-09-2013" component="CmRcService" context="" type="1" thread="6324" file="sccmtcplistener.cpp:515">

@@ -1,0 +1,23 @@
+﻿<![LOG[CORE: NAP Agent Service is not running - SHA Binding will fail]LOG]!><time="09:17:03.667+300" date="10-03-2013" component="smssha" context="" type="3" thread="5748" file="qabroker.cpp:833">
+<![LOG[Error initializing NAP Agent (0x87d0027f).]LOG]!><time="09:17:03.668+300" date="10-03-2013" component="smssha" context="" type="3" thread="5748" file="qabroker.cpp:878">
+<![LOG[CORE: CSHAStartup::OnPolicyChange- Policy __InstanceCreationEvent notification received]LOG]!><time="09:19:25.533+300" date="10-03-2013" component="smssha" context="" type="1" thread="8484" file="startup.cpp:479">
+<![LOG[NAP is not enabled, not calling Uninitialize on clients]LOG]!><time="09:20:58.101+300" date="10-03-2013" component="smssha" context="" type="1" thread="3364" file="startup.cpp:773">
+<![LOG[SHA finished shutting down with error (0x87d00200).]LOG]!><time="09:20:58.102+300" date="10-03-2013" component="smssha" context="" type="2" thread="3364" file="startup.cpp:70">
+<![LOG[SHA is registered already]LOG]!><time="09:21:05.283+300" date="10-03-2013" component="smssha" context="" type="1" thread="8340" file="qabroker.cpp:813">
+<![LOG[CORE: NAP Agent Service is not running - SHA Binding will fail]LOG]!><time="09:21:05.284+300" date="10-03-2013" component="smssha" context="" type="3" thread="8340" file="qabroker.cpp:833">
+<![LOG[Error initializing NAP Agent (0x87d0027f).]LOG]!><time="09:21:05.284+300" date="10-03-2013" component="smssha" context="" type="3" thread="8340" file="qabroker.cpp:878">
+<![LOG[NAP is not enabled, not calling Uninitialize on clients]LOG]!><time="16:19:05.541+300" date="10-03-2013" component="smssha" context="" type="1" thread="5080" file="startup.cpp:773">
+<![LOG[SHA finished shutting down with error (0x87d00200).]LOG]!><time="16:19:05.837+300" date="10-03-2013" component="smssha" context="" type="2" thread="5080" file="startup.cpp:70">
+<![LOG[SHA is registered already]LOG]!><time="16:30:47.475+300" date="10-03-2013" component="smssha" context="" type="1" thread="5052" file="qabroker.cpp:813">
+<![LOG[CORE: NAP Agent Service is not running - SHA Binding will fail]LOG]!><time="16:30:47.475+300" date="10-03-2013" component="smssha" context="" type="3" thread="5052" file="qabroker.cpp:833">
+<![LOG[Error initializing NAP Agent (0x87d0027f).]LOG]!><time="16:30:47.475+300" date="10-03-2013" component="smssha" context="" type="3" thread="5052" file="qabroker.cpp:878">
+<![LOG[NAP is not enabled, not calling Uninitialize on clients]LOG]!><time="14:02:51.583+300" date="10-04-2013" component="smssha" context="" type="1" thread="1168" file="startup.cpp:773">
+<![LOG[SHA finished shutting down with error (0x87d00200).]LOG]!><time="14:02:51.770+300" date="10-04-2013" component="smssha" context="" type="2" thread="1168" file="startup.cpp:70">
+<![LOG[SHA is registered already]LOG]!><time="14:13:53.213+300" date="10-04-2013" component="smssha" context="" type="1" thread="4568" file="qabroker.cpp:813">
+<![LOG[CORE: NAP Agent Service is not running - SHA Binding will fail]LOG]!><time="14:13:53.228+300" date="10-04-2013" component="smssha" context="" type="3" thread="4568" file="qabroker.cpp:833">
+<![LOG[Error initializing NAP Agent (0x87d0027f).]LOG]!><time="14:13:53.228+300" date="10-04-2013" component="smssha" context="" type="3" thread="4568" file="qabroker.cpp:878">
+<![LOG[NAP is not enabled, not calling Uninitialize on clients]LOG]!><time="08:28:12.427+300" date="10-09-2013" component="smssha" context="" type="1" thread="3200" file="startup.cpp:773">
+<![LOG[SHA finished shutting down with error (0x87d00200).]LOG]!><time="08:28:12.660+300" date="10-09-2013" component="smssha" context="" type="2" thread="3200" file="startup.cpp:70">
+<![LOG[SHA is registered already]LOG]!><time="08:38:47.624+300" date="10-09-2013" component="smssha" context="" type="1" thread="3456" file="qabroker.cpp:813">
+<![LOG[CORE: NAP Agent Service is not running - SHA Binding will fail]LOG]!><time="08:38:47.655+300" date="10-09-2013" component="smssha" context="" type="3" thread="3456" file="qabroker.cpp:833">
+<![LOG[Error initializing NAP Agent (0x87d0027f).]LOG]!><time="08:38:47.655+300" date="10-09-2013" component="smssha" context="" type="3" thread="3456" file="qabroker.cpp:878">

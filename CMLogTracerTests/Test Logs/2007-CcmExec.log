@@ -1,0 +1,1999 @@
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="12:38:24.755+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2712" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131014174625.939000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3208;
+};
+]LOG]!><time="12:46:25.939+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3208" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="12:48:25.161+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3208" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="12:58:14.566+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3176" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="12:58:14.597+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3176" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="12:58:14.613+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3176" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="12:58:15.097+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3176" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="12:58:15.097+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3176" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="12:58:25.410+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3176" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131014180321.715000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3896;
+};
+]LOG]!><time="13:03:21.715+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3896" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:08:26.316+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2720" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:18:26.332+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2312" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:28:26.347+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3244" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:38:26.362+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3840" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131014184629.968000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1352;
+};
+]LOG]!><time="13:46:29.984+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="1352" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:48:26.378+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="4040" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="13:58:15.283+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2772" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="13:58:15.283+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2772" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="13:58:15.315+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2772" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="13:58:15.752+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2772" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="13:58:15.752+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2772" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:58:26.471+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2772" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131014190321.947000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3764;
+};
+]LOG]!><time="14:03:22.041+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3764" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:08:26.580+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3332" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:18:26.627+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2584" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:28:26.674+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2004" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:38:26.689+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3876" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131014194632.654000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2856;
+};
+]LOG]!><time="14:46:32.686+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2856" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:48:26.704+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2644" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="14:58:15.954+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3912" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="14:58:16.001+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3912" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="14:58:16.001+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3912" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="14:58:16.438+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3912" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="14:58:16.454+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3912" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:58:27.032+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3912" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131014200322.743000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 4012;
+};
+]LOG]!><time="15:03:22.743+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="4012" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:08:28.297+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="1964" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:18:28.375+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2996" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:28:28.391+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3592" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:38:28.515+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="1964" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131014204628.606000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 4000;
+};
+]LOG]!><time="15:46:28.606+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="4000" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:48:28.531+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="1944" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="15:58:16.546+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="320" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="15:58:16.546+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="320" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="15:58:16.546+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="320" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="15:58:16.858+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="320" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="15:58:16.858+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="320" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:58:28.546+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="320" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131014210323.319000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3144;
+};
+]LOG]!><time="16:03:23.319+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3144" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="16:08:28.562+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="1776" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="16:18:28.577+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3840" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="16:28:28.608+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3872" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131014212850.312000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3872;
+};
+]LOG]!><time="16:28:50.327+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3872" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="16:38:28.623+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2664" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131014214627.042000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 824;
+};
+]LOG]!><time="16:46:27.042+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="824" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="16:48:28.639+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3984" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="16:58:16.982+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="1284" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="16:58:16.982+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="1284" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="16:58:16.982+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="1284" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="16:58:17.294+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="1284" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="16:58:17.294+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="1284" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="16:58:28.654+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="1284" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131014220325.380000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3004;
+};
+]LOG]!><time="17:03:25.412+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3004" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="17:08:28.669+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2516" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="17:18:28.685+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3520" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="17:28:28.700+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2060" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="17:38:28.715+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2528" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131014224631.181000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1320;
+};
+]LOG]!><time="17:46:31.181+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="1320" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="17:48:28.731+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2264" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="17:58:17.229+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="576" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="17:58:17.291+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="576" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="17:58:17.291+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="576" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="17:58:17.666+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="576" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="17:58:17.682+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="576" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="17:58:28.633+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="576" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131014230333.655000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2716;
+};
+]LOG]!><time="18:03:33.655+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2716" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="18:08:29.318+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2580" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="18:18:29.357+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="1524" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="18:28:29.402+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2980" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="18:38:29.465+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="1544" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131014234632.336000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2576;
+};
+]LOG]!><time="18:46:32.336+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2576" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="18:48:29.542+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2080" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="18:58:17.729+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3924" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="18:58:17.729+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3924" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="18:58:17.745+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3924" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="18:58:18.042+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3924" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="18:58:18.042+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3924" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="18:58:29.667+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3924" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015000325.534000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2128;
+};
+]LOG]!><time="19:03:25.550+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2128" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="19:08:29.698+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3632" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="19:18:29.713+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2080" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="19:28:29.744+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3768" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="19:38:29.760+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3848" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015004629.694000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3148;
+};
+]LOG]!><time="19:46:29.694+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3148" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="19:48:29.775+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="548" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="19:58:18.228+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2104" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="19:58:18.259+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2104" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="19:58:18.259+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2104" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="19:58:18.462+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2104" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="19:58:18.462+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2104" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="19:58:29.806+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2104" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015010323.439000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1368;
+};
+]LOG]!><time="20:03:23.439+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="1368" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="20:08:30.072+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2280" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="20:18:30.087+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2060" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="20:28:30.102+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2004" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="20:38:30.118+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="4068" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015014627.786000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3408;
+};
+]LOG]!><time="20:46:27.786+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3408" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="20:48:30.133+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3116" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="20:58:18.586+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3748" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="20:58:18.601+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3748" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="20:58:18.601+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3748" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="20:58:18.664+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3748" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="20:58:18.664+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3748" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="20:58:30.211+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3624" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015020324.109000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2940;
+};
+]LOG]!><time="21:03:24.109+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2940" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="21:08:30.226+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3044" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="21:18:30.242+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="1328" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="21:28:30.257+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2696" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="21:38:30.272+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2368" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015024624.112000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2084;
+};
+]LOG]!><time="21:46:24.112+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2084" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="21:48:30.303+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2876" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="21:58:18.771+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3744" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="21:58:18.787+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3744" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="21:58:18.787+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3744" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="21:58:18.928+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3744" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="21:58:18.928+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3744" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="21:58:30.319+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3744" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015030326.311000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2052;
+};
+]LOG]!><time="22:03:26.326+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2052" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="22:08:30.490+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3692" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="22:18:30.537+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="4060" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="22:28:30.552+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3112" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="22:38:30.583+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="472" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015034627.423000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2864;
+};
+]LOG]!><time="22:46:27.439+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="2864" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="22:48:30.599+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2784" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="22:58:19.051+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3904" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="22:58:19.051+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3904" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="22:58:19.051+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3904" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="22:58:19.207+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3904" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="22:58:19.207+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3904" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="22:58:30.630+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3904" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015040326.793000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1756;
+};
+]LOG]!><time="23:03:26.793+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="1756" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="23:08:30.660+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="1580" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="23:18:30.691+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3984" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="23:28:30.707+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="2160" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="23:38:30.722+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3880" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015044627.031000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3832;
+};
+]LOG]!><time="23:46:27.031+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3832" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="23:48:30.738+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3860" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="23:58:19.315+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3568" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="23:58:19.346+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3568" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="23:58:19.346+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3568" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="23:58:19.487+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3568" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="23:58:19.487+300" date="10-14-2013" component="CcmExec" context="" type="1" thread="3568" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="23:58:30.784+300" date="10-14-2013" component="CCMEXEC" context="" type="1" thread="3568" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015050325.448000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3884;
+};
+]LOG]!><time="00:03:25.448+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3884" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="00:08:31.112+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1964" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="00:18:31.737+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3004" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="00:28:31.752+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3300" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="00:38:31.846+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3048" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015054642.921000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3820;
+};
+]LOG]!><time="00:46:42.936+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3820" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="00:48:32.142+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2864" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="00:58:19.610+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3948" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="00:58:19.689+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3948" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="00:58:19.704+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3948" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="00:58:20.110+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3948" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="00:58:20.142+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3948" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="00:58:32.564+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3948" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015060329.837000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3756;
+};
+]LOG]!><time="01:03:29.853+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3756" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="01:08:33.767+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="4040" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="01:18:33.798+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2740" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="01:28:33.829+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="596" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="01:38:33.875+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1144" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015064633.981000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2824;
+};
+]LOG]!><time="01:46:33.981+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2824" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="01:48:33.953+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2416" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="01:58:20.265+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1320" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="01:58:20.281+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1320" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="01:58:20.281+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1320" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="01:58:20.499+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1320" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="01:58:20.499+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1320" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="01:58:34.000+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1320" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015070328.398000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3948;
+};
+]LOG]!><time="02:03:28.398+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3948" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="02:08:34.015+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="356" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="02:18:34.046+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1560" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="02:28:34.077+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3840" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="02:38:34.124+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="352" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015074629.933000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3248;
+};
+]LOG]!><time="02:46:29.933+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3248" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="02:48:34.139+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2016" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="02:58:20.606+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="864" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="02:58:20.622+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="864" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="02:58:20.622+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="864" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="02:58:20.871+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="864" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="02:58:20.871+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="864" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="02:58:34.224+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="864" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015080325.939000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1388;
+};
+]LOG]!><time="03:03:25.939+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1388" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="03:08:34.395+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="4088" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="03:18:34.386+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="880" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="03:28:34.414+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2420" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="03:38:34.445+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="740" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015084630.722000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1352;
+};
+]LOG]!><time="03:46:30.722+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1352" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="03:48:34.460+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="360" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="03:58:20.756+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3428" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="03:58:20.772+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3428" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="03:58:20.772+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3428" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="03:58:20.928+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3428" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="03:58:20.928+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3428" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="03:58:34.475+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3428" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015090324.670000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3972;
+};
+]LOG]!><time="04:03:24.670+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3972" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="04:08:34.491+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2768" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="04:18:34.522+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3580" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="04:28:34.553+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3320" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="04:38:34.568+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2136" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015094632.424000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3840;
+};
+]LOG]!><time="04:46:32.424+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3840" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="04:48:34.583+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="592" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="04:58:21.052+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3024" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="04:58:21.067+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3024" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="04:58:21.083+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3024" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="04:58:21.395+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3024" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="04:58:21.395+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3024" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="04:58:34.739+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3024" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015100325.434000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 4024;
+};
+]LOG]!><time="05:03:25.434+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="4024" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="05:08:34.817+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3968" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="05:18:34.833+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3800" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="05:28:35.098+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2108" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="05:38:35.895+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="900" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015104633.501000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3416;
+};
+]LOG]!><time="05:46:33.501+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3416" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="05:48:36.660+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3336" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="05:58:21.581+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3712" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="05:58:21.581+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3712" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="05:58:21.597+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3712" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="05:58:21.894+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3712" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="05:58:21.894+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3712" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="05:58:37.129+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3712" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015110326.808000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3036;
+};
+]LOG]!><time="06:03:26.808+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3036" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="06:08:37.175+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1524" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="06:18:37.206+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2292" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="06:28:37.237+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3532" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="06:38:37.268+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3540" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015114627.796000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3936;
+};
+]LOG]!><time="06:46:27.796+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3936" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="06:48:37.299+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2860" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="06:58:22.017+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3260" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="06:58:22.017+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3260" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="06:58:22.033+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3260" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="06:58:22.283+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3260" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="06:58:22.283+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3260" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="06:58:37.346+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3260" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015120326.259000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2500;
+};
+]LOG]!><time="07:03:26.259+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2500" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="07:08:37.361+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="768" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="07:18:37.376+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3760" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="07:28:37.392+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1592" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="07:38:37.407+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1544" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015124627.607000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1240;
+};
+]LOG]!><time="07:46:27.607+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1240" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="07:48:37.438+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1240" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="07:58:22.437+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1920" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="07:58:22.437+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1920" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="07:58:22.437+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1920" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="07:58:22.453+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1920" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="07:58:22.453+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1920" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="07:58:37.485+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1920" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015130325.633000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1328;
+};
+]LOG]!><time="08:03:25.633+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1328" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="08:08:37.500+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="320" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="08:18:37.515+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1208" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="08:28:37.531+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1924" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="08:38:37.562+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3368" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015134624.730000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1040;
+};
+]LOG]!><time="08:46:24.730+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1040" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="08:48:37.577+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1952" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="08:58:22.577+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3876" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="08:58:22.592+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3876" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="08:58:22.608+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3876" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="08:58:22.967+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3876" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="08:58:22.967+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3876" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="08:58:37.655+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3876" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015140327.272000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3660;
+};
+]LOG]!><time="09:03:27.272+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3660" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="09:08:37.952+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2708" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="09:18:37.983+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3676" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="09:28:38.014+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2728" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="09:38:38.045+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2900" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015144625.666000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1892;
+};
+]LOG]!><time="09:46:25.666+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1892" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="09:48:38.060+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1516" file="senslog.cpp:1398">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="09:55:30.258+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3908" file="wmisettings.cpp:204">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="09:55:30.321+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1544" file="wmisettings.cpp:204">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_LocalMP=@ for user 'S-1-5-18'.]LOG]!><time="09:55:30.617+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1544" file="wmisettings.cpp:204">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015145530.727000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2488;
+};
+]LOG]!><time="09:55:30.727+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2488" file="event.cpp:525">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:AHS" for user 'S-1-5-18'.]LOG]!><time="09:55:31.164+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3908" file="wmisettings.cpp:204">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="09:55:31.383+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1544" file="wmisettings.cpp:204">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="09:55:31.383+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3908" file="wmisettings.cpp:204">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="09:58:23.091+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2468" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="09:58:23.091+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2468" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="09:58:23.091+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2468" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="09:58:23.122+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2468" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="09:58:23.122+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2468" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="09:58:38.075+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2468" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015150326.551000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 576;
+};
+]LOG]!><time="10:03:26.551+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="576" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="10:08:38.106+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3732" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="10:18:38.122+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3936" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="10:28:38.137+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2412" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="10:38:38.168+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1212" file="senslog.cpp:1398">
+<![LOG[Could not load logging configuration for component FileSystemFile. Using default values.]LOG]!><time="10:46:22.477+300" date="10-15-2013" component="CcmExec" context="" type="2" thread="2112" file="stdlogging.cpp:529">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015154629.539000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2172;
+};
+]LOG]!><time="10:46:29.539+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2172" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="10:48:38.215+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1592" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="10:58:23.261+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3004" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="10:58:23.276+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3004" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="10:58:23.276+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3004" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="10:58:23.401+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3004" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="10:58:23.401+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3004" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="10:58:38.324+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3004" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015160329.034000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2172;
+};
+]LOG]!><time="11:03:29.034+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2172" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="11:08:38.480+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3156" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="11:18:38.636+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3200" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="11:28:38.651+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3320" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="11:38:38.666+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2304" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015164634.710000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3780;
+};
+]LOG]!><time="11:46:34.710+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3780" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="11:48:38.791+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2108" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="11:58:23.541+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3508" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="11:58:23.556+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3508" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="11:58:23.572+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3508" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="11:58:23.994+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3508" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="11:58:23.994+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3508" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="11:58:39.072+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3508" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015170329.205000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2468;
+};
+]LOG]!><time="12:03:29.220+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2468" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="12:08:39.685+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3016" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="12:18:39.630+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2056" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="12:28:39.681+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1200" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="12:38:39.712+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2488" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015174627.443000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2368;
+};
+]LOG]!><time="12:46:27.443+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2368" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="12:48:39.727+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3908" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="12:58:23.836+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="4036" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="12:58:23.836+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="4036" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="12:58:23.836+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="4036" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="12:58:23.946+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="4036" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="12:58:23.946+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="4036" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="12:58:39.758+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2860" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015180326.938000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2780;
+};
+]LOG]!><time="13:03:26.938+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2780" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:08:39.774+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1260" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:18:39.789+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3100" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:28:39.805+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3428" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:38:39.836+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="628" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015184632.020000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2104;
+};
+]LOG]!><time="13:46:32.020+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2104" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:48:39.851+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3972" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="13:58:24.069+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3944" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="13:58:24.085+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3944" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="13:58:24.085+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3944" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="13:58:24.632+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3944" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="13:58:24.632+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3944" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:58:39.929+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3944" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015190328.811000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2412;
+};
+]LOG]!><time="14:03:28.827+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2412" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:08:40.179+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3640" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:18:40.194+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3700" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:28:40.225+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1428" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:38:40.240+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3744" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015194629.690000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1356;
+};
+]LOG]!><time="14:46:29.690+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1356" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:48:40.302+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3972" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="14:58:24.771+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="604" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="14:58:24.786+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="604" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="14:58:24.786+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="604" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="14:58:25.396+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="604" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="14:58:25.396+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="604" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:58:40.443+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="604" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015200329.310000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3916;
+};
+]LOG]!><time="15:03:29.325+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3916" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:08:40.583+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1144" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:18:40.645+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3736" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:28:40.661+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="824" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:38:40.676+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1564" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015204633.579000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1804;
+};
+]LOG]!><time="15:46:33.579+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1804" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:48:40.691+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3700" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="15:58:25.503+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3812" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="15:58:25.519+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3812" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="15:58:25.519+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3812" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="15:58:25.628+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3812" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="15:58:25.628+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3812" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:58:40.707+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3812" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015210328.730000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2500;
+};
+]LOG]!><time="16:03:28.730+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2500" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="16:08:40.738+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3900" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="16:18:40.753+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3948" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="16:28:40.769+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3296" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="16:38:40.784+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3200" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015214412.792000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 548;
+};
+]LOG]!><time="16:44:12.808+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="548" file="event.cpp:525">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015214628.140000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1016;
+};
+]LOG]!><time="16:46:28.140+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1016" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="16:48:40.799+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1016" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="16:58:25.767+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2296" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="16:58:25.783+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2296" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="16:58:25.783+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2296" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="16:58:25.971+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2296" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="16:58:25.971+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2296" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="16:58:40.830+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2296" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015220329.510000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 4080;
+};
+]LOG]!><time="17:03:29.510+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="4080" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="17:08:40.846+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1804" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="17:18:40.861+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2616" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="17:28:40.876+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1032" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="17:38:40.892+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3428" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015224632.779000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 844;
+};
+]LOG]!><time="17:46:32.779+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="844" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="17:48:40.907+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3968" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="17:58:26.110+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1144" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="17:58:26.125+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1144" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="17:58:26.125+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1144" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="17:58:26.485+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1144" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="17:58:26.485+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1144" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="17:58:40.954+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1144" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015230334.477000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2616;
+};
+]LOG]!><time="18:03:34.492+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2616" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="18:08:41.047+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3904" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="18:18:41.063+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2168" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="18:28:41.078+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1428" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="18:38:41.124+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2236" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131015234627.621000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2416;
+};
+]LOG]!><time="18:46:27.621+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2416" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="18:48:41.155+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3248" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="18:58:26.608+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1264" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="18:58:26.624+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1264" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="18:58:26.624+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1264" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="18:58:26.670+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1264" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="18:58:26.670+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1264" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="18:58:41.186+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1264" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016000330.506000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3140;
+};
+]LOG]!><time="19:03:30.506+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3140" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="19:08:41.202+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3592" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="19:18:41.217+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2024" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="19:28:41.233+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3116" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="19:38:41.248+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1240" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016004626.244000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3144;
+};
+]LOG]!><time="19:46:26.244+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3144" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="19:48:41.263+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2516" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="19:58:26.810+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="840" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="19:58:26.825+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="840" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="19:58:26.825+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="840" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="19:58:26.872+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="840" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="19:58:26.872+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="840" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="19:58:41.294+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="840" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016010331.020000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3304;
+};
+]LOG]!><time="20:03:31.020+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3304" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="20:08:41.325+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2160" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="20:18:41.341+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3924" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="20:28:41.372+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3164" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="20:38:41.403+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="824" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016014626.555000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2420;
+};
+]LOG]!><time="20:46:26.555+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2420" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="20:48:41.418+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2412" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="20:58:27.011+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1144" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="20:58:27.027+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1144" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="20:58:27.027+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1144" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="20:58:27.058+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1144" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="20:58:27.058+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1144" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="20:58:41.465+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1144" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016020331.113000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3116;
+};
+]LOG]!><time="21:03:31.113+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3116" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="21:08:41.480+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="1752" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="21:18:41.265+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3952" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="21:28:41.249+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="844" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="21:38:41.258+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2108" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016024631.426000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2516;
+};
+]LOG]!><time="21:46:31.426+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2516" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="21:48:41.273+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2420" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="21:58:26.913+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3416" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="21:58:26.944+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3416" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="21:58:26.960+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3416" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="21:58:27.382+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3416" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="21:58:27.382+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3416" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="21:58:41.366+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3416" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016030332.499000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3600;
+};
+]LOG]!><time="22:03:32.514+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3600" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="22:08:41.819+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3264" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="22:18:41.850+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2288" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="22:28:41.866+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3156" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="22:38:41.881+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="860" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016034630.815000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3192;
+};
+]LOG]!><time="22:46:30.830+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="3192" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="22:48:41.896+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2580" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="22:58:27.552+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="592" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="22:58:27.567+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="592" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="22:58:27.567+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="592" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="22:58:28.005+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="592" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="22:58:28.021+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="592" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="22:58:42.021+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="592" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016040332.544000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2268;
+};
+]LOG]!><time="23:03:32.544+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="2268" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="23:08:42.583+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3736" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="23:18:42.630+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="516" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="23:28:42.645+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3416" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="23:38:42.661+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="2508" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016044627.751000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1604;
+};
+]LOG]!><time="23:46:27.751+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="1604" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="23:48:42.676+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="3928" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="23:58:28.160+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="924" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="23:58:28.207+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="924" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="23:58:28.207+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="924" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="23:58:28.457+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="924" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="23:58:28.472+300" date="10-15-2013" component="CcmExec" context="" type="1" thread="924" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="23:58:42.801+300" date="10-15-2013" component="CCMEXEC" context="" type="1" thread="924" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016050333.449000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3296;
+};
+]LOG]!><time="00:03:33.449+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3296" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="00:08:43.097+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3248" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="00:18:43.128+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2004" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="00:28:43.206+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1472" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="00:38:43.253+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="940" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016054636.687000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3192;
+};
+]LOG]!><time="00:46:36.687+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3192" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="00:48:43.643+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1604" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="00:58:28.627+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2236" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="00:58:28.689+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2236" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="00:58:28.705+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2236" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="00:58:29.346+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2236" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="00:58:29.377+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2236" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="00:58:43.971+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2236" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016060334.697000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1964;
+};
+]LOG]!><time="01:03:34.791+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="1964" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="01:08:44.627+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3752" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="01:18:44.877+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1728" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="01:28:44.939+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3796" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="01:38:44.954+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3696" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016064629.685000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 964;
+};
+]LOG]!><time="01:46:29.685+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="964" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="01:48:45.079+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2064" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="01:58:29.563+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2972" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="01:58:29.578+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2972" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="01:58:29.578+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2972" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="01:58:29.844+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2972" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="01:58:29.844+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2972" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="01:58:45.219+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2972" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016070333.477000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3816;
+};
+]LOG]!><time="02:03:33.477+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3816" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="02:08:45.672+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3660" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="02:18:45.703+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2204" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="02:28:45.734+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1904" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="02:38:45.750+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2288" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016074629.058000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2740;
+};
+]LOG]!><time="02:46:29.058+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2740" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="02:48:45.843+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="352" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="02:58:29.952+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="856" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="02:58:29.967+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="856" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="02:58:29.967+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="856" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="02:58:30.217+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="856" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="02:58:30.217+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="856" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="02:58:45.921+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="856" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016080336.616000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1200;
+};
+]LOG]!><time="03:03:36.647+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="1200" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="03:08:45.936+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2988" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="03:18:45.983+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="356" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="03:28:46.030+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3700" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="03:38:46.061+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3016" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016084632.682000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3332;
+};
+]LOG]!><time="03:46:32.682+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3332" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="03:48:46.076+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3332" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="03:58:30.372+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="1524" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="03:58:30.419+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="1524" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="03:58:30.419+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="1524" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="03:58:30.591+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="1524" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="03:58:30.591+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="1524" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="03:58:46.294+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1524" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016090334.786000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3940;
+};
+]LOG]!><time="04:03:34.833+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3940" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="04:08:47.044+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2708" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="04:18:47.184+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1756" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="04:29:48.420+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1880" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="04:39:48.451+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3252" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016094632.836000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2556;
+};
+]LOG]!><time="04:46:32.836+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2556" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="04:50:16.873+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3700" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="04:58:30.714+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2580" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="04:58:30.714+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2580" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="04:58:30.714+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2580" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="04:58:31.011+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2580" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="04:58:31.011+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2580" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="05:01:01.390+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2040" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016100335.660000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1712;
+};
+]LOG]!><time="05:03:35.675+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="1712" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="05:11:01.405+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1920" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="05:21:01.421+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1564" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="05:31:01.436+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1264" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="05:41:01.514+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2816" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016104634.366000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3164;
+};
+]LOG]!><time="05:46:34.429+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3164" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="05:51:01.826+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="596" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="05:58:31.119+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="332" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="05:58:31.135+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="332" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="05:58:31.135+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="332" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="05:58:31.541+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="332" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="05:58:31.541+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="332" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="06:01:02.060+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3308" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016110335.283000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2304;
+};
+]LOG]!><time="06:03:35.330+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2304" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="06:11:02.169+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3320" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="06:21:02.053+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2996" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="06:31:01.997+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3948" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="06:41:02.004+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="824" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016114631.667000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2524;
+};
+]LOG]!><time="06:46:31.683+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2524" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="06:51:02.143+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2064" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="06:58:31.451+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3332" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="06:58:31.451+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3332" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="06:58:31.467+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3332" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="06:58:31.779+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3332" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="06:58:31.795+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3332" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="07:01:02.517+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2168" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016120335.209000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3640;
+};
+]LOG]!><time="07:03:35.240+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3640" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="07:11:02.533+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1388" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="07:21:02.548+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3576" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="07:31:02.564+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2696" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="07:41:02.595+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1032" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016124631.837000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3824;
+};
+]LOG]!><time="07:46:31.837+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3824" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="07:51:02.797+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3720" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="07:58:31.965+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2508" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="07:58:31.996+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2508" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="07:58:32.028+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2508" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="07:58:32.278+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2508" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="07:58:32.278+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2508" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="08:01:03.188+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3140" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016130334.817000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 4004;
+};
+]LOG]!><time="08:03:34.817+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="4004" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="08:11:03.203+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3580" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="08:21:03.234+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1200" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="08:31:03.249+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1952" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="08:41:03.265+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3908" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016134630.976000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3612;
+};
+]LOG]!><time="08:46:30.992+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3612" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="08:51:03.374+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1092" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="08:58:32.401+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3852" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="08:58:32.417+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3852" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="08:58:32.417+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3852" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="08:58:32.573+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3852" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="08:58:32.573+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3852" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="09:01:03.530+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3532" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016140338.753000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2992;
+};
+]LOG]!><time="09:03:38.784+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2992" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="09:11:03.561+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2236" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="09:21:03.576+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1964" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="09:31:03.607+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3380" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="09:41:03.623+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2864" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016144635.490000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3912;
+};
+]LOG]!><time="09:46:35.490+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3912" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="09:51:03.654+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1112" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="09:58:32.696+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2188" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="09:58:32.696+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2188" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="09:58:32.712+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2188" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="09:58:33.368+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2188" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="09:58:33.368+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2188" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="10:01:03.716+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2020" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016150338.985000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3588;
+};
+]LOG]!><time="10:03:39.017+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3588" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="10:11:03.778+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3008" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="10:21:03.793+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1168" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="10:31:03.824+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3972" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="10:41:03.840+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1424" file="senslog.cpp:1398">
+<![LOG[Could not load logging configuration for component FileSystemFile. Using default values.]LOG]!><time="10:46:22.379+300" date="10-16-2013" component="CcmExec" context="" type="2" thread="2740" file="stdlogging.cpp:529">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="10:51:04.105+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1324" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016155412.297000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3820;
+};
+]LOG]!><time="10:54:12.344+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3820" file="event.cpp:525">
+<![LOG[UpdateURLWithTransportSettings(): OLD URL - http://AHS-SCCM-VM.AD.UIC.EDU/CCM_Incoming/{D69673AB-D756-4656-B3A3-59574443F3A9}]LOG]!><time="10:54:14.141+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3820" file="ccmutillib.cpp:1732">
+<![LOG[UpdateURLWithTransportSettings(): NEW URL - http://AHS-SCCM-VM.AD.UIC.EDU:80/CCM_Incoming/{D69673AB-D756-4656-B3A3-59574443F3A9}]LOG]!><time="10:54:14.141+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3820" file="ccmutillib.cpp:1744">
+<![LOG[
+	MESSAGE PAYLOAD TRANSFER COMPLETE:
+	Status : SUCCESS
+	Direction: Upload
+	Msg ID: {D69673AB-D756-4656-B3A3-59574443F3A9}
+	BITS Job ID: {FB40BDEE-517C-43B6-9E35-0A22BFC78470}
+	Start time : 10/16/2013 15:54 (GMT)
+	Completion time : 10/16/2013 15:54 (GMT)
+	Elapsed time : 5 seconds]LOG]!><time="10:54:19.345+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3820" file="messagestate.cpp:105">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016155421.985000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3820;
+};
+]LOG]!><time="10:54:21.985+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3820" file="event.cpp:525">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="10:55:33.815+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1348" file="wmisettings.cpp:204">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="10:55:33.815+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="596" file="wmisettings.cpp:204">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_LocalMP=@ for user 'S-1-5-18'.]LOG]!><time="10:55:34.518+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1348" file="wmisettings.cpp:204">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016155536.393000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3344;
+};
+]LOG]!><time="10:55:36.393+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3344" file="event.cpp:525">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_Authority.Name="SMS:AHS" for user 'S-1-5-18'.]LOG]!><time="10:55:40.347+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1348" file="wmisettings.cpp:204">
+<![LOG[Notifying endpoint 'SrcUpdateMgr' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="10:55:40.722+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="596" file="wmisettings.cpp:204">
+<![LOG[Notifying endpoint 'LS_ScheduledCleanup' of __InstanceModificationEvent settings change on object SMS_MPProxyInformation=@ for user 'S-1-5-18'.]LOG]!><time="10:55:40.722+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="596" file="wmisettings.cpp:204">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="10:58:33.539+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="516" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="10:58:33.539+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="516" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="10:58:33.539+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="516" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="10:58:33.648+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="516" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="10:58:33.648+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="516" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="11:01:04.683+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2024" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016160335.249000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3144;
+};
+]LOG]!><time="11:03:35.249+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3144" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="11:11:04.980+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="4064" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="11:21:04.995+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="920" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="11:31:05.010+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3100" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="11:41:05.041+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2556" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="11:51:05.213+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3764" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="11:58:33.756+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="1196" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="11:58:33.771+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="1196" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="11:58:33.771+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="1196" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="11:58:34.068+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="1196" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="11:58:34.068+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="1196" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="12:01:05.306+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3140" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016170337.732000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1944;
+};
+]LOG]!><time="12:03:37.732+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="1944" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="12:11:05.353+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3852" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="12:21:05.368+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1104" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="12:31:05.399+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3196" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="12:41:05.415+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1196" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="12:51:05.461+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2280" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="12:58:34.192+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3968" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="12:58:34.223+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3968" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="12:58:34.223+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3968" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="12:58:34.488+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3968" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="12:58:34.488+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3968" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:01:05.617+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3296" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016180336.637000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1800;
+};
+]LOG]!><time="13:03:36.637+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="1800" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:11:06.242+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2340" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:21:06.273+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2972" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:31:06.304+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2400" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:41:06.319+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2240" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="13:51:06.335+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2288" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="13:58:34.628+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3820" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="13:58:34.643+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3820" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="13:58:34.643+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3820" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="13:58:34.924+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3820" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="13:58:34.924+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3820" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:01:06.381+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="604" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016190338.323000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3960;
+};
+]LOG]!><time="14:03:38.338+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3960" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:11:06.709+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3876" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:21:06.756+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1112" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:31:06.787+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3656" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:41:06.802+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1168" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="14:51:06.818+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2380" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016195823.563000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3696;
+};
+]LOG]!><time="14:58:23.579+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3696" file="event.cpp:525">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="14:58:35.032+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="4060" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="14:58:35.048+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="4060" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="14:58:35.048+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="4060" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="14:58:35.329+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="4060" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="14:58:35.329+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="4060" file="caltrackmgr.cpp:600">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016195839.532000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 4060;
+};
+]LOG]!><time="14:58:39.532+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="4060" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:01:06.880+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3632" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016200116.052000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 3632;
+};
+]LOG]!><time="15:01:16.052+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="3632" file="event.cpp:525">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016200336.571000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 2580;
+};
+]LOG]!><time="15:03:36.571+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2580" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:11:07.067+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1284" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:21:07.098+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="3896" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:31:06.910+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1524" file="senslog.cpp:1398">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:41:06.887+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="4056" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016204622.829000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 580;
+};
+]LOG]!><time="15:46:22.829+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="580" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="15:51:06.897+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2984" file="senslog.cpp:1398">
+<![LOG[CALTRACK: ICcmSystemTask::Execute invoked by ccmexec.]LOG]!><time="15:58:35.220+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2228" file="systemtasks.cpp:29">
+<![LOG[CALTRACK: ICcmTask::Execute invoked by ccmexec.]LOG]!><time="15:58:35.252+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2228" file="systemtasks.cpp:39">
+<![LOG[CALTRACK: CCalTrackMgr::DoCalTrack Invoked]LOG]!><time="15:58:35.252+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2228" file="caltrackmgr.cpp:305">
+<![LOG[CALTRACK: No previous CAL data was collected on this system.]LOG]!><time="15:58:35.642+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2228" file="caltrackmgr.cpp:153">
+<![LOG[CALTRACK: CAL Collection was invoked and skipped.]LOG]!><time="15:58:35.642+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="2228" file="caltrackmgr.cpp:600">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="16:01:06.959+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="1972" file="senslog.cpp:1398">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:C3A38CEE-3F43-4CAF-A079-7B274387D857";
+	DateTime = "20131016210340.681000+000";
+	HostName = "AHS-SCCM-VM.AD.UIC.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1820;
+	StatusCode = 0;
+	ThreadID = 1332;
+};
+]LOG]!><time="16:03:40.713+300" date="10-16-2013" component="CcmExec" context="" type="1" thread="1332" file="event.cpp:525">
+<![LOG[No logged on cached user during monitor task, trying to select.]LOG]!><time="16:11:06.990+300" date="10-16-2013" component="CCMEXEC" context="" type="1" thread="2656" file="senslog.cpp:1398">

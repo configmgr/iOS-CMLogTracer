@@ -1,0 +1,526 @@
+﻿<![LOG[The user SID is ]LOG]!><time="16:38:54.506+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="16:38:54.509+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="16:38:54.509+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="16:38:54.510+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="16:38:54.510+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="16:38:54.516+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="16:38:54.519+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="16:38:54.526+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="16:38:54.528+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="16:38:54.533+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="16:38:54.535+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="16:38:54.541+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="16:38:54.542+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="16:38:54.548+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="16:38:54.549+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="16:38:54.554+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="16:38:54.555+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="16:38:54.561+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="16:38:54.562+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="16:38:54.567+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="16:38:54.568+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="18:38:52.884+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="18:38:52.884+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="18:38:52.885+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="18:38:52.885+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="18:38:52.885+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="18:38:52.886+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="18:38:52.886+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="18:38:52.886+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="18:38:52.893+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="18:38:52.896+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="18:38:52.904+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="18:38:52.905+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="18:38:52.910+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="18:38:52.911+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="18:38:52.917+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="18:38:52.918+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="18:38:52.923+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="18:38:52.925+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="18:38:52.930+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="18:38:52.931+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="18:38:52.936+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="18:38:52.937+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="18:38:52.943+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="18:38:52.944+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="20:38:53.421+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="20:38:53.421+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="20:38:53.422+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="20:38:53.422+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="20:38:53.422+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="20:38:53.423+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="20:38:53.423+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="20:38:53.423+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="20:38:53.431+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="20:38:53.433+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="20:38:53.441+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="20:38:53.442+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="20:38:53.448+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="20:38:53.449+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="20:38:53.454+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="20:38:53.456+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="20:38:53.461+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="20:38:53.463+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="20:38:53.468+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="20:38:53.469+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="20:38:53.474+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="20:38:53.476+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="20:38:53.481+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="20:38:53.482+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="22:38:53.957+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="22:38:53.958+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="22:38:53.958+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="22:38:53.958+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="22:38:53.959+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="22:38:53.959+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="22:38:53.959+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="22:38:53.960+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="22:38:53.968+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="22:38:53.971+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="22:38:53.979+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="22:38:53.980+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="22:38:53.985+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="22:38:53.987+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="22:38:53.992+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="22:38:53.993+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="22:38:53.999+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="22:38:54.000+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="22:38:54.005+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="22:38:54.006+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="22:38:54.011+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="22:38:54.013+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="22:38:54.018+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="22:38:54.019+300" date="10-12-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="00:38:54.494+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="00:38:54.495+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="00:38:54.495+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="00:38:54.495+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="00:38:54.496+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="00:38:54.496+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="00:38:54.496+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="00:38:54.496+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="00:38:54.504+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="00:38:54.508+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="00:38:54.516+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="00:38:54.517+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="00:38:54.523+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="00:38:54.525+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="00:38:54.531+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="00:38:54.533+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="00:38:54.539+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="00:38:54.540+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="00:38:54.546+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="00:38:54.548+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="00:38:54.554+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="00:38:54.555+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="00:38:54.561+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="00:38:54.562+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="02:38:55.030+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="02:38:55.031+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="02:38:55.031+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="02:38:55.031+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="02:38:55.032+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="02:38:55.032+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="02:38:55.032+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="02:38:55.033+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="02:38:55.039+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="02:38:55.042+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="02:38:55.050+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="02:38:55.051+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="02:38:55.056+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="02:38:55.058+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="02:38:55.063+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="02:38:55.064+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="02:38:55.070+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="02:38:55.071+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="02:38:55.076+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="02:38:55.077+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="02:38:55.082+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="02:38:55.084+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="02:38:55.089+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="02:38:55.090+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="04:38:52.686+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="04:38:52.687+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="04:38:52.687+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="04:38:52.687+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="04:38:52.688+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="04:38:52.688+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="04:38:52.688+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="04:38:52.689+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="04:38:52.695+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="04:38:52.699+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="04:38:52.706+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="04:38:52.707+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="04:38:52.712+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="04:38:52.714+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="04:38:52.719+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="04:38:52.721+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="04:38:52.726+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="04:38:52.727+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="04:38:52.732+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="04:38:52.734+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="04:38:52.739+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="04:38:52.740+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="04:38:52.745+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="04:38:52.747+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="06:38:51.809+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="06:38:51.810+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="06:38:51.810+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="06:38:51.810+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="06:38:51.811+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="06:38:51.811+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="06:38:51.811+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="06:38:51.812+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="06:38:51.819+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="06:38:51.822+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="06:38:51.829+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="06:38:51.830+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="06:38:51.835+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="06:38:51.837+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="06:38:51.842+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="06:38:51.843+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="06:38:51.849+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="06:38:51.850+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="06:38:51.855+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="06:38:51.857+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="06:38:51.862+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="06:38:51.863+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="06:38:51.868+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="06:38:51.870+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="08:38:50.906+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="08:38:50.906+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="08:38:50.907+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="08:38:50.907+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="08:38:50.907+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="08:38:50.908+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="08:38:50.908+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="08:38:50.908+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="08:38:50.915+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="08:38:50.918+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="08:38:50.924+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="08:38:50.926+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="08:38:50.932+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="08:38:50.933+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="08:38:50.938+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="08:38:50.940+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="08:38:50.945+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="08:38:50.946+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="08:38:50.952+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="08:38:50.953+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="08:38:50.958+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="08:38:50.959+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="08:38:50.965+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="08:38:50.966+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="10:38:50.003+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="10:38:50.003+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="10:38:50.003+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="10:38:50.004+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="10:38:50.004+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="10:38:50.004+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="10:38:50.004+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="10:38:50.005+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="10:38:50.012+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="10:38:50.015+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="10:38:50.022+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="10:38:50.023+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="10:38:50.029+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="10:38:50.030+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="10:38:50.035+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="10:38:50.036+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="10:38:50.042+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="10:38:50.043+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="10:38:50.048+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="10:38:50.050+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="10:38:50.055+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="10:38:50.056+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="10:38:50.061+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="10:38:50.063+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="12:38:53.919+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="12:38:53.919+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="12:38:53.920+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="12:38:53.920+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="12:38:53.920+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="12:38:53.920+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="12:38:53.921+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="12:38:53.921+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="12:38:53.928+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="12:38:53.931+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="12:38:53.938+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="12:38:53.939+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="12:38:53.945+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="12:38:53.946+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="12:38:53.951+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="12:38:53.952+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="12:38:53.958+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="12:38:53.959+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="12:38:53.964+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="12:38:53.965+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="12:38:53.971+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="12:38:53.972+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="12:38:53.977+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="12:38:53.978+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[Retreiving Application Catalog URL from Client Agent Config]LOG]!><time="12:38:56.058+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1666">
+<![LOG[The class name is CCM_Application]LOG]!><time="14:38:54.455+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="14:38:54.456+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="14:38:54.456+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="14:38:54.456+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="14:38:54.456+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="14:38:54.457+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="14:38:54.457+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="14:38:54.457+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="14:38:54.464+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="14:38:54.467+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="14:38:54.474+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="14:38:54.475+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="14:38:54.481+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="14:38:54.482+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="14:38:54.487+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="14:38:54.488+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="14:38:54.494+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="14:38:54.495+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="14:38:54.500+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="14:38:54.501+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="14:38:54.507+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="14:38:54.508+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="14:38:54.513+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="14:38:54.515+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="16:38:54.991+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="16:38:54.992+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="16:38:54.992+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="16:38:54.992+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="16:38:54.993+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="16:38:54.993+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="16:38:54.993+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="16:38:54.994+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="16:38:55.000+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="16:38:55.003+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="16:38:55.011+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="16:38:55.012+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="16:38:55.018+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="16:38:55.019+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="16:38:55.025+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="16:38:55.026+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="16:38:55.032+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="16:38:55.033+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="16:38:55.039+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="16:38:55.040+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="16:38:55.046+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="16:38:55.047+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="16:38:55.053+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="16:38:55.054+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="18:38:55.527+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="18:38:55.527+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="18:38:55.528+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="18:38:55.528+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="18:38:55.528+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="18:38:55.529+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="18:38:55.529+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="18:38:55.529+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="18:38:55.536+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="18:38:55.539+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="18:38:55.547+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="18:38:55.548+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="18:38:55.554+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="18:38:55.555+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="18:38:55.560+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="18:38:55.562+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="18:38:55.567+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="18:38:55.568+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="18:38:55.574+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="18:38:55.575+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="18:38:55.580+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="18:38:55.582+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="18:38:55.587+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="18:38:55.588+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="20:38:56.064+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="20:38:56.064+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="20:38:56.065+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="20:38:56.065+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="20:38:56.065+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="20:38:56.065+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="20:38:56.066+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="20:38:56.066+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="20:38:56.073+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="20:38:56.076+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="20:38:56.083+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="20:38:56.085+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="20:38:56.091+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="20:38:56.092+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="20:38:56.098+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="20:38:56.099+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="20:38:56.106+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="20:38:56.107+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="20:38:56.114+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="20:38:56.115+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="20:38:56.122+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="20:38:56.123+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="20:38:56.128+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="20:38:56.130+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="22:38:54.620+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="22:38:54.621+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="22:38:54.621+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="22:38:54.621+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="22:38:54.622+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="22:38:54.622+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="22:38:54.622+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="22:38:54.623+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="22:38:54.630+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="22:38:54.633+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="22:38:54.640+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="22:38:54.641+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="22:38:54.648+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="22:38:54.649+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="22:38:54.655+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="22:38:54.657+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="22:38:54.663+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="22:38:54.664+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="22:38:54.669+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="22:38:54.670+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="22:38:54.676+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="22:38:54.677+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="22:38:54.682+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="22:38:54.684+300" date="10-13-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="00:38:55.157+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="00:38:55.158+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="00:38:55.158+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="00:38:55.159+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="00:38:55.159+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="00:38:55.159+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="00:38:55.159+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="00:38:55.160+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="00:38:55.167+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="00:38:55.170+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="00:38:55.178+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="00:38:55.180+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="00:38:55.186+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="00:38:55.187+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="00:38:55.194+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="00:38:55.196+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="00:38:55.203+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="00:38:55.204+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="00:38:55.211+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="00:38:55.212+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="00:38:55.219+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="00:38:55.220+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="00:38:55.226+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="00:38:55.227+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="02:38:55.693+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="02:38:55.694+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="02:38:55.694+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="02:38:55.694+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="02:38:55.695+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="02:38:55.695+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="02:38:55.695+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="02:38:55.696+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="02:38:55.702+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="02:38:55.705+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="02:38:55.713+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="02:38:55.714+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="02:38:55.719+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="02:38:55.720+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="02:38:55.726+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="02:38:55.728+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="02:38:55.734+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="02:38:55.735+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="02:38:55.741+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="02:38:55.742+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="02:38:55.747+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="02:38:55.748+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="02:38:55.754+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="02:38:55.755+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="04:38:56.230+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="04:38:56.230+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="04:38:56.230+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="04:38:56.231+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="04:38:56.231+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="04:38:56.231+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="04:38:56.232+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="04:38:56.232+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="04:38:56.239+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="04:38:56.242+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="04:38:56.249+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="04:38:56.250+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="04:38:56.255+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="04:38:56.257+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="04:38:56.262+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="04:38:56.263+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="04:38:56.268+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="04:38:56.270+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="04:38:56.275+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="04:38:56.276+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="04:38:56.281+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="04:38:56.283+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="04:38:56.288+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="04:38:56.289+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="06:38:54.705+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="06:38:54.705+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="06:38:54.705+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="06:38:54.706+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="06:38:54.706+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="06:38:54.706+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="06:38:54.707+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="06:38:54.707+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="06:38:54.714+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="06:38:54.717+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="06:38:54.724+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="06:38:54.725+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="06:38:54.730+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="06:38:54.731+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="06:38:54.737+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="06:38:54.738+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="06:38:54.743+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="06:38:54.744+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="06:38:54.750+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="06:38:54.751+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="06:38:54.756+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="06:38:54.757+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="06:38:54.763+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="06:38:54.764+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="08:38:55.202+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="08:38:55.202+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="08:38:55.202+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="08:38:55.203+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="08:38:55.203+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="08:38:55.203+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="08:38:55.204+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="08:38:55.204+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="08:38:55.211+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="08:38:55.213+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="08:38:55.219+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="08:38:55.220+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="08:38:55.226+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="08:38:55.227+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="08:38:55.232+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="08:38:55.234+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="08:38:55.239+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="08:38:55.240+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="08:38:55.246+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="08:38:55.247+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="08:38:55.252+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="08:38:55.254+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="08:38:55.259+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="08:38:55.260+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[The class name is CCM_Application]LOG]!><time="10:38:55.737+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1061">
+<![LOG[The target instance path is ]LOG]!><time="10:38:55.738+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1094">
+<![LOG[The action type is 28]LOG]!><time="10:38:55.738+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1099">
+<![LOG[The user SID is ]LOG]!><time="10:38:55.739+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1104">
+<![LOG[The logon session ID is -1]LOG]!><time="10:38:55.739+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1109">
+<![LOG[The message level is 0]LOG]!><time="10:38:55.739+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1114">
+<![LOG[The verbosity is 30]LOG]!><time="10:38:55.740+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1118">
+<![LOG[The value is ]LOG]!><time="10:38:55.740+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:1123">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="10:38:55.747+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="10:38:55.750+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="10:38:55.757+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="10:38:55.758+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="10:38:55.764+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="10:38:55.765+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="10:38:55.770+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="10:38:55.772+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="10:38:55.777+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="10:38:55.778+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="10:38:55.784+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="10:38:55.785+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="10:38:55.790+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="10:38:55.792+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">
+<![LOG[CreateInstanceEnumAsync called for the provider]LOG]!><time="10:38:55.797+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:242">
+<![LOG[Get client agent settings...]LOG]!><time="10:38:55.798+300" date="10-14-2013" component="CCMSDKProvider" context="" type="1" thread="4316" file="ccmsdkprovider.cpp:2886">

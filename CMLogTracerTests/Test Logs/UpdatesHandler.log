@@ -1,0 +1,4 @@
+﻿<![LOG[CUpdatesAgent::FinalConstruct entered]LOG]!><time="09:30:52.665+300" date="10-03-2013" component="UpdatesHandler" context="" type="1" thread="4712" file="cupdatesagent.cpp:48">
+<![LOG[CUpdatesAgent::FinalConstruct entered]LOG]!><time="17:49:19.802+300" date="10-03-2013" component="UpdatesHandler" context="" type="1" thread="4504" file="cupdatesagent.cpp:48">
+<![LOG[CUpdatesAgent::FinalConstruct entered]LOG]!><time="14:28:06.359+300" date="10-04-2013" component="UpdatesHandler" context="" type="1" thread="5160" file="cupdatesagent.cpp:48">
+<![LOG[CUpdatesAgent::FinalConstruct entered]LOG]!><time="08:44:50.360+300" date="10-09-2013" component="UpdatesHandler" context="" type="1" thread="3220" file="cupdatesagent.cpp:48">

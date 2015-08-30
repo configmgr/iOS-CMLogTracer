@@ -1,0 +1,1184 @@
+﻿<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="16:14:09.422+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lsad.cpp:746">
+<![LOG[Default Management Points from MP:]LOG]!><time="16:14:09.469+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="16:14:09.469+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="16:14:09.469+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lsutils.h:211">
+<![LOG[Persisted Default Management Point Locations locally]LOG]!><time="16:14:09.484+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lsad.cpp:3783">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="16:14:09.484+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lsad.cpp:746">
+<![LOG[Attempting to retrieve local MPs from the assigned MP]LOG]!><time="16:14:09.531+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lsad.cpp:3594">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="16:14:09.531+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lsad.cpp:746">
+<![LOG[Refreshing the Management Point List for site CM2]LOG]!><time="16:14:09.562+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lssecurity.cpp:848">
+<![LOG[Retrieved management point encryption info from AD.]LOG]!><time="16:14:09.578+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lssecurity.cpp:3397">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131006211409.594000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 4744;
+	StatusCode = 0;
+	ThreadID = 5100;
+};
+]LOG]!><time="16:14:09.594+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="event.cpp:706">
+<![LOG[Refreshing trusted key information]LOG]!><time="16:14:09.594+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lssecurity.cpp:912">
+<![LOG[Refreshed Root Site Code from AD]LOG]!><time="16:14:09.609+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lsad.cpp:4451">
+<![LOG[Attempting to refresh TRK from AD]LOG]!><time="16:14:09.609+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lssecurity.cpp:2210">
+<![LOG[Failed to get TRK from AD]LOG]!><time="16:14:09.609+300" date="10-06-2013" component="LocationServices" context="" type="2" thread="5100" file="lssecurity.cpp:2264">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131006211409.625000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 4744;
+	StatusCode = 0;
+	ThreadID = 5100;
+};
+]LOG]!><time="16:14:09.625+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="event.cpp:706">
+<![LOG[Persisting the management point authentication information in WMI]LOG]!><time="16:14:09.625+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lssecurity.cpp:921">
+<![LOG[Persisted Management Point Authentication Information locally]LOG]!><time="16:14:09.625+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lssecurity.cpp:928">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="16:14:09.640+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lsad.cpp:746">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="16:14:09.640+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lsad.cpp:746">
+<![LOG[Retrieved management point encryption info from AD.]LOG]!><time="16:14:09.656+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5984" file="lssecurity.cpp:3397">
+<![LOG[Updated FSP 'AHS-SC-DP0.ad.uic.edu' from AD to local.]LOG]!><time="16:14:09.656+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5100" file="lsad.cpp:6155">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131006211409.672000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 4744;
+	StatusCode = 0;
+	ThreadID = 5984;
+};
+]LOG]!><time="16:14:09.672+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5984" file="event.cpp:706">
+<![LOG[Updating portal information.]LOG]!><time="16:14:09.687+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="6772" file="lssecurity.cpp:4103">
+<![LOG[Received reply of type PortalCertificateReply]LOG]!><time="16:14:09.718+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="3628" file="replylocationsendpoint.cpp:302">
+<![LOG[The reply from location manager contains 1 certificates]LOG]!><time="16:14:09.718+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="3628" file="lsportalutils.cpp:93">
+<![LOG[Updating portal certificates]LOG]!><time="16:14:09.718+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="3628" file="lssecurity.cpp:4143">
+<![LOG[Successfully created context from the raw certificate.]LOG]!><time="16:14:09.718+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="3628" file="lssecurity.cpp:4247">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="16:39:16.505+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="6924" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="16:39:16.505+300" date="10-06-2013" component="LocationServices" context="" type="2" thread="6924" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="17:14:09.425+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="5768" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="18:14:09.491+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="1528" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="19:14:09.556+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="6520" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="20:14:09.762+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="7032" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="21:14:09.749+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="6816" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="22:14:09.815+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="6904" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="22:43:27.033+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="4188" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="22:43:27.033+300" date="10-06-2013" component="LocationServices" context="" type="2" thread="4188" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="23:14:09.881+300" date="10-06-2013" component="LocationServices" context="" type="1" thread="6904" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="00:09:58.095+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5988" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="00:09:58.095+300" date="10-07-2013" component="LocationServices" context="" type="2" thread="5988" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="00:14:09.946+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="3372" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="00:47:13.255+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="984" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="00:47:13.255+300" date="10-07-2013" component="LocationServices" context="" type="2" thread="984" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="01:14:09.921+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="7060" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="02:14:09.987+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1892" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="03:14:10.053+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="3868" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="04:14:10.118+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5884" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="05:14:10.184+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5492" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="06:14:10.250+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5252" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="07:14:10.315+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="6768" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="08:14:10.381+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="820" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="09:14:10.511+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5808" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="10:14:10.401+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1120" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="11:14:10.574+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="6884" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="12:14:10.734+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="6504" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="13:14:10.897+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5452" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="14:14:11.057+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="6172" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="15:14:11.477+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5428" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="16:14:11.635+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="7892" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshDefaultMPTask]LOG]!><time="17:14:10.867+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[The MP name retrieved is 'SCCM-UIC-PS1.ad.uillinois.edu' with version '7804' and capabilities '<Capabilities SchemaVersion="1.0"><Property Name="SSLState" Value="0"/></Capabilities>']LOG]!><time="17:14:11.203+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5616" file="lsadcache.cpp:334">
+<![LOG[MP 'SCCM-UIC-PS1.ad.uillinois.edu' is compatible]LOG]!><time="17:14:11.203+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5616" file="lsadcache.cpp:339">
+<![LOG[The MP name retrieved is 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' with version '7804' and capabilities '<Capabilities SchemaVersion="1.0"><Property Name="SSLState" Value="0"/></Capabilities>']LOG]!><time="17:14:11.204+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5616" file="lsadcache.cpp:334">
+<![LOG[MP 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' is compatible]LOG]!><time="17:14:11.204+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5616" file="lsadcache.cpp:339">
+<![LOG[Refreshed security settings over AD]LOG]!><time="17:14:11.204+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5616" file="lsad.cpp:4638">
+<![LOG[No security settings update detected.]LOG]!><time="17:14:11.207+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5616" file="lssecurity.cpp:5070">
+<![LOG[Retrieved lookup MP [sccm-uic-ps1.ad.uillinois.edu] from Registry]LOG]!><time="17:14:11.210+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsad.cpp:2104">
+<![LOG[Attempting to retrieve lookup MP(s) from AD]LOG]!><time="17:14:11.210+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsad.cpp:2110">
+<![LOG[Lookup Management Points from AD:]LOG]!><time="17:14:11.210+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="17:14:11.210+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="17:14:11.210+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsutils.h:211">
+<![LOG[Retrieved lookup MP(s) from AD]LOG]!><time="17:14:11.210+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsad.cpp:2136">
+<![LOG[Default Management Points from AD:]LOG]!><time="17:14:11.213+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="17:14:11.213+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="17:14:11.213+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsutils.h:211">
+<![LOG[Persisting the default management points in WMI]LOG]!><time="17:14:11.213+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsad.cpp:3692">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="17:14:11.231+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsad.cpp:746">
+<![LOG[Default Management Points from MP:]LOG]!><time="17:14:11.273+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="17:14:11.273+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="17:14:11.273+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsutils.h:211">
+<![LOG[Persisted Default Management Point Locations locally]LOG]!><time="17:14:11.289+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsad.cpp:3783">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="17:14:11.293+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsad.cpp:746">
+<![LOG[Attempting to retrieve local MPs from the assigned MP]LOG]!><time="17:14:11.335+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsad.cpp:3594">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="17:14:11.337+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsad.cpp:746">
+<![LOG[Refreshing the Management Point List for site CM2]LOG]!><time="17:14:11.380+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lssecurity.cpp:848">
+<![LOG[Retrieved management point encryption info from AD.]LOG]!><time="17:14:11.393+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lssecurity.cpp:3397">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131007221411.410000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 4744;
+	StatusCode = 0;
+	ThreadID = 1896;
+};
+]LOG]!><time="17:14:11.410+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="event.cpp:706">
+<![LOG[Refreshing trusted key information]LOG]!><time="17:14:11.411+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lssecurity.cpp:912">
+<![LOG[Refreshed Root Site Code from AD]LOG]!><time="17:14:11.413+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsad.cpp:4451">
+<![LOG[Attempting to refresh TRK from AD]LOG]!><time="17:14:11.413+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lssecurity.cpp:2210">
+<![LOG[Failed to get TRK from AD]LOG]!><time="17:14:11.419+300" date="10-07-2013" component="LocationServices" context="" type="2" thread="1896" file="lssecurity.cpp:2264">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131007221411.438000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 4744;
+	StatusCode = 0;
+	ThreadID = 1896;
+};
+]LOG]!><time="17:14:11.438+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="event.cpp:706">
+<![LOG[Persisting the management point authentication information in WMI]LOG]!><time="17:14:11.440+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lssecurity.cpp:921">
+<![LOG[Persisted Management Point Authentication Information locally]LOG]!><time="17:14:11.444+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lssecurity.cpp:928">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="17:14:11.447+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsad.cpp:746">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="17:14:11.453+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsad.cpp:746">
+<![LOG[Updated FSP 'AHS-SC-DP0.ad.uic.edu' from AD to local.]LOG]!><time="17:14:11.461+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="lsad.cpp:6155">
+<![LOG[Retrieved management point encryption info from AD.]LOG]!><time="17:14:11.461+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="6968" file="lssecurity.cpp:3397">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131007221411.478000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 4744;
+	StatusCode = 0;
+	ThreadID = 6968;
+};
+]LOG]!><time="17:14:11.479+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="6968" file="event.cpp:706">
+<![LOG[Updating portal information.]LOG]!><time="17:14:11.491+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="6968" file="lssecurity.cpp:4103">
+<![LOG[Received reply of type PortalCertificateReply]LOG]!><time="17:14:11.519+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5560" file="replylocationsendpoint.cpp:302">
+<![LOG[The reply from location manager contains 1 certificates]LOG]!><time="17:14:11.519+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5560" file="lsportalutils.cpp:93">
+<![LOG[Updating portal certificates]LOG]!><time="17:14:11.519+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5560" file="lssecurity.cpp:4143">
+<![LOG[Successfully created context from the raw certificate.]LOG]!><time="17:14:11.521+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5560" file="lssecurity.cpp:4247">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="17:14:11.792+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="1896" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="18:14:11.961+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5788" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="19:14:11.171+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="3600" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="20:14:11.233+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="4240" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="21:14:11.397+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="6220" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="22:03:58.284+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="7932" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="22:03:58.286+300" date="10-07-2013" component="LocationServices" context="" type="2" thread="7932" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="22:14:11.551+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="5464" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="23:14:11.720+300" date="10-07-2013" component="LocationServices" context="" type="1" thread="7804" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="00:10:52.782+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="6184" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="00:10:52.783+300" date="10-08-2013" component="LocationServices" context="" type="2" thread="6184" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="00:14:11.875+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5512" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="00:47:17.190+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5988" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="00:47:17.191+300" date="10-08-2013" component="LocationServices" context="" type="2" thread="5988" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="01:14:12.047+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="7628" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="02:14:12.205+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="7768" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="03:14:12.369+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="856" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="04:14:11.778+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="7964" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="05:14:11.672+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="1900" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="06:14:11.832+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="6844" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="07:14:11.995+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="120" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="08:14:12.155+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="1368" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="09:14:12.319+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="6272" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="10:14:12.478+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="6576" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="11:14:12.640+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="4844" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="12:14:12.799+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="4872" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="13:14:12.682+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="8140" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="14:14:12.006+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="6908" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="15:14:11.906+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="4964" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="16:14:11.704+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="1092" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="17:14:11.508+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="7332" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshDefaultMPTask]LOG]!><time="18:14:10.060+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[The MP name retrieved is 'SCCM-UIC-PS1.ad.uillinois.edu' with version '7804' and capabilities '<Capabilities SchemaVersion="1.0"><Property Name="SSLState" Value="0"/></Capabilities>']LOG]!><time="18:14:10.280+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="3100" file="lsadcache.cpp:334">
+<![LOG[MP 'SCCM-UIC-PS1.ad.uillinois.edu' is compatible]LOG]!><time="18:14:10.280+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="3100" file="lsadcache.cpp:339">
+<![LOG[The MP name retrieved is 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' with version '7804' and capabilities '<Capabilities SchemaVersion="1.0"><Property Name="SSLState" Value="0"/></Capabilities>']LOG]!><time="18:14:10.281+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="3100" file="lsadcache.cpp:334">
+<![LOG[MP 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' is compatible]LOG]!><time="18:14:10.281+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="3100" file="lsadcache.cpp:339">
+<![LOG[Refreshed security settings over AD]LOG]!><time="18:14:10.281+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="3100" file="lsad.cpp:4638">
+<![LOG[No security settings update detected.]LOG]!><time="18:14:10.283+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="3100" file="lssecurity.cpp:5070">
+<![LOG[Retrieved lookup MP [sccm-uic-ps1.ad.uillinois.edu] from Registry]LOG]!><time="18:14:10.286+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsad.cpp:2104">
+<![LOG[Attempting to retrieve lookup MP(s) from AD]LOG]!><time="18:14:10.286+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsad.cpp:2110">
+<![LOG[Lookup Management Points from AD:]LOG]!><time="18:14:10.286+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="18:14:10.286+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="18:14:10.286+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsutils.h:211">
+<![LOG[Retrieved lookup MP(s) from AD]LOG]!><time="18:14:10.287+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsad.cpp:2136">
+<![LOG[Default Management Points from AD:]LOG]!><time="18:14:10.290+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="18:14:10.290+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="18:14:10.290+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsutils.h:211">
+<![LOG[Persisting the default management points in WMI]LOG]!><time="18:14:10.290+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsad.cpp:3692">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="18:14:10.306+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsad.cpp:746">
+<![LOG[Default Management Points from MP:]LOG]!><time="18:14:10.351+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="18:14:10.351+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="18:14:10.351+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsutils.h:211">
+<![LOG[Persisted Default Management Point Locations locally]LOG]!><time="18:14:10.367+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsad.cpp:3783">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="18:14:10.371+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsad.cpp:746">
+<![LOG[Attempting to retrieve local MPs from the assigned MP]LOG]!><time="18:14:10.446+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsad.cpp:3594">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="18:14:10.449+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsad.cpp:746">
+<![LOG[Refreshing the Management Point List for site CM2]LOG]!><time="18:14:10.490+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lssecurity.cpp:848">
+<![LOG[Retrieved management point encryption info from AD.]LOG]!><time="18:14:10.502+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lssecurity.cpp:3397">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131008231410.527000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 4744;
+	StatusCode = 0;
+	ThreadID = 5076;
+};
+]LOG]!><time="18:14:10.527+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="event.cpp:706">
+<![LOG[Refreshing trusted key information]LOG]!><time="18:14:10.529+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lssecurity.cpp:912">
+<![LOG[Refreshed Root Site Code from AD]LOG]!><time="18:14:10.530+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsad.cpp:4451">
+<![LOG[Attempting to refresh TRK from AD]LOG]!><time="18:14:10.530+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lssecurity.cpp:2210">
+<![LOG[Failed to get TRK from AD]LOG]!><time="18:14:10.536+300" date="10-08-2013" component="LocationServices" context="" type="2" thread="5076" file="lssecurity.cpp:2264">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131008231410.553000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 4744;
+	StatusCode = 0;
+	ThreadID = 5076;
+};
+]LOG]!><time="18:14:10.553+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="event.cpp:706">
+<![LOG[Persisting the management point authentication information in WMI]LOG]!><time="18:14:10.555+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lssecurity.cpp:921">
+<![LOG[Persisted Management Point Authentication Information locally]LOG]!><time="18:14:10.559+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lssecurity.cpp:928">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="18:14:10.563+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsad.cpp:746">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="18:14:10.575+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsad.cpp:746">
+<![LOG[Retrieved management point encryption info from AD.]LOG]!><time="18:14:10.577+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="3100" file="lssecurity.cpp:3397">
+<![LOG[Updated FSP 'AHS-SC-DP0.ad.uic.edu' from AD to local.]LOG]!><time="18:14:10.584+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5076" file="lsad.cpp:6155">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131008231410.593000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 4744;
+	StatusCode = 0;
+	ThreadID = 3100;
+};
+]LOG]!><time="18:14:10.593+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="3100" file="event.cpp:706">
+<![LOG[Updating portal information.]LOG]!><time="18:14:10.670+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="3548" file="lssecurity.cpp:4103">
+<![LOG[Received reply of type PortalCertificateReply]LOG]!><time="18:14:10.733+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="7068" file="replylocationsendpoint.cpp:302">
+<![LOG[The reply from location manager contains 1 certificates]LOG]!><time="18:14:10.733+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="7068" file="lsportalutils.cpp:93">
+<![LOG[Updating portal certificates]LOG]!><time="18:14:10.733+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="7068" file="lssecurity.cpp:4143">
+<![LOG[Successfully created context from the raw certificate.]LOG]!><time="18:14:10.735+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="7068" file="lssecurity.cpp:4247">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="18:14:11.302+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="3100" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="19:14:11.109+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="6576" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="20:14:10.921+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="3544" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="21:14:10.724+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="7988" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="22:06:27.105+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="6560" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="22:06:27.107+300" date="10-08-2013" component="LocationServices" context="" type="2" thread="6560" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="22:14:10.518+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="6308" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="23:14:12.765+300" date="10-08-2013" component="LocationServices" context="" type="1" thread="5516" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="00:12:52.742+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6824" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="00:12:52.744+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6824" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="00:14:12.929+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7184" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="00:47:55.120+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6012" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="00:47:55.122+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6012" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="01:14:13.098+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6484" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="02:14:13.259+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="1504" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="03:14:13.487+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6724" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="04:14:13.647+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6364" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="05:14:13.811+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7224" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="06:14:13.969+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5888" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="07:14:14.131+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7024" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="08:14:13.305+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5360" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Current AD forest name is adroot.uic.edu, domain name is ad.uic.edu]LOG]!><time="08:38:36.658+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsad.cpp:818">
+<![LOG[The MP name retrieved is 'SCCM-UIC-PS1.ad.uillinois.edu' with version '7804' and capabilities '<Capabilities SchemaVersion="1.0"><Property Name="SSLState" Value="0"/></Capabilities>']LOG]!><time="08:38:37.063+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsadcache.cpp:334">
+<![LOG[MP 'SCCM-UIC-PS1.ad.uillinois.edu' is compatible]LOG]!><time="08:38:37.063+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsadcache.cpp:339">
+<![LOG[The MP name retrieved is 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' with version '7804' and capabilities '<Capabilities SchemaVersion="1.0"><Property Name="SSLState" Value="0"/></Capabilities>']LOG]!><time="08:38:37.079+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsadcache.cpp:334">
+<![LOG[MP 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' is compatible]LOG]!><time="08:38:37.079+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsadcache.cpp:339">
+<![LOG[Refreshed security settings over AD]LOG]!><time="08:38:37.079+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsad.cpp:4638">
+<![LOG[No security settings update detected.]LOG]!><time="08:38:37.079+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lssecurity.cpp:5070">
+<![LOG[Refreshed Site Signing Certificate over AD]LOG]!><time="08:38:37.141+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsad.cpp:4514">
+<![LOG[Retrieved lookup MP [sccm-uic-ps1.ad.uillinois.edu] from Registry]LOG]!><time="08:38:37.141+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsad.cpp:2104">
+<![LOG[Attempting to retrieve lookup MP(s) from AD]LOG]!><time="08:38:37.141+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsad.cpp:2110">
+<![LOG[Lookup Management Points from AD:]LOG]!><time="08:38:37.141+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="08:38:37.141+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="08:38:37.141+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsutils.h:211">
+<![LOG[Retrieved lookup MP(s) from AD]LOG]!><time="08:38:37.141+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsad.cpp:2136">
+<![LOG[Default Management Points from AD:]LOG]!><time="08:38:37.172+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="08:38:37.172+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="08:38:37.172+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsutils.h:211">
+<![LOG[Persisting the default management points in WMI]LOG]!><time="08:38:37.172+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsad.cpp:3692">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="08:38:37.625+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsad.cpp:746">
+<![LOG[Default Management Points from MP:]LOG]!><time="08:38:37.874+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="08:38:37.874+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="08:38:37.874+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsutils.h:211">
+<![LOG[Persisted Default Management Point Locations locally]LOG]!><time="08:38:37.890+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsad.cpp:3783">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="08:38:37.890+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsad.cpp:746">
+<![LOG[Attempting to retrieve local MPs from the assigned MP]LOG]!><time="08:38:37.937+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsad.cpp:3594">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="08:38:37.952+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsad.cpp:746">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="08:38:37.984+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsad.cpp:746">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="08:38:37.999+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3368" file="lsad.cpp:746">
+<![LOG[Retrieved management point encryption info from AD.]LOG]!><time="08:38:37.999+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3220" file="lssecurity.cpp:3397">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131009133838.077000+000";
+	HostName = "SCCM-UIC-DP1.AD.UILLINOIS.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 3220;
+};
+]LOG]!><time="08:38:38.077+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3220" file="event.cpp:706">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="08:38:50.806+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4332" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSTimeOutRequestsTask]LOG]!><time="08:38:50.806+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="2444" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshDefaultMPTask]LOG]!><time="08:38:50.806+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Refreshed security settings over AD]LOG]!><time="08:38:50.899+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4204" file="lsad.cpp:4638">
+<![LOG[No security settings update detected.]LOG]!><time="08:38:51.040+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4204" file="lssecurity.cpp:5070">
+<![LOG[Updating portal information.]LOG]!><time="08:38:51.040+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4320" file="lssecurity.cpp:4103">
+<![LOG[Retrieved lookup MP [sccm-uic-ps1.ad.uillinois.edu] from Registry]LOG]!><time="08:38:51.040+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsad.cpp:2104">
+<![LOG[Attempting to retrieve lookup MP(s) from AD]LOG]!><time="08:38:51.040+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsad.cpp:2110">
+<![LOG[Lookup Management Points from AD:]LOG]!><time="08:38:51.040+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="08:38:51.040+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="08:38:51.040+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsutils.h:211">
+<![LOG[Retrieved lookup MP(s) from AD]LOG]!><time="08:38:51.040+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsad.cpp:2136">
+<![LOG[Default Management Points from AD:]LOG]!><time="08:38:51.055+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="08:38:51.055+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="08:38:51.055+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsutils.h:211">
+<![LOG[Persisting the default management points in WMI]LOG]!><time="08:38:51.055+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsad.cpp:3692">
+<![LOG[Received reply of type PortalCertificateReply]LOG]!><time="08:38:51.071+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4320" file="replylocationsendpoint.cpp:302">
+<![LOG[The reply from location manager contains 1 certificates]LOG]!><time="08:38:51.071+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4320" file="lsportalutils.cpp:93">
+<![LOG[Updating portal certificates]LOG]!><time="08:38:51.071+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4320" file="lssecurity.cpp:4143">
+<![LOG[Successfully created context from the raw certificate.]LOG]!><time="08:38:51.071+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4320" file="lssecurity.cpp:4247">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="08:38:51.086+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsad.cpp:746">
+<![LOG[Default Management Points from MP:]LOG]!><time="08:38:51.118+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="08:38:51.118+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="08:38:51.118+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsutils.h:211">
+<![LOG[Persisted Default Management Point Locations locally]LOG]!><time="08:38:51.133+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsad.cpp:3783">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="08:38:51.133+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsad.cpp:746">
+<![LOG[Attempting to retrieve local MPs from the assigned MP]LOG]!><time="08:38:51.180+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsad.cpp:3594">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="08:38:51.180+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsad.cpp:746">
+<![LOG[Refreshing the Management Point List for site CM2]LOG]!><time="08:38:51.227+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lssecurity.cpp:848">
+<![LOG[Retrieved management point encryption info from AD.]LOG]!><time="08:38:51.242+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lssecurity.cpp:3397">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131009133851.274000+000";
+	HostName = "SCCM-UIC-DP1.AD.UILLINOIS.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 172;
+};
+]LOG]!><time="08:38:51.274+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="event.cpp:706">
+<![LOG[Refreshing trusted key information]LOG]!><time="08:38:51.274+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lssecurity.cpp:912">
+<![LOG[Refreshed Root Site Code from AD]LOG]!><time="08:38:51.274+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsad.cpp:4451">
+<![LOG[Attempting to refresh TRK from AD]LOG]!><time="08:38:51.274+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lssecurity.cpp:2210">
+<![LOG[Failed to get TRK from AD]LOG]!><time="08:38:51.274+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="172" file="lssecurity.cpp:2264">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131009133851.305000+000";
+	HostName = "SCCM-UIC-DP1.AD.UILLINOIS.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 172;
+};
+]LOG]!><time="08:38:51.305+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="event.cpp:706">
+<![LOG[Persisting the management point authentication information in WMI]LOG]!><time="08:38:51.320+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lssecurity.cpp:921">
+<![LOG[Persisted Management Point Authentication Information locally]LOG]!><time="08:38:51.336+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lssecurity.cpp:928">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="08:38:51.336+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsad.cpp:746">
+<![LOG[MPLIST requests are throttled for 00:04:46]LOG]!><time="08:38:51.336+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="2444" file="lssecurity.cpp:4528">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="08:38:51.336+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsad.cpp:746">
+<![LOG[Updated FSP 'AHS-SC-DP0.ad.uic.edu' from AD to local.]LOG]!><time="08:38:51.352+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="172" file="lsad.cpp:6155">
+<![LOG[Updating portal information.]LOG]!><time="08:38:51.383+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3956" file="lssecurity.cpp:4103">
+<![LOG[Received reply of type PortalCertificateReply]LOG]!><time="08:38:51.414+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="2444" file="replylocationsendpoint.cpp:302">
+<![LOG[The reply from location manager contains 1 certificates]LOG]!><time="08:38:51.414+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="2444" file="lsportalutils.cpp:93">
+<![LOG[Updating portal certificates]LOG]!><time="08:38:51.414+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="2444" file="lssecurity.cpp:4143">
+<![LOG[Successfully created context from the raw certificate.]LOG]!><time="08:38:51.414+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="2444" file="lssecurity.cpp:4247">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="09:38:50.658+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6172" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="10:04:02.857+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4304" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="10:04:02.859+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="4304" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="10:38:50.737+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4208" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="10:50:16.758+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6552" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="10:50:16.760+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6552" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="10:50:45.982+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6988" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="10:51:46.518+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6988" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="10:54:02.966+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6988" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[2 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="10:54:02.967+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6988" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="10:54:07.582+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6988" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="10:54:28.600+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6800" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="10:55:24.980+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6800" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[3 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="10:55:24.982+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6800" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="10:56:49.658+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7120" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="10:57:10.661+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6800" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="10:57:16.995+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7120" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[4 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="10:57:16.997+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="7120" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="10:57:38.009+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7120" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="10:59:50.026+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7044" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:00:39.014+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7120" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Assigned MP error threshold reached, moving to next MP.]LOG]!><time="11:00:39.016+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="7120" file="lsutils.cpp:3155">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:04:13.294+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4700" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:06:53.315+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4728" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="11:09:54.409+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:746">
+<![LOG[Retrieved lookup MP [sccm-uic-ps1.ad.uillinois.edu] from Registry]LOG]!><time="11:09:54.428+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:2104">
+<![LOG[Attempting to retrieve lookup MP(s) from AD]LOG]!><time="11:09:54.428+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:2110">
+<![LOG[Unexpected row count (0) retrieved from AD.]LOG]!><time="11:10:07.238+300" date="10-09-2013" component="LocationServices" context="" type="3" thread="6420" file="lsad.cpp:620">
+<![LOG[No lookup MP(s) from AD]LOG]!><time="11:10:07.238+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:2142">
+<![LOG[Attempting to retrieve lookup MP(s) from DNS]LOG]!><time="11:10:07.238+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:2148">
+<![LOG[Using default DNS suffix ad.uic.edu]LOG]!><time="11:10:07.238+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:2954">
+<![LOG[Attempting to retrieve default management points from DNS]LOG]!><time="11:10:07.238+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:2963">
+<![LOG[Failed to retrieve DNS service record using _mssms_mp_cm2._tcp.ad.uic.edu lookup. DNS returned error 9003]LOG]!><time="11:10:07.335+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6420" file="lsad.cpp:2989">
+<![LOG[No lookup MP(s) from DNS]LOG]!><time="11:10:07.335+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:2177">
+<![LOG[Unable to retrieve compatible MP(s) from AD]LOG]!><time="11:10:07.342+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:2411">
+<![LOG[Attempting to retrieve default management points from lookup MP(s) via HTTP]LOG]!><time="11:10:07.342+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:2441">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="11:10:07.342+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:746">
+<![LOG[Default Management Points from MP:]LOG]!><time="11:10:07.483+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="11:10:07.483+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="11:10:07.483+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsutils.h:211">
+<![LOG[Persisting the default management points in WMI]LOG]!><time="11:10:07.483+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:3692">
+<![LOG[Default Management Points from MP:]LOG]!><time="11:10:07.483+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="11:10:07.483+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="11:10:07.483+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsutils.h:211">
+<![LOG[Persisted Default Management Point Locations locally]LOG]!><time="11:10:07.498+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:3783">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="11:10:07.502+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:746">
+<![LOG[Attempting to retrieve local MPs from the assigned MP]LOG]!><time="11:10:07.577+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:3594">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="11:10:07.579+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:746">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="11:10:07.645+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:746">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="11:10:07.652+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6420" file="lsad.cpp:746">
+<![LOG[Updating portal information.]LOG]!><time="11:10:07.715+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5672" file="lssecurity.cpp:4103">
+<![LOG[Received reply of type PortalCertificateReply]LOG]!><time="11:10:07.756+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5896" file="replylocationsendpoint.cpp:302">
+<![LOG[The reply from location manager contains 1 certificates]LOG]!><time="11:10:07.757+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5896" file="lsportalutils.cpp:93">
+<![LOG[Updating portal certificates]LOG]!><time="11:10:07.757+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5896" file="lssecurity.cpp:4143">
+<![LOG[Successfully created context from the raw certificate.]LOG]!><time="11:10:07.758+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5896" file="lssecurity.cpp:4247">
+<![LOG[Unexpected row count (0) retrieved from AD.]LOG]!><time="11:10:08.051+300" date="10-09-2013" component="LocationServices" context="" type="3" thread="3944" file="lsad.cpp:620">
+<![LOG[Failed to retrieve MP certificate encryption info from AD.]LOG]!><time="11:10:08.051+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="3944" file="lssecurity.cpp:3401">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131009161008.082000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 3944;
+};
+]LOG]!><time="11:10:08.082+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3944" file="event.cpp:706">
+<![LOG[MP SCCM-UIC-DP1.AD.UILLINOIS.EDU capability is not available]LOG]!><time="11:10:08.096+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3944" file="lssecurity.cpp:567">
+<![LOG[Failed to send request to /SMS_MP/.sms_aut?MPCERT2 at host SCCM-UIC-DP1.AD.UILLINOIS.EDU, error 0x2ee7]LOG]!><time="11:10:20.098+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="3944" file="ccmhttpget.cpp:902">
+<![LOG[[CCMHTTP] ERROR: URL=http://SCCM-UIC-DP1.AD.UILLINOIS.EDU/SMS_MP/.sms_aut?MPCERT2, Port=80, Options=480, Code=12007, Text=ERROR_WINHTTP_NAME_NOT_RESOLVED]LOG]!><time="11:10:20.098+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3944" file="ccmhttperror.cpp:297">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131009161020.100000+000";
+	HostName = "SCCM-UIC-DP1.AD.UILLINOIS.EDU";
+	HRESULT = "0x80072ee7";
+	ProcessID = 1860;
+	StatusCode = 600;
+	ThreadID = 3944;
+};
+]LOG]!><time="11:10:20.100+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3944" file="event.cpp:706">
+<![LOG[Successfully sent location services HTTP failure message.]LOG]!><time="11:10:20.103+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3944" file="ccmhttperror.cpp:396">
+<![LOG[Failed to refresh Encryption certificate information over HTTP(0x80072ee7)]LOG]!><time="11:10:20.103+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="3944" file="lssecurity.cpp:3611">
+<![LOG[Failed to refresh encryption cert info for SCCM-UIC-DP1.AD.UILLINOIS.EDU.]LOG]!><time="11:10:20.103+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="3944" file="lssecurity.cpp:3794">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:10:20.104+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5896" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131009161026.225000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 3944;
+};
+]LOG]!><time="11:10:26.225+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3944" file="event.cpp:706">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="11:14:54.422+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5436" file="lsad.cpp:746">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:16:53.021+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7012" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="11:16:53.022+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="7012" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:17:14.077+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="252" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:19:35.097+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7136" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:20:27.152+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5240" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:21:18.789+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6644" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[2 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="11:21:18.791+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6644" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:21:39.795+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4320" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:23:54.882+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6552" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[3 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="11:23:54.884+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6552" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:24:00.818+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6552" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:24:21.816+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5192" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:24:42.826+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="252" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:26:31.749+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5808" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[4 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="11:26:31.751+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5808" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:26:52.726+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6552" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:27:30.872+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="252" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Assigned MP error threshold reached, moving to next MP.]LOG]!><time="11:27:30.874+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="252" file="lsutils.cpp:3155">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:27:53.748+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6552" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="11:27:53.750+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6552" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:29:17.993+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6552" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:30:07.248+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5952" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[2 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="11:30:07.250+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5952" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:30:16.952+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="252" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[3 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="11:30:16.954+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="252" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:30:28.261+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6408" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:30:49.266+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6552" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:31:26.960+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6408" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[4 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="11:31:26.961+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6408" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:33:01.270+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6408" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:33:32.724+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6484" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:33:40.125+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6484" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Assigned MP error threshold reached, moving to next MP.]LOG]!><time="11:33:40.126+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6484" file="lsutils.cpp:3155">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:34:01.147+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3748" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:34:02.999+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4200" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="11:34:03.000+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="4200" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:34:24.024+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6552" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:35:25.014+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="2824" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[2 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="11:35:25.015+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="2824" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:36:45.042+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="2824" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:37:51.447+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5724" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="11:38:50.792+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6876" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:40:12.465+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7004" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:40:16.852+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7004" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[3 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="11:40:16.855+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="7004" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:40:37.870+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5724" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:41:38.867+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6876" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[4 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="11:41:38.869+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6876" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:42:58.931+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5724" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:43:35.069+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5724" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Assigned MP error threshold reached, moving to next MP.]LOG]!><time="11:43:35.071+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5724" file="lsutils.cpp:3155">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:46:57.090+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5016" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="11:46:57.092+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5016" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:47:20.100+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5724" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:52:49.122+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4164" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[2 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="11:52:49.124+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="4164" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:55:00.870+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4164" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[3 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="11:55:00.871+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="4164" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:55:23.257+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6208" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:57:44.281+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7084" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="11:58:03.888+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5488" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[4 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="11:58:03.890+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5488" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:02:05.301+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4852" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:02:26.313+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4852" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:04:38.374+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4852" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:07:20.649+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4852" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Assigned MP error threshold reached, moving to next MP.]LOG]!><time="12:07:20.651+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="4852" file="lsutils.cpp:3155">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:07:32.706+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3160" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:08:41.175+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="1100" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:08:41.177+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="1100" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:08:53.186+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5952" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:09:33.009+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5952" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[2 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:09:33.011+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5952" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:09:45.021+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3160" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:10:44.398+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4852" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[3 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:10:44.399+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="4852" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:11:57.036+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4852" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:12:09.041+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3364" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[4 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:12:09.043+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="3364" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:12:18.412+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="1100" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Assigned MP error threshold reached, moving to next MP.]LOG]!><time="12:12:18.414+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="1100" file="lsutils.cpp:3155">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:12:21.171+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="2964" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:14:33.420+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4852" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:15:21.433+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6152" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:15:21.434+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6152" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:15:45.114+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="2964" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[2 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:15:45.116+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="2964" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:16:43.447+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="2964" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[3 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:16:43.448+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="2964" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:18:35.464+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6244" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[4 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:18:35.465+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6244" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:18:45.486+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6432" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:21:21.154+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6552" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Assigned MP error threshold reached, moving to next MP.]LOG]!><time="12:21:21.156+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6552" file="lsutils.cpp:3155">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:21:57.488+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3480" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:21:57.489+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="3480" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:23:19.511+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4944" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[2 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:23:19.512+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="4944" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:25:12.358+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5564" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[3 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:25:12.361+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5564" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:26:57.563+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5320" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:28:34.940+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6300" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[4 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:28:34.941+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6300" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:28:45.387+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5932" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:29:06.399+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5932" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:29:27.410+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5104" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:30:21.644+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5932" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Assigned MP error threshold reached, moving to next MP.]LOG]!><time="12:30:21.646+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5932" file="lsutils.cpp:3155">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:30:42.644+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5320" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:32:54.665+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3164" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:34:03.218+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5932" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:34:03.220+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5932" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:34:15.232+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3164" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:35:16.848+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5768" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:37:28.909+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6500" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="12:38:50.953+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6500" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:40:17.121+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5940" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[2 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:40:17.123+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5940" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:40:29.135+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5940" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:41:39.135+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5940" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[3 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:41:39.137+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5940" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:42:41.196+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5940" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:43:41.604+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5940" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[4 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:43:41.605+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5940" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:43:53.618+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4156" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:46:05.676+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5564" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:47:07.623+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5940" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Assigned MP error threshold reached, moving to next MP.]LOG]!><time="12:47:07.625+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5940" file="lsutils.cpp:3155">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:47:19.634+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5564" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:48:34.844+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6268" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:49:31.653+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="3620" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:53:43.716+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5252" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:57:32.668+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5248" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:57:32.670+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5248" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="12:58:54.696+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5248" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[2 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="12:58:54.698+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5248" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:00:50.712+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5248" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[3 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="13:00:50.713+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5248" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:01:55.791+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5248" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:02:12.728+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4944" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[4 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="13:02:12.730+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="4944" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:04:18.361+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5248" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Assigned MP error threshold reached, moving to next MP.]LOG]!><time="13:04:18.362+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5248" file="lsutils.cpp:3155">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:04:30.398+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5840" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Ignoring MP error during post-rotation flush period of 20 seconds.]LOG]!><time="13:04:30.399+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5840" file="lsutils.cpp:3126">
+<![LOG[0 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="13:04:30.400+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="5840" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:04:41.788+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4944" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:05:02.801+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4228" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:05:52.414+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6544" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="13:05:52.416+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6544" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:07:23.867+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6768" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:07:44.430+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6768" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[2 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="13:07:44.432+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6768" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:11:35.931+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5504" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:13:01.785+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6768" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[3 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="13:13:01.786+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6768" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:13:01.870+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="1736" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[4 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="13:13:01.872+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="1736" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:13:13.831+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="1736" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:13:25.841+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="1736" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:13:37.852+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6200" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:14:03.429+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5504" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:16:15.489+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6252" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:20:17.253+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="1536" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Assigned MP error threshold reached, moving to next MP.]LOG]!><time="13:20:17.255+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="1536" file="lsutils.cpp:3155">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:20:27.511+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6384" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:20:39.521+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="392" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:21:39.267+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="1536" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="13:21:39.268+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="1536" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:22:10.955+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6080" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[2 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="13:22:10.957+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6080" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:22:51.540+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6080" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:23:42.284+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="2400" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:26:03.271+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="252" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:30:24.201+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="252" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="13:38:45.189+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6744" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="13:38:50.894+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4380" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="14:38:50.928+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="4484" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="15:38:51.001+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6004" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="16:38:51.101+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7152" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="17:38:51.161+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5184" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="18:38:51.200+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="8560" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="19:38:51.243+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="5940" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="20:38:51.284+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7108" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="21:38:51.328+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7916" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="22:04:42.791+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="9176" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="22:04:42.792+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="9176" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="22:10:18.874+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="6284" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[2 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="22:10:18.875+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="6284" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="22:13:00.910+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7228" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[3 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="22:13:00.912+300" date="10-09-2013" component="LocationServices" context="" type="2" thread="7228" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="22:38:51.489+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7628" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="23:38:51.622+300" date="10-09-2013" component="LocationServices" context="" type="1" thread="7544" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="00:12:04.961+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="8560" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="00:12:04.962+300" date="10-10-2013" component="LocationServices" context="" type="2" thread="8560" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="00:38:51.510+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="7296" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="01:38:51.675+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="6040" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="02:38:51.594+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="7960" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="03:38:51.757+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="6664" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="04:38:51.676+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="5336" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="05:38:51.839+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="4084" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="06:38:51.779+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="5212" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="07:38:51.892+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="7660" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="08:38:52.052+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="7568" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshDefaultMPTask]LOG]!><time="09:38:51.671+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[The MP name retrieved is 'SCCM-UIC-PS1.ad.uillinois.edu' with version '7804' and capabilities '<Capabilities SchemaVersion="1.0"><Property Name="SSLState" Value="0"/></Capabilities>']LOG]!><time="09:38:51.908+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="8688" file="lsadcache.cpp:334">
+<![LOG[MP 'SCCM-UIC-PS1.ad.uillinois.edu' is compatible]LOG]!><time="09:38:51.908+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="8688" file="lsadcache.cpp:339">
+<![LOG[The MP name retrieved is 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' with version '7804' and capabilities '<Capabilities SchemaVersion="1.0"><Property Name="SSLState" Value="0"/></Capabilities>']LOG]!><time="09:38:51.909+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="8688" file="lsadcache.cpp:334">
+<![LOG[MP 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' is compatible]LOG]!><time="09:38:51.909+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="8688" file="lsadcache.cpp:339">
+<![LOG[Refreshed security settings over AD]LOG]!><time="09:38:51.909+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="8688" file="lsad.cpp:4638">
+<![LOG[No security settings update detected.]LOG]!><time="09:38:51.911+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="8688" file="lssecurity.cpp:5070">
+<![LOG[Retrieved lookup MP [sccm-uic-ps1.ad.uillinois.edu] from Registry]LOG]!><time="09:38:51.914+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsad.cpp:2104">
+<![LOG[Attempting to retrieve lookup MP(s) from AD]LOG]!><time="09:38:51.915+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsad.cpp:2110">
+<![LOG[Lookup Management Points from AD:]LOG]!><time="09:38:51.915+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="09:38:51.915+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="09:38:51.915+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsutils.h:211">
+<![LOG[Retrieved lookup MP(s) from AD]LOG]!><time="09:38:51.915+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsad.cpp:2136">
+<![LOG[Default Management Points from AD:]LOG]!><time="09:38:51.918+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="09:38:51.918+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="09:38:51.918+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsutils.h:211">
+<![LOG[Persisting the default management points in WMI]LOG]!><time="09:38:51.918+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsad.cpp:3692">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="09:38:51.935+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsad.cpp:746">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="09:38:51.967+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="7288" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Default Management Points from MP:]LOG]!><time="09:38:51.973+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="09:38:51.973+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="09:38:51.973+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsutils.h:211">
+<![LOG[Persisted Default Management Point Locations locally]LOG]!><time="09:38:51.990+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsad.cpp:3783">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="09:38:51.994+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsad.cpp:746">
+<![LOG[Attempting to retrieve local MPs from the assigned MP]LOG]!><time="09:38:52.036+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsad.cpp:3594">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="09:38:52.039+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsad.cpp:746">
+<![LOG[Refreshing the Management Point List for site CM2]LOG]!><time="09:38:52.081+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lssecurity.cpp:848">
+<![LOG[Retrieved management point encryption info from AD.]LOG]!><time="09:38:52.095+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lssecurity.cpp:3397">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131010143852.111000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 3968;
+};
+]LOG]!><time="09:38:52.111+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="event.cpp:706">
+<![LOG[Refreshing trusted key information]LOG]!><time="09:38:52.113+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lssecurity.cpp:912">
+<![LOG[Refreshed Root Site Code from AD]LOG]!><time="09:38:52.114+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsad.cpp:4451">
+<![LOG[Attempting to refresh TRK from AD]LOG]!><time="09:38:52.114+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lssecurity.cpp:2210">
+<![LOG[Failed to get TRK from AD]LOG]!><time="09:38:52.120+300" date="10-10-2013" component="LocationServices" context="" type="2" thread="3968" file="lssecurity.cpp:2264">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131010143852.136000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 3968;
+};
+]LOG]!><time="09:38:52.136+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="event.cpp:706">
+<![LOG[Persisting the management point authentication information in WMI]LOG]!><time="09:38:52.140+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lssecurity.cpp:921">
+<![LOG[Persisted Management Point Authentication Information locally]LOG]!><time="09:38:52.145+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lssecurity.cpp:928">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="09:38:52.147+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsad.cpp:746">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="09:38:52.154+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsad.cpp:746">
+<![LOG[Updated FSP 'AHS-SC-DP0.ad.uic.edu' from AD to local.]LOG]!><time="09:38:52.162+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="3968" file="lsad.cpp:6155">
+<![LOG[Retrieved management point encryption info from AD.]LOG]!><time="09:38:52.162+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="8688" file="lssecurity.cpp:3397">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131010143852.180000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 8688;
+};
+]LOG]!><time="09:38:52.180+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="8688" file="event.cpp:706">
+<![LOG[Updating portal information.]LOG]!><time="09:38:52.193+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="8688" file="lssecurity.cpp:4103">
+<![LOG[Received reply of type PortalCertificateReply]LOG]!><time="09:38:52.220+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="4176" file="replylocationsendpoint.cpp:302">
+<![LOG[The reply from location manager contains 1 certificates]LOG]!><time="09:38:52.220+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="4176" file="lsportalutils.cpp:93">
+<![LOG[Updating portal certificates]LOG]!><time="09:38:52.220+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="4176" file="lssecurity.cpp:4143">
+<![LOG[Successfully created context from the raw certificate.]LOG]!><time="09:38:52.222+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="4176" file="lssecurity.cpp:4247">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="10:38:52.131+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="1264" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="11:38:52.055+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="7820" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="12:38:52.215+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="8208" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="13:38:52.409+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="8164" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="14:38:52.674+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="7696" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="15:38:52.451+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="5720" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="16:38:52.250+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="7180" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="17:38:52.519+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="7724" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="18:38:52.871+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="4172" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="19:38:53.143+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="6260" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="20:38:52.484+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="8108" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="21:38:52.038+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="7276" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="22:04:29.927+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="7280" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="22:04:30.031+300" date="10-10-2013" component="LocationServices" context="" type="2" thread="7280" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="22:38:51.586+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="8948" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="23:38:51.136+300" date="10-10-2013" component="LocationServices" context="" type="1" thread="8816" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="00:13:34.092+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="4128" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="00:13:34.094+300" date="10-11-2013" component="LocationServices" context="" type="2" thread="4128" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="00:38:50.685+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="7876" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="01:38:53.042+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="6748" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="02:38:53.308+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="5016" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="03:38:53.579+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="6836" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="04:38:53.845+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="724" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="05:38:53.035+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="2288" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="06:38:53.302+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="7024" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="07:38:53.571+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="9152" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="08:38:53.838+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="1284" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="09:38:54.108+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="7932" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshDefaultMPTask]LOG]!><time="10:38:52.705+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[The MP name retrieved is 'SCCM-UIC-PS1.ad.uillinois.edu' with version '7804' and capabilities '<Capabilities SchemaVersion="1.0"><Property Name="SSLState" Value="0"/></Capabilities>']LOG]!><time="10:38:53.154+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="6740" file="lsadcache.cpp:334">
+<![LOG[MP 'SCCM-UIC-PS1.ad.uillinois.edu' is compatible]LOG]!><time="10:38:53.154+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="6740" file="lsadcache.cpp:339">
+<![LOG[The MP name retrieved is 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' with version '7804' and capabilities '<Capabilities SchemaVersion="1.0"><Property Name="SSLState" Value="0"/></Capabilities>']LOG]!><time="10:38:53.154+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="6740" file="lsadcache.cpp:334">
+<![LOG[MP 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' is compatible]LOG]!><time="10:38:53.154+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="6740" file="lsadcache.cpp:339">
+<![LOG[Refreshed security settings over AD]LOG]!><time="10:38:53.155+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="6740" file="lsad.cpp:4638">
+<![LOG[No security settings update detected.]LOG]!><time="10:38:53.157+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="6740" file="lssecurity.cpp:5070">
+<![LOG[Retrieved lookup MP [sccm-uic-ps1.ad.uillinois.edu] from Registry]LOG]!><time="10:38:53.160+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsad.cpp:2104">
+<![LOG[Attempting to retrieve lookup MP(s) from AD]LOG]!><time="10:38:53.160+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsad.cpp:2110">
+<![LOG[Lookup Management Points from AD:]LOG]!><time="10:38:53.160+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="10:38:53.160+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="10:38:53.160+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsutils.h:211">
+<![LOG[Retrieved lookup MP(s) from AD]LOG]!><time="10:38:53.160+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsad.cpp:2136">
+<![LOG[Default Management Points from AD:]LOG]!><time="10:38:53.163+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="10:38:53.163+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="10:38:53.163+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsutils.h:211">
+<![LOG[Persisting the default management points in WMI]LOG]!><time="10:38:53.163+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsad.cpp:3692">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="10:38:53.184+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsad.cpp:746">
+<![LOG[Default Management Points from MP:]LOG]!><time="10:38:53.226+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="10:38:53.226+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="10:38:53.226+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsutils.h:211">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="10:38:53.229+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="9036" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Persisted Default Management Point Locations locally]LOG]!><time="10:38:53.272+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsad.cpp:3783">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="10:38:53.277+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsad.cpp:746">
+<![LOG[Attempting to retrieve local MPs from the assigned MP]LOG]!><time="10:38:53.327+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsad.cpp:3594">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="10:38:53.332+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsad.cpp:746">
+<![LOG[Refreshing the Management Point List for site CM2]LOG]!><time="10:38:53.370+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lssecurity.cpp:848">
+<![LOG[Retrieved management point encryption info from AD.]LOG]!><time="10:38:53.383+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lssecurity.cpp:3397">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131011153853.398000+000";
+	HostName = "SCCM-UIC-DP1.AD.UILLINOIS.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 8588;
+};
+]LOG]!><time="10:38:53.398+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="event.cpp:706">
+<![LOG[Refreshing trusted key information]LOG]!><time="10:38:53.399+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lssecurity.cpp:912">
+<![LOG[Refreshed Root Site Code from AD]LOG]!><time="10:38:53.401+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsad.cpp:4451">
+<![LOG[Attempting to refresh TRK from AD]LOG]!><time="10:38:53.401+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lssecurity.cpp:2210">
+<![LOG[Failed to get TRK from AD]LOG]!><time="10:38:53.407+300" date="10-11-2013" component="LocationServices" context="" type="2" thread="8588" file="lssecurity.cpp:2264">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131011153853.423000+000";
+	HostName = "SCCM-UIC-DP1.AD.UILLINOIS.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 8588;
+};
+]LOG]!><time="10:38:53.423+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="event.cpp:706">
+<![LOG[Persisting the management point authentication information in WMI]LOG]!><time="10:38:53.427+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lssecurity.cpp:921">
+<![LOG[Persisted Management Point Authentication Information locally]LOG]!><time="10:38:53.431+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lssecurity.cpp:928">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="10:38:53.434+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsad.cpp:746">
+<![LOG[Retrieved management point encryption info from AD.]LOG]!><time="10:38:53.448+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="7416" file="lssecurity.cpp:3397">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131011153853.467000+000";
+	HostName = "SCCM-UIC-DP1.AD.UILLINOIS.EDU";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 7416;
+};
+]LOG]!><time="10:38:53.467+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="7416" file="event.cpp:706">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="10:38:53.468+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsad.cpp:746">
+<![LOG[Updated FSP 'AHS-SC-DP0.ad.uic.edu' from AD to local.]LOG]!><time="10:38:53.477+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lsad.cpp:6155">
+<![LOG[Updating portal information.]LOG]!><time="10:38:53.547+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8588" file="lssecurity.cpp:4103">
+<![LOG[Received reply of type PortalCertificateReply]LOG]!><time="10:38:53.600+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="6740" file="replylocationsendpoint.cpp:302">
+<![LOG[The reply from location manager contains 1 certificates]LOG]!><time="10:38:53.601+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="6740" file="lsportalutils.cpp:93">
+<![LOG[Updating portal certificates]LOG]!><time="10:38:53.601+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="6740" file="lssecurity.cpp:4143">
+<![LOG[Successfully created context from the raw certificate.]LOG]!><time="10:38:53.603+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="6740" file="lssecurity.cpp:4247">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="10:54:10.536+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="8044" file="lsad.cpp:746">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="10:54:10.641+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="9772" file="lsad.cpp:746">
+<![LOG[Calling back with the following distribution points]LOG]!><time="10:54:10.644+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="9772" file="lsutils.cpp:353">
+<![LOG[Distribution Point='http://AHS-SC-DP0.ad.uic.edu/SMS_DP_SMSPKG$/Content_20940728-84a4-40ca-9ad0-e82975c5f354.1', Locality='LOCAL', DPType='SERVER', Version='7804', Capabilities='<Capabilities SchemaVersion="1.0"><Property Name="SSLState" Value="0"/></Capabilities>', Signature='http://AHS-SC-DP0.ad.uic.edu/SMS_DP_SMSSIG$/Content_20940728-84a4-40ca-9ad0-e82975c5f354.1.tar', ForestTrust='TRUE',]LOG]!><time="10:54:10.644+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="9772" file="lsutils.cpp:415">
+<![LOG[Distribution Point='http://AHS-SC-DP1.ad.uic.edu/SMS_DP_SMSPKG$/Content_20940728-84a4-40ca-9ad0-e82975c5f354.1', Locality='LOCAL', DPType='SERVER', Version='7804', Capabilities='<Capabilities SchemaVersion="1.0"><Property Name="SSLState" Value="0"/></Capabilities>', Signature='http://AHS-SC-DP1.ad.uic.edu/SMS_DP_SMSSIG$/Content_20940728-84a4-40ca-9ad0-e82975c5f354.1.tar', ForestTrust='TRUE',]LOG]!><time="10:54:10.644+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="9772" file="lsutils.cpp:415">
+<![LOG[Calling back with locations for location request {2DEC218B-62B3-4BE3-B84F-18B81D0F6E5A}]LOG]!><time="10:54:10.811+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="9772" file="replylocationsendpoint.cpp:219">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="11:38:53.504+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="5332" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="12:38:53.769+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="6180" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="13:38:54.040+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="7568" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="14:38:53.527+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="1844" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="15:38:53.079+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="1844" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="16:38:52.627+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="7792" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="17:38:52.178+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="7832" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="18:38:51.724+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="10120" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="19:38:51.275+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="4356" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="20:38:50.822+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="5496" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="21:38:50.373+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="5008" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="22:38:49.919+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="2288" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="23:38:53.742+300" date="10-11-2013" component="LocationServices" context="" type="1" thread="9260" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="00:11:15.698+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6884" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="00:11:15.700+300" date="10-12-2013" component="LocationServices" context="" type="2" thread="6884" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="00:38:54.226+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="7272" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="01:38:54.498+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6428" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="02:38:54.763+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="3144" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="03:38:55.032+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6424" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="04:38:55.299+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="5332" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="05:38:55.570+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="8256" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="06:38:55.836+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="7980" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="07:38:56.122+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="8400" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="08:38:55.045+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="604" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="09:38:54.760+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="8096" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="10:38:55.029+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="3588" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshDefaultMPTask]LOG]!><time="11:38:54.528+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[The MP name retrieved is 'SCCM-UIC-PS1.ad.uillinois.edu' with version '7804' and capabilities '<Capabilities SchemaVersion="1.0"><Property Name="SSLState" Value="0"/></Capabilities>']LOG]!><time="11:38:54.749+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="9600" file="lsadcache.cpp:334">
+<![LOG[MP 'SCCM-UIC-PS1.ad.uillinois.edu' is compatible]LOG]!><time="11:38:54.749+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="9600" file="lsadcache.cpp:339">
+<![LOG[The MP name retrieved is 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' with version '7804' and capabilities '<Capabilities SchemaVersion="1.0"><Property Name="SSLState" Value="0"/></Capabilities>']LOG]!><time="11:38:54.749+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="9600" file="lsadcache.cpp:334">
+<![LOG[MP 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' is compatible]LOG]!><time="11:38:54.749+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="9600" file="lsadcache.cpp:339">
+<![LOG[Refreshed security settings over AD]LOG]!><time="11:38:54.749+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="9600" file="lsad.cpp:4638">
+<![LOG[No security settings update detected.]LOG]!><time="11:38:54.752+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="9600" file="lssecurity.cpp:5070">
+<![LOG[Retrieved lookup MP [sccm-uic-ps1.ad.uillinois.edu] from Registry]LOG]!><time="11:38:54.755+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsad.cpp:2104">
+<![LOG[Attempting to retrieve lookup MP(s) from AD]LOG]!><time="11:38:54.755+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsad.cpp:2110">
+<![LOG[Lookup Management Points from AD:]LOG]!><time="11:38:54.755+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="11:38:54.755+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="11:38:54.755+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsutils.h:211">
+<![LOG[Retrieved lookup MP(s) from AD]LOG]!><time="11:38:54.755+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsad.cpp:2136">
+<![LOG[Default Management Points from AD:]LOG]!><time="11:38:54.758+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="11:38:54.758+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="11:38:54.758+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsutils.h:211">
+<![LOG[Persisting the default management points in WMI]LOG]!><time="11:38:54.758+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsad.cpp:3692">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="11:38:54.776+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsad.cpp:746">
+<![LOG[Default Management Points from MP:]LOG]!><time="11:38:54.812+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="11:38:54.812+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="11:38:54.812+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsutils.h:211">
+<![LOG[Persisted Default Management Point Locations locally]LOG]!><time="11:38:54.829+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsad.cpp:3783">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="11:38:54.833+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsad.cpp:746">
+<![LOG[Attempting to retrieve local MPs from the assigned MP]LOG]!><time="11:38:54.880+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsad.cpp:3594">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="11:38:54.883+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsad.cpp:746">
+<![LOG[Refreshing the Management Point List for site CM2]LOG]!><time="11:38:54.921+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lssecurity.cpp:848">
+<![LOG[Retrieved management point encryption info from AD.]LOG]!><time="11:38:54.934+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lssecurity.cpp:3397">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131012163854.949000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 6088;
+};
+]LOG]!><time="11:38:54.949+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="event.cpp:706">
+<![LOG[Refreshing trusted key information]LOG]!><time="11:38:54.951+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lssecurity.cpp:912">
+<![LOG[Refreshed Root Site Code from AD]LOG]!><time="11:38:54.952+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsad.cpp:4451">
+<![LOG[Attempting to refresh TRK from AD]LOG]!><time="11:38:54.952+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lssecurity.cpp:2210">
+<![LOG[Failed to get TRK from AD]LOG]!><time="11:38:54.959+300" date="10-12-2013" component="LocationServices" context="" type="2" thread="6088" file="lssecurity.cpp:2264">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131012163854.976000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 6088;
+};
+]LOG]!><time="11:38:54.976+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="event.cpp:706">
+<![LOG[Persisting the management point authentication information in WMI]LOG]!><time="11:38:54.980+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lssecurity.cpp:921">
+<![LOG[Persisted Management Point Authentication Information locally]LOG]!><time="11:38:54.984+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lssecurity.cpp:928">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="11:38:54.987+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsad.cpp:746">
+<![LOG[Retrieved management point encryption info from AD.]LOG]!><time="11:38:55.001+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="9600" file="lssecurity.cpp:3397">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="11:38:55.004+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsad.cpp:746">
+<![LOG[Updated FSP 'AHS-SC-DP0.ad.uic.edu' from AD to local.]LOG]!><time="11:38:55.012+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6088" file="lsad.cpp:6155">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131012163855.037000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 9600;
+};
+]LOG]!><time="11:38:55.037+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="9600" file="event.cpp:706">
+<![LOG[Updating portal information.]LOG]!><time="11:38:55.041+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="9908" file="lssecurity.cpp:4103">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="11:38:55.293+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="5676" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Received reply of type PortalCertificateReply]LOG]!><time="11:38:55.512+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="7268" file="replylocationsendpoint.cpp:302">
+<![LOG[The reply from location manager contains 1 certificates]LOG]!><time="11:38:55.512+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="7268" file="lsportalutils.cpp:93">
+<![LOG[Updating portal certificates]LOG]!><time="11:38:55.512+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="7268" file="lssecurity.cpp:4143">
+<![LOG[Successfully created context from the raw certificate.]LOG]!><time="11:38:55.514+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="7268" file="lssecurity.cpp:4247">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="12:38:55.823+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="2640" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="13:38:56.094+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="7756" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="14:38:56.362+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="7152" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="15:38:58.614+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6740" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="16:38:58.882+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="1600" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="17:38:58.773+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="7052" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="18:38:57.261+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="2672" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="19:38:57.535+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="9320" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="20:38:57.803+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6340" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="21:38:58.075+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="7148" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="22:03:47.344+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="4272" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="22:03:47.347+300" date="10-12-2013" component="LocationServices" context="" type="2" thread="4272" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="22:08:22.441+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="4272" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[2 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="22:08:22.443+300" date="10-12-2013" component="LocationServices" context="" type="2" thread="4272" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="22:11:04.483+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="6228" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[3 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="22:11:04.484+300" date="10-12-2013" component="LocationServices" context="" type="2" thread="6228" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="22:38:58.342+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="9016" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="23:38:58.614+300" date="10-12-2013" component="LocationServices" context="" type="1" thread="2784" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="00:10:23.903+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7872" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="00:10:23.904+300" date="10-13-2013" component="LocationServices" context="" type="2" thread="7872" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="00:38:58.882+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="9656" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="01:38:59.152+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="9348" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="02:38:59.418+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="9948" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="03:38:57.531+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="8580" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="04:38:57.076+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="10172" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="05:38:56.634+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="8752" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="06:06:27.117+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7172" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="06:06:27.119+300" date="10-13-2013" component="LocationServices" context="" type="2" thread="7172" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="06:20:12.481+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7588" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="06:20:12.482+300" date="10-13-2013" component="LocationServices" context="" type="2" thread="7588" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="06:38:56.176+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7764" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="06:45:46.186+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="3480" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="06:45:46.188+300" date="10-13-2013" component="LocationServices" context="" type="2" thread="3480" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="07:38:55.731+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="9708" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="08:38:55.280+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="9380" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="09:38:54.830+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="1680" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="10:38:54.378+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="6724" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="11:38:53.928+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7016" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshDefaultMPTask]LOG]!><time="12:38:55.121+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[The MP name retrieved is 'SCCM-UIC-PS1.ad.uillinois.edu' with version '7804' and capabilities '<Capabilities SchemaVersion="1.0"><Property Name="SSLState" Value="0"/></Capabilities>']LOG]!><time="12:38:55.360+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="4408" file="lsadcache.cpp:334">
+<![LOG[MP 'SCCM-UIC-PS1.ad.uillinois.edu' is compatible]LOG]!><time="12:38:55.360+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="4408" file="lsadcache.cpp:339">
+<![LOG[The MP name retrieved is 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' with version '7804' and capabilities '<Capabilities SchemaVersion="1.0"><Property Name="SSLState" Value="0"/></Capabilities>']LOG]!><time="12:38:55.360+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="4408" file="lsadcache.cpp:334">
+<![LOG[MP 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' is compatible]LOG]!><time="12:38:55.360+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="4408" file="lsadcache.cpp:339">
+<![LOG[Refreshed security settings over AD]LOG]!><time="12:38:55.361+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="4408" file="lsad.cpp:4638">
+<![LOG[No security settings update detected.]LOG]!><time="12:38:55.363+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="4408" file="lssecurity.cpp:5070">
+<![LOG[Retrieved lookup MP [sccm-uic-ps1.ad.uillinois.edu] from Registry]LOG]!><time="12:38:55.366+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsad.cpp:2104">
+<![LOG[Attempting to retrieve lookup MP(s) from AD]LOG]!><time="12:38:55.366+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsad.cpp:2110">
+<![LOG[Lookup Management Points from AD:]LOG]!><time="12:38:55.366+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="12:38:55.366+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="12:38:55.366+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsutils.h:211">
+<![LOG[Retrieved lookup MP(s) from AD]LOG]!><time="12:38:55.366+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsad.cpp:2136">
+<![LOG[Default Management Points from AD:]LOG]!><time="12:38:55.369+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="12:38:55.369+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'N']LOG]!><time="12:38:55.369+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsutils.h:211">
+<![LOG[Persisting the default management points in WMI]LOG]!><time="12:38:55.369+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsad.cpp:3692">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="12:38:55.387+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsad.cpp:746">
+<![LOG[Default Management Points from MP:]LOG]!><time="12:38:55.425+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsutils.h:205">
+<![LOG[Name: 'SCCM-UIC-DP1.AD.UILLINOIS.EDU' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="12:38:55.425+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsutils.h:211">
+<![LOG[Name: 'SCCM-UIC-PS1.ad.uillinois.edu' HTTPS: 'N' ForestTrust: 'Y']LOG]!><time="12:38:55.425+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsutils.h:211">
+<![LOG[Persisted Default Management Point Locations locally]LOG]!><time="12:38:55.442+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsad.cpp:3783">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="12:38:55.446+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsad.cpp:746">
+<![LOG[Attempting to retrieve local MPs from the assigned MP]LOG]!><time="12:38:55.487+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsad.cpp:3594">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="12:38:55.489+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsad.cpp:746">
+<![LOG[Refreshing the Management Point List for site CM2]LOG]!><time="12:38:55.528+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lssecurity.cpp:848">
+<![LOG[Retrieved management point encryption info from AD.]LOG]!><time="12:38:55.540+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lssecurity.cpp:3397">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131013173855.557000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 7552;
+};
+]LOG]!><time="12:38:55.557+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="event.cpp:706">
+<![LOG[Refreshing trusted key information]LOG]!><time="12:38:55.558+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lssecurity.cpp:912">
+<![LOG[Refreshed Root Site Code from AD]LOG]!><time="12:38:55.559+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsad.cpp:4451">
+<![LOG[Attempting to refresh TRK from AD]LOG]!><time="12:38:55.559+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lssecurity.cpp:2210">
+<![LOG[Failed to get TRK from AD]LOG]!><time="12:38:55.565+300" date="10-13-2013" component="LocationServices" context="" type="2" thread="7552" file="lssecurity.cpp:2264">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131013173855.581000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 7552;
+};
+]LOG]!><time="12:38:55.582+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="event.cpp:706">
+<![LOG[Persisting the management point authentication information in WMI]LOG]!><time="12:38:55.583+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lssecurity.cpp:921">
+<![LOG[Persisted Management Point Authentication Information locally]LOG]!><time="12:38:55.588+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lssecurity.cpp:928">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="12:38:55.591+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsad.cpp:746">
+<![LOG[Current AD site of machine is Default-First-Site-Name]LOG]!><time="12:38:55.597+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsad.cpp:746">
+<![LOG[Updated FSP 'AHS-SC-DP0.ad.uic.edu' from AD to local.]LOG]!><time="12:38:55.605+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7552" file="lsad.cpp:6155">
+<![LOG[Retrieved management point encryption info from AD.]LOG]!><time="12:38:55.605+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="9792" file="lssecurity.cpp:3397">
+<![LOG[Raising event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131013173855.620000+000";
+	HostName = "SCCM-UIC-PS1.ad.uillinois.edu";
+	HRESULT = "0x00000000";
+	ProcessID = 1860;
+	StatusCode = 0;
+	ThreadID = 9792;
+};
+]LOG]!><time="12:38:55.620+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="9792" file="event.cpp:706">
+<![LOG[Updating portal information.]LOG]!><time="12:38:55.632+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="9792" file="lssecurity.cpp:4103">
+<![LOG[Received reply of type PortalCertificateReply]LOG]!><time="12:38:56.069+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="10124" file="replylocationsendpoint.cpp:302">
+<![LOG[The reply from location manager contains 1 certificates]LOG]!><time="12:38:56.069+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="10124" file="lsportalutils.cpp:93">
+<![LOG[Updating portal certificates]LOG]!><time="12:38:56.069+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="10124" file="lssecurity.cpp:4143">
+<![LOG[Successfully created context from the raw certificate.]LOG]!><time="12:38:56.070+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="10124" file="lssecurity.cpp:4247">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="12:38:58.291+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="9792" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="13:38:58.569+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7756" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="14:38:58.835+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="9724" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="15:38:59.107+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="3940" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="16:38:59.372+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7544" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="17:38:59.644+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="5760" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="18:38:59.910+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="120" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="19:39:00.181+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="3196" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="20:39:00.449+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="7724" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="21:38:58.740+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="2512" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="22:38:59.007+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="8468" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="22:51:44.693+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="5732" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="22:51:44.696+300" date="10-13-2013" component="LocationServices" context="" type="2" thread="5732" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="23:38:59.293+300" date="10-13-2013" component="LocationServices" context="" type="1" thread="8908" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSSiteRoleCycleTask]LOG]!><time="00:13:32.085+300" date="10-14-2013" component="LocationServices" context="" type="1" thread="5168" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[1 assigned MP errors in the last 10 minutes, threshold is 5.]LOG]!><time="00:13:32.087+300" date="10-14-2013" component="LocationServices" context="" type="2" thread="5168" file="lsutils.cpp:3160">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="00:38:59.561+300" date="10-14-2013" component="LocationServices" context="" type="1" thread="4964" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="01:38:59.830+300" date="10-14-2013" component="LocationServices" context="" type="1" thread="9768" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="02:39:00.098+300" date="10-14-2013" component="LocationServices" context="" type="1" thread="7508" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="03:39:00.369+300" date="10-14-2013" component="LocationServices" context="" type="1" thread="9880" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="04:39:00.635+300" date="10-14-2013" component="LocationServices" context="" type="1" thread="6900" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="05:39:00.906+300" date="10-14-2013" component="LocationServices" context="" type="1" thread="7360" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="06:38:59.111+300" date="10-14-2013" component="LocationServices" context="" type="1" thread="520" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="07:38:59.454+300" date="10-14-2013" component="LocationServices" context="" type="1" thread="6340" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="08:38:59.728+300" date="10-14-2013" component="LocationServices" context="" type="1" thread="5568" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="09:39:00.001+300" date="10-14-2013" component="LocationServices" context="" type="1" thread="7748" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="10:39:00.267+300" date="10-14-2013" component="LocationServices" context="" type="1" thread="5836" file="scheduledcleanupendpoint.cpp:116">
+<![LOG[Executing Task LSRefreshLocationsTask]LOG]!><time="11:39:00.537+300" date="10-14-2013" component="LocationServices" context="" type="1" thread="2644" file="scheduledcleanupendpoint.cpp:116">

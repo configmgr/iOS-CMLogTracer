@@ -1,0 +1,26 @@
+﻿<![LOG[Policies are downloaded and evaluated for the reply of correlation guid {5B1B9EF0-2B25-4516-BA1A-5FE6550BACC5}]LOG]!><time="12:14:07.554+300" date="10-14-2013" component="PolicyAgent_PolicyEvaluator" context="" type="1" thread="1180" file="replyassignmentsendpoint.cpp:1206">
+<![LOG[Updating settings in \\ahs-od-ablas\root\ccm\policy\s_1_5_21_1454471165_2000478354_1801674531_190005\actualconfig]LOG]!><time="12:14:21.150+300" date="10-14-2013" component="PolicyAgent_PolicyEvaluator" context="" type="1" thread="9000" file="policyutil.cpp:8021">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_SettingsEvaluationComplete
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014171421.222000+000";
+	PolicyNamespace = "\\\\ahs-od-ablas\\root\\ccm\\policy\\s_1_5_21_1454471165_2000478354_1801674531_190005\\actualconfig";
+	ProcessID = 1860;
+	ThreadID = 9000;
+};
+]LOG]!><time="12:14:21.222+300" date="10-14-2013" component="PolicyAgent_PolicyEvaluator" context="" type="1" thread="9000" file="event.cpp:706">
+<![LOG[Updating settings in \\ahs-od-ablas\root\ccm\policy\machine\actualconfig]LOG]!><time="12:16:07.145+300" date="10-14-2013" component="PolicyAgent_PolicyEvaluator" context="" type="1" thread="9160" file="policyutil.cpp:8021">
+<![LOG[Settings update not required. No changes detected.]LOG]!><time="12:16:07.145+300" date="10-14-2013" component="PolicyAgent_PolicyEvaluator" context="" type="1" thread="9160" file="policyutil.cpp:8033">
+<![LOG[Raising event:
+
+instance of CCM_PolicyAgent_SettingsEvaluationComplete
+{
+	ClientID = "GUID:E3870B32-AED3-43EC-BF35-F4C55EEEEB4B";
+	DateTime = "20131014171607.147000+000";
+	PolicyNamespace = "\\\\ahs-od-ablas\\root\\ccm\\policy\\machine\\actualconfig";
+	ProcessID = 1860;
+	ThreadID = 9160;
+};
+]LOG]!><time="12:16:07.147+300" date="10-14-2013" component="PolicyAgent_PolicyEvaluator" context="" type="1" thread="9160" file="event.cpp:706">
